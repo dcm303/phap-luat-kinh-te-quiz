@@ -1,9 +1,10 @@
 # Ôn tập Pháp luật kinh tế
 
-Bản rà soát 04/10/2026, phiên bản 2026-10-04-v3.
+Bản rà soát 05/10/2026, phiên bản 2026-10-05-v4.
 
 - Chương 1: 70 câu; chương 2, 4, 5: mỗi chương 80 câu.
 - 4 đề tổng hợp, mỗi đề 40 câu, 10 câu mỗi chương.
+- Câu hỏi và lựa chọn viết như đề thi; số slide chỉ xuất hiện trong phần giải thích và căn cứ.
 - Giải thích từng phương án, phân tích đề, bẫy và trích đoạn căn cứ bài giảng.
 - Phông Segoe UI/Arial hỗ trợ tiếng Việt; toàn bộ văn bản chuẩn hóa Unicode NFC.
 - Quy tắc chọn đáp án dựa trên slide và ghi chú PowerPoint. Tình huống được biên soạn để vận dụng.

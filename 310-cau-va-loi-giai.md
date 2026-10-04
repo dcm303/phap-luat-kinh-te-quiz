@@ -1,6 +1,6 @@
 # Bộ đề ôn tập Pháp luật kinh tế
 
-310 câu • Chương 1, 2, 4, 5 • Rà soát 04/10/2026
+310 câu • Chương 1, 2, 4, 5 • Rà soát 05/10/2026
 
 Quy tắc chọn đáp án lấy từ nội dung và ghi chú có sẵn trong slide. Câu hỏi, tên và số liệu tình huống tự biên soạn. Không dùng luật từ web để bổ sung yêu cầu thi. Mỗi câu chọn một phương án phù hợp nhất. Chương 5 là hợp đồng. Phần căn cứ trích bài giảng đi kèm từng câu, phân biệt nội dung trên slide với ghi chú PowerPoint.
 
@@ -109,7 +109,7 @@ D. Nhà nước phải thay doanh nghiệp quyết mọi sản phẩm
 
 > - PLKT bảo đảm cho các tổ chức, cá nhân được bình đẳng và cạnh tranh lành mạnh trong kinh doanh; - PLKT là cơ sở pháp lý để bảo vệ lợi ích của người tiêu dùng, người lao động, lợi ích của nhà nước và lợi ích chung của toàn xã hội.
 
-## Câu 4. Slide 4 nêu nhóm căn cứ nào giải thích sự cần thiết quản lý kinh tế bằng pháp luật?
+## Câu 4. Nhóm yếu tố nào giải thích đầy đủ sự cần thiết quản lý kinh tế bằng pháp luật?
 
 *Khái niệm và sự cần thiết quản lý • Lý thuyết / vận dụng*
 
@@ -142,7 +142,7 @@ D. Vai trò hoạt động kinh tế, đặc điểm thị trường, ưu thế 
 
 > 1.1. KHÁI QUÁT VỀ PHÁP LUẬT KINH TẾ SỰ CẦN THIẾT PHẢI QUẢN LÝ NHÀ NƯỚC NỀN KINH TẾ BẰNG PHÁP LUẬT - Từ vị trí, vai trò của hoạt động kinh tế - Từ những đặc điểm, ưu và nhược điểm của KTTT - Từ những ưu thế của Nhà nước - Từ những thuộc tính khách quan của pháp luật 1.1.1. KHÁI NIỆM PHÁP LUẬT KINH TẾ Khái niệm PLKT - Phạm vi, phương pháp điều chỉnh
 
-## Câu 5. Cụm “các thuộc tính khách quan của pháp luật” tại slide 4 được đặt trong nội dung nào?
+## Câu 5. Các thuộc tính khách quan của pháp luật là căn cứ để giải thích vấn đề nào trong quản lý kinh tế?
 
 *Khái niệm và sự cần thiết quản lý • Lý thuyết / vận dụng*
 
@@ -175,7 +175,7 @@ D. Cách tính lãi vay quá hạn
 
 > 1.1. KHÁI QUÁT VỀ PHÁP LUẬT KINH TẾ SỰ CẦN THIẾT PHẢI QUẢN LÝ NHÀ NƯỚC NỀN KINH TẾ BẰNG PHÁP LUẬT - Từ vị trí, vai trò của hoạt động kinh tế - Từ những đặc điểm, ưu và nhược điểm của KTTT - Từ những ưu thế của Nhà nước - Từ những thuộc tính khách quan của pháp luật 1.1.1. KHÁI NIỆM PHÁP LUẬT KINH TẾ Khái niệm PLKT - Phạm vi, phương pháp điều chỉnh
 
-## Câu 6. Một bản định nghĩa chỉ nhắc “Nhà nước quản lý kinh tế” đã đủ hai mặt của khái niệm ở slide 5 chưa?
+## Câu 6. Một định nghĩa pháp luật kinh tế chỉ nhắc đến quan hệ Nhà nước quản lý kinh tế đã đầy đủ chưa?
 
 *Khái niệm và sự cần thiết quản lý • Lý thuyết / vận dụng*
 
@@ -208,11 +208,11 @@ D. Đủ nếu bỏ luôn quan hệ quản lý
 
 > * Khái niệm: Pháp luật kinh tế là tổng thể các QPPL điều chỉnh các QHXH phát sinh trong quá trình NN xác lập sự quản lý đối với các hoạt động kinh tế và các tổ chức, cá nhân tiến hành các hoạt động kinh doanh.
 
-## Câu 7. Trong danh mục phạm vi điều chỉnh, quan hệ về đất đai và sử dụng lao động có được slide đề cập không?
+## Câu 7. Nhận định nào đúng về quan hệ đất đai và sử dụng lao động trong phạm vi điều chỉnh của pháp luật kinh tế?
 
 *Phạm vi và phương pháp điều chỉnh • Lý thuyết / vận dụng*
 
-A. Có; cả hai được nêu trong phạm vi pháp luật kinh tế
+A. Có; cả quan hệ đất đai và sử dụng lao động đều thuộc phạm vi điều chỉnh
 
 B. Không, chỉ có mua bán hàng hóa
 
@@ -245,7 +245,7 @@ D. Chỉ lao động, tuyệt đối không có đất đai
 
 > - QH phát sinh trong tổ chức và thực hiện các giao dịch KT; - QH phát sinh trong quá trình giải quyết các tranh chấp KT; - QH phát sinh trong quá trình tạo lập, quản lý, sử dụng các quỹ tiền tệ của NN của các chủ thể khác; - QHPS trong quá trình tạo việc làm và sử dụng sức lđ; - QHPS trong quá trình sử dụng đất đai.
 
-## Câu 8. Khách thể chủ yếu của pháp luật kinh tế theo slide 9 là gì?
+## Câu 8. Khách thể chủ yếu của pháp luật kinh tế là gì?
 
 *Chủ thể và hành vi kinh doanh • Lý thuyết*
 
@@ -278,7 +278,7 @@ D. Chỉ tiền mặt đang có
 
 > 1.1.2. Đặc điểm của pháp luật kinh tế - Chủ thể quan trọng của PLKT là các chủ thể kinh doanh, trong đó chủ yếu là các DN; - Khách thể chủ yếu của PLKT là hành vi kinh doanh; Đặc điểm của hành vi kinh doanh: + Là hành vi mang tính chất độc lập, thực hiện nhân danh chính CTKD; + Là hành vi mang tính nghề nghiệp và có yếu tố thường xuyên; + Là hành vi diễn ra trên thị trường; + Là hành vi được thực hiện nhằm mục đích tìm kiếm lợi nhuận.
 
-## Câu 9. Cửa hàng không cung cấp hóa đơn, chứng từ và thông tin sản phẩm theo quy định. Quyền nào của người tiêu dùng trong slide 13 bị ảnh hưởng?
+## Câu 9. Cửa hàng không cung cấp hóa đơn, chứng từ và thông tin sản phẩm theo quy định. Quyền nào của người tiêu dùng bị ảnh hưởng trực tiếp?
 
 *Vai trò, tự do kinh doanh và bảo vệ lợi ích • Tình huống*
 
@@ -311,7 +311,7 @@ D. Quyền tự đặt mọi mức phạt
 
 > Luật Bảo vệ quyền lợi người tiêu dùng 2023 ( 01/07/2024) Được bảo đảm an toàn tính mạng, sức khoẻ, danh dự, nhân phẩm, uy tín, tài sản, bảo vệ thông tin, quyền, lợi ích hợp pháp khác khi tham gia giao dịch, sử dụng sản phẩm, hàng hóa, dịch vụ do tổ chức, cá nhân kinh doanh cung cấp. Được cung cấp hóa đơn, chứng từ, tài liệu liên quan đến giao dịch; thông tin kịp thời, chính xác, đầy đủ về sản phẩm, hàng hóa, dịch vụ. Lựa chọn sản phẩm, hàng hóa, dịch vụ, tổ chức, cá nhân kinh doanh theo nhu cầu, điều kiện thực tế của mình; quyết định tham gia hoặc không tham gia giao dịch; thỏa thuận các nội dung giao dịch với tổ chức, cá nhân kinh doanh; được cung cấp sản phẩm, hàng hóa, dịch vụ đúng với nội dung đã giao kết. Yêu cầu tổ chức, cá nhân kinh doanh bồi thường thiệt hại khi sản phẩm, hàng hóa có khuyết tật, sản phẩm, hàng hóa, dịch vụ không phù hợp tiêu chuẩn, quy chuẩn kỹ thuật, không bảo đảm an toàn, đo lường, số lượng, khối lượng, chất lượng, công dụng, giá, nội dung khác theo quy định của pháp luật hoặc không đúng với đăng ký, thông báo, công bố, niêm yết, quảng cáo, giới thiệu, giao kết, cam kết của tổ chức, cá nhân kinh doanh.
 
-## Câu 10. Người tiêu dùng từ chối giao dịch khi sản phẩm không phù hợp nhu cầu. Quyền nào được slide 13 ghi nhận?
+## Câu 10. Người tiêu dùng từ chối giao dịch vì sản phẩm không phù hợp nhu cầu. Hành vi này thể hiện quyền nào?
 
 *Vai trò, tự do kinh doanh và bảo vệ lợi ích • Tình huống*
 
@@ -344,7 +344,7 @@ D. Bắt buộc mua vì đã hỏi giá
 
 > Luật Bảo vệ quyền lợi người tiêu dùng 2023 ( 01/07/2024) Được bảo đảm an toàn tính mạng, sức khoẻ, danh dự, nhân phẩm, uy tín, tài sản, bảo vệ thông tin, quyền, lợi ích hợp pháp khác khi tham gia giao dịch, sử dụng sản phẩm, hàng hóa, dịch vụ do tổ chức, cá nhân kinh doanh cung cấp. Được cung cấp hóa đơn, chứng từ, tài liệu liên quan đến giao dịch; thông tin kịp thời, chính xác, đầy đủ về sản phẩm, hàng hóa, dịch vụ. Lựa chọn sản phẩm, hàng hóa, dịch vụ, tổ chức, cá nhân kinh doanh theo nhu cầu, điều kiện thực tế của mình; quyết định tham gia hoặc không tham gia giao dịch; thỏa thuận các nội dung giao dịch với tổ chức, cá nhân kinh doanh; được cung cấp sản phẩm, hàng hóa, dịch vụ đúng với nội dung đã giao kết. Yêu cầu tổ chức, cá nhân kinh doanh bồi thường thiệt hại khi sản phẩm, hàng hóa có khuyết tật, sản phẩm, hàng hóa, dịch vụ không phù hợp tiêu chuẩn, quy chuẩn kỹ thuật, không bảo đảm an toàn, đo lường, số lượng, khối lượng, chất lượng, công dụng, giá, nội dung khác theo quy định của pháp luật hoặc không đúng với đăng ký, thông báo, công bố, niêm yết, quảng cáo, giới thiệu, giao kết, cam kết của tổ chức, cá nhân kinh doanh.
 
-## Câu 11. Hàng giao không đúng chất lượng đã cam kết và gây thiệt hại. Slide 13 đề cập quyền nào của người tiêu dùng?
+## Câu 11. Hàng giao không đúng chất lượng cam kết và gây thiệt hại cho người tiêu dùng. Người tiêu dùng có quyền nào?
 
 *Vai trò, tự do kinh doanh và bảo vệ lợi ích • Tình huống*
 
@@ -377,7 +377,7 @@ D. Chỉ được đổi tên sản phẩm
 
 > Luật Bảo vệ quyền lợi người tiêu dùng 2023 ( 01/07/2024) Được bảo đảm an toàn tính mạng, sức khoẻ, danh dự, nhân phẩm, uy tín, tài sản, bảo vệ thông tin, quyền, lợi ích hợp pháp khác khi tham gia giao dịch, sử dụng sản phẩm, hàng hóa, dịch vụ do tổ chức, cá nhân kinh doanh cung cấp. Được cung cấp hóa đơn, chứng từ, tài liệu liên quan đến giao dịch; thông tin kịp thời, chính xác, đầy đủ về sản phẩm, hàng hóa, dịch vụ. Lựa chọn sản phẩm, hàng hóa, dịch vụ, tổ chức, cá nhân kinh doanh theo nhu cầu, điều kiện thực tế của mình; quyết định tham gia hoặc không tham gia giao dịch; thỏa thuận các nội dung giao dịch với tổ chức, cá nhân kinh doanh; được cung cấp sản phẩm, hàng hóa, dịch vụ đúng với nội dung đã giao kết. Yêu cầu tổ chức, cá nhân kinh doanh bồi thường thiệt hại khi sản phẩm, hàng hóa có khuyết tật, sản phẩm, hàng hóa, dịch vụ không phù hợp tiêu chuẩn, quy chuẩn kỹ thuật, không bảo đảm an toàn, đo lường, số lượng, khối lượng, chất lượng, công dụng, giá, nội dung khác theo quy định của pháp luật hoặc không đúng với đăng ký, thông báo, công bố, niêm yết, quảng cáo, giới thiệu, giao kết, cam kết của tổ chức, cá nhân kinh doanh.
 
-## Câu 12. Theo slide 18, nghĩa vụ nộp thuế của chủ thể kinh doanh thể hiện quan hệ với đâu?
+## Câu 12. Nghĩa vụ nộp thuế của chủ thể kinh doanh thể hiện quan hệ với đối tượng nào?
 
 *Chủ thể và hành vi kinh doanh • Phân biệt*
 
@@ -410,7 +410,7 @@ D. Ngân sách nhà nước theo pháp luật
 
 > 1.3.2. Chủ thể kinh doanh * Khái niệm: CTKD là những chủ thể thực hiện trên thực tế các hành vi kinh doanh theo quy định của pháp luật. * Đặc điểm - Có vốn đầu tư kinh doanh - Thực hiện hành vi kinh doanh - Thực hiện hạch toán kinh doanh - Thực hiện nghĩa vụ nộp thuế vào NSNN
 
-## Câu 13. Nhóm dấu hiệu nào đúng với chủ thể kinh doanh tại slide 18?
+## Câu 13. Nhóm dấu hiệu nào phản ánh đầy đủ đặc điểm của chủ thể kinh doanh?
 
 *Chủ thể và hành vi kinh doanh • Lý thuyết*
 
@@ -583,7 +583,7 @@ D. Có; bên công lập luôn được ấn định giá bất kỳ
 
 > * Phương pháp điều chỉnh của PLKT - Phương pháp mệnh lệnh - Phương pháp thỏa thuận
 
-## Câu 18. Tài liệu xếp quan hệ cạnh tranh giữa doanh nghiệp vào pháp luật kinh tế vì sao?
+## Câu 18. Vì sao quan hệ cạnh tranh giữa các doanh nghiệp thuộc phạm vi điều chỉnh của pháp luật kinh tế?
 
 *Phạm vi và phương pháp điều chỉnh • Lý thuyết*
 
@@ -616,7 +616,7 @@ D. Mọi đối thủ đều có quan hệ cấp trên, cấp dưới
 
 > * Phạm vi điều chỉnh của PLKT - Quan hệ phát sinh trong quá trình can thiệp và điều tiết của NN đối với các hoạt động KT. - QHXH phát sinh trong quá trình thành lập, tổ chức quản lý, giải thể, phá sản DN; - QH phát sinh trong quá trình thực hiện các hành vi cạnh tranh;
 
-## Câu 19. Doanh nghiệp thuê người lao động để sản xuất. Nhận định nào phù hợp với phạm vi môn học?
+## Câu 19. Doanh nghiệp thuê người lao động để sản xuất. Nhận định nào đúng về quan hệ này trong phạm vi điều chỉnh của pháp luật kinh tế?
 
 *Phạm vi và phương pháp điều chỉnh • Tình huống*
 
@@ -624,7 +624,7 @@ A. Doanh nghiệp được tự bỏ qua pháp luật lao động
 
 B. Không thuộc pháp luật kinh tế vì không có mua bán hàng hóa
 
-C. Quan hệ tạo việc làm và sử dụng lao động nằm trong phạm vi được bài giảng đề cập
+C. Quan hệ tạo việc làm và sử dụng lao động thuộc phạm vi điều chỉnh của pháp luật kinh tế
 
 D. Chỉ điều chỉnh khi người lao động là cổ đông
 
@@ -913,7 +913,7 @@ D. Thỏa thuận nội bộ công ty có thể miễn tuân thủ luật
 
 > - PLKT bảo đảm cho các tổ chức, cá nhân được bình đẳng và cạnh tranh lành mạnh trong kinh doanh; - PLKT là cơ sở pháp lý để bảo vệ lợi ích của người tiêu dùng, người lao động, lợi ích của nhà nước và lợi ích chung của toàn xã hội.
 
-## Câu 28. Quốc hội và Tòa án được slide 17 đặt trong cách hiểu nào về cơ quan quản lý kinh tế?
+## Câu 28. Xét toàn bộ hệ thống cơ quan nhà nước có vai trò quản lý kinh tế, việc bao gồm Quốc hội và Tòa án thể hiện cách hiểu nào?
 
 *Cơ quan quản lý nhà nước về kinh tế • Lý thuyết / vận dụng*
 
@@ -946,7 +946,7 @@ D. Nghĩa rộng về hệ thống cơ quan nhà nước
 
 > - Theo nghĩa rộng: Tất cả các cơ quan trong bộ mày NN đều tham gia quản lý NN về kinh tế, bao gồm: Quốc hội, TAND, Chính phủ, VKSND, HĐND, UBND… - Theo nghĩa hẹp: Chủ thể quản lý NN về kinh tế là các cơ quan hành chính NN ( có thẩm quyền trực tiếp quản lý NN về kinh tế ). + Cơ quan có thẩm quyền chung trong quản lý NN về kinh tế: Chính phủ, UBND. + Cơ quan có thẩm quyền riêng trong quản lý NN về kinh tế: Các Bộ, cơ quan ngang bộ; các Sở…
 
-## Câu 29. Theo nghĩa hẹp trong bài, chủ thể trực tiếp quản lý nhà nước về kinh tế là nhóm nào?
+## Câu 29. Theo nghĩa hẹp, nhóm cơ quan nào trực tiếp thực hiện quản lý nhà nước về kinh tế?
 
 *Cơ quan quản lý nhà nước về kinh tế • Lý thuyết*
 
@@ -979,7 +979,7 @@ D. Mọi hội nghề nghiệp
 
 > - Theo nghĩa rộng: Tất cả các cơ quan trong bộ mày NN đều tham gia quản lý NN về kinh tế, bao gồm: Quốc hội, TAND, Chính phủ, VKSND, HĐND, UBND… - Theo nghĩa hẹp: Chủ thể quản lý NN về kinh tế là các cơ quan hành chính NN ( có thẩm quyền trực tiếp quản lý NN về kinh tế ). + Cơ quan có thẩm quyền chung trong quản lý NN về kinh tế: Chính phủ, UBND. + Cơ quan có thẩm quyền riêng trong quản lý NN về kinh tế: Các Bộ, cơ quan ngang bộ; các Sở…
 
-## Câu 30. Cặp cơ quan nào có thẩm quyền chung quản lý kinh tế theo bài giảng?
+## Câu 30. Cặp cơ quan nào có thẩm quyền chung trong quản lý nhà nước về kinh tế?
 
 *Cơ quan quản lý nhà nước về kinh tế • Lý thuyết*
 
@@ -1045,7 +1045,7 @@ D. Cơ quan xét xử mọi hợp đồng
 
 > - Theo nghĩa rộng: Tất cả các cơ quan trong bộ mày NN đều tham gia quản lý NN về kinh tế, bao gồm: Quốc hội, TAND, Chính phủ, VKSND, HĐND, UBND… - Theo nghĩa hẹp: Chủ thể quản lý NN về kinh tế là các cơ quan hành chính NN ( có thẩm quyền trực tiếp quản lý NN về kinh tế ). + Cơ quan có thẩm quyền chung trong quản lý NN về kinh tế: Chính phủ, UBND. + Cơ quan có thẩm quyền riêng trong quản lý NN về kinh tế: Các Bộ, cơ quan ngang bộ; các Sở…
 
-## Câu 32. Theo phân loại thẩm quyền tại slide 17, Sở được xếp cùng nhóm nào?
+## Câu 32. Xét theo phạm vi thẩm quyền quản lý kinh tế, Sở thuộc cùng nhóm với những cơ quan nào?
 
 *Cơ quan quản lý nhà nước về kinh tế • Lý thuyết / vận dụng*
 
@@ -1210,7 +1210,7 @@ D. Chỉ sở hữu nhà ở có giá trị cao
 
 > 1.3.2. Chủ thể kinh doanh * Khái niệm: CTKD là những chủ thể thực hiện trên thực tế các hành vi kinh doanh theo quy định của pháp luật. * Đặc điểm - Có vốn đầu tư kinh doanh - Thực hiện hành vi kinh doanh - Thực hiện hạch toán kinh doanh - Thực hiện nghĩa vụ nộp thuế vào NSNN
 
-## Câu 37. Hành vi kinh doanh trong bài giảng có đặc điểm nào?
+## Câu 37. Hành vi kinh doanh có những đặc điểm cơ bản nào?
 
 *Chủ thể và hành vi kinh doanh • Lý thuyết*
 
@@ -1375,13 +1375,13 @@ D. Cơ quan cấp giấy đăng ký cho công ty
 
 > 1.1.2. Đặc điểm của pháp luật kinh tế - Chủ thể quan trọng của PLKT là các chủ thể kinh doanh, trong đó chủ yếu là các DN; - Khách thể chủ yếu của PLKT là hành vi kinh doanh; Đặc điểm của hành vi kinh doanh: + Là hành vi mang tính chất độc lập, thực hiện nhân danh chính CTKD; + Là hành vi mang tính nghề nghiệp và có yếu tố thường xuyên; + Là hành vi diễn ra trên thị trường; + Là hành vi được thực hiện nhằm mục đích tìm kiếm lợi nhuận.
 
-## Câu 42. Doanh nghiệp có vốn và hoạt động kinh doanh nhưng bỏ hạch toán. Đối chiếu slide 18, nhận định nào phù hợp?
+## Câu 42. Doanh nghiệp có vốn và thực hiện hoạt động kinh doanh nhưng bỏ hạch toán. Nhận định nào phù hợp khi xét các dấu hiệu của chủ thể kinh doanh?
 
 *Chủ thể và hành vi kinh doanh • Lý thuyết / vận dụng*
 
 A. Đủ nếu có nhiều nhân viên
 
-B. Chưa phản ánh đầy đủ bốn dấu hiệu được bài giảng nêu
+B. Chưa phản ánh đầy đủ các dấu hiệu vốn, kinh doanh, hạch toán và nghĩa vụ thuế
 
 C. Hạch toán thuộc nhóm cơ quan quản lý, không liên quan kinh doanh
 
@@ -1474,7 +1474,7 @@ D. Một chủ sở hữu
 
 > * Phân loại CTKD Căn cứ vào cơ cấu chủ sở hữu: + CTKD một chủ sở hữu + CTKD nhiều chủ sở hữu Căn cứ vào tư cách pháp lý: + CTKD có tư cách pháp nhân + CTKD không có tư cách pháp nhân Căn cứ vào phạm vi TNTS trong kinh doanh + CTKD gắn với TN vô hạn về tài sản trong kinh doanh + CTKD gắn với trách nhiệm hữu hạn về tài sản trong kinh doanh
 
-## Câu 45. Một đơn vị được mô tả “có pháp nhân, nhiều chủ, trách nhiệm hữu hạn”. Đang dùng mấy tiêu chí phân loại của slide 19?
+## Câu 45. Mô tả “có tư cách pháp nhân, nhiều chủ sở hữu, trách nhiệm hữu hạn” sử dụng bao nhiêu tiêu chí phân loại chủ thể kinh doanh?
 
 *Phân loại và trách nhiệm tài sản • Lý thuyết / vận dụng*
 
@@ -1482,7 +1482,7 @@ A. Một tiêu chí vì đều nói về vốn
 
 B. Hai tiêu chí vì pháp nhân đồng nghĩa nhiều chủ
 
-C. Không có tiêu chí nào trong slide
+C. Không có tiêu chí phân loại nào phù hợp
 
 D. Ba tiêu chí độc lập
 
@@ -1540,7 +1540,7 @@ D. Phạm vi hữu hạn hoặc vô hạn
 
 > * Phân loại CTKD Căn cứ vào cơ cấu chủ sở hữu: + CTKD một chủ sở hữu + CTKD nhiều chủ sở hữu Căn cứ vào tư cách pháp lý: + CTKD có tư cách pháp nhân + CTKD không có tư cách pháp nhân Căn cứ vào phạm vi TNTS trong kinh doanh + CTKD gắn với TN vô hạn về tài sản trong kinh doanh + CTKD gắn với trách nhiệm hữu hạn về tài sản trong kinh doanh
 
-## Câu 47. Đề đã cho một chủ thể thuộc nhóm trách nhiệm vô hạn. Cặp đối lập của nhóm này trong slide 19 là gì?
+## Câu 47. Khi phân loại theo phạm vi trách nhiệm tài sản, nhóm nào đối lập với chủ thể chịu trách nhiệm vô hạn?
 
 *Phân loại và trách nhiệm tài sản • Lý thuyết / vận dụng*
 
@@ -1573,7 +1573,7 @@ D. Kinh doanh thường xuyên
 
 > * Phân loại CTKD Căn cứ vào cơ cấu chủ sở hữu: + CTKD một chủ sở hữu + CTKD nhiều chủ sở hữu Căn cứ vào tư cách pháp lý: + CTKD có tư cách pháp nhân + CTKD không có tư cách pháp nhân Căn cứ vào phạm vi TNTS trong kinh doanh + CTKD gắn với TN vô hạn về tài sản trong kinh doanh + CTKD gắn với trách nhiệm hữu hạn về tài sản trong kinh doanh
 
-## Câu 48. Một đơn vị có một chủ sở hữu và một đơn vị có ba chủ sở hữu. Cách phân biệt trực tiếp theo slide 19 là gì?
+## Câu 48. Một đơn vị có một chủ sở hữu, đơn vị khác có ba chủ sở hữu. Sự khác biệt này trực tiếp phản ánh tiêu chí phân loại nào?
 
 *Phân loại và trách nhiệm tài sản • Lý thuyết / vận dụng*
 
@@ -1606,11 +1606,11 @@ D. Trách nhiệm: hữu hạn và vô hạn
 
 > * Phân loại CTKD Căn cứ vào cơ cấu chủ sở hữu: + CTKD một chủ sở hữu + CTKD nhiều chủ sở hữu Căn cứ vào tư cách pháp lý: + CTKD có tư cách pháp nhân + CTKD không có tư cách pháp nhân Căn cứ vào phạm vi TNTS trong kinh doanh + CTKD gắn với TN vô hạn về tài sản trong kinh doanh + CTKD gắn với trách nhiệm hữu hạn về tài sản trong kinh doanh
 
-## Câu 49. Nhận định “biết số chủ thì biết ngay tư cách pháp lý và phạm vi trách nhiệm” phù hợp cách trình bày slide 19 không?
+## Câu 49. Nhận định “chỉ cần biết số chủ sở hữu là xác định được ngay tư cách pháp nhân và phạm vi trách nhiệm tài sản” có chính xác không?
 
 *Phân loại và trách nhiệm tài sản • Lý thuyết / vận dụng*
 
-A. Không; slide tách thành ba tiêu chí phân loại
+A. Không; cơ cấu chủ sở hữu, tư cách pháp nhân và trách nhiệm tài sản là ba tiêu chí khác nhau
 
 B. Có; pháp nhân và số chủ là cùng thuật ngữ
 
@@ -1672,7 +1672,7 @@ D. Hình thức thể hiện các quy tắc điều chỉnh quan hệ kinh tế
 
 > 1.4. NGUỒN PHÁP LUẬT KINH TẾ 1.4.1. Khái niệm nguồn pháp luật kinh tế Nguồn PLKT là cách thức thể hiện các quy tắc pháp lý nhằm điều chỉnh những QHXH phát sinh trong quá trình NN xác lập sự quản lý đối với các hoạt động kinh tế cũng như các tổ chức hay cá nhân tiến hành các hoạt động kinh doanh.
 
-## Câu 51. Bộ nguồn nào đúng với nội dung trong nước của slide?
+## Câu 51. Nhóm nào gồm các nguồn của pháp luật kinh tế trong nước?
 
 *Nguồn luật và nguyên tắc áp dụng • Lý thuyết*
 
@@ -1705,7 +1705,7 @@ D. Chỉ thông báo khuyến mại
 
 > 1.4.2. Nguồn PLKT của nước CHXHCNVN - Các loại nguồn + Văn bản QPPL + Tập quán pháp + Án lệ - Nguyên tắc áp dụng: + Nguyên tắc áp dụng văn bản QPPL + Nguyên tắc áp dụng luật chung, luật riêng
 
-## Câu 52. “Tập quán pháp” được đặt trong nhóm nội dung nào ở slide 22?
+## Câu 52. Tập quán pháp được xác định là loại nội dung nào trong pháp luật kinh tế?
 
 *Nguồn luật và nguyên tắc áp dụng • Lý thuyết / vận dụng*
 
@@ -1738,7 +1738,7 @@ D. Nguồn của pháp luật kinh tế trong nước
 
 > 1.4.2. Nguồn PLKT của nước CHXHCNVN - Các loại nguồn + Văn bản QPPL + Tập quán pháp + Án lệ - Nguyên tắc áp dụng: + Nguyên tắc áp dụng văn bản QPPL + Nguyên tắc áp dụng luật chung, luật riêng
 
-## Câu 53. Slide 22 giới thiệu việc áp dụng văn bản quy phạm pháp luật ở nhóm nội dung nào?
+## Câu 53. Việc lựa chọn và sử dụng văn bản quy phạm pháp luật để giải quyết một quan hệ kinh tế thuộc vấn đề nào?
 
 *Nguồn luật và nguyên tắc áp dụng • Phân biệt*
 
@@ -1771,7 +1771,7 @@ D. Cơ cấu chủ sở hữu
 
 > 1.4.2. Nguồn PLKT của nước CHXHCNVN - Các loại nguồn + Văn bản QPPL + Tập quán pháp + Án lệ - Nguyên tắc áp dụng: + Nguyên tắc áp dụng văn bản QPPL + Nguyên tắc áp dụng luật chung, luật riêng
 
-## Câu 54. Trong hai mục nguyên tắc áp dụng ở slide 22, mục nào đi cùng nguyên tắc áp dụng văn bản QPPL?
+## Câu 54. Khi một quan hệ kinh tế liên quan đồng thời đến luật chung và luật riêng, cần xem xét nhóm nguyên tắc nào?
 
 *Nguồn luật và nguyên tắc áp dụng • Phân biệt*
 
@@ -1804,7 +1804,7 @@ D. Nguyên tắc áp dụng luật chung, luật riêng
 
 > 1.4.2. Nguồn PLKT của nước CHXHCNVN - Các loại nguồn + Văn bản QPPL + Tập quán pháp + Án lệ - Nguyên tắc áp dụng: + Nguyên tắc áp dụng văn bản QPPL + Nguyên tắc áp dụng luật chung, luật riêng
 
-## Câu 55. Cửa hàng làm lộ thông tin của khách trong giao dịch. Theo nhóm quyền slide 13, nội dung nào cần được bảo vệ?
+## Câu 55. Cửa hàng làm lộ thông tin của khách hàng trong giao dịch. Nội dung nào thuộc quyền lợi người tiêu dùng cần được bảo vệ?
 
 *Vai trò, tự do kinh doanh và bảo vệ lợi ích • Tình huống / phân biệt*
 
@@ -1837,7 +1837,7 @@ D. Chỉ quyền nhận hóa đơn, bỏ qua thông tin
 
 > Luật Bảo vệ quyền lợi người tiêu dùng 2023 ( 01/07/2024) Được bảo đảm an toàn tính mạng, sức khoẻ, danh dự, nhân phẩm, uy tín, tài sản, bảo vệ thông tin, quyền, lợi ích hợp pháp khác khi tham gia giao dịch, sử dụng sản phẩm, hàng hóa, dịch vụ do tổ chức, cá nhân kinh doanh cung cấp. Được cung cấp hóa đơn, chứng từ, tài liệu liên quan đến giao dịch; thông tin kịp thời, chính xác, đầy đủ về sản phẩm, hàng hóa, dịch vụ. Lựa chọn sản phẩm, hàng hóa, dịch vụ, tổ chức, cá nhân kinh doanh theo nhu cầu, điều kiện thực tế của mình; quyết định tham gia hoặc không tham gia giao dịch; thỏa thuận các nội dung giao dịch với tổ chức, cá nhân kinh doanh; được cung cấp sản phẩm, hàng hóa, dịch vụ đúng với nội dung đã giao kết. Yêu cầu tổ chức, cá nhân kinh doanh bồi thường thiệt hại khi sản phẩm, hàng hóa có khuyết tật, sản phẩm, hàng hóa, dịch vụ không phù hợp tiêu chuẩn, quy chuẩn kỹ thuật, không bảo đảm an toàn, đo lường, số lượng, khối lượng, chất lượng, công dụng, giá, nội dung khác theo quy định của pháp luật hoặc không đúng với đăng ký, thông báo, công bố, niêm yết, quảng cáo, giới thiệu, giao kết, cam kết của tổ chức, cá nhân kinh doanh.
 
-## Câu 56. Slide 22 đặt “luật chung và luật riêng” trong nội dung nào?
+## Câu 56. Mối quan hệ giữa luật chung và luật riêng cần được xem xét trong vấn đề nào của pháp luật kinh tế?
 
 *Nguồn luật và nguyên tắc áp dụng • Lý thuyết / vận dụng*
 
@@ -1870,7 +1870,7 @@ D. Các biện pháp bảo đảm hợp đồng
 
 > 1.4.2. Nguồn PLKT của nước CHXHCNVN - Các loại nguồn + Văn bản QPPL + Tập quán pháp + Án lệ - Nguyên tắc áp dụng: + Nguyên tắc áp dụng văn bản QPPL + Nguyên tắc áp dụng luật chung, luật riêng
 
-## Câu 57. Nhà nước và một chủ thể khác tổ chức tạo lập, quản lý, sử dụng quỹ tiền tệ. Theo slide 7, phạm vi PLKT có đề cập nhóm này không?
+## Câu 57. Nhận định nào đúng về phạm vi điều chỉnh đối với việc tạo lập, quản lý và sử dụng quỹ tiền tệ của Nhà nước và các chủ thể khác?
 
 *Phạm vi và phương pháp điều chỉnh • Tình huống / phân biệt*
 
@@ -1880,7 +1880,7 @@ B. Chỉ quỹ Nhà nước, tuyệt đối không quỹ chủ thể khác
 
 C. Chỉ quỹ tư nhân, tuyệt đối không quỹ Nhà nước
 
-D. Có, quỹ của Nhà nước và các chủ thể khác đều được nêu
+D. Có, việc tạo lập, quản lý và sử dụng quỹ của cả hai nhóm chủ thể đều thuộc phạm vi điều chỉnh
 
 **Đáp án: D**
 
@@ -1903,7 +1903,7 @@ D. Có, quỹ của Nhà nước và các chủ thể khác đều được nêu
 
 > - QH phát sinh trong tổ chức và thực hiện các giao dịch KT; - QH phát sinh trong quá trình giải quyết các tranh chấp KT; - QH phát sinh trong quá trình tạo lập, quản lý, sử dụng các quỹ tiền tệ của NN của các chủ thể khác; - QHPS trong quá trình tạo việc làm và sử dụng sức lđ; - QHPS trong quá trình sử dụng đất đai.
 
-## Câu 58. Khái niệm “nguồn pháp luật” ở slide 21 nhấn mạnh điều gì?
+## Câu 58. Khái niệm “nguồn pháp luật” nhấn mạnh phương diện nào của các quy phạm pháp luật?
 
 *Nguồn luật và nguyên tắc áp dụng • Lý thuyết / vận dụng*
 
@@ -1936,7 +1936,7 @@ D. Danh sách chủ nợ tham gia hội nghị
 
 > 1.4. NGUỒN PHÁP LUẬT KINH TẾ 1.4.1. Khái niệm nguồn pháp luật kinh tế Nguồn PLKT là cách thức thể hiện các quy tắc pháp lý nhằm điều chỉnh những QHXH phát sinh trong quá trình NN xác lập sự quản lý đối với các hoạt động kinh tế cũng như các tổ chức hay cá nhân tiến hành các hoạt động kinh doanh.
 
-## Câu 59. Quy định về điều kiện, thủ tục gia nhập thị trường và cơ cấu quản lý được slide 14 đặt trong nhóm nội dung nào?
+## Câu 59. Quy định về điều kiện gia nhập thị trường, thủ tục thành lập và cơ cấu quản lý doanh nghiệp thuộc nhóm nội dung nào?
 
 *Vai trò, tự do kinh doanh và bảo vệ lợi ích • Tình huống / phân biệt*
 
@@ -1969,7 +1969,7 @@ D. Chỉ nguyên tắc chọn luật nước ngoài
 
 > 1.2. NỘI DUNG CHỦ YẾU CỦA PLKT * PLKT bao gồm các quy định về quy chế pháp lý đối với các chủ thể kinh doanh; - PLKT quy định điều kiện và thủ tục gia nhập thị trường của các tổ chức, cá nhân; quyền và nghĩa vụ của họ trong kinh doanh. PLKT quy định về các loài hình CTKD. PLKT quy định về cơ cấu tổ chức quản lý của CTKD. PLKT quy định về quyền và nghĩa vụ của CTKD PLKT quy định về việc tổ chức lại DN, HTX. PLKT quy định về việc giải thể, phá sản DN, HTX
 
-## Câu 60. Hệ thuộc luật nhân thân trong slide 24 được minh họa bằng cặp nào?
+## Câu 60. Cặp yếu tố nào được sử dụng trong hệ thuộc luật nhân thân?
 
 *Quan hệ kinh tế có yếu tố nước ngoài • Lý thuyết / vận dụng*
 
@@ -2002,7 +2002,7 @@ D. Luật nơi vi phạm và mức thuế
 
 > Các nguồn luật quốc gia chủ yếu được áp dụng trong lĩnh vực KTQT: - Luật nhân thân (luật quốc tịch, luật nơi cư trú) - Luật nơi có tài sản - Luật toà án - Luật nơi thực hiện hành vi - Luật do các bên lựa chọn - Luật nước người bán - Luật nơi vi phạm pháp luật
 
-## Câu 61. Điều ước quốc tế và tập quán thương mại quốc tế thuộc nhóm nào trong slide 23?
+## Câu 61. Điều ước quốc tế và tập quán thương mại quốc tế thuộc nhóm nguồn pháp luật nào?
 
 *Quan hệ kinh tế có yếu tố nước ngoài • Lý thuyết / vận dụng*
 
@@ -2035,7 +2035,7 @@ D. Chỉ các dấu hiệu chủ thể kinh doanh
 
 > 1.4.3. Nguồn pháp luật áp dụng trong lĩnh vực kinh tế có yếu tố nước ngoài + Điều ước quốc tế + Tập quán thương mại quốc tế + Các nguồn luật quốc gia + Án lệ - Nguyên tắc áp dụng
 
-## Câu 62. Bộ nguồn nào được slide nêu cho lĩnh vực kinh tế có yếu tố nước ngoài?
+## Câu 62. Nhóm nào gồm các nguồn pháp luật áp dụng trong lĩnh vực kinh tế có yếu tố nước ngoài?
 
 *Quan hệ kinh tế có yếu tố nước ngoài • Lý thuyết*
 
@@ -2068,7 +2068,7 @@ D. Chỉ nội quy của người bán
 
 > 1.4.3. Nguồn pháp luật áp dụng trong lĩnh vực kinh tế có yếu tố nước ngoài + Điều ước quốc tế + Tập quán thương mại quốc tế + Các nguồn luật quốc gia + Án lệ - Nguyên tắc áp dụng
 
-## Câu 63. Các bên thống nhất chọn một hệ thống pháp luật để điều chỉnh giao dịch. Tên hệ thuộc tương ứng được slide 24 nêu là gì?
+## Câu 63. Các bên thống nhất chọn một hệ thống pháp luật để điều chỉnh giao dịch. Hệ thuộc luật tương ứng được gọi là gì?
 
 *Quan hệ kinh tế có yếu tố nước ngoài • Lý thuyết / vận dụng*
 
@@ -2167,7 +2167,7 @@ D. Nước gắn với người bán
 
 > Các nguồn luật quốc gia chủ yếu được áp dụng trong lĩnh vực KTQT: - Luật nhân thân (luật quốc tịch, luật nơi cư trú) - Luật nơi có tài sản - Luật toà án - Luật nơi thực hiện hành vi - Luật do các bên lựa chọn - Luật nước người bán - Luật nơi vi phạm pháp luật
 
-## Câu 66. Tranh chấp được nối với hệ thống pháp luật qua nơi có Tòa án. Đây là hệ thuộc nào trong slide?
+## Câu 66. Hệ thống pháp luật được xác định dựa trên địa điểm của Tòa án giải quyết tranh chấp. Đây là hệ thuộc luật nào?
 
 *Quan hệ kinh tế có yếu tố nước ngoài • Lý thuyết / vận dụng*
 
@@ -2200,7 +2200,7 @@ D. Luật quốc tịch
 
 > Các nguồn luật quốc gia chủ yếu được áp dụng trong lĩnh vực KTQT: - Luật nhân thân (luật quốc tịch, luật nơi cư trú) - Luật nơi có tài sản - Luật toà án - Luật nơi thực hiện hành vi - Luật do các bên lựa chọn - Luật nước người bán - Luật nơi vi phạm pháp luật
 
-## Câu 67. Slide 25 giới thiệu những nhóm nguyên tắc áp dụng nguồn nào?
+## Câu 67. Khi xác định pháp luật áp dụng cho quan hệ kinh tế quốc tế, cần xem xét các nhóm nguyên tắc về những nguồn nào?
 
 *Quan hệ kinh tế có yếu tố nước ngoài • Lý thuyết / vận dụng*
 
@@ -2299,15 +2299,15 @@ D. Giữ nguyên vì tư pháp không bảo vệ hợp đồng
 
 > - Theo nghĩa rộng: Tất cả các cơ quan trong bộ mày NN đều tham gia quản lý NN về kinh tế, bao gồm: Quốc hội, TAND, Chính phủ, VKSND, HĐND, UBND… - Theo nghĩa hẹp: Chủ thể quản lý NN về kinh tế là các cơ quan hành chính NN ( có thẩm quyền trực tiếp quản lý NN về kinh tế ). + Cơ quan có thẩm quyền chung trong quản lý NN về kinh tế: Chính phủ, UBND. + Cơ quan có thẩm quyền riêng trong quản lý NN về kinh tế: Các Bộ, cơ quan ngang bộ; các Sở…
 
-## Câu 70. Nơi thực hiện hành vi và nơi vi phạm có được slide 24 nêu như các hệ thuộc luật riêng không?
+## Câu 70. Nơi thực hiện hành vi và nơi xảy ra vi phạm có thể được dùng như những yếu tố nối riêng để xác định hệ thuộc luật không?
 
 *Quan hệ kinh tế có yếu tố nước ngoài • Lý thuyết / vận dụng*
 
-A. Không, slide chỉ có luật quốc tịch
+A. Không, chỉ quốc tịch mới có thể làm yếu tố nối
 
 B. Chỉ nơi vi phạm, không có nơi thực hiện hành vi
 
-C. Có; cả hai được liệt kê trong danh sách hệ thuộc
+C. Có; mỗi địa điểm có thể tạo thành một hệ thuộc luật riêng
 
 D. Chỉ nơi thực hiện hành vi, không có nơi vi phạm
 
@@ -2334,7 +2334,7 @@ D. Chỉ nơi thực hiện hành vi, không có nơi vi phạm
 
 # Chương 2. Pháp luật về doanh nghiệp
 
-## Câu 1. Slide 21 giới thiệu công ty theo hai nhóm tên gọi nào?
+## Câu 1. Dựa vào tính chất liên kết giữa các thành viên, công ty được chia thành hai nhóm cơ bản nào?
 
 *Doanh nghiệp, tên và đăng ký • Lý thuyết / vận dụng*
 
@@ -2404,7 +2404,7 @@ D. Họ giám đốc và số lao động
 
 *Doanh nghiệp, tên và đăng ký • Tình huống*
 
-A. Có thể bị coi là tên gây nhầm lẫn theo slide 7
+A. Có thể bị coi là tên gây nhầm lẫn
 
 B. Chắc chắn hợp lệ vì không viết hoàn toàn giống
 
@@ -2433,7 +2433,7 @@ D. Chỉ cần chữ viết hoa khác nhau là được
 
 > đ) Tên riêng của doanh nghiệp đề nghị đăng ký chỉ khác với tên riêng của doanh nghiệp cùng loại đã đăng ký bởi một ký hiệu “&” hoặc “và”, “.”, “,”, “+”, “-”, “_”; e) Tên riêng của doanh nghiệp đề nghị đăng ký chỉ khác với tên riêng của doanh nghiệp cùng loại đã đăng ký bởi từ “tân” ngay trước hoặc từ “mới” được viết liền hoặc cách ngay sau hoặc trước tên riêng của doanh nghiệp đã đăng ký; g) Tên riêng của doanh nghiệp đề nghị đăng ký chỉ khác với tên riêng của doanh nghiệp cùng loại đã đăng ký bởi một cụm từ “miền Bắc”, “miền Nam”, “miền Trung”, “miền Tây”, “miền Đông”; h) Tên riêng của doanh nghiệp trùng với tên riêng của doanh nghiệp đã đăng ký.
 
-## Câu 4. Một tổ chức có tên riêng, tài sản, trụ sở và được thành lập theo pháp luật nhằm kinh doanh. Theo slide 2, đây là khái niệm gì?
+## Câu 4. Tổ chức có tên riêng, tài sản, trụ sở giao dịch và được thành lập theo pháp luật nhằm mục đích kinh doanh được gọi là gì?
 
 *Doanh nghiệp, tên và đăng ký • Lý thuyết / vận dụng*
 
@@ -2569,7 +2569,7 @@ D. Mọi TNHH đều cấm có hai đại diện
 
 > e. Người đại diện theo pháp luật của DN - Người đại diện theo pháp luật của DN là cá nhân đại diện cho DN thực hiện các quyền và nghĩa vụ phát sinh từ giao dịch của DN, đại diện cho DN với tư cách người yêu cầu giải quyết việc dân sự, nguyên đơn, bị đơn, người có quyền lợi, nghĩa vụ liên quan trước Trọng tài, Tòa án và các quyền, nghĩa vụ khác theo quy định của pháp luật. - Công ty TNHH và CTCP có thể có một hoặc nhiều người đại diện theo pháp luật. - DN phải bảo đảm luôn có ít nhất một người đại diện theo pháp luật cư trú tại Việt Nam.
 
-## Câu 8. Người đại diện theo pháp luật vi phạm nghĩa vụ và gây thiệt hại cho doanh nghiệp. Slide 20 nêu trách nhiệm nào?
+## Câu 8. Người đại diện theo pháp luật vi phạm nghĩa vụ và gây thiệt hại cho doanh nghiệp. Người này phải chịu trách nhiệm nào?
 
 *Thành lập, góp vốn và đại diện • Lý thuyết / vận dụng*
 
@@ -2602,7 +2602,7 @@ D. Mọi thiệt hại đều do khách hàng chịu
 
 > Người đại diện theo pháp luật của doanh nghiệp chịu trách nhiệm cá nhân theo quy định của pháp luật đối với thiệt hại cho doanh nghiệp do vi phạm trách nhiệm quy định tại khoản 1 Điều này.
 
-## Câu 9. Theo danh mục tài sản thanh toán mua cổ phần, trái phiếu tại slide 63, nhóm nào được nêu?
+## Câu 9. Ngoài tiền và vàng, nhóm tài sản nào có thể được sử dụng để thanh toán mua cổ phần, trái phiếu?
 
 *Tài sản thanh toán và bài tập vốn • Lý thuyết*
 
@@ -2635,7 +2635,7 @@ D. Chỉ vàng vật chất
 
 > * Mua cổ phần, trái phiếu Cổ phần, trái phiếu của công ty cổ phần có thể được mua bằng Đồng Việt Nam, ngoại tệ tự do chuyển đổi, vàng, quyền sử dụng đất, quyền sở hữu trí tuệ, công nghệ, bí quyết kỹ thuật, tài sản khác quy định tại Điều lệ công ty và phải được thanh toán đủ một lần.
 
-## Câu 10. TNHH hai thành viên cam kết góp tài sản phải vận chuyển và làm thủ tục chuyển quyền. Theo slide 26, các thời gian này được xử lý thế nào trong hạn 90 ngày?
+## Câu 10. Thành viên công ty TNHH hai thành viên trở lên góp tài sản cần vận chuyển, nhập khẩu và làm thủ tục chuyển quyền sở hữu. Những thời gian này được xử lý thế nào khi tính hạn góp vốn 90 ngày?
 
 *Tài sản thanh toán và bài tập vốn • Lý thuyết / vận dụng*
 
@@ -2668,7 +2668,7 @@ D. Luôn tính toàn bộ như góp tiền mặt
 
 > * Vốn điều lệ - Vốn điều lệ của CTTNHH hai thành viên trở lên khi đăng ký thành lập DN là tổng giá trị phần vốn góp của các thành viên cam kết góp và ghi trong Điều lệ công ty. - Thành viên phải góp vốn cho công ty đủ và đúng loại tài sản đã cam kết khi đăng ký thành lập doanh nghiệp trong thời hạn 90 ngày kể từ ngày được cấp Giấy CNĐKDN, không kể thời gian vận chuyển, nhập khẩu tài sản góp vốn, thực hiện thủ tục hành chính để chuyển quyền sở hữu tài sản. Trong thời hạn này, thành viên có các quyền và nghĩa vụ tương ứng với tỷ lệ phần vốn góp đã cam kết. Thành viên công ty chỉ được góp vốn cho công ty bằng loại tài sản khác với tài sản đã cam kết nếu được sự tán thành của trên 50% số thành viên còn lại.
 
-## Câu 11. Theo dữ kiện bài tập slide 117: cam kết đất 2 tỷ, xe 2 tỷ, tiền 3 tỷ; tiền thực góp chỉ 1 tỷ, đất và xe đã góp đủ. Tổng cam kết và thực góp là bao nhiêu?
+## Câu 11. Ba thành viên cam kết góp đất 2 tỷ, xe 2 tỷ và tiền 3 tỷ. Đất và xe đã góp đủ, tiền mới góp 1 tỷ. Tổng vốn cam kết và tổng vốn thực góp lần lượt là bao nhiêu?
 
 *Tài sản thanh toán và bài tập vốn • Lý thuyết / vận dụng*
 
@@ -2997,7 +2997,7 @@ A. Luôn chỉ xét phần thực góp cho mọi nghĩa vụ
 
 B. Phải chịu vô hạn trong mọi trường hợp TNHH
 
-C. Phải xét trách nhiệm theo phần vốn cam kết theo slide 28
+C. Xét trách nhiệm tương ứng phần vốn đã cam kết đối với nghĩa vụ phát sinh trước điều chỉnh
 
 D. Không có trách nhiệm vì chưa góp đủ
 
@@ -3088,7 +3088,7 @@ D. 3 năm và chỉ cần giám đốc đồng ý
 
 > Trong thời hạn 15 ngày kể từ ngày nhận được yêu cầu của thành viên, thì công ty phải mua lại phần vốn góp của thành viên đó theo giá thị trường hoặc giá được xác định theo nguyên tắc quy định tại Điều lệ công ty, trừ trường hợp hai bên thỏa thuận được về giá. Việc thanh toán chỉ được thực hiện nếu sau khi thanh toán đủ phần vốn góp được mua lại, công ty vẫn thanh toán đủ các khoản nợ và nghĩa vụ tài sản khác. Trường hợp công ty không thanh toán được phần vốn góp được yêu cầu mua lại theo quy định thì thành viên đó có quyền tự do chuyển nhượng phần vốn góp của mình cho thành viên khác hoặc người không phải là thành viên công ty.
 
-## Câu 23. Công ty TNHH không thanh toán được phần vốn phải mua lại theo slide 30. Thành viên được làm gì theo luật?
+## Câu 23. Công ty TNHH hai thành viên trở lên không thanh toán được phần vốn phải mua lại theo yêu cầu hợp lệ. Thành viên yêu cầu mua lại có quyền làm gì?
 
 *TNHH hai thành viên: mua lại và chuyển nhượng • Tình huống*
 
@@ -3319,7 +3319,7 @@ D. Tổ chức theo TNHH MTV và đăng ký thay đổi trong 15 ngày từ hoà
 
 > + Thành viên chuyển nhượng vẫn có các quyền và nghĩa vụ đối với công ty tương ứng với phần vốn góp có liên quan cho đến khi thông tin về người mua được ghi đầy đủ vào sổ đăng ký thành viên. + Trường hợp chuyển nhượng hoặc thay đổi phần vốn góp của các thành viên dẫn đến chỉ còn một thành viên công ty thì công ty phải tổ chức quản lý theo loại hình CTTNHH một thành viên và thực hiện đăng ký thay đổi nội dung đăng ký doanh nghiệp trong thời hạn 15 ngày kể từ ngày hoàn thành việc chuyển nhượng.
 
-## Câu 30. Slide 24 nêu Hội đồng nào trong sơ đồ quản lý công ty TNHH hai thành viên trở lên?
+## Câu 30. Cơ cấu quản lý công ty TNHH hai thành viên trở lên có Hội đồng nào?
 
 *TNHH hai thành viên: quản trị, vốn và lợi nhuận • Lý thuyết*
 
@@ -3352,11 +3352,11 @@ D. Hội đồng thành viên
 
 > b. Cơ cấu tổ chức quản lý Cơ cấu tổ chức quản lý Hội đồng thành viên/ Chủ tịch HĐTV GIÁM ĐỐC/ TỔNG GIÁM ĐỐC
 
-## Câu 31. Slide 14 và 17 nêu ngoại lệ khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số khi đề cập hạn chế cán bộ, công chức, viên chức. Cách học nào đúng phạm vi bài?
+## Câu 31. Khi xem xét hạn chế cán bộ, công chức, viên chức thành lập, quản lý doanh nghiệp hoặc góp vốn, nhận định nào đúng nếu có ngoại lệ theo pháp luật về khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số?
 
 *Thành lập, góp vốn và đại diện • Tình huống / phân biệt*
 
-A. Đọc hạn chế cùng ngoại lệ được slide dẫn, không khẳng định cấm mọi trường hợp
+A. Phải xét đồng thời hạn chế chung và ngoại lệ luật định, không tuyệt đối hóa thành cấm mọi trường hợp
 
 B. Quyền thành lập và góp vốn luôn là một quyền giống nhau
 
@@ -3554,7 +3554,7 @@ D. Chỉ một nhân viên bất kỳ, không có chức danh quản trị
 
 > b. Cơ cấu tổ chức quản lý Cơ cấu tổ chức quản lý Cá nhân là chủ sở hữu Tổ chức là chủ sở hữu Chủ tịch công ty Hội đồng thành viên Giám đốc/ Tổng giám đốc Chủ tịch công ty Giám đốc/ Tổng giám đốc Giám đốc/ Tổng giám đốc
 
-## Câu 37. TNHH MTV chưa góp đủ vốn đúng hạn. Theo slide 44, phải đăng ký thay đổi vốn theo thực góp trong thời hạn nào từ hết hạn góp?
+## Câu 37. Chủ công ty TNHH một thành viên chưa góp đủ vốn đúng hạn. Trong bao lâu kể từ ngày cuối cùng phải góp đủ, công ty phải đăng ký điều chỉnh vốn theo số thực góp?
 
 *Công ty TNHH một thành viên • Lý thuyết / vận dụng*
 
@@ -3785,7 +3785,7 @@ D. Cổ phần ưu đãi cổ tức
 
 > * Các loại cổ phần CTCP phải có cổ phần phổ thông. Người sở hữu cổ phần phổ thông là cổ đông phổ thông. Ngoài cổ phần phổ thông, CTCP có thể có cổ phần ưu đãi. Người sở hữu cổ phần ưu đãi gọi là cổ đông ưu đãi. Cổ phần ưu đãi gồm các loại sau đây: Cổ phần ưu đãi cổ tức; Cổ phần ưu đãi hoàn lại; Cổ phần ưu đãi biểu quyết; Cổ phần ưu đãi khác theo quy định tại Điều lệ công ty và pháp luật về chứng khoán.
 
-## Câu 44. Ngoài cổ phần phổ thông bắt buộc, slide 57 liệt kê những nhóm ưu đãi nào?
+## Câu 44. Ngoài cổ phần phổ thông bắt buộc, công ty cổ phần có thể có những nhóm cổ phần ưu đãi nào?
 
 *CTCP: vốn, loại cổ phần và cổ tức • Lý thuyết / vận dụng*
 
@@ -3818,7 +3818,7 @@ D. Chỉ trái phiếu có tên cổ phần
 
 > * Các loại cổ phần CTCP phải có cổ phần phổ thông. Người sở hữu cổ phần phổ thông là cổ đông phổ thông. Ngoài cổ phần phổ thông, CTCP có thể có cổ phần ưu đãi. Người sở hữu cổ phần ưu đãi gọi là cổ đông ưu đãi. Cổ phần ưu đãi gồm các loại sau đây: Cổ phần ưu đãi cổ tức; Cổ phần ưu đãi hoàn lại; Cổ phần ưu đãi biểu quyết; Cổ phần ưu đãi khác theo quy định tại Điều lệ công ty và pháp luật về chứng khoán.
 
-## Câu 45. CTCP có 120.000 cổ phần đã bán, mệnh giá 10.000 đồng. Theo công thức ở slide 55, vốn điều lệ tương ứng là bao nhiêu?
+## Câu 45. Công ty cổ phần có 120.000 cổ phần đã bán, mệnh giá 10.000 đồng/cổ phần. Vốn điều lệ tương ứng là bao nhiêu?
 
 *CTCP: vốn, loại cổ phần và cổ tức • Lý thuyết / vận dụng*
 
@@ -3851,7 +3851,7 @@ D. 12 tỷ đồng
 
 > * Vốn điều lệ VĐL của công ty cổ phần là tổng mệnh giá cổ phần các loại đã bán. Vốn điều lệ của công ty cổ phần khi đăng ký thành lập doanh nghiệp là tổng mệnh giá cổ phần các loại đã được đăng ký mua và được ghi trong Điều lệ công ty.
 
-## Câu 46. Cổ tức được slide 69 định nghĩa bằng nhóm nội dung nào?
+## Câu 46. Cổ tức được hiểu là khoản nào?
 
 *CTCP: vốn, loại cổ phần và cổ tức • Lý thuyết / vận dụng*
 
@@ -3884,7 +3884,7 @@ D. Khoản lợi nhuận sau thuế trả cho mỗi cổ phần bằng tiền ho
 
 > * Trả cổ tức Cổ tức là khoản lợi nhuận sau thuế được trả cho mỗi cổ phần bằng tiền hoặc bằng tài sản khác. - Cổ tức trả cho cổ phần ưu đãi được thực hiện theo điều kiện áp dụng riêng cho mỗi loại cổ phần ưu đãi.
 
-## Câu 47. Tên cơ quan nào đặt ở đầu cả hai sơ đồ mô hình quản lý CTCP trong slide 52–53?
+## Câu 47. Hai mô hình quản lý công ty cổ phần đều có cơ quan tập hợp các cổ đông mang tên nào?
 
 *CTCP: quản trị, huy động vốn và cổ tức • Lý thuyết*
 
@@ -4020,7 +4020,7 @@ D. Ít nhất 20% thành viên HĐQT độc lập
 
 > MÔ HÌNH TỔ CHỨC QUẢN LÝ THỨ HAI CỦA CÔNG TY CỔ PHẦN ĐẠI HỘI ĐỒNG CỔ ĐÔNG HỘI ĐỒNG QUẢN TRỊ Có ít nhất 20% số thành viên HĐQT phải là thành viên độc lập và có Ủy ban kiểm toán trực thuộc HĐQT GĐ/TGĐ Các thành viên độc lập thực hiện chức năng giám sát và tổ chức thực hiện kiểm soát đối với việc quản lý điều hành công ty
 
-## Câu 51. Theo slide 59, chào bán trái phiếu riêng lẻ của CTCP không đại chúng và của công ty đại chúng được dẫn theo những luật nào?
+## Câu 51. Chào bán trái phiếu riêng lẻ của công ty cổ phần không đại chúng và của công ty đại chúng tương ứng được điều chỉnh theo những nhóm pháp luật nào?
 
 *CTCP: quản trị, huy động vốn và cổ tức • Lý thuyết / vận dụng*
 
@@ -4053,7 +4053,7 @@ D. Đại chúng không chịu quy định pháp luật nào
 
 > * Chào bán trái phiếu riêng lẻ Công ty cổ phần không phải là công ty đại chúng chào bán trái phiếu riêng lẻ theo quy định của Luật này và quy định khác của pháp luật có liên quan. Chào bán trái phiếu riêng lẻ của công ty đại chúng, các tổ chức khác và chào bán trái phiếu ra công chúng thực hiện theo quy định của pháp luật về chứng khoán.
 
-## Câu 52. Các phương thức đăng ký doanh nghiệp được slide nêu là gì?
+## Câu 52. Doanh nghiệp có thể thực hiện đăng ký bằng những phương thức nào?
 
 *Doanh nghiệp, tên và đăng ký • Lý thuyết*
 
@@ -4123,7 +4123,7 @@ D. Chưa đủ điều kiện trả cổ tức phổ thông
 
 > CÔNG TY CỔ PHẦN TRẢ CỔ TỨC CP PHỔ THÔNG Công ty đã hoàn thành nghĩa vụ thuế và các nghĩa vụ tài chính khác theo quy định của PL Đã trích lập các quỹ công ty và bù đắp đủ lỗ trước đó theo quy định của pháp luật và Điều lệ công ty Ngay sau khi trả hết số cổ tức đã định, công ty vẫn bảo đảm thanh toán đủ các khoản nợ và nghĩa vụ tài sản khác đến hạn
 
-## Câu 54. Slide 58 và 66 nêu những hình thức chào bán cổ phần nào?
+## Câu 54. Công ty cổ phần có những hình thức chào bán cổ phần nào?
 
 *CTCP: quản trị, huy động vốn và cổ tức • Lý thuyết*
 
@@ -4160,7 +4160,7 @@ D. Chỉ phát hành trái phiếu
 
 > * Tăng, giảm vốn điều lệ - Tăng vốn điều lệ Chào bán cổ phần là việc công ty tăng thêm số lượng cổ phần, loại cổ phần được quyền chào bán để tăng vốn điều lệ. Chào bán cổ phần có thể thực hiện theo các hình thức sau đây: + Chào bán cổ phần cho cổ đông hiện hữu; + Chào bán cổ phần riêng lẻ; + Chào bán cổ phần ra công chúng.
 
-## Câu 55. Theo slide 58, sau kết thúc đợt bán cổ phần phải đăng ký thay đổi vốn điều lệ trong thời hạn nào?
+## Câu 55. Sau khi kết thúc đợt bán cổ phần, công ty phải đăng ký thay đổi vốn điều lệ trong thời hạn bao lâu?
 
 *CTCP: quản trị, huy động vốn và cổ tức • Lý thuyết*
 
@@ -4193,7 +4193,7 @@ D. 90 ngày là hạn đăng ký sau mọi đợt bán
 
 > * Chào bán cổ phần Chào bán cổ phần là việc công ty tăng thêm số lượng cổ phần, loại cổ phần được quyền chào bán để tăng vốn điều lệ. Chào bán cổ phần có thể thực hiện theo các hình thức sau đây: + Chào bán cổ phần cho cổ đông hiện hữu; + Chào bán cổ phần riêng lẻ; + Chào bán cổ phần ra công chúng. Chào bán cổ phần ra công chúng, chào bán cổ phần của công ty đại chúng và tổ chức khác thực hiện theo quy định của pháp luật về chứng khoán. Công ty thực hiện đăng ký thay đổi vốn điều lệ trong thời hạn 10 ngày kể từ ngày hoàn thành đợt bán cổ phần.
 
-## Câu 56. Chủ TNHH MTV chuyển nhượng một phần vốn để có thêm chủ. Theo slide 45, hạn đăng ký thay đổi từ khi hoàn tất chuyển nhượng?
+## Câu 56. Chủ công ty TNHH một thành viên chuyển nhượng một phần vốn làm phát sinh thêm chủ sở hữu. Thời hạn đăng ký thay đổi tính từ khi hoàn tất chuyển nhượng là bao lâu?
 
 *Công ty TNHH một thành viên • Tình huống*
 
@@ -4226,7 +4226,7 @@ D. 15 ngày như chuyển nhượng TNHH hai thành viên còn một chủ
 
 > * Chuyển nhượng vốn góp Chủ sở hữu công ty chuyển nhượng, tặng cho một phần vốn điều lệ cho một hoặc nhiều tổ chức, cá nhân khác, thì công ty phải tổ chức quản lý theo loại hình doanh nghiệp tương ứng và đăng ký thay đổi nội dung đăng ký doanh nghiệp trong thời hạn 10 ngày kể từ ngày hoàn thành việc chuyển nhượng, tặng cho hoặc kết nạp thành viên mới.
 
-## Câu 57. Thành viên TNHH đã ký bán vốn nhưng thông tin người mua chưa được ghi đủ vào sổ thành viên. Theo slide 32, người bán còn quyền, nghĩa vụ với phần đó không?
+## Câu 57. Thành viên TNHH đã ký hợp đồng bán phần vốn nhưng thông tin người mua chưa được ghi đầy đủ vào sổ thành viên. Người bán còn quyền và nghĩa vụ đối với phần vốn đó không?
 
 *TNHH hai thành viên: mua lại và chuyển nhượng • Tình huống*
 
@@ -4259,7 +4259,7 @@ D. Luôn hết ngay khi ký, bất kể sổ
 
 > + Thành viên chuyển nhượng vẫn có các quyền và nghĩa vụ đối với công ty tương ứng với phần vốn góp có liên quan cho đến khi thông tin về người mua được ghi đầy đủ vào sổ đăng ký thành viên. + Trường hợp chuyển nhượng hoặc thay đổi phần vốn góp của các thành viên dẫn đến chỉ còn một thành viên công ty thì công ty phải tổ chức quản lý theo loại hình CTTNHH một thành viên và thực hiện đăng ký thay đổi nội dung đăng ký doanh nghiệp trong thời hạn 15 ngày kể từ ngày hoàn thành việc chuyển nhượng.
 
-## Câu 58. Theo slide 64, cổ đông phản đối nghị quyết thuộc trường hợp yêu cầu mua lại phải gửi văn bản trong bao lâu?
+## Câu 58. Cổ đông phản đối nghị quyết thuộc trường hợp được yêu cầu công ty mua lại cổ phần phải gửi văn bản trong thời hạn bao lâu?
 
 *CTCP: chuyển nhượng và mua lại • Lý thuyết*
 
@@ -4292,7 +4292,7 @@ D. 10 ngày từ ngày ĐHĐCĐ thông qua nghị quyết
 
 > - Mua lại cổ phần theo yêu cầu của cổ đông Cổ đông đã biểu quyết không thông qua nghị quyết về việc tổ chức lại công ty hoặc thay đổi quyền, nghĩa vụ của cổ đông quy định tại Điều lệ công ty có quyền yêu cầu công ty mua lại cổ phần của mình. Yêu cầu phải bằng văn bản, trong đó nêu rõ tên, địa chỉ của cổ đông, số lượng cổ phần từng loại, giá dự định bán, lý do yêu cầu công ty mua lại. Yêu cầu phải được gửi đến công ty trong thời hạn 10 ngày kể từ ngày Đại hội đồng cổ đông thông qua nghị quyết về các vấn đề quy định tại khoản này.
 
-## Câu 59. Yêu cầu mua lại cổ phần theo slide 64 phải thể hiện nội dung nào ngoài lý do yêu cầu?
+## Câu 59. Ngoài lý do yêu cầu, văn bản yêu cầu công ty mua lại cổ phần phải thể hiện những thông tin nào?
 
 *CTCP: chuyển nhượng và mua lại • Lý thuyết / vận dụng*
 
@@ -4424,7 +4424,7 @@ D. Ít nhất 2 thành viên hợp danh đều là tổ chức
 
 > 2.3.4. CÔNG TY HỢP DANH a. Khái niệm, đặc điểm * Khái niệm CTHD là doanh nghiệp trong đó phải có ít nhất hai thành viên hợp danh là chủ sở hữu chung của công ty, cùng nhau kinh doanh dưới một hãng chung gọi là các thành viên hợp danh. Ngoài các thành viên hợp danh, công ty có thể có thêm các thành viên góp vốn.
 
-## Câu 63. Theo slide về hợp danh, trách nhiệm của thành viên hợp danh và thành viên góp vốn được mô tả thế nào?
+## Câu 63. Phạm vi trách nhiệm tài sản của thành viên hợp danh và thành viên góp vốn khác nhau như thế nào?
 
 *Công ty hợp danh • Lý thuyết / vận dụng*
 
@@ -4494,7 +4494,7 @@ D. Chỉ cổ phiếu phổ thông
 
 > * Đặc điểm - Thành viên: Phải có ít nhất 02 thành viên hợp danh là chủ sở hữu chung của công ty, cùng nhau kinh doanh dưới một tên chung. Ngoài các thành viên hợp danh, công ty có thể có thêm thành viên góp vốn; + Thành viên hợp danh phải là cá nhân, chịu trách nhiệm bằng toàn bộ tài sản của mình về các nghĩa vụ của công ty; + Thành viên góp vốn chỉ chịu trách nhiệm về các khoản nợ của công ty trong phạm vi số vốn đã góp vào công ty. - Tư cách pháp lý: CTHD có tư cách pháp nhân kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp. - Khả năng huy động vốn: CTHD không được phát hành bất kỳ loại chứng khoán nào.
 
-## Câu 65. Cơ quan được slide 75 nêu trong cơ cấu tổ chức công ty hợp danh là gì?
+## Câu 65. Công ty hợp danh có cơ quan quản lý nào trong các lựa chọn dưới đây?
 
 *Công ty hợp danh • Lý thuyết / vận dụng*
 
@@ -4570,7 +4570,7 @@ B. Luôn được vì có tư cách cá nhân
 
 C. Không cần xét tác động công ty
 
-D. Không được nhân danh mình hoặc người khác kinh doanh cùng ngành để tư lợi theo slide 74
+D. Không được nhân danh mình hoặc người khác kinh doanh cùng ngành để tư lợi theo trường hợp luật cấm
 
 **Đáp án: D**
 
@@ -4626,7 +4626,7 @@ D. Một tổ chức làm chủ và chủ luôn hữu hạn
 
 > 2.4. DOANH NGHIỆP TƯ NHÂN Khái niệm, đặc điểm * Khái niệm DNTN là doanh nghiệp do một cá nhân làm chủ và tự chịu trách nhiệm bằng toàn bộ tài sản của mình về mọi hoạt động của doanh nghiệp.
 
-## Câu 69. Theo slide 76, DNTN có nợ vượt tài sản dùng kinh doanh. Phạm vi trách nhiệm của cá nhân chủ là gì?
+## Câu 69. Nợ của doanh nghiệp tư nhân vượt giá trị tài sản dùng kinh doanh. Cá nhân chủ doanh nghiệp chịu trách nhiệm trong phạm vi nào?
 
 *Doanh nghiệp tư nhân • Tình huống*
 
@@ -4659,7 +4659,7 @@ D. Bằng toàn bộ tài sản của mình
 
 > 2.4. DOANH NGHIỆP TƯ NHÂN Khái niệm, đặc điểm * Khái niệm DNTN là doanh nghiệp do một cá nhân làm chủ và tự chịu trách nhiệm bằng toàn bộ tài sản của mình về mọi hoạt động của doanh nghiệp.
 
-## Câu 70. Theo slide 77, chính doanh nghiệp tư nhân có được góp vốn, mua cổ phần hoặc phần vốn góp trong công ty không?
+## Câu 70. Doanh nghiệp tư nhân có được dùng chính tư cách doanh nghiệp để góp vốn, mua cổ phần hoặc phần vốn góp trong công ty không?
 
 *Doanh nghiệp tư nhân • Lý thuyết / vận dụng*
 
@@ -4698,7 +4698,7 @@ D. Được không giới hạn vì chỉ có một chủ
 
 A. Được nếu vốn dưới 1 tỷ
 
-B. Không phù hợp các hạn chế của slide 77
+B. Không phù hợp hạn chế đối với cá nhân chủ doanh nghiệp tư nhân
 
 C. Được nếu không thuê lao động
 
@@ -4725,7 +4725,7 @@ D. Được vì mỗi nơi có kế toán riêng
 
 > DOANH NGHIỆP TƯ NHÂN * Đặc điểm - Chủ sở hữu: là doanh nghiệp do một cá nhân làm chủ và tự chịu trách nhiệm bằng toàn bộ tài sản của mình về mọi hoạt động của doanh nghiệp. TNTS TCPL: Không có tư cách pháp nhân - Khả năng huy động vốn: DNTN không được phát hành bất kỳ loại chứng khoán nào. Mỗi cá nhân chỉ được quyền thành lập một doanh nghiệp tư nhân. Chủ doanh nghiệp tư nhân không được đồng thời là chủ hộ kinh doanh, thành viên công ty hợp danh. Doanh nghiệp tư nhân không được quyền góp vốn thành lập hoặc mua cổ phần, phần vốn góp trong công ty hợp danh, công ty trách nhiệm hữu hạn hoặc công ty cổ phần.
 
-## Câu 72. Một người đang là chủ DNTN muốn đồng thời đứng tên chủ hộ kinh doanh. Theo slide 77, nhận định nào đúng?
+## Câu 72. Một người đang là chủ doanh nghiệp tư nhân muốn đồng thời đứng tên chủ hộ kinh doanh. Nhận định nào đúng?
 
 *Doanh nghiệp tư nhân • Lý thuyết / vận dụng*
 
@@ -4894,7 +4894,7 @@ D. Thỏa thuận nội bộ luôn xóa quyền chủ nợ
 
 > Sau khi đăng ký doanh nghiệp, công ty bị tách và công ty được tách phải cùng liên đới chịu trách nhiệm về các nghĩa vụ, các khoản nợ chưa thanh toán, hợp đồng lao động và nghĩa vụ tài sản khác của công ty bị tách, trừ trường hợp công ty bị tách, công ty được tách, chủ nợ, khách hàng và người lao động của công ty bị tách có thỏa thuận khác. Các công ty được tách đương nhiên kế thừa toàn bộ quyền, nghĩa vụ và lợi ích hợp pháp được phân chia theo nghị quyết, quyết định tách công ty.
 
-## Câu 77. Slide 85 liệt kê DNTN có thể chuyển đổi sang những loại hình nào?
+## Câu 77. Doanh nghiệp tư nhân có thể chuyển đổi sang những loại hình công ty nào?
 
 *Tổ chức lại và chuyển đổi • Lý thuyết / vận dụng*
 
@@ -4927,7 +4927,7 @@ D. Chỉ một DNTN khác có hai chủ
 
 > - Chuyển đổi DN + Chuyển đổi CTTNHH thành CTCP; + Chuyển đổi CTCP thành CTTNHH một thành viên; + Chuyển đổi CTCP thành CTTNHH hai thành viên trở lên; + Chuyển đổi doanh nghiệp tư nhân thành CTTNHH, CTCP, công ty hợp danh.
 
-## Câu 78. CTCP không đại chúng thuộc quy tắc slide 61, không có ngoại lệ, vốn chủ 4 tỷ; nợ hiện tại 15 tỷ, dự kiến trái phiếu 7 tỷ. Đạt điều kiện nợ không quá 5 lần vốn chủ chưa?
+## Câu 78. Công ty cổ phần không đại chúng có vốn chủ sở hữu 4 tỷ, nợ hiện tại 15 tỷ và dự kiến phát hành thêm 7 tỷ trái phiếu. Không thuộc ngoại lệ của giới hạn tổng nợ tối đa 5 lần vốn chủ sở hữu, công ty đã đáp ứng giới hạn này chưa?
 
 *CTCP: quản trị, huy động vốn và cổ tức • Bài tính*
 
@@ -4960,7 +4960,7 @@ D. Đạt vì riêng trái phiếu 7 tỷ dưới 20 tỷ
 
 > + Có nợ phải trả (bao gồm giá trị trái phiếu dự kiến phát hành) không vượt quá 05 lần vốn chủ sở hữu của tổ chức phát hành theo báo cáo tài chính năm liền kề trước năm phát hành được kiểm toán; trừ tổ chức phát hành là doanh nghiệp nhà nước, doanh nghiệp phát hành trái phiếu để thực hiện dự án bất động sản, tổ chức tín dụng, doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, doanh nghiệp môi giới bảo hiểm, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán thực hiện theo quy định của pháp luật có liên quan;”. + Điều kiện khác theo quy định của pháp luật có liên quan.
 
-## Câu 79. CTCP không đại chúng thuộc điều kiện chào bán trái phiếu riêng lẻ tại slide 60. Yêu cầu nào về báo cáo tài chính được nêu?
+## Câu 79. Khi công ty cổ phần không đại chúng chào bán trái phiếu riêng lẻ, báo cáo tài chính phải đáp ứng yêu cầu nào?
 
 *CTCP: quản trị, huy động vốn và cổ tức • Tình huống / phân biệt*
 
@@ -5044,7 +5044,7 @@ D. Chỉ DNTN được phát hành trái phiếu
 
 # Chương 4. Phục hồi và phá sản doanh nghiệp, hợp tác xã
 
-## Câu 1. Căn cứ giải thể nào đúng theo bài giảng?
+## Câu 1. Trường hợp nào là căn cứ giải thể doanh nghiệp?
 
 *Giải thể: điều kiện, thủ tục và trả nợ • Lý thuyết*
 
@@ -5077,7 +5077,7 @@ D. Chỉ bị một khách phàn nàn
 
 > 4.1 Pháp luật về giải thể doanh nghiệp 4.1.2 Các trường hợp giải thể doanh nghiệp Các trường hợp giải thể doanh nghiệp: Kết thúc thời hạn hoạt động đã ghi trong ĐL công ty mà không có quyết định gia hạn (1); Theo nghị quyết, quyết định của chủ sở hữu (2); Công ty không đủ số lượng thành viên, cổ đông tối thiểu trong thời hạn 6 tháng liên tục mà không làm thủ tục chuyển đổi loại hình DN (3); Bị thu hồi GCN ĐKDN (4).
 
-## Câu 2. Giả thiết công ty phải có tối thiểu 3 cổ đông nhưng chỉ còn 2 cổ đông suốt 7 tháng, không chuyển đổi. Theo slide 6, cần xét căn cứ nào?
+## Câu 2. Công ty cổ phần chỉ còn 2 cổ đông suốt 7 tháng liên tục, trong khi số tối thiểu là 3, và không chuyển đổi loại hình. Cần xem xét căn cứ nào?
 
 *Giải thể: điều kiện, thủ tục và trả nợ • Tình huống*
 
@@ -5180,7 +5180,7 @@ D. Phải có ít nhất 20 chủ nợ
 
 > Điều kiện giải thể: tài sản của DN đủ thanh toán tất cả các khoản nợ và nghĩa vụ tài sản khác và DN không trong quá trình giải quyết tranh chấp tại Tòa án hoặc Trọng tài.
 
-## Câu 5. Theo slide 10, thứ tự ưu tiên thanh toán các khoản nợ khi giải thể doanh nghiệp là gì?
+## Câu 5. Thứ tự ưu tiên thanh toán các khoản nợ khi giải thể doanh nghiệp là gì?
 
 *Giải thể: điều kiện, thủ tục và trả nợ • Lý thuyết*
 
@@ -5349,7 +5349,7 @@ D. Không trả khoản nợ sau thời hạn 6 tháng kể từ đến hạn
 
 > DN, HTX mất khả năng thanh toán: Là doanh nghiệp, hợp tác xã không thực hiện nghĩa vụ thanh toán khoản nợ sau thời hạn 06 tháng kể từ ngày đến hạn thanh toán.
 
-## Câu 10. Doanh nghiệp không trả được khoản nợ đã đến hạn 4 tháng. Theo định nghĩa luật mới, dữ kiện này phản ánh gì?
+## Câu 10. Doanh nghiệp không trả được khoản nợ đã đến hạn 4 tháng. Theo định nghĩa Luật Phục hồi, phá sản 142/2025, dữ kiện này phản ánh gì?
 
 *Nguy cơ, mất khả năng thanh toán và phá sản • Tình huống*
 
@@ -5485,7 +5485,7 @@ D. Không; lỗ khác với không thực hiện nghĩa vụ sau hạn luật đ
 
 > 4.2 Pháp luật về phục hồi, phá sản DN Có lãi ≠ có tiền. Có tài sản ≠ có khả năng thanh toán ngay. Thua lỗ ≠ mất khả năng thanh toán. Mất khả năng thanh toán ≠ phá sản.
 
-## Câu 14. Về phía doanh nghiệp, HTX bị tuyên bố phá sản, slide 82 nêu hệ quả nào?
+## Câu 14. Doanh nghiệp, hợp tác xã bị tuyên bố phá sản chịu hệ quả nào về tư cách pháp lý và đăng ký kinh doanh?
 
 *Đình chỉ, tuyên bố và hệ quả • Lý thuyết / vận dụng*
 
@@ -5518,15 +5518,15 @@ D. Mọi người lao động trở thành chủ sở hữu
 
 > Hệ quả pháp lý của việc bị tuyên bố phá sản: Về phía DN/HTX: chấm dứt tư cách pháp nhân, bị xoá tên trong sổ ĐKKD; Về phía người quản lý, điều hành DN/HTX bị tuyên bố phá sản: bị cấm thành lập, quản lý DN/HTX Về tài sản và nợ: Cơ quan tiến hành tố tụng sẽ tổ chức thanh lý tài sản, thanh toán các khoản nợ.
 
-## Câu 15. Phục hồi theo định nghĩa luật mới cần gắn với điều kiện nào ngoài cải thiện khả năng thanh toán?
+## Câu 15. Phục hồi theo định nghĩa Luật Phục hồi, phá sản 142/2025 cần gắn với điều kiện nào ngoài cải thiện khả năng thanh toán?
 
 *Nguy cơ, mất khả năng thanh toán và phá sản • Lý thuyết*
 
-A. Chỉ phát hành thêm hóa đơn
+A. Chỉ cần phát sinh thêm doanh thu, chưa cần xét khả năng thanh toán
 
-B. Chỉ đổi tên doanh nghiệp
+B. Chỉ cần được cấp lại giấy đăng ký dưới tên mới
 
-C. Chỉ một chủ nợ gửi thư chúc mừng
+C. Chỉ cần một chủ nợ xác nhận đã được thanh toán
 
 D. Quyết định đình chỉ thủ tục phục hồi của Tòa án
 
@@ -5538,10 +5538,10 @@ D. Quyết định đình chỉ thủ tục phục hồi của Tòa án
 
 **Lý thuyết:** Nguy cơ mất khả năng thanh toán: không trả được nợ sẽ đến hạn trong 6 tháng hoặc nợ đã đến hạn nhưng chưa quá 6 tháng. Mất khả năng thanh toán: không trả khoản nợ sau thời hạn 6 tháng từ đến hạn. Phá sản: mất khả năng thanh toán và có quyết định Tòa tuyên bố. Lãi kế toán không là tiền sẵn trả nợ; tài sản nhiều không bảo đảm thanh khoản; lỗ không tự đồng nghĩa mất khả năng; mất khả năng không tự đồng nghĩa đã phá sản. Phục hồi theo slide là hết nguy cơ/không mất khả năng và có quyết định đình chỉ phục hồi. Phục hồi chú trọng cứu hoạt động, có thể từ nguy cơ; phá sản là thủ tục tư pháp đặc biệt về mất khả năng. Luật điều chỉnh quan hệ phục hồi, phá sản và các quan hệ liên quan. Vai trò bảo vệ chủ nợ, hỗ trợ con nợ, lao động, tái cơ cấu và trật tự thị trường. Slide 30 chỉ giới thiệu tiêu chí phân loại phá sản theo nguồn gốc, cơ sở pháp lý, đối tượng, không giải thích các nhánh để hỏi sâu.
 
-- **A — Sai:** Hóa đơn không xác lập tình trạng phục hồi pháp lý.
-- **B — Sai:** Đổi tên không chứng minh hoặc kết thúc thủ tục.
-- **C — Sai:** Thư cá nhân không thay quyết định.
-- **D — Đúng:** Định nghĩa yêu cầu tình trạng được khắc phục và quyết định đình chỉ.
+- **A — Sai:** Tăng doanh thu chưa đủ để kết luận khả năng thanh toán nợ đến hạn đã được khôi phục và chưa thay thế quyết định đình chỉ của Tòa án.
+- **B — Sai:** Thay đổi tên đăng ký không chứng minh doanh nghiệp đã phục hồi sản xuất, kinh doanh hoặc khả năng thanh toán.
+- **C — Sai:** Một chủ nợ xác nhận đã được trả nợ chưa chứng minh khả năng thanh toán nợ đến hạn nói chung và chưa thay thế quyết định đình chỉ thủ tục của Tòa án.
+- **D — Đúng:** Slide 23–24 định nghĩa phục hồi là tình trạng không còn nguy cơ mất khả năng thanh toán hoặc không mất khả năng thanh toán, đồng thời đã có quyết định đình chỉ thủ tục phục hồi của Tòa án.
 
 **Slide trực tiếp:** Chương 4, slide 23, 24. **Tham khảo theo chủ đề:** Chương 4, slide 14,15,16,17,18,19,20,21,22,23,24,25,27,29,30,31,32,33.
 
@@ -5555,7 +5555,7 @@ D. Quyết định đình chỉ thủ tục phục hồi của Tòa án
 
 > Theo quy định tại Khoản 3, Điều 5 Luật Phục hồi, phá sản đã đưa ra khái niệm như sau: Phục hồi là tình trạng của doanh nghiệp, hợp tác xã không còn nguy cơ mất khả năng thanh toán và đã có quyết định đình chỉ thủ tục phục hồi của Tòa án hoặc không mất khả năng thanh toán và đã có quyết định đình chỉ thủ tục phục hồi của Tòa án.
 
-## Câu 16. Slide 40 đặt hai nhóm công việc chuẩn bị Hội nghị chủ nợ phục hồi song song như thế nào?
+## Câu 16. Để chuẩn bị Hội nghị chủ nợ trong thủ tục phục hồi, cần thực hiện đồng thời những nhóm công việc nào?
 
 *Kinh doanh, biểu quyết và kết thúc phục hồi • Lý thuyết / vận dụng*
 
@@ -5648,7 +5648,7 @@ D. TAND cấp tỉnh
 - **A — Sai:** Giám đốc không có quyền xét lại quyết định Tòa.
 - **B — Sai:** Đăng ký doanh nghiệp không là cơ quan xét lại.
 - **C — Sai:** HĐTV không thay thẩm quyền tư pháp.
-- **D — Đúng:** Ghi chú slide 28 nêu thẩm quyền Tòa án nhân dân cấp tỉnh đối với trường hợp có tài sản ở nước ngoài.
+- **D — Đúng:** Ghi chú PowerPoint của slide 28 nêu Tòa án nhân dân cấp tỉnh có thẩm quyền giải quyết đề nghị xem xét lại, kháng nghị đối với quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản của Tòa án nhân dân khu vực trong phạm vi thẩm quyền theo lãnh thổ.
 
 **Slide trực tiếp:** Chương 4, slide 28. **Tham khảo theo chủ đề:** Chương 4, slide 28,66,67.
 
@@ -5662,7 +5662,7 @@ D. TAND cấp tỉnh
 
 > Tòa án nhân dân cấp tỉnh có thẩm quyền giải quyết đề nghị xem xét lại, kháng nghị đối với quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản; quyết định công nhận và cho thi hành bản án, quyết định về phục hồi, phá sản của Tòa án, cơ quan có thẩm quyền của nước ngoài của Tòa án nhân dân khu vực trong phạm vi thẩm quyền theo lãnh thổ.
 
-## Câu 19. Cơ quan BHXH có quyền nộp đơn phá sản theo slide 63 khi điều kiện đôn đốc nào được đáp ứng?
+## Câu 19. Cơ quan bảo hiểm xã hội có quyền nộp đơn yêu cầu phá sản khi việc đôn đốc khoản chậm, trốn đóng đáp ứng điều kiện nào?
 
 *Quyền, nghĩa vụ nộp đơn phá sản • Lý thuyết*
 
@@ -5732,7 +5732,7 @@ D. Quản lý, bảo toàn, giám sát và thanh lý tài sản theo nhiệm v�
 
 > d) Giám sát hoạt động kinh doanh của doanh nghiệp, hợp tác xã; giám sát quá trình hoàn thiện, thực hiện phương án phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã; điều hành Hội nghị chủ nợ theo quyết định của Thẩm phán; thực hiện chuyển nhượng doanh nghiệp, hợp tác xã theo nghị quyết của Hội nghị chủ nợ;
 
-## Câu 21. Nhóm điều kiện hành nghề Quản tài viên tại slide 46 được kết hợp thế nào?
+## Câu 21. Nhóm điều kiện nào cần được đáp ứng đồng thời để hành nghề Quản tài viên?
 
 *Quản tài viên và quản lý tài sản • Tình huống / phân biệt*
 
@@ -5765,7 +5765,7 @@ D. Chỉ chứng chỉ, không cần năng lực hành vi
 
 > Quản tài viên: Là cá nhân hành nghề quản lý, thanh lý tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán trong quá trình giải quyết thủ tục phục hồi, phá sản. Điều kiện hành nghề Quản tài viên: + Có năng lực hành vi dân sự đầy đủ; + Có phẩm chất đạo đức tốt, có ý thức trách nhiệm, liêm khiết, trung thực, khách quan; + Có chứng chỉ hành nghề Quản tài viên
 
-## Câu 22. Theo khung điều kiện cấp chứng chỉ Quản tài viên học trong tài liệu, nhóm nào có thể được xét nếu đủ điều kiện chung?
+## Câu 22. Nếu đáp ứng các điều kiện chung, nhóm người nào có thể được xét cấp chứng chỉ hành nghề Quản tài viên?
 
 *Quản tài viên và quản lý tài sản • Lý thuyết*
 
@@ -5798,7 +5798,7 @@ D. Mọi cử nhân bất kỳ tự động có chứng chỉ
 
 > Quản tài viên: Những người được cấp chứng chỉ hành nghề Quản tài viên: + Luật sư; + Kiểm toán viên; + Người có trình độ cử nhân trở lên về chuyên ngành: luật, kinh tế, kế toán, tài chính, ngân hàng và có thời gian công tác từ đủ 05 năm trở lên về lĩnh vực được đào tạo
 
-## Câu 23. Công ty hợp danh muốn hành nghề quản lý, thanh lý tài sản theo slide 49. Cấu hình nào đáp ứng đúng điều kiện nhân sự được nêu?
+## Câu 23. Công ty hợp danh muốn hành nghề quản lý, thanh lý tài sản phải đáp ứng đồng thời những điều kiện nhân sự nào?
 
 *Quản tài viên và quản lý tài sản • Tình huống / phân biệt*
 
@@ -5868,7 +5868,7 @@ D. Giữ tiền bán làm tài sản riêng
 
 > e) Đề nghị Tòa án tuyên bố giao dịch vô hiệu và quyết định thu hồi tài sản của doanh nghiệp, hợp tác xã bị bán hoặc chuyển giao bất hợp pháp; đề nghị Tòa án áp dụng biện pháp xử lý vi phạm hành chính; đề nghị Tòa án kiến nghị cơ quan có thẩm quyền xử lý về hình sự theo quy định của pháp luật;
 
-## Câu 25. Ai trong các lựa chọn có quyền yêu cầu phục hồi theo slide 36?
+## Câu 25. Chủ thể nào trong các lựa chọn có quyền yêu cầu áp dụng thủ tục phục hồi?
 
 *Yêu cầu và phương án phục hồi • Lý thuyết*
 
@@ -5901,13 +5901,13 @@ D. Bất kỳ đối thủ cạnh tranh
 
 > Bước 1: Nộp đơn và thụ lý đơn yêu cầu áp dụng thủ tục phục hồi NỘP ĐƠN Chủ thể có quyền nộp đơn yêu cầu áp dụng thủ tục phục hồi: Người đại diện theo pháp luật của DN, HTX; HĐQT của CTCP, HĐTV của CT TNHH hai thành viên trở lên, HĐTV của CTHD; ĐHTV của HTX; Chủ DNTN, chủ sở hữu CT TNHH MTV.
 
-## Câu 26. Chủ nợ không bảo đảm muốn tự nộp đơn phục hồi thay công ty theo slide 36. Nhận định đúng?
+## Câu 26. Chủ nợ không bảo đảm muốn tự nộp đơn yêu cầu phục hồi thay doanh nghiệp mắc nợ. Nhận định nào đúng về tư cách nộp đơn?
 
 *Yêu cầu và phương án phục hồi • Phân biệt*
 
 A. Được nếu là chủ nợ đầu tiên
 
-B. Không thuộc nhóm được slide 36 trao quyền nộp đơn phục hồi
+B. Không thuộc nhóm chủ thể có quyền tự nộp đơn yêu cầu phục hồi
 
 C. Được tự động vì có quyền nộp phá sản
 
@@ -5967,13 +5967,13 @@ D. Đề xuất biện pháp khả thi khôi phục kinh doanh và xử lý ngh�
 
 > Nội dung Phương án phục hồi hoạt động kinh doanh, gồm: Biện pháp để phục hồi hoạt động kinh doanh; Điều kiện, thời hạn và kế hoạch thanh toán khoản nợ;...
 
-## Câu 28. Hồ sơ yêu cầu phục hồi có cần phương án ngay khi nộp theo luật mới?
+## Câu 28. Hồ sơ yêu cầu phục hồi có cần phương án ngay khi nộp theo Luật Phục hồi, phá sản 142/2025?
 
 *Yêu cầu và phương án phục hồi • Lý thuyết*
 
 A. Không bao giờ cần phương án
 
-B. Chỉ cần số điện thoại giám đốc
+B. Chỉ cần đơn yêu cầu, chưa cần phương án hoặc tài liệu kèm theo
 
 C. Chỉ nộp sau khi doanh nghiệp đã giải thể
 
@@ -5987,10 +5987,10 @@ D. Có phương án cùng các tài liệu luật định
 
 **Lý thuyết:** Phục hồi có ba bước: thụ lý; Hội nghị chủ nợ; thực hiện phương án. Người có quyền yêu cầu: đại diện pháp luật; HĐQT CTCP, HĐTV TNHH hai thành viên/hợp danh; Đại hội thành viên HTX; chủ DNTN, chủ TNHH MTV. Chủ nợ không tự nằm trong danh sách quyền yêu cầu phục hồi (bài đúng/sai slide 59). Hồ sơ ban đầu có phương án, danh sách chủ nợ/người mắc nợ, chứng cứ; không đợi sau thụ lý mới lập phương án. Slide 38 và ghi chú nêu phân công Thẩm phán trong 3 ngày làm việc, xem xét đơn 12 ngày, hoàn thiện phương án 30 ngày sau thụ lý theo mốc trình bày. Chuẩn bị hội nghị: xác minh/cập nhật danh sách và phương án, đồng thời bảo toàn tài sản/kiểm soát nghĩa vụ. Phương án phải nêu biện pháp kinh doanh, thời hạn và cách trả nợ. Thứ tự ưu tiên 5 nhóm: chi phí phục hồi; các quyền lợi lao động; nợ phát sinh phục hồi; nợ bảo đảm; các nợ khác.
 
-- **A — Sai:** Không thể phục hồi thiếu kế hoạch được xem xét.
-- **B — Sai:** Thông tin liên hệ không thay tài liệu bắt buộc.
-- **C — Sai:** Giải thể hoàn tất không là thời điểm lập phương án này.
-- **D — Đúng:** Slide 37 yêu cầu nội dung này trong hồ sơ.
+- **A — Sai:** Phương án là thành phần hồ sơ được slide 37 nêu rõ, nên không thể loại bỏ hoàn toàn.
+- **B — Sai:** Đơn yêu cầu chưa đủ: slide 37 yêu cầu phương án và các tài liệu kèm theo ngay khi nộp.
+- **C — Sai:** Giải thể hoàn tất chấm dứt hoạt động doanh nghiệp; không phải mốc nộp hồ sơ để phục hồi hoạt động kinh doanh.
+- **D — Đúng:** Slide 37 yêu cầu nộp kèm phương án phục hồi hoạt động kinh doanh, danh sách chủ nợ, người mắc nợ và tài liệu, chứng cứ chứng minh yêu cầu.
 
 **Slide trực tiếp:** Chương 4, slide 37. **Tham khảo theo chủ đề:** Chương 4, slide 35,36,37,38,40,41,42.
 
@@ -6000,7 +6000,7 @@ D. Có phương án cùng các tài liệu luật định
 
 > Bước 1: Nộp đơn và thụ lý đơn yêu cầu áp dụng thủ tục phục hồi Người nộp đơn yêu cầu áp dụng thủ tục phục hồi phải nộp kèm: Phương án phục hồi hoạt động kinh doanh; Danh sách chủ nợ, người mắc nợ; và Tài liệu, chứng cứ kèm theo để chứng minh cho yêu cầu của mình
 
-## Câu 29. Sau thụ lý, hạn hoàn thiện phương án phục hồi theo slide 38?
+## Câu 29. Sau khi Tòa án thụ lý đơn yêu cầu phục hồi, thời hạn hoàn thiện phương án phục hồi là bao lâu?
 
 *Yêu cầu và phương án phục hồi • Lý thuyết*
 
@@ -6305,7 +6305,7 @@ D. 10 năm một lần
 
 > Bước 3: Thực hiện phương án phục hồi hoạt động kinh doanh Báo cáo định kỳ 3 tháng/ lần; Có thể sửa đổi, bổ sung phương án phục hồi hoạt động kinh doanh theo quy định
 
-## Câu 38. Chủ nợ nào có quyền nộp đơn phá sản theo nhóm quyền chủ nợ tại slide 62?
+## Câu 38. Nhóm chủ nợ nào có quyền nộp đơn yêu cầu phá sản khi đáp ứng điều kiện về khoản nợ?
 
 *Quyền, nghĩa vụ nộp đơn phá sản • Lý thuyết*
 
@@ -6338,7 +6338,7 @@ D. Chỉ chủ nợ nước ngoài
 
 > Bước 1: Nộp đơn và thụ lý đơn yêu cầu mở thủ tục PS NỘP ĐƠN Chủ thể có quyền nộp đơn Chủ nợ không có bảo đảm, chủ nợ có bảo đảm một phần; Người lao động, công đoàn có quyền nộp đơn yêu cầu áp dụng thủ tục phá sản khi hết thời hạn 06 tháng kể từ ngày phải thực hiện nghĩa vụ trả lương, các khoản nợ khác đến hạn đối với người lao động mà doanh nghiệp, hợp tác xã không thực hiện nghĩa vụ thanh toán; Cổ đông, nhóm cổ đông sở hữu từ 20% số cổ phần phổ thông trở lên hoặc tỷ lệ nhỏ hơn trong trường hợp Điều lệ công ty quy định;
 
-## Câu 39. Ngưỡng cổ đông hoặc nhóm cổ đông phổ thông có quyền yêu cầu phá sản theo luật mới, nếu điều lệ không hạ ngưỡng?
+## Câu 39. Ngưỡng cổ đông hoặc nhóm cổ đông phổ thông có quyền yêu cầu phá sản theo Luật Phục hồi, phá sản 142/2025, nếu điều lệ không hạ ngưỡng?
 
 *Quyền, nghĩa vụ nộp đơn phá sản • Lý thuyết*
 
@@ -6437,7 +6437,7 @@ D. Có, nhưng vì mọi thành viên luôn có quyền ở mọi tỷ lệ
 
 > Bước 1: Nộp đơn và thụ lý đơn yêu cầu mở thủ tục PS NỘP ĐƠN Chủ thể có quyền nộp đơn Thành viên, nhóm thành viên sở hữu từ 65% tổng số vốn điều lệ của công ty trách nhiệm hữu hạn hai thành viên trở lên hoặc tỷ lệ nhỏ hơn trong trường hợp Điều lệ công ty quy định; Thành viên hợp tác xã hoặc người đại diện theo pháp luật của hợp tác xã thành viên của liên hiệp hợp tác xã; CQ BHXH, trong trường hợp CQ BHXH đã thông báo, đôn đốc với khoản chậm, trốn đóng bảo hiểm nhưng không có phản hồi trong 03 năm liên tiếp gần nhất
 
-## Câu 42. Cơ quan nào được slide 64 nêu có nghĩa vụ nộp đơn yêu cầu phá sản theo pháp luật quản lý thuế?
+## Câu 42. Cơ quan nào có nghĩa vụ nộp đơn yêu cầu phá sản theo pháp luật về quản lý thuế?
 
 *Quyền, nghĩa vụ nộp đơn phá sản • Lý thuyết / vận dụng*
 
@@ -6507,7 +6507,7 @@ D. Chưa, vì không bao giờ Tòa được tuyên bố
 
 > 4.2 Pháp luật về phục hồi, phá sản DN Thủ tục phục hồi Bước 1: Nộp đơn và thụ lý đơn yêu cầu áp dụng thủ tục phục hồi Bước 2: Hội nghị chủ nợ Bước 3: Thực hiện phương án phục hồi hoạt động kinh doanh
 
-## Câu 44. Slide 68 và bài đúng/sai slide 89 nhận xét việc kinh doanh sau mở thủ tục phá sản thế nào?
+## Câu 44. Hoạt động kinh doanh của doanh nghiệp được thực hiện như thế nào sau khi mở thủ tục phá sản?
 
 *Thụ lý, mở thủ tục và hoạt động kinh doanh • Lý thuyết / vận dụng*
 
@@ -6672,7 +6672,7 @@ D. Có, chỉ nợ cổ đông được trả
 
 > Bước 2: Mở thủ tục PS Hoạt động của DN, HTX bị cấm sau khi có quyết định mở thủ tục PS: Cất giấu, tẩu tán, tặng cho tài sản; Từ bỏ quyền đòi nợ Thanh toán khoản nợ không có bảo đảm, trừ khoản nợ không có bảo đảm phát sinh sau khi mở thủ tục phá sản và trả lương cho người lao động trong DN, HTX; Chuyển khoản nợ không có bảo đảm thành nợ có bảo đảm hoặc có bảo đảm một phần bằng tài sản của doanh nghiệp, hợp tác xã; Phân chia lợi nhuận, phân phối thu nhập
 
-## Câu 49. Thời gian xem xét giao dịch thuộc slide 70 thông thường tính lùi từ mốc nào?
+## Câu 49. Khoảng thời gian 6 tháng xem xét các giao dịch có thể bị tuyên vô hiệu trong phá sản được tính lùi từ sự kiện nào?
 
 *Bảo toàn, giao dịch vô hiệu và tài sản bảo đảm • Lý thuyết*
 
@@ -6849,7 +6849,7 @@ D. Chủ nợ tự lấy tài sản riêng mọi giám đốc
 
 > Thứ tự phân chia tài sản - Khoản nợ phát sinh nhằm mục đích phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã; - Nghĩa vụ tài chính đối với Nhà nước; Khoản nợ không có bảo đảm phải trả cho chủ nợ trong danh sách chủ nợ; khoản nợ có bảo đảm chưa được thanh toán do giá trị tài sản bảo đảm không đủ thanh toán nợ. Lưu ý: Trường hợp tài sản của DN, HTX không đủ để thanh toán thì từng đối tượng cùng một thứ tự ưu tiên được thanh toàn theo tỷ lệ phần trăm tương ứng với số nợ
 
-## Câu 54. Tặng tài sản 4 tháng trước quyết định mở phá sản có thuộc nhóm giao dịch cần xem xét theo slide 71 không?
+## Câu 54. Doanh nghiệp tặng cho tài sản 4 tháng trước quyết định mở thủ tục phá sản. Giao dịch này có thuộc nhóm cần xem xét vô hiệu không?
 
 *Bảo toàn, giao dịch vô hiệu và tài sản bảo đảm • Lý thuyết / vận dụng*
 
@@ -6857,7 +6857,7 @@ A. Có, vì mọi giao dịch bất kể loại và thời gian đều vô hiệ
 
 B. Không, mọi quà tặng đều nằm ngoài danh mục
 
-C. Có, tặng cho tài sản trong khoảng 6 tháng được liệt kê, đồng thời phải xét ngoại lệ nêu trong ghi chú
+C. Có, thuộc nhóm tặng cho tài sản trong 6 tháng trước mở thủ tục; vẫn phải xét ngoại lệ
 
 D. Không, chỉ giao dịch đúng ngày mở mới được xem xét
 
@@ -6886,7 +6886,7 @@ D. Không, chỉ giao dịch đúng ngày mở mới được xem xét
 
 > Giao dịch của doanh nghiệp, hợp tác xã quy định tại các điểm a, b, c, d và đ khoản 1 Điều 49 của Luật Phục hồi, phá sản được thực hiện trong thời gian 06 tháng trước ngày Tòa án ra quyết định mở thủ tục phá sản không bị coi là vô hiệu nếu thuộc một trong các trường hợp sau đây: a) Khuyến mại theo quy định của pháp luật về thương mại, tặng thưởng cho người lao động theo quy định của pháp luật về lao động; b) Hoạt động từ thiện của doanh nghiệp, hợp tác xã theo đúng quy định của pháp luật; c) Giao dịch được Hội nghị chủ nợ công nhận là để bảo toàn, tối ưu giá trị tài sản của doanh nghiệp, hợp tác xã hoặc không có mục đích tẩu tán tài sản của doanh nghiệp, hợp tác xã. 3. Những người liên quan quy định tại khoản 2 Điều 49 của Luật Phục hồi, phá sản được xác định như sau:
 
-## Câu 55. Doanh nghiệp dùng tài sản của mình chuyển nợ cũ không bảo đảm thành có bảo đảm trong 5 tháng trước mở phá sản. Slide 70 nêu gì?
+## Câu 55. Doanh nghiệp dùng tài sản của mình chuyển khoản nợ cũ không bảo đảm thành có bảo đảm trong 5 tháng trước khi mở thủ tục phá sản. Giao dịch này cần được đánh giá như thế nào?
 
 *Bảo toàn, giao dịch vô hiệu và tài sản bảo đảm • Lý thuyết / vận dụng*
 
@@ -6919,7 +6919,7 @@ D. Đây là một nhóm giao dịch được liệt kê để xem xét vô hi�
 
 > Giao dịch bị coi là vô hiệu Giao dịch của DN, HTX được thực hiện trong thời gian 06 tháng trước ngày Tòa án ra quyết định mở thủ tục phá sản bị coi là vô hiệu nếu thuộc một trong các trường hợp sau đây: - Giao dịch liên quan đến chuyển nhượng tài sản không theo giá thị trường; - Chuyển khoản nợ không có bảo đảm thành nợ có bảo đảm hoặc có bảo đảm một phần bằng tài sản của doanh nghiệp, hợp tác xã; - Thanh toán hoặc bù trừ có lợi cho một chủ nợ đối với khoản nợ chưa đến hạn hoặc với số tiền lớn hơn khoản nợ đến hạn, trừ trường hợp pháp luật có quy định khác;
 
-## Câu 56. Hội nghị chủ nợ đề xuất chuyển nhượng tài sản đang bảo đảm. Theo ghi chú slide 74, cần ý kiến nào?
+## Câu 56. Hội nghị chủ nợ đề xuất chuyển nhượng tài sản đang dùng để bảo đảm một khoản nợ. Cần sự đồng ý của ai?
 
 *Bảo toàn, giao dịch vô hiệu và tài sản bảo đảm • Lý thuyết / vận dụng*
 
@@ -6956,7 +6956,7 @@ D. Không cần ý kiến nào vì đã mở phá sản
 
 > Trường hợp chuyển nhượng tài sản bảo đảm thì phải có ý kiến đồng ý của chủ nợ của tài sản bảo đảm đó;
 
-## Câu 57. Người có quyền tham gia Hội nghị chủ nợ phá sản được slide 72 dẫn giống thủ tục phục hồi. Nhóm nào phù hợp slide 50?
+## Câu 57. Nhóm người nào có quyền tham gia Hội nghị chủ nợ trong thủ tục phá sản?
 
 *Hội nghị chủ nợ phá sản • Lý thuyết / vận dụng*
 
@@ -6964,7 +6964,7 @@ A. Chỉ người có cổ phần ưu đãi
 
 B. Chỉ người bán tài sản không có quan hệ quyền lợi
 
-C. Chủ nợ có tên trong danh sách và đại diện lao động được ủy quyền theo bài giảng
+C. Chủ nợ có tên trong danh sách và đại diện lao động được ủy quyền
 
 D. Mọi khách tham quan nhà máy
 
@@ -6993,7 +6993,7 @@ D. Mọi khách tham quan nhà máy
 
 > Bước 2: Tổ chức Hội nghị chủ nợ Người có quyền tham gia Hội nghị chủ nợ: Chủ nợ có tên trong danh sách chủ nợ; Đại diện cho người lao động, công đoàn, tổ chức của người lao động tại doanh nghiệp được người lao động ủy quyền.
 
-## Câu 58. Nhóm kết luận nào được slide 73 nêu cho Hội nghị chủ nợ phá sản?
+## Câu 58. Hội nghị chủ nợ trong thủ tục phá sản có thể đưa ra những nhóm kết luận nào?
 
 *Hội nghị chủ nợ phá sản • Lý thuyết / vận dụng*
 
@@ -7166,7 +7166,7 @@ D. Sự đồng ý chủ nợ bảo đảm và cơ chế luật định liên qu
 
 > Trường hợp chuyển nhượng tài sản bảo đảm thì phải có ý kiến đồng ý của chủ nợ của tài sản bảo đảm đó;
 
-## Câu 63. Khoản đứng đầu thứ tự phân chia tài sản phá sản thông thường theo slide 79?
+## Câu 63. Khoản nào đứng đầu thứ tự phân chia tài sản trong thủ tục phá sản thông thường?
 
 *Thứ tự phân chia tài sản phá sản thông thường • Lý thuyết*
 
@@ -7199,7 +7199,7 @@ D. Cổ tức cho cổ đông
 
 > Bước 5. Thi hành quyết định tuyên bố phá sản Thứ tự phân chia tài sản - Chi phí phá sản; - Khoản nợ lương; - Khoản nợ bảo hiểm xã hội bắt buộc, bảo hiểm thất nghiệp, bảo hiểm y tế, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; - Trợ cấp thôi việc và các quyền lợi khác của người lao động theo thỏa ước lao động tập thể, hợp đồng lao động;
 
-## Câu 64. Thứ tự đúng sau chi phí trong phá sản thông thường theo luật mới?
+## Câu 64. Thứ tự đúng sau chi phí trong phá sản thông thường theo Luật Phục hồi, phá sản 142/2025?
 
 *Thứ tự phân chia tài sản phá sản thông thường • Lý thuyết*
 
@@ -7265,11 +7265,11 @@ D. Luôn sau tất cả nợ không bảo đảm
 
 > Thứ tự phân chia tài sản - Khoản nợ phát sinh nhằm mục đích phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã; - Nghĩa vụ tài chính đối với Nhà nước; Khoản nợ không có bảo đảm phải trả cho chủ nợ trong danh sách chủ nợ; khoản nợ có bảo đảm chưa được thanh toán do giá trị tài sản bảo đảm không đủ thanh toán nợ. Lưu ý: Trường hợp tài sản của DN, HTX không đủ để thanh toán thì từng đối tượng cùng một thứ tự ưu tiên được thanh toàn theo tỷ lệ phần trăm tương ứng với số nợ
 
-## Câu 66. Nghĩa vụ tài chính Nhà nước và nợ không bảo đảm theo luật mới có cùng thứ tự không?
+## Câu 66. Nghĩa vụ tài chính Nhà nước và nợ không bảo đảm theo Luật Phục hồi, phá sản 142/2025 có cùng thứ tự không?
 
 *Thứ tự phân chia tài sản phá sản thông thường • Phân biệt*
 
-A. Có, luôn cùng nhóm như bảng cũ
+A. Có, luôn được thanh toán trong cùng một thứ tự
 
 B. Có, vì mọi chủ nợ đều bình đẳng nên không có thứ tự
 
@@ -7285,7 +7285,7 @@ D. Không; Nhà nước trước, nợ không bảo đảm và phần thiếu �
 
 **Lý thuyết:** Phân chia phá sản thông thường theo bảy thứ tự: 1 chi phí phá sản; 2 nợ lương; 3 bảo hiểm bắt buộc gồm BHXH, thất nghiệp, y tế, tai nạn lao động/bệnh nghề; 4 trợ cấp thôi việc và quyền lợi lao động khác theo thỏa ước/hợp đồng; 5 nợ phát sinh nhằm phục hồi; 6 nghĩa vụ tài chính Nhà nước; 7 nợ không bảo đảm và phần nợ bảo đảm thiếu. Từng thứ tự phải xử lý trước khi sang sau; thiếu ở cùng thứ tự thì chia tỷ lệ theo số nợ. Ví dụ còn 600 cho A nợ 400, B nợ 800 cùng nhóm: A 200, B 400. Tài sản dư sau đủ nghĩa vụ thuộc chủ/thành viên/cổ đông theo slide 81. Bài đúng/sai slide 90 phủ nhận chi phí sau lương, chủ nợ bảo đảm luôn ưu tiên toàn bộ và đấu giá mọi trường hợp không ngoại lệ; không biến các mệnh đề sai thành lý thuyết đúng.
 
-- **A — Sai:** Bảng cũ không thay quy định mới.
+- **A — Sai:** Slide 80 xếp nghĩa vụ tài chính với Nhà nước trước khoản nợ không có bảo đảm và phần nợ có bảo đảm chưa được thanh toán. Vì vậy hai nhóm không cùng thứ tự.
 - **B — Sai:** Bình đẳng không xóa các ưu tiên do luật quy định.
 - **C — Sai:** Không có cổ tức xen giữa nghĩa vụ này.
 - **D — Đúng:** Slide 80 tách thứ tự 6 và 7.
@@ -7434,7 +7434,7 @@ D. Đình chỉ thủ tục phá sản theo điều kiện luật
 
 > Hội nghị chủ nợ Đình chỉ thủ tục phá sản (Khoản 1 Điều 64): Kể từ ngày Tòa án ra quyết định mở thủ tục phá sản đến trước ngày ra quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản, nếu DN, HTX không mất khả năng thanh toán thì Tòa án ra quyết định đình chỉ thủ tục phá sản. Các tranh chấp liên quan đến doanh nghiệp, hợp tác xã chưa được giải quyết xong thì các bên có quyền lựa chọn phương thức giải quyết tranh chấp theo quy định của pháp luật.
 
-## Câu 71. Theo ghi chú slide 78, khi tranh chấp liên quan đã giải quyết xong và nhận nghị quyết đề nghị tuyên bố phá sản, thời hạn Tòa tuyên bố được nêu là bao lâu?
+## Câu 71. Tranh chấp liên quan đã giải quyết xong và Tòa án nhận nghị quyết đề nghị tuyên bố phá sản. Thời hạn ra quyết định tuyên bố phá sản trong trường hợp này là bao lâu?
 
 *Đình chỉ, tuyên bố và hệ quả • Lý thuyết / vận dụng*
 
@@ -7481,7 +7481,7 @@ B. Có, vì không thực hiện đồng nghĩa đã hoàn thành
 
 C. Có, mọi đình chỉ đều là hết nợ
 
-D. Không; slide 55–56 có cả căn cứ thành công và không thành công
+D. Không; đình chỉ có thể xuất phát từ căn cứ phục hồi thành công hoặc căn cứ không thực hiện phương án
 
 **Đáp án: D**
 
@@ -7615,7 +7615,7 @@ D. Từ 51% tổng nợ của chủ nợ tham gia biểu quyết
 
 > Áp dụng thủ tục phục hồi rút gọn Điều kiện thông qua Nghị quyết của HNCN: Số chủ nợ đại diện cho từ 51% tổng số nợ của chủ nợ tham gia biểu quyết tán thành.
 
-## Câu 76. Với phá sản rút gọn thuộc trường hợp áp dụng tỷ lệ slide 85, mẫu số và ngưỡng là?
+## Câu 76. Nghị quyết Hội nghị chủ nợ trong trường hợp phá sản rút gọn áp dụng tỷ lệ biểu quyết thấp hơn phải đạt ngưỡng nào và tính trên cơ sở nào?
 
 *Thủ tục rút gọn • Phân biệt*
 
@@ -7648,7 +7648,7 @@ D. 100% số người mua hàng
 
 > Áp dụng thủ tục phá sản rút gọn Điều kiện thông qua Nghị quyết của HNCN: + số chủ nợ không có bảo đảm đại diện cho từ 51% tổng số nợ không có bảo đảm trở lên tham gia biểu quyết tán thành.
 
-## Câu 77. Hai nhóm điều kiện áp dụng thủ tục phá sản TCTD trong slide 86 được kết hợp thế nào?
+## Câu 77. Hai nhóm điều kiện nào phải đồng thời có để áp dụng thủ tục phá sản tổ chức tín dụng?
 
 *Phá sản tổ chức tín dụng • Lý thuyết / vận dụng*
 
@@ -7714,7 +7714,7 @@ D. Tính phần tiền gửi còn lại và quyền của tổ chức bảo hi�
 
 > Thứ tự phân chia tài sản của TCTD bị phá sản (1) Chi phí phá sản; (2) Khoản nợ lương, trợ cấp thôi việc, bảo hiểm, quyền lợi khác liên quan đến NLĐ (3) Khoản tiền gửi sau khi trừ đi số tiền đã được tổ chức bảo hiểm tiền gửi chi trả cho người gửi tiền; khoản tiền tổ chức bảo hiểm tiền gửi trả cho người gửi tiền tại tổ chức tín dụng phá sản theo quy định của pháp luật về bảo hiểm tiền gửi và hướng dẫn của Ngân hàng Nhà nước Việt Nam; khoản tiền phí bảo hiểm tiền gửi chưa nộp; các khoản tiền chậm nộp phí bảo hiểm tiền gửi; (4) Nghĩa vụ tài chính đối với Nhà nước; khoản nợ không có bảo đảm phải trả cho chủ nợ trong danh sách chủ nợ; khoản nợ có bảo đảm chưa được thanh toán do giá trị tài sản bảo đảm không đủ thanh toán nợ.
 
-## Câu 79. Theo slide 88, thời hạn quyết định tuyên bố TCTD phá sản tính từ khi QTV lập xong danh sách chủ nợ, người mắc nợ và bảng kê tài sản là bao lâu?
+## Câu 79. Thời hạn quyết định tuyên bố tổ chức tín dụng phá sản, tính từ khi lập xong danh sách chủ nợ, người mắc nợ và bảng kê tài sản, là bao lâu?
 
 *Phá sản tổ chức tín dụng • Lý thuyết / vận dụng*
 
@@ -7790,7 +7790,7 @@ D. Không, phục hồi chỉ trả chủ sở hữu trước
 
 # Chương 5. Pháp luật về hợp đồng
 
-## Câu 1. Theo khái niệm ở slide 2, hợp đồng là thỏa thuận về những tác động nào đối với quyền, nghĩa vụ pháp lý?
+## Câu 1. Hợp đồng là sự thỏa thuận nhằm tạo ra những tác động nào đối với quyền và nghĩa vụ pháp lý?
 
 *Khái niệm, phân loại và nguyên tắc • Lý thuyết*
 
@@ -7823,7 +7823,7 @@ D. Chỉ văn bản có con dấu hai doanh nghiệp
 
 > 5.1. Khái quát về hợp đồng và pháp luật HĐ 5.1.1. Những vấn đề chung về HĐ * Khái niệm, đặc điểm - Khái niệm Hợp đồng là sự thoả thuận giữa các bên về việc xác lập, thay đổi hoặc chấm dứt quyền và nghĩa vụ pháp lý của các bên - Đặc điểm: - Hợp đồng là sự thoả thuận giữa các bên - Sự thỏa thuận của các bên là căn cứ pháp lý làm phát sinh, thay đổi, chấm dứt quyền và nghĩa vụ pháp lý của các bên.
 
-## Câu 2. Slide 3 phân loại hợp đồng theo nội dung thỏa thuận bằng nhóm nào?
+## Câu 2. Nhóm hợp đồng nào được phân loại dựa trên nội dung thỏa thuận?
 
 *Khái niệm, phân loại và nguyên tắc • Phân biệt*
 
@@ -7856,7 +7856,7 @@ D. Chỉ văn bản và lời nói
 
 > * PHÂN LOẠI HĐ - Căn cứ vào nội dung thỏa thuận trong HĐ: + Hợp đồng mua bán tài sản + Hợp đồng trao đổi tài sản + Hợp đồng tặng cho tài sản + Hợp đồng vay tài sản + Hợp đồng thuê tài sản + Hợp đồng mượn tài sản… - Căn cứ vào tính chất quốc tế thể hiện trong HĐ: + Hợp đồng có yếu tố nước ngoài + Hợp đồng không có yếu tố nước ngoài
 
-## Câu 3. Cặp hợp đồng có/không có yếu tố nước ngoài trong slide 3 dựa trên tiêu chí nào?
+## Câu 3. Việc chia hợp đồng thành có yếu tố nước ngoài và không có yếu tố nước ngoài dựa trên tiêu chí nào?
 
 *Khái niệm, phân loại và nguyên tắc • Phân biệt*
 
@@ -7926,7 +7926,7 @@ D. Không; tự do thỏa thuận phải trong giới hạn pháp luật
 
 > Điều kiện có hiệu lực của hợp đồng Chủ thể có NLPL dân sự, NLHV dân sự phù hợp với hợp đồng được xác lập Chủ thể tham gia hợp đồng hoàn toàn tự nguyện Mục đích và nội dung của hợp đồng không vi phạm điều cấm của Luật, không trái đạo đức xã hội Hình thức hợp đồng là điều kiện có hiệu lực của hợp đồng trong trường hợp Luật có quy định
 
-## Câu 5. Trước khi giao kết nhân danh doanh nghiệp, slide 6 và 11 đặt vấn đề chủ thể nào cần kiểm tra?
+## Câu 5. Trước khi giao kết hợp đồng nhân danh doanh nghiệp, cần kiểm tra những vấn đề nào về chủ thể và người ký?
 
 *Chủ thể, đại diện và nội dung • Lý thuyết / vận dụng*
 
@@ -7963,7 +7963,7 @@ D. Chủ thể, thẩm quyền ký kết và năng lực phù hợp với hợp 
 
 > Điều kiện có hiệu lực của hợp đồng Chủ thể có NLPL dân sự, NLHV dân sự phù hợp với hợp đồng được xác lập Chủ thể tham gia hợp đồng hoàn toàn tự nguyện Mục đích và nội dung của hợp đồng không vi phạm điều cấm của Luật, không trái đạo đức xã hội Hình thức hợp đồng là điều kiện có hiệu lực của hợp đồng trong trường hợp Luật có quy định
 
-## Câu 6. Slide 11 yêu cầu năng lực pháp luật và năng lực hành vi của chủ thể như thế nào?
+## Câu 6. Năng lực pháp luật và năng lực hành vi của chủ thể phải đáp ứng yêu cầu nào khi xác lập hợp đồng?
 
 *Chủ thể, đại diện và nội dung • Lý thuyết / vận dụng*
 
@@ -7996,7 +7996,7 @@ D. Chỉ cần người ký có tiền mặt
 
 > Điều kiện có hiệu lực của hợp đồng Chủ thể có NLPL dân sự, NLHV dân sự phù hợp với hợp đồng được xác lập Chủ thể tham gia hợp đồng hoàn toàn tự nguyện Mục đích và nội dung của hợp đồng không vi phạm điều cấm của Luật, không trái đạo đức xã hội Hình thức hợp đồng là điều kiện có hiệu lực của hợp đồng trong trường hợp Luật có quy định
 
-## Câu 7. Ba nhóm điều khoản được slide 8 phân loại là gì?
+## Câu 7. Các điều khoản của hợp đồng được chia thành ba nhóm cơ bản nào?
 
 *Chủ thể, đại diện và nội dung • Lý thuyết / vận dụng*
 
@@ -8062,7 +8062,7 @@ D. Các bên chủ động thỏa thuận thêm trong giới hạn luật
 
 > * Nội dung hợp đồng - Điều khoản chủ yếu + Điều khoản chủ yếu là điều khoản phải được thoả thuận trong hợp đồng, làm phát sinh sự tồn tại hợp pháp của hợp đồng. + Các điều khoản chủ yếu do pháp luật quy định cho từng loại hợp đồng chuyên biệt - Điều khoản thường lệ - Điều khoản tùy nghi + Không nhất thiết phải được thoả thuận; + Việc thoả thuận không trái quy định của pháp luật.
 
-## Câu 9. Hai bên thêm điều khoản không cần thiết để hình thành hợp đồng nhưng phù hợp pháp luật. Theo slide 8, gọi là gì?
+## Câu 9. Hai bên bổ sung một điều khoản không cần thiết để hình thành hợp đồng nhưng phù hợp pháp luật. Điều khoản này thuộc loại nào?
 
 *Chủ thể, đại diện và nội dung • Lý thuyết / vận dụng*
 
@@ -8194,7 +8194,7 @@ D. Chỉ có giấy chuyển khoản
 
 > Điều kiện có hiệu lực của hợp đồng Chủ thể có NLPL dân sự, NLHV dân sự phù hợp với hợp đồng được xác lập Chủ thể tham gia hợp đồng hoàn toàn tự nguyện Mục đích và nội dung của hợp đồng không vi phạm điều cấm của Luật, không trái đạo đức xã hội Hình thức hợp đồng là điều kiện có hiệu lực của hợp đồng trong trường hợp Luật có quy định
 
-## Câu 13. Bài giảng đặt yêu cầu về hình thức hợp đồng trong điều kiện nào?
+## Câu 13. Khi nào việc tuân thủ hình thức bắt buộc được đặt ra như một điều kiện của hợp đồng?
 
 *Hình thức và điều kiện có hiệu lực • Lý thuyết / vận dụng*
 
@@ -8231,7 +8231,7 @@ D. Mọi giao dịch đều bắt buộc công chứng
 
 > 1. Hợp đồng dân sự vô hiệu do vi phạm điều cấm của luật, trái đạo đức xã hội. 2. Hợp đồng dân sự vô hiệu do giả tạo. 3. Hợp đồng dân sự vô hiệu do người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người bị hạn chế năng lực hành vi dân sự xác lập, thực hiện. 4. Hợp đồng dân sự vô hiệu do bị nhầm lẫn. 5. Hợp đồng dân sự vô hiệu do bị lừa dối, đe dọa, cưỡng ép. 6. Hợp đồng dân sự vô hiệu do người xác lập không nhận thức và làm chủ được hành vi của mình. 7. Hợp đồng dân sự vô hiệu do không tuân thủ quy định về hình thức. 8. Hợp đồng vô hiệu do có đối tượng không thể thực hiện được.
 
-## Câu 14. Điều khoản chủ yếu trong slide 8 có ý nghĩa gì?
+## Câu 14. Điều khoản chủ yếu có vai trò gì đối với việc hình thành hợp đồng?
 
 *Chủ thể, đại diện và nội dung • Lý thuyết*
 
@@ -8264,7 +8264,7 @@ D. Mọi điều khoản có thể bỏ dù không xác định được quan h�
 
 > * Nội dung hợp đồng - Điều khoản chủ yếu + Điều khoản chủ yếu là điều khoản phải được thoả thuận trong hợp đồng, làm phát sinh sự tồn tại hợp pháp của hợp đồng. + Các điều khoản chủ yếu do pháp luật quy định cho từng loại hợp đồng chuyên biệt - Điều khoản thường lệ - Điều khoản tùy nghi + Không nhất thiết phải được thoả thuận; + Việc thoả thuận không trái quy định của pháp luật.
 
-## Câu 15. Hai bên gặp nhau đàm phán rồi thống nhất nội dung hợp đồng. Slide 9 gọi cách giao kết này là gì?
+## Câu 15. Hai bên gặp nhau đàm phán rồi thống nhất nội dung hợp đồng. Đây là phương thức giao kết nào?
 
 *Thủ tục và thời điểm giao kết • Lý thuyết / vận dụng*
 
@@ -8297,30 +8297,30 @@ D. Tuyên bố phá sản
 
 > * Thủ tục giao kết hợp đồng ( GT ) - HĐ giao kết theo thủ tục trực tiếp: Là việc các bên trực tiếp bàn bạc và đi đến xác nhân sự thoả thuận các điều khoản ngay tại thời điểm đàm phán. Trường hợp này, hợp đồng thường phát sinh hiệu lực khi các bên xác nhận đàm phán vào hợp đồng. - HĐ giao kết theo thủ tục gián tiếp: Là việc các bên thông qua các tài liệu giao dịch (Fax, điện tín,…) để chuyển tải ý chí đàm phán. Trường hợp này, hợp đồng thường phát sinh hiệu lực khi các bên nhận được tài liệu giao dịch thể hiện sự thoả thuận.
 
-## Câu 16. Theo đúng slide 10, im lặng được coi là chấp nhận trong trường hợp nào được bài giảng nêu?
+## Câu 16. Các bên đã thỏa thuận rằng im lặng là chấp nhận đề nghị giao kết. Thời điểm nào được dùng để xác định sự chấp nhận trong trường hợp này?
 
 *Thủ tục và thời điểm giao kết • Lý thuyết / vận dụng*
 
-A. Chỉ vì hợp đồng có giá trị nhỏ
+A. Khi bên đề nghị gửi đề nghị, dù bên kia chưa nhận
 
-B. Mọi trường hợp không trả lời
+B. Khi bên nhận nhận được đề nghị, chưa hết thời hạn trả lời
 
-C. Các bên đã thỏa thuận im lặng là chấp nhận khi hết thời hạn trả lời
+C. Khi hết thời hạn trả lời đã thỏa thuận mà bên nhận đề nghị vẫn im lặng
 
-D. Chỉ vì người gửi muốn vậy
+D. Khi bên đề nghị tự rút ngắn thời hạn mà không có thỏa thuận
 
 **Đáp án: C**
 
-**Phân tích đề:** Giữ đúng điều kiện “các bên có thỏa thuận” trong bài giảng.
+**Phân tích đề:** Tách điều kiện có thỏa thuận im lặng là chấp nhận khỏi mốc hết thời hạn trả lời; đề đã cho điều kiện và hỏi đúng mốc thời gian.
 
-**Bẫy dễ nhầm:** Không bổ sung ngoại lệ thói quen đã xác lập từ điều luật ngoài slide.
+**Bẫy dễ nhầm:** Không chọn thời điểm gửi hoặc nhận đề nghị; im lặng phải kéo dài đến hết thời hạn trả lời đã thỏa thuận.
 
 **Lý thuyết:** Giao kết trực tiếp: gặp, đàm phán và thống nhất; gián tiếp: trao đổi giấy tờ, tài liệu đề nghị/xác nhận theo mô tả bài giảng. Mốc giao kết: bằng văn bản khi bên sau cùng ký; bên đề nghị nhận được chấp nhận; lời nói khi thống nhất nội dung. Im lặng được nêu trong trường hợp các bên thỏa thuận im lặng là chấp nhận, mốc hết hạn trả lời. Không thêm ngoại lệ thói quen từ luật ngoài. Hợp đồng hợp pháp có hiệu lực từ giao kết trừ thỏa thuận hoặc luật quy định khác; vì vậy ngày ký và ngày hiệu lực có thể khác theo giả thiết hợp pháp. Slide không giảng quy tắc trả lời sửa nội dung thành đề nghị mới.
 
-- **A — Sai:** Giá trị nhỏ không là căn cứ được slide dùng cho trường hợp này.
-- **B — Sai:** Không được bỏ điều kiện thỏa thuận để suy mọi im lặng đều chấp nhận.
-- **C — Đúng:** Slide 10 đặt trường hợp các bên có thỏa thuận và mốc hết thời hạn trả lời.
-- **D — Sai:** Ý muốn riêng của người gửi không thay thỏa thuận của các bên.
+- **A — Sai:** Gửi đề nghị chưa đủ: bên nhận chưa nhận và chưa hết thời hạn trả lời, nên chưa thể dùng sự im lặng để xác định chấp nhận.
+- **B — Sai:** Nhận được đề nghị chỉ bắt đầu quá trình xem xét; chưa hết thời hạn trả lời đã thỏa thuận thì chưa đạt mốc xác định chấp nhận bằng im lặng.
+- **C — Đúng:** Slide 10 yêu cầu có thỏa thuận im lặng là chấp nhận và xác định mốc hết thời hạn trả lời. Phải giữ đồng thời điều kiện thỏa thuận và mốc thời gian.
+- **D — Sai:** Ý chí đơn phương rút ngắn thời hạn của bên đề nghị không thay thế thời hạn trả lời đã được các bên thỏa thuận.
 
 **Slide trực tiếp:** Chương 5, slide 10. **Tham khảo theo chủ đề:** Chương 5, slide 9,10.
 
@@ -8363,7 +8363,7 @@ D. Khi bên đề nghị nhận được chấp nhận hợp lệ
 
 > Thời điểm giao kết hợp đồng Về nguyên tắc, HĐ được giao kết vào thời điểm các bên đạt được sự thỏa thuận. HĐ được giao kết trực tiếp bằng văn bản: Thời điểm giao kết HĐ là thời điểm bên sau cùng ký vào văn bản; HĐ được giao kết gián tiếp bằng VB (thông qua các tài liệu giao dịch): Thời điểm đạt được sự thỏa thuận được xác định theo thuyết "tiếp nhận” (HĐ được giao kết khi bên đề nghị nhận được trả lời chấp nhận giao kết) HĐ được giao kết bằng lời nói: là thời điểm các bên đã thỏa thuận về nội dung của HĐ. Các bên có thể sử dụng những biện pháp, chứng cứ hợp pháp để chứng minh việc "các bên đã thỏa thuận" Sự im lặng của bên được đề nghị cho đến khi hết thời hạn trả lời cũng có thể là căn xác định hợp đồng đã được giao kết, nếu có thoả thuận im lặng là sự trả lời chấp nhận giao kết hợp đồng. Hợp đồng được giao kết hợp pháp có hiệu lực từ thời điểm giao kết, trừ trường hợp các bên có thỏa thuận khác hoặc pháp luật có quy định khác.
 
-## Câu 18. Hợp đồng bằng văn bản theo trường hợp slide 10 được giao kết ở mốc nào?
+## Câu 18. Hai bên giao kết hợp đồng bằng văn bản có chữ ký của cả hai. Mốc nào xác định việc giao kết?
 
 *Thủ tục và thời điểm giao kết • Lý thuyết / vận dụng*
 
@@ -8594,7 +8594,7 @@ D. Giao kết hoặc thực hiện hợp đồng
 
 > Đặt cọc: là việc một bên (sau đây gọi là bên đặt cọc) giao cho bên kia (sau đây gọi là bên nhận đặt cọc) một khoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung là tài sản đặt cọc) trong một thời hạn để bảo đảm giao kết hoặc thực hiện hợp đồng. Ký cược: là việc bên thuê tài sản là động sản giao cho bên cho thuê một khoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung là tài sản ký cược) trong một thời hạn để bảo đảm việc trả lại tài sản thuê.
 
-## Câu 25. Nhóm tài sản nào phản ánh đầy đủ danh mục đặt cọc ở slide 15?
+## Câu 25. Nhóm nào bao quát các loại tài sản có thể dùng để đặt cọc?
 
 *Đặt cọc, ký cược và ký quỹ • Tình huống / phân biệt*
 
@@ -8627,7 +8627,7 @@ D. Tiền, kim khí quý, đá quý hoặc vật có giá trị khác
 
 > Đặt cọc: là việc một bên (sau đây gọi là bên đặt cọc) giao cho bên kia (sau đây gọi là bên nhận đặt cọc) một khoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung là tài sản đặt cọc) trong một thời hạn để bảo đảm giao kết hoặc thực hiện hợp đồng. Ký cược: là việc bên thuê tài sản là động sản giao cho bên cho thuê một khoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung là tài sản ký cược) trong một thời hạn để bảo đảm việc trả lại tài sản thuê.
 
-## Câu 26. Trong định nghĩa đặt cọc của slide 15, tài sản được giao như thế nào về thời gian và mục đích?
+## Câu 26. Trong biện pháp đặt cọc, việc giao tài sản có đặc điểm gì về thời gian và mục đích?
 
 *Đặt cọc, ký cược và ký quỹ • Lý thuyết / vận dụng*
 
@@ -8660,7 +8660,7 @@ D. Vĩnh viễn và luôn để tặng cho
 
 > Đặt cọc: là việc một bên (sau đây gọi là bên đặt cọc) giao cho bên kia (sau đây gọi là bên nhận đặt cọc) một khoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung là tài sản đặt cọc) trong một thời hạn để bảo đảm giao kết hoặc thực hiện hợp đồng. Ký cược: là việc bên thuê tài sản là động sản giao cho bên cho thuê một khoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung là tài sản ký cược) trong một thời hạn để bảo đảm việc trả lại tài sản thuê.
 
-## Câu 27. A giao một khoản tiền trong 20 ngày nhằm bảo đảm hai bên sẽ giao kết hợp đồng mua máy. Theo định nghĩa slide 15, đây là biện pháp nào?
+## Câu 27. A giao một khoản tiền trong 20 ngày để bảo đảm hai bên sẽ giao kết hợp đồng mua máy. Đây là biện pháp bảo đảm nào?
 
 *Đặt cọc, ký cược và ký quỹ • Lý thuyết / vận dụng*
 
@@ -8825,17 +8825,17 @@ D. Có, không giao tài sản thì không thể là bảo lãnh
 
 > Bảo lãnh: là việc người thứ ba (sau đây gọi là bên bảo lãnh) cam kết với bên có quyền (sau đây gọi là bên nhận bảo lãnh) sẽ thực hiện nghĩa vụ thay cho bên có nghĩa vụ (sau đây gọi là bên được bảo lãnh), nếu khi đến thời hạn thực hiện nghĩa vụ mà bên được bảo lãnh không thực hiện hoặc thực hiện không đúng nghĩa vụ.
 
-## Câu 32. Theo tín chấp ở slide 17, cứ vay không thế chấp là đã đủ các dấu hiệu được bài giảng nêu không?
+## Câu 32. Chỉ có việc vay tiền không kèm tài sản thế chấp đã đủ để xác định biện pháp bảo đảm là tín chấp chưa?
 
 *Bảo lãnh, tín chấp và cầm giữ • Phân biệt*
 
-A. Không; slide còn nêu tổ chức chính trị – xã hội cơ sở bảo đảm cho cá nhân, hộ nghèo vay tại tổ chức tín dụng
+A. Chưa; còn cần tổ chức chính trị – xã hội cơ sở bảo đảm cho cá nhân, hộ nghèo vay tại tổ chức tín dụng
 
 B. Có; chỉ cần không có tài sản thế chấp
 
 C. Có; chỉ cần cá nhân tự tuyên bố có uy tín
 
-D. Không; vì bài giảng chỉ thừa nhận thế chấp
+D. Không; vì mọi khoản vay đều bắt buộc phải thế chấp
 
 **Đáp án: A**
 
@@ -8998,7 +8998,7 @@ A. Có, kể cả hợp đồng có người thừa kế thực hiện hợp ph�
 
 B. Không, vì người chết vẫn có thể trực tiếp thực hiện
 
-C. Không; slide 21 nêu trường hợp phải chính cá nhân đó thực hiện hợp đồng
+C. Không; chỉ xét trường hợp hợp đồng phải do chính cá nhân đó thực hiện
 
 D. Có, mọi khoản nợ tự mất
 
@@ -9023,7 +9023,7 @@ D. Có, mọi khoản nợ tự mất
 
 > SỬA ĐỔI, CHẤM DỨT, HUỶ BỎ HỢP ĐỒNG Chấm dứt hợp đồng * Các trường hợp hợp chấm dứt hợp đồng: + Hợp đồng đã được hoàn thành; + Theo thoả thuận của các bên; + Cá nhân giao kết hợp đồng chết, pháp nhân hoặc chủ thể khác chấm dứt mà hợp đồng phải do chính cá nhân, pháp nhân hoặc chủ thể đó thực hiện; + Hợp đồng bị huỷ bỏ, bị đơn phương chấm dứt thực hiện; + Hợp đồng không thể thực hiện được do đối tượng của HĐ không còn và các bên có thể thoả thuận thay thế đối tượng khác hoặc bồi thường thiệt hại; + Các trường hợp khác do pháp luật quy định.
 
-## Câu 38. Hai bên thỏa thuận giao trễ hơn 10 ngày là điều kiện hủy bỏ. Bên bán vi phạm đúng điều kiện này. Theo slide 22, bên kia có căn cứ nào?
+## Câu 38. Hai bên thỏa thuận giao hàng trễ hơn 10 ngày là điều kiện hủy bỏ hợp đồng. Bên bán vi phạm đúng điều kiện này. Bên mua có căn cứ nào để xử lý?
 
 *Hủy bỏ hợp đồng • Lý thuyết / vận dụng*
 
@@ -9056,7 +9056,7 @@ D. Tự sửa toàn bộ pháp luật về hợp đồng
 
 > SỬA ĐỔI, CHẤM DỨT, HUỶ BỎ HỢP ĐỒNG HUỶ BỎ HỢP ĐỒNG * Một bên có quyền huỷ bỏ hợp đồng và không phải Bồi thường thiệt hại khi bên kia vi phạm HĐ là điều kiện huỷ bỏ mà các bên đã thoả thuận hoặc pháp luật có quy định; * Bên huỷ HĐ phải thông báo ngay cho bên kia biết về việc huỷ bỏ (nếu không thông báo mà gây thiệt hại thì phải bồi thường); * Khi HĐ bị huỷ bỏ thì HĐ không có hiệu lực từ thời điểm giao kết và các bên phải hoàn trả cho nhau tài sản đã nhận, nếu không hoàn trả được bằng hiện vật thì pahỉ trả bằng tiền; * Bên có lỗi trong việc HĐ bị huỷ bỏ phải bồi thường thiệt hại.
 
-## Câu 39. Một bên hủy bỏ hợp đồng theo căn cứ bài giảng nhưng không thông báo ngay, gây thiệt hại cho bên kia. Slide 22 nêu hậu quả nào?
+## Câu 39. Một bên có căn cứ hủy bỏ hợp đồng nhưng không thông báo ngay, làm bên kia bị thiệt hại. Bên hủy bỏ phải chịu hậu quả nào?
 
 *Hủy bỏ hợp đồng • Lý thuyết / vận dụng*
 
@@ -9089,7 +9089,7 @@ D. Phải bồi thường thiệt hại do không thông báo gây ra
 
 > SỬA ĐỔI, CHẤM DỨT, HUỶ BỎ HỢP ĐỒNG HUỶ BỎ HỢP ĐỒNG * Một bên có quyền huỷ bỏ hợp đồng và không phải Bồi thường thiệt hại khi bên kia vi phạm HĐ là điều kiện huỷ bỏ mà các bên đã thoả thuận hoặc pháp luật có quy định; * Bên huỷ HĐ phải thông báo ngay cho bên kia biết về việc huỷ bỏ (nếu không thông báo mà gây thiệt hại thì phải bồi thường); * Khi HĐ bị huỷ bỏ thì HĐ không có hiệu lực từ thời điểm giao kết và các bên phải hoàn trả cho nhau tài sản đã nhận, nếu không hoàn trả được bằng hiện vật thì pahỉ trả bằng tiền; * Bên có lỗi trong việc HĐ bị huỷ bỏ phải bồi thường thiệt hại.
 
-## Câu 40. Theo slide 22, khi hủy bỏ hợp đồng thì mốc mất hiệu lực và hoàn trả được mô tả thế nào?
+## Câu 40. Khi hợp đồng bị hủy bỏ, mốc không có hiệu lực và nghĩa vụ hoàn trả được xác định như thế nào?
 
 *Hủy bỏ hợp đồng • Lý thuyết / vận dụng*
 
@@ -9122,7 +9122,7 @@ D. Không bao giờ phải hoàn trả
 
 > SỬA ĐỔI, CHẤM DỨT, HUỶ BỎ HỢP ĐỒNG HUỶ BỎ HỢP ĐỒNG * Một bên có quyền huỷ bỏ hợp đồng và không phải Bồi thường thiệt hại khi bên kia vi phạm HĐ là điều kiện huỷ bỏ mà các bên đã thoả thuận hoặc pháp luật có quy định; * Bên huỷ HĐ phải thông báo ngay cho bên kia biết về việc huỷ bỏ (nếu không thông báo mà gây thiệt hại thì phải bồi thường); * Khi HĐ bị huỷ bỏ thì HĐ không có hiệu lực từ thời điểm giao kết và các bên phải hoàn trả cho nhau tài sản đã nhận, nếu không hoàn trả được bằng hiện vật thì pahỉ trả bằng tiền; * Bên có lỗi trong việc HĐ bị huỷ bỏ phải bồi thường thiệt hại.
 
-## Câu 41. Hợp đồng đã được hoàn thành đầy đủ. Theo danh mục slide 21, đây là gì?
+## Câu 41. Việc các bên hoàn thành đầy đủ hợp đồng thuộc trường hợp pháp lý nào?
 
 *Thực hiện, sửa đổi và chấm dứt • Lý thuyết / vận dụng*
 
@@ -9155,7 +9155,7 @@ D. Luôn là vi phạm hợp đồng
 
 > SỬA ĐỔI, CHẤM DỨT, HUỶ BỎ HỢP ĐỒNG Chấm dứt hợp đồng * Các trường hợp hợp chấm dứt hợp đồng: + Hợp đồng đã được hoàn thành; + Theo thoả thuận của các bên; + Cá nhân giao kết hợp đồng chết, pháp nhân hoặc chủ thể khác chấm dứt mà hợp đồng phải do chính cá nhân, pháp nhân hoặc chủ thể đó thực hiện; + Hợp đồng bị huỷ bỏ, bị đơn phương chấm dứt thực hiện; + Hợp đồng không thể thực hiện được do đối tượng của HĐ không còn và các bên có thể thoả thuận thay thế đối tượng khác hoặc bồi thường thiệt hại; + Các trường hợp khác do pháp luật quy định.
 
-## Câu 42. Bên có lỗi trong việc hợp đồng bị hủy bỏ gây thiệt hại. Theo slide 22, nguyên tắc trách nhiệm là gì?
+## Câu 42. Một bên có lỗi làm hợp đồng bị hủy bỏ và gây thiệt hại. Nguyên tắc xác định trách nhiệm là gì?
 
 *Hủy bỏ hợp đồng • Lý thuyết / vận dụng*
 
@@ -9287,17 +9287,17 @@ D. 200 triệu
 
 > * Phạt vi phạm + Khái niệm: Phạt vi phạm là sự thoả thuận giữa các bên trong HĐ, theo đó bên vi phạm nghĩa vụ phảI nộp một khoản tiền cho bên bị vi phạm. + Căn cứ áp dụng: Có hành vi vi phạm HĐ; Có thoả thuận trong hợp đồng về việc áp dụng chế tài phạt vi phạm. + Mức phạt: Do các bên thoả thuận nhưng không được quá 8% giá trị phần hợp đồng bị vi phạm. * Bồi thường thiệt hại + Khái niệm: BTTH là việc bên VP bồi thường những tổn thất vật chất do hành vi VP hợp đồng gây ra cho bên bị VP. + Căn cứ áp dụng: Có hành vi VP; Có thiệt hại thực tế xẩy ra; Có mối quan hệ nhân quả giữa hành vi VP và thiệt hại thực tế. + Mức bồi thường: Do các bên thoả thuận, nếu không thoả thuận phải BTTH toàn bộ thiệt hại. => Các bên có thể thoả thuận về nộp tiền phạt vi phạm và BTTH.
 
-## Câu 46. Bên mua đã trả tiền nhưng chưa nhận vật vì bên bán giao không đồng bộ. Theo slide 30, khoản lãi trên số tiền đã trả được xác định thế nào?
+## Câu 46. Bên mua đã trả tiền nhưng chưa nhận vật vì bên bán giao không đồng bộ. Khoản lãi trên số tiền đã trả được xác định như thế nào?
 
 *Hợp đồng mua bán hàng hóa • Lý thuyết / vận dụng*
 
-A. Theo thỏa thuận nhưng không vượt mức lãi suất theo Điều 468 được slide dẫn
+A. Theo thỏa thuận nhưng không vượt mức lãi suất được Bộ luật Dân sự quy định
 
 B. Luôn 8% của toàn bộ giá hợp đồng
 
 C. Luôn bằng tiền cọc gấp đôi
 
-D. Không bao giờ có lãi dù slide nêu
+D. Không bao giờ có quyền yêu cầu lãi trên tiền đã trả
 
 **Đáp án: A**
 
@@ -9324,7 +9324,7 @@ D. Không bao giờ có lãi dù slide nêu
 
 > MỘT SỐ LƯU Ý LIÊN QUAN Trường hợp quyền tài sản là quyền đòi nợ và bên bán cam kết bảo đảm khả năng thanh toán của người mắc nợ thì bên bán phải liên đới chịu trách nhiệm TT, nếu khi đến hạn mà người mắc nợ không trả. Điều 468 BLDS: Lãi suất Trường hợp các bên có thỏa thuận về lãi suất thì lãi suất theo thỏa thuận không được vượt quá 20%/năm của khoản tiền vay, trừ trường hợp luật khác có liên quan quy định khác. Trường hợp lãi suất theo thỏa thuận vượt quá lãi suất giới hạn được quy định tại khoản này thì mức lãi suất vượt quá không có hiệu lực. Trường hợp các bên có thoả thuận về việc trả lãi, nhưng không xác định rõ lãi suất và có tranh chấp về lãi suất thì lãi suất được xác định bằng 50% mức lãi suất giới hạn nêu trên tại thời điểm trả nợ. Lãi trên nợ gốc quá hạn chưa trả bằng 150% lãi suất vay theo hợp đồng tương ứng với thời gian chậm trả, trừ trường hợp có thoả thuận khác.
 
-## Câu 47. Áp dụng quy tắc 8% trình bày tại slide 24: phần nghĩa vụ vi phạm 350 triệu, toàn hợp đồng 2 tỷ. Mức phạt tối đa theo quy tắc này là bao nhiêu?
+## Câu 47. Hợp đồng thương mại áp dụng giới hạn phạt 8%, có giá trị 2 tỷ đồng; phần nghĩa vụ vi phạm trị giá 350 triệu đồng. Mức phạt tối đa là bao nhiêu?
 
 *Phạt vi phạm theo bài giảng • Lý thuyết / vận dụng*
 
@@ -9357,7 +9357,7 @@ D. 350 triệu đồng
 
 > * Phạt vi phạm + Khái niệm: Phạt vi phạm là sự thoả thuận giữa các bên trong HĐ, theo đó bên vi phạm nghĩa vụ phảI nộp một khoản tiền cho bên bị vi phạm. + Căn cứ áp dụng: Có hành vi vi phạm HĐ; Có thoả thuận trong hợp đồng về việc áp dụng chế tài phạt vi phạm. + Mức phạt: Do các bên thoả thuận nhưng không được quá 8% giá trị phần hợp đồng bị vi phạm. * Bồi thường thiệt hại + Khái niệm: BTTH là việc bên VP bồi thường những tổn thất vật chất do hành vi VP hợp đồng gây ra cho bên bị VP. + Căn cứ áp dụng: Có hành vi VP; Có thiệt hại thực tế xẩy ra; Có mối quan hệ nhân quả giữa hành vi VP và thiệt hại thực tế. + Mức bồi thường: Do các bên thoả thuận, nếu không thoả thuận phải BTTH toàn bộ thiệt hại. => Các bên có thể thoả thuận về nộp tiền phạt vi phạm và BTTH.
 
-## Câu 48. Slide 24 nêu khả năng thỏa thuận kết hợp phạt và bồi thường như thế nào?
+## Câu 48. Các bên có thể thỏa thuận bên vi phạm phải chịu cả phạt vi phạm và bồi thường thiệt hại không?
 
 *Phạt vi phạm theo bài giảng • Lý thuyết / vận dụng*
 
@@ -9456,7 +9456,7 @@ D. Chỉ vi phạm dù không có thiệt hại
 
 > * Phạt vi phạm + Khái niệm: Phạt vi phạm là sự thoả thuận giữa các bên trong HĐ, theo đó bên vi phạm nghĩa vụ phảI nộp một khoản tiền cho bên bị vi phạm. + Căn cứ áp dụng: Có hành vi vi phạm HĐ; Có thoả thuận trong hợp đồng về việc áp dụng chế tài phạt vi phạm. + Mức phạt: Do các bên thoả thuận nhưng không được quá 8% giá trị phần hợp đồng bị vi phạm. * Bồi thường thiệt hại + Khái niệm: BTTH là việc bên VP bồi thường những tổn thất vật chất do hành vi VP hợp đồng gây ra cho bên bị VP. + Căn cứ áp dụng: Có hành vi VP; Có thiệt hại thực tế xẩy ra; Có mối quan hệ nhân quả giữa hành vi VP và thiệt hại thực tế. + Mức bồi thường: Do các bên thoả thuận, nếu không thoả thuận phải BTTH toàn bộ thiệt hại. => Các bên có thể thoả thuận về nộp tiền phạt vi phạm và BTTH.
 
-## Câu 51. Slide 24 nêu ba căn cứ bồi thường hợp đồng nào?
+## Câu 51. Ba căn cứ cơ bản để yêu cầu bồi thường thiệt hại do vi phạm hợp đồng là gì?
 
 *Bồi thường và căn cứ thiệt hại • Lý thuyết / vận dụng*
 
@@ -9555,7 +9555,7 @@ D. Có, bồi thường luôn phải ghi riêng mới có
 
 > * Phạt vi phạm + Khái niệm: Phạt vi phạm là sự thoả thuận giữa các bên trong HĐ, theo đó bên vi phạm nghĩa vụ phảI nộp một khoản tiền cho bên bị vi phạm. + Căn cứ áp dụng: Có hành vi vi phạm HĐ; Có thoả thuận trong hợp đồng về việc áp dụng chế tài phạt vi phạm. + Mức phạt: Do các bên thoả thuận nhưng không được quá 8% giá trị phần hợp đồng bị vi phạm. * Bồi thường thiệt hại + Khái niệm: BTTH là việc bên VP bồi thường những tổn thất vật chất do hành vi VP hợp đồng gây ra cho bên bị VP. + Căn cứ áp dụng: Có hành vi VP; Có thiệt hại thực tế xẩy ra; Có mối quan hệ nhân quả giữa hành vi VP và thiệt hại thực tế. + Mức bồi thường: Do các bên thoả thuận, nếu không thoả thuận phải BTTH toàn bộ thiệt hại. => Các bên có thể thoả thuận về nộp tiền phạt vi phạm và BTTH.
 
-## Câu 54. Bên mua chứng minh một thiệt hại do hỏa hoạn riêng, không do vi phạm giao hàng của bên bán. Còn thiếu căn cứ nào để đòi bên bán theo slide 24?
+## Câu 54. Bên mua chứng minh một thiệt hại do hỏa hoạn riêng, không do vi phạm giao hàng của bên bán. Còn thiếu căn cứ nào để yêu cầu bên bán bồi thường?
 
 *Bồi thường và căn cứ thiệt hại • Lý thuyết / vận dụng*
 
@@ -9588,7 +9588,7 @@ D. Số lao động của bên bán
 
 > * Phạt vi phạm + Khái niệm: Phạt vi phạm là sự thoả thuận giữa các bên trong HĐ, theo đó bên vi phạm nghĩa vụ phảI nộp một khoản tiền cho bên bị vi phạm. + Căn cứ áp dụng: Có hành vi vi phạm HĐ; Có thoả thuận trong hợp đồng về việc áp dụng chế tài phạt vi phạm. + Mức phạt: Do các bên thoả thuận nhưng không được quá 8% giá trị phần hợp đồng bị vi phạm. * Bồi thường thiệt hại + Khái niệm: BTTH là việc bên VP bồi thường những tổn thất vật chất do hành vi VP hợp đồng gây ra cho bên bị VP. + Căn cứ áp dụng: Có hành vi VP; Có thiệt hại thực tế xẩy ra; Có mối quan hệ nhân quả giữa hành vi VP và thiệt hại thực tế. + Mức bồi thường: Do các bên thoả thuận, nếu không thoả thuận phải BTTH toàn bộ thiệt hại. => Các bên có thể thoả thuận về nộp tiền phạt vi phạm và BTTH.
 
-## Câu 55. Không thỏa thuận mức bồi thường; đã chứng minh hai khoản thiệt hại thực tế 30 và 20 triệu do vi phạm, không trùng nhau. Theo slide 24, tổng là bao nhiêu?
+## Câu 55. Hai bên không thỏa thuận mức bồi thường; bên bị vi phạm chứng minh được hai khoản thiệt hại thực tế 30 và 20 triệu đồng do vi phạm, không trùng nhau. Tổng mức bồi thường là bao nhiêu?
 
 *Bồi thường và căn cứ thiệt hại • Lý thuyết / vận dụng*
 
@@ -9621,7 +9621,7 @@ D. 50 triệu đồng
 
 > * Phạt vi phạm + Khái niệm: Phạt vi phạm là sự thoả thuận giữa các bên trong HĐ, theo đó bên vi phạm nghĩa vụ phảI nộp một khoản tiền cho bên bị vi phạm. + Căn cứ áp dụng: Có hành vi vi phạm HĐ; Có thoả thuận trong hợp đồng về việc áp dụng chế tài phạt vi phạm. + Mức phạt: Do các bên thoả thuận nhưng không được quá 8% giá trị phần hợp đồng bị vi phạm. * Bồi thường thiệt hại + Khái niệm: BTTH là việc bên VP bồi thường những tổn thất vật chất do hành vi VP hợp đồng gây ra cho bên bị VP. + Căn cứ áp dụng: Có hành vi VP; Có thiệt hại thực tế xẩy ra; Có mối quan hệ nhân quả giữa hành vi VP và thiệt hại thực tế. + Mức bồi thường: Do các bên thoả thuận, nếu không thoả thuận phải BTTH toàn bộ thiệt hại. => Các bên có thể thoả thuận về nộp tiền phạt vi phạm và BTTH.
 
-## Câu 56. Hai bên thỏa thuận rõ chịu cả phạt và bồi thường; vi phạm và thiệt hại đủ căn cứ. Theo nội dung slide 24, nhận định nào phù hợp?
+## Câu 56. Hai bên thỏa thuận rõ bên vi phạm chịu cả phạt và bồi thường; hành vi vi phạm và thiệt hại đều đủ căn cứ. Nhận định nào đúng?
 
 *Bồi thường và căn cứ thiệt hại • Lý thuyết / vận dụng*
 
@@ -9654,7 +9654,7 @@ D. Có thể áp dụng cả hai theo thỏa thuận và căn cứ tương ứng
 
 > * Phạt vi phạm + Khái niệm: Phạt vi phạm là sự thoả thuận giữa các bên trong HĐ, theo đó bên vi phạm nghĩa vụ phảI nộp một khoản tiền cho bên bị vi phạm. + Căn cứ áp dụng: Có hành vi vi phạm HĐ; Có thoả thuận trong hợp đồng về việc áp dụng chế tài phạt vi phạm. + Mức phạt: Do các bên thoả thuận nhưng không được quá 8% giá trị phần hợp đồng bị vi phạm. * Bồi thường thiệt hại + Khái niệm: BTTH là việc bên VP bồi thường những tổn thất vật chất do hành vi VP hợp đồng gây ra cho bên bị VP. + Căn cứ áp dụng: Có hành vi VP; Có thiệt hại thực tế xẩy ra; Có mối quan hệ nhân quả giữa hành vi VP và thiệt hại thực tế. + Mức bồi thường: Do các bên thoả thuận, nếu không thoả thuận phải BTTH toàn bộ thiệt hại. => Các bên có thể thoả thuận về nộp tiền phạt vi phạm và BTTH.
 
-## Câu 57. Nhóm nào gồm bốn căn cứ miễn trách nhiệm được slide 25 liệt kê?
+## Câu 57. Nhóm nào gồm bốn căn cứ miễn trách nhiệm do vi phạm hợp đồng?
 
 *Miễn trách nhiệm và bất khả kháng • Lý thuyết / vận dụng*
 
@@ -9691,7 +9691,7 @@ D. Chỉ giá nguyên liệu tăng và lợi nhuận giảm
 
 *Vô hiệu: căn cứ và hậu quả • Tình huống*
 
-A. Vô hiệu do có đối tượng không thể thực hiện được theo slide 27
+A. Vô hiệu do có đối tượng không thể thực hiện được
 
 B. Luôn có hiệu lực nếu giá đã ghi rõ
 
@@ -9720,7 +9720,7 @@ D. Chỉ đơn phương chấm dứt cho tương lai, không có căn cứ vô h
 
 > 1. Hợp đồng dân sự vô hiệu do vi phạm điều cấm của luật, trái đạo đức xã hội. 2. Hợp đồng dân sự vô hiệu do giả tạo. 3. Hợp đồng dân sự vô hiệu do người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người bị hạn chế năng lực hành vi dân sự xác lập, thực hiện. 4. Hợp đồng dân sự vô hiệu do bị nhầm lẫn. 5. Hợp đồng dân sự vô hiệu do bị lừa dối, đe dọa, cưỡng ép. 6. Hợp đồng dân sự vô hiệu do người xác lập không nhận thức và làm chủ được hành vi của mình. 7. Hợp đồng dân sự vô hiệu do không tuân thủ quy định về hình thức. 8. Hợp đồng vô hiệu do có đối tượng không thể thực hiện được.
 
-## Câu 59. Một căn cứ miễn trách nhiệm thương mại theo slide 25 là gì?
+## Câu 59. Trường hợp nào có thể là căn cứ miễn trách nhiệm do vi phạm hợp đồng thương mại?
 
 *Miễn trách nhiệm và bất khả kháng • Lý thuyết*
 
@@ -9753,7 +9753,7 @@ D. Bên vi phạm chỉ muốn đổi đối tác
 
 > CÁC TRƯỜNG HỢP MIỄN TRÁCH NHIỆM PHÁP LÝ DO VI PHẠM HỢP ĐỒNG Các trường hợp do các bên thỏa thuận Sự kiện bất khả kháng Vi phạm HĐ của một bên hoàn toàn do lỗi của bên kia vi phạm hợp đồng của một bên do thực hiện quyết định của cơ quan nhà nước có thẩm quyền mà các bên không thể biết được vào thời điểm giao kết hợp đồng.
 
-## Câu 60. Vi phạm do thực hiện quyết định của cơ quan quản lý có thẩm quyền. Slide 25 yêu cầu thêm tình tiết nào cho căn cứ miễn này?
+## Câu 60. Vi phạm xảy ra do thực hiện quyết định của cơ quan quản lý có thẩm quyền. Cần thêm điều kiện nào để xem xét căn cứ miễn trách nhiệm này?
 
 *Miễn trách nhiệm và bất khả kháng • Lý thuyết / vận dụng*
 
@@ -9827,7 +9827,7 @@ D. Không; trước hết xét vi phạm thực hiện và chế tài
 
 > 1. Hợp đồng dân sự vô hiệu do vi phạm điều cấm của luật, trái đạo đức xã hội. 2. Hợp đồng dân sự vô hiệu do giả tạo. 3. Hợp đồng dân sự vô hiệu do người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người bị hạn chế năng lực hành vi dân sự xác lập, thực hiện. 4. Hợp đồng dân sự vô hiệu do bị nhầm lẫn. 5. Hợp đồng dân sự vô hiệu do bị lừa dối, đe dọa, cưỡng ép. 6. Hợp đồng dân sự vô hiệu do người xác lập không nhận thức và làm chủ được hành vi của mình. 7. Hợp đồng dân sự vô hiệu do không tuân thủ quy định về hình thức. 8. Hợp đồng vô hiệu do có đối tượng không thể thực hiện được.
 
-## Câu 62. “Giả tạo” được slide 27 xếp vào nhóm nội dung nào?
+## Câu 62. Hợp đồng được xác lập một cách giả tạo thuộc nhóm căn cứ pháp lý nào?
 
 *Vô hiệu: căn cứ và hậu quả • Lý thuyết / vận dụng*
 
@@ -9860,7 +9860,7 @@ D. Một phương thức tăng vốn CTCP
 
 > 1. Hợp đồng dân sự vô hiệu do vi phạm điều cấm của luật, trái đạo đức xã hội. 2. Hợp đồng dân sự vô hiệu do giả tạo. 3. Hợp đồng dân sự vô hiệu do người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người bị hạn chế năng lực hành vi dân sự xác lập, thực hiện. 4. Hợp đồng dân sự vô hiệu do bị nhầm lẫn. 5. Hợp đồng dân sự vô hiệu do bị lừa dối, đe dọa, cưỡng ép. 6. Hợp đồng dân sự vô hiệu do người xác lập không nhận thức và làm chủ được hành vi của mình. 7. Hợp đồng dân sự vô hiệu do không tuân thủ quy định về hình thức. 8. Hợp đồng vô hiệu do có đối tượng không thể thực hiện được.
 
-## Câu 63. Một bên giao kết do bị lừa dối. Slide 27 đặt tình tiết này trong nội dung nào?
+## Câu 63. Một bên giao kết hợp đồng do bị lừa dối. Cần xem xét căn cứ nào về hiệu lực hợp đồng?
 
 *Vô hiệu: căn cứ và hậu quả • Lý thuyết / vận dụng*
 
@@ -9893,7 +9893,7 @@ D. Căn cứ tự tăng vốn điều lệ
 
 > 1. Hợp đồng dân sự vô hiệu do vi phạm điều cấm của luật, trái đạo đức xã hội. 2. Hợp đồng dân sự vô hiệu do giả tạo. 3. Hợp đồng dân sự vô hiệu do người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người bị hạn chế năng lực hành vi dân sự xác lập, thực hiện. 4. Hợp đồng dân sự vô hiệu do bị nhầm lẫn. 5. Hợp đồng dân sự vô hiệu do bị lừa dối, đe dọa, cưỡng ép. 6. Hợp đồng dân sự vô hiệu do người xác lập không nhận thức và làm chủ được hành vi của mình. 7. Hợp đồng dân sự vô hiệu do không tuân thủ quy định về hình thức. 8. Hợp đồng vô hiệu do có đối tượng không thể thực hiện được.
 
-## Câu 64. Chỉ một phần nội dung hợp đồng không được công nhận giá trị pháp lý theo tình huống đề cho. Slide 26 gọi dạng này là gì?
+## Câu 64. Chỉ một phần nội dung hợp đồng không được công nhận giá trị pháp lý. Dạng vô hiệu này được gọi là gì?
 
 *Vô hiệu: căn cứ và hậu quả • Lý thuyết / vận dụng*
 
@@ -9959,7 +9959,7 @@ D. Không phát sinh quyền, nghĩa vụ từ xác lập; khôi phục ban đ�
 
 > Hậu quả pháp lý của giao dịch dân sự vô hiệu 1. Giao dịch dân sự vô hiệu không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên kể từ thời điểm giao dịch được xác lập. 2. Khi giao dịch dân sự vô hiệu thì các bên khôi phục lại tình trạng ban đầu, hoàn trả cho nhau những gì đã nhận. Trường hợp không thể hoàn trả được bằng hiện vật thì trị giá thành tiền để hoàn trả. 3. Bên ngay tình trong việc thu hoa lợi, lợi tức không phải hoàn trả lại hoa lợi, lợi tức đó. 4. Bên có lỗi gây thiệt hại thì phải bồi thường.
 
-## Câu 66. Bên ngay tình đã thu hoa lợi, lợi tức trong giao dịch sau đó vô hiệu. Nguyên tắc slide 28?
+## Câu 66. Bên ngay tình đã thu hoa lợi, lợi tức từ tài sản trong giao dịch sau đó bị vô hiệu. Nghĩa vụ đối với hoa lợi, lợi tức đã thu được xác định như thế nào?
 
 *Vô hiệu: căn cứ và hậu quả • Tình huống*
 
@@ -10025,7 +10025,7 @@ D. Có, kể cả không có thiệt hại
 
 > Hậu quả pháp lý của giao dịch dân sự vô hiệu 1. Giao dịch dân sự vô hiệu không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên kể từ thời điểm giao dịch được xác lập. 2. Khi giao dịch dân sự vô hiệu thì các bên khôi phục lại tình trạng ban đầu, hoàn trả cho nhau những gì đã nhận. Trường hợp không thể hoàn trả được bằng hiện vật thì trị giá thành tiền để hoàn trả. 3. Bên ngay tình trong việc thu hoa lợi, lợi tức không phải hoàn trả lại hoa lợi, lợi tức đó. 4. Bên có lỗi gây thiệt hại thì phải bồi thường.
 
-## Câu 68. Theo khái niệm mua bán hàng hóa ở slide 29, hai bên thỏa thuận trao đổi những gì?
+## Câu 68. Theo khái niệm hợp đồng mua bán hàng hóa, hai bên thỏa thuận trao đổi những gì?
 
 *Hợp đồng mua bán hàng hóa • Lý thuyết*
 
@@ -10091,7 +10091,7 @@ D. Có, mọi mua bán phải công chứng
 
 > HỢP ĐỒNG MUA BÁN HÀNG HÓA Nội dung của HĐMBHH Hình thức của HĐMBHH Lời nói Văn bản (Bắt buộc đối với loại HĐMBHH mà pháp luật quy định phải được lập thành văn bản) Hành vi THỰC HIỆN HĐ: . Trường hợp bên mua đã trả tiền nhưng chưa nhận vật do giao không đồng bộ thì được trả lãi đối với số tiền đã trả theo lãi suất thỏa thuận giữa các bên nhưng không được vượt quá mức lãi suất được quy định tại khoản 1 Điều 468 của Bộ luật này Trách nhiệm do vi phạm HĐMBHH Nguồn luật điều chỉnh quan hệ HĐMBHH
 
-## Câu 70. Giả thiết pháp luật áp dụng yêu cầu hợp đồng mua bán phải bằng văn bản. Theo slide 30, các bên phải làm gì?
+## Câu 70. Pháp luật áp dụng yêu cầu hợp đồng mua bán phải bằng văn bản. Các bên phải tuân thủ yêu cầu nào?
 
 *Hợp đồng mua bán hàng hóa • Lý thuyết / vận dụng*
 
@@ -10161,7 +10161,7 @@ D. Chỉ giá hợp đồng, bỏ chất lượng
 
 > * Phạt vi phạm + Khái niệm: Phạt vi phạm là sự thoả thuận giữa các bên trong HĐ, theo đó bên vi phạm nghĩa vụ phảI nộp một khoản tiền cho bên bị vi phạm. + Căn cứ áp dụng: Có hành vi vi phạm HĐ; Có thoả thuận trong hợp đồng về việc áp dụng chế tài phạt vi phạm. + Mức phạt: Do các bên thoả thuận nhưng không được quá 8% giá trị phần hợp đồng bị vi phạm. * Bồi thường thiệt hại + Khái niệm: BTTH là việc bên VP bồi thường những tổn thất vật chất do hành vi VP hợp đồng gây ra cho bên bị VP. + Căn cứ áp dụng: Có hành vi VP; Có thiệt hại thực tế xẩy ra; Có mối quan hệ nhân quả giữa hành vi VP và thiệt hại thực tế. + Mức bồi thường: Do các bên thoả thuận, nếu không thoả thuận phải BTTH toàn bộ thiệt hại. => Các bên có thể thoả thuận về nộp tiền phạt vi phạm và BTTH.
 
-## Câu 72. Theo slide 29, chủ thể của hợp đồng mua bán hàng hóa được bài giảng mô tả bằng nhóm nào?
+## Câu 72. Chủ thể của hợp đồng mua bán hàng hóa có đặc điểm nào trong các lựa chọn dưới đây?
 
 *Hợp đồng mua bán hàng hóa • Lý thuyết*
 
@@ -10392,7 +10392,7 @@ D. 8 triệu
 
 > MỘT SỐ LƯU Ý LIÊN QUAN Trường hợp quyền tài sản là quyền đòi nợ và bên bán cam kết bảo đảm khả năng thanh toán của người mắc nợ thì bên bán phải liên đới chịu trách nhiệm TT, nếu khi đến hạn mà người mắc nợ không trả. Điều 468 BLDS: Lãi suất Trường hợp các bên có thỏa thuận về lãi suất thì lãi suất theo thỏa thuận không được vượt quá 20%/năm của khoản tiền vay, trừ trường hợp luật khác có liên quan quy định khác. Trường hợp lãi suất theo thỏa thuận vượt quá lãi suất giới hạn được quy định tại khoản này thì mức lãi suất vượt quá không có hiệu lực. Trường hợp các bên có thoả thuận về việc trả lãi, nhưng không xác định rõ lãi suất và có tranh chấp về lãi suất thì lãi suất được xác định bằng 50% mức lãi suất giới hạn nêu trên tại thời điểm trả nợ. Lãi trên nợ gốc quá hạn chưa trả bằng 150% lãi suất vay theo hợp đồng tương ứng với thời gian chậm trả, trừ trường hợp có thoả thuận khác.
 
-## Câu 79. Slide 31 nêu trần lãi thỏa thuận 20%/năm với ngoại lệ được diễn đạt thế nào?
+## Câu 79. Giới hạn lãi suất vay thỏa thuận 20%/năm có ngoại lệ nào?
 
 *Hợp đồng vay và lãi suất dân sự • Lý thuyết / vận dụng*
 
@@ -10429,7 +10429,7 @@ D. Không có bất kỳ ngoại lệ nào
 
 *Hợp đồng mua bán hàng hóa • Tình huống*
 
-A. Liên đới chịu trách nhiệm thanh toán theo quy tắc slide 31
+A. Liên đới chịu trách nhiệm thanh toán
 
 B. Không bao giờ chịu trách nhiệm dù có cam kết bảo đảm
 

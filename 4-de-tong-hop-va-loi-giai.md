@@ -24,7 +24,7 @@ C. Bổ sung thành tố loại hình doanh nghiệp
 
 D. Bắt buộc đổi tên riêng sang tiếng Anh
 
-## Câu 3. Nợ đã quá hạn 2 tháng; công ty không trả được. Theo luật mới, mô tả phù hợp nhất là gì?
+## Câu 3. Nợ đã quá hạn 2 tháng; công ty không trả được. Theo Luật Phục hồi, phá sản 142/2025, mô tả phù hợp nhất là gì?
 
 A. Có nguy cơ mất khả năng thanh toán
 
@@ -44,7 +44,7 @@ C. Mọi điều khoản đều là chủ yếu
 
 D. Điều khoản tự vô hiệu vì được bổ sung
 
-## Câu 5. Một đơn vị có vốn và bán hàng thường xuyên nhưng khẳng định “kinh doanh thì không cần hạch toán, nghĩa vụ thuế”. Nhận định nào phù hợp slide?
+## Câu 5. Một đơn vị có vốn và bán hàng thường xuyên nhưng khẳng định “kinh doanh thì không cần hạch toán và nghĩa vụ thuế”. Nhận định nào đúng?
 
 A. Bỏ sót các dấu hiệu, nghĩa vụ của chủ thể kinh doanh
 
@@ -64,17 +64,17 @@ C. Tự tăng lên 1,2 tỷ vì chậm góp
 
 D. Mất toàn bộ quyền như người không góp đồng nào
 
-## Câu 7. Chủ nợ không bảo đảm muốn nộp yêu cầu phục hồi theo slide 36 thay người quản lý. Kết luận nào đúng?
+## Câu 7. Chủ nợ không bảo đảm muốn tự nộp đơn yêu cầu phục hồi thay người quản lý doanh nghiệp. Nhận định nào đúng về quyền nộp đơn?
 
 A. Được nếu khoản nợ nhỏ hơn 10 tỷ
 
-B. Không được quyền nộp phục hồi theo nhóm slide 36
+B. Chủ nợ không thuộc nhóm được quyền tự nộp đơn yêu cầu phục hồi
 
 C. Được vì mọi người có quyền xin phá sản đều có quyền xin phục hồi
 
 D. Được chỉ cần có đủ 20 chủ nợ
 
-## Câu 8. Hai công ty trao đổi tài liệu đề nghị và xác nhận nội dung để giao kết, không gặp đàm phán trực tiếp. Slide 9 gọi phương thức nào?
+## Câu 8. Hai công ty trao đổi tài liệu đề nghị và xác nhận nội dung hợp đồng, không gặp đàm phán trực tiếp. Đây là phương thức giao kết nào?
 
 A. Ký cược
 
@@ -84,7 +84,7 @@ C. Giải thể
 
 D. Giao kết trực tiếp tại cuộc gặp
 
-## Câu 9. Người mua cần biết thành phần sản phẩm và nhận hóa đơn. Nhóm quyền nào ở slide phù hợp nhất?
+## Câu 9. Cửa hàng không cung cấp thông tin chính xác về sản phẩm. Quyền nào của người tiêu dùng bị ảnh hưởng trực tiếp?
 
 A. Quyền tự ấn định thuế của cửa hàng
 
@@ -124,11 +124,11 @@ C. Tín chấp của tổ chức cơ sở
 
 D. Thế chấp không giao tài sản
 
-## Câu 13. TNHH MTV được mô tả một chủ, có pháp nhân và gắn trách nhiệm hữu hạn của chủ. Ba mô tả này mâu thuẫn không?
+## Câu 13. Công ty TNHH một thành viên có một chủ sở hữu, có tư cách pháp nhân và chủ chịu trách nhiệm hữu hạn. Ba mô tả này có mâu thuẫn với nhau không?
 
 A. Không, vì một chủ đồng nghĩa luôn vô hạn
 
-B. Không, dùng ba tiêu chí độc lập của slide 19
+B. Không; đây là ba tiêu chí độc lập nên có thể cùng tồn tại
 
 C. Có, một chủ thì luôn không có pháp nhân
 
@@ -154,7 +154,7 @@ C. Có, mọi giao dịch đều chỉ xét 6 tháng
 
 D. Có, vì tặng tài sản luôn hợp lệ
 
-## Câu 16. Bên thuê xe đạp giao một viên đá quý để bảo đảm trả lại xe. Theo slide 15, cách nhận diện nào đúng?
+## Câu 16. Bên thuê xe đạp giao một viên đá quý để bảo đảm trả lại xe. Cần xác định biện pháp bảo đảm theo dấu hiệu nào?
 
 A. Thế chấp vì đã giao vật cho bên kia
 
@@ -164,7 +164,7 @@ C. Ký cược vì bảo đảm trả lại động sản thuê
 
 D. Bảo lãnh vì luôn có người thứ ba
 
-## Câu 17. Trong chương tổng quan, cặp “luật chung/luật riêng” được giới thiệu ở phần nào?
+## Câu 17. Nguyên tắc áp dụng luật chung và luật riêng thuộc nhóm nội dung pháp lý nào?
 
 A. Nguyên tắc áp dụng pháp luật kinh tế
 
@@ -174,7 +174,7 @@ C. Điều kiện chia cổ tức
 
 D. Thời hạn góp vốn
 
-## Câu 18. Công ty thuộc giới hạn trái phiếu slide nêu: vốn chủ 6 tỷ, nợ hiện 22 tỷ, định phát hành 9 tỷ. Tổng nợ dự kiến có đạt giới hạn 5 lần không?
+## Câu 18. Công ty có vốn chủ sở hữu 6 tỷ, nợ hiện tại 22 tỷ và dự kiến phát hành thêm 9 tỷ trái phiếu. Công ty không thuộc ngoại lệ của giới hạn tổng nợ 5 lần vốn chủ sở hữu. Đã đạt giới hạn này chưa?
 
 A. Có, vì riêng trái phiếu 9 tỷ dưới 30 tỷ
 
@@ -214,7 +214,7 @@ C. Tiêu chí nối quan hệ với hệ thống pháp luật áp dụng
 
 D. Cam kết mọi tranh chấp luôn áp luật nơi người mua cư trú
 
-## Câu 22. Hợp danh có pháp nhân; theo slide 72–73, điều đó có làm trách nhiệm thành viên hợp danh chỉ còn trong vốn đã góp không?
+## Câu 22. Công ty hợp danh có tư cách pháp nhân. Điều đó có làm trách nhiệm thành viên hợp danh chỉ giới hạn trong số vốn đã góp không?
 
 A. Không; vì hợp danh không có pháp nhân
 
@@ -254,7 +254,7 @@ C. Quan hệ dân sự ngang hàng thuần túy
 
 D. Quản trị nội bộ của cổ đông
 
-## Câu 26. Tài sản dùng kinh doanh của DNTN chỉ đủ trả một phần nợ. Theo slide 76, giới hạn tài sản nào áp dụng với cá nhân chủ?
+## Câu 26. Tài sản dùng kinh doanh của doanh nghiệp tư nhân chỉ đủ trả một phần nợ. Cá nhân chủ doanh nghiệp chịu trách nhiệm trong phạm vi nào?
 
 A. Toàn bộ tài sản của cá nhân chủ
 
@@ -264,7 +264,7 @@ C. Không có tài sản nào phải chịu trách nhiệm
 
 D. Chỉ phần cổ phần phổ thông
 
-## Câu 27. Trong bảng phân chia tài sản TCTD của slide 87, nhóm tiền gửi nằm sau nhóm nào?
+## Câu 27. Khi phân chia tài sản tổ chức tín dụng phá sản, nhóm tiền gửi nằm sau những nhóm nghĩa vụ nào?
 
 A. Tiền thuê nhà riêng của chủ
 
@@ -274,7 +274,7 @@ C. Mọi nợ không bảo đảm ở nhóm cuối
 
 D. Cổ tức chủ sở hữu
 
-## Câu 28. Hợp đồng giả tạo được đặt trong danh mục nào của bài giảng?
+## Câu 28. Hợp đồng giả tạo thuộc nhóm căn cứ pháp lý nào?
 
 A. Các phương thức đăng ký
 
@@ -294,7 +294,7 @@ C. Đủ vì bất kỳ mua bán nào cũng là thương nhân
 
 D. Chưa đủ dấu hiệu độc lập, thường xuyên và đăng ký theo luật
 
-## Câu 30. X chuyển một phần tài sản để thành lập Y, còn X tiếp tục tồn tại. Theo slide 81, gọi là gì?
+## Câu 30. Công ty X chuyển một phần tài sản để thành lập công ty Y, trong khi X tiếp tục tồn tại. Đây là hình thức tổ chức lại nào?
 
 A. Hợp nhất thành một công ty mới duy nhất
 
@@ -344,7 +344,7 @@ C. Tự biến thành DNTN
 
 D. Tổ chức chuyển loại hình tương ứng và đăng ký theo luật
 
-## Câu 35. Theo slide 82, doanh nghiệp đã bị tuyên bố phá sản có hệ quả về tư cách pháp lý nào?
+## Câu 35. Việc doanh nghiệp bị tuyên bố phá sản dẫn đến hệ quả nào về tư cách pháp lý và đăng ký kinh doanh?
 
 A. Chấm dứt tư cách pháp nhân, xóa tên đăng ký
 
@@ -354,7 +354,7 @@ C. Tự thành HTX mới
 
 D. Tự đổi thành công ty đại chúng
 
-## Câu 36. Hợp đồng có thỏa thuận hợp pháp về một trường hợp miễn trách nhiệm, và tình huống đã rơi đúng trường hợp ấy. Slide 25 nêu căn cứ nào?
+## Câu 36. Hợp đồng có thỏa thuận hợp pháp về một trường hợp miễn trách nhiệm; vi phạm xảy ra đúng trường hợp đó. Căn cứ miễn trách nhiệm nào cần được xem xét?
 
 A. Đổi tên công ty tự miễn trách nhiệm
 
@@ -364,7 +364,7 @@ C. Có khách hàng mới tự miễn trách nhiệm
 
 D. Mọi biến động giá đều là bất khả kháng
 
-## Câu 37. Pháp luật bảo vệ cạnh tranh lành mạnh nhằm mục tiêu nào phù hợp bài giảng?
+## Câu 37. Pháp luật bảo vệ cạnh tranh lành mạnh hướng tới mục tiêu nào?
 
 A. Loại bỏ mọi cạnh tranh giữa các công ty
 
@@ -374,7 +374,7 @@ C. Bảo đảm một công ty luôn độc quyền
 
 D. Tạo môi trường kinh doanh và bảo vệ lợi ích hợp pháp
 
-## Câu 38. Nhóm nào đúng ba hình thức chào bán cổ phần ở slide?
+## Câu 38. Nhóm nào gồm ba hình thức chào bán cổ phần?
 
 A. Chia, tách, sáp nhập
 
@@ -394,13 +394,13 @@ C. Luôn gộp cuối với mọi nợ không bảo đảm
 
 D. Sau nợ phát sinh phục hồi, trước các nợ khác trong bảng phương án
 
-## Câu 40. Bên bán quyền đòi nợ đã cam kết bảo đảm khả năng thanh toán của con nợ; đến hạn con nợ không trả. Quy tắc slide?
+## Câu 40. Bên bán quyền đòi nợ cam kết bảo đảm khả năng thanh toán của người mắc nợ; đến hạn người này không trả. Bên bán phải chịu trách nhiệm nào?
 
 A. Nợ tự vô hiệu vì chưa trả
 
 B. Bên mua tự mất mọi quyền
 
-C. Bên bán liên đới thanh toán theo slide 31
+C. Bên bán phải liên đới chịu trách nhiệm thanh toán
 
 D. Bên bán luôn vô can dù đã cam kết
 
@@ -470,7 +470,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 3. Đáp án A
 
-**Đề:** Nợ đã quá hạn 2 tháng; công ty không trả được. Theo luật mới, mô tả phù hợp nhất là gì?
+**Đề:** Nợ đã quá hạn 2 tháng; công ty không trả được. Theo Luật Phục hồi, phá sản 142/2025, mô tả phù hợp nhất là gì?
 
 **Phân tích đề:** Tính từ đến hạn và tách khái niệm tài chính khỏi quyết định Tòa.
 
@@ -520,7 +520,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 5. Đáp án A
 
-**Đề:** Một đơn vị có vốn và bán hàng thường xuyên nhưng khẳng định “kinh doanh thì không cần hạch toán, nghĩa vụ thuế”. Nhận định nào phù hợp slide?
+**Đề:** Một đơn vị có vốn và bán hàng thường xuyên nhưng khẳng định “kinh doanh thì không cần hạch toán và nghĩa vụ thuế”. Nhận định nào đúng?
 
 **Phân tích đề:** Đối chiếu đủ bốn nội dung slide, không chỉ vốn và bán hàng.
 
@@ -574,7 +574,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 7. Đáp án B
 
-**Đề:** Chủ nợ không bảo đảm muốn nộp yêu cầu phục hồi theo slide 36 thay người quản lý. Kết luận nào đúng?
+**Đề:** Chủ nợ không bảo đảm muốn tự nộp đơn yêu cầu phục hồi thay người quản lý doanh nghiệp. Nhận định nào đúng về quyền nộp đơn?
 
 **Phân tích đề:** Tên thủ tục là phục hồi; xác định tư cách người yêu cầu trước số tiền.
 
@@ -583,7 +583,7 @@ D. Bên bán luôn vô can dù đã cam kết
 **Lý thuyết:** Phục hồi có ba bước: thụ lý; Hội nghị chủ nợ; thực hiện phương án. Người có quyền yêu cầu: đại diện pháp luật; HĐQT CTCP, HĐTV TNHH hai thành viên/hợp danh; Đại hội thành viên HTX; chủ DNTN, chủ TNHH MTV. Chủ nợ không tự nằm trong danh sách quyền yêu cầu phục hồi (bài đúng/sai slide 59). Hồ sơ ban đầu có phương án, danh sách chủ nợ/người mắc nợ, chứng cứ; không đợi sau thụ lý mới lập phương án. Slide 38 và ghi chú nêu phân công Thẩm phán trong 3 ngày làm việc, xem xét đơn 12 ngày, hoàn thiện phương án 30 ngày sau thụ lý theo mốc trình bày. Chuẩn bị hội nghị: xác minh/cập nhật danh sách và phương án, đồng thời bảo toàn tài sản/kiểm soát nghĩa vụ. Phương án phải nêu biện pháp kinh doanh, thời hạn và cách trả nợ. Thứ tự ưu tiên 5 nhóm: chi phí phục hồi; các quyền lợi lao động; nợ phát sinh phục hồi; nợ bảo đảm; các nợ khác.
 
 - **A — Sai · Được nếu khoản nợ nhỏ hơn 10 tỷ:** Giá trị nợ liên quan một căn cứ rút gọn, không bổ sung quyền nộp đơn.
-- **B — Đúng · Không được quyền nộp phục hồi theo nhóm slide 36:** Slide 36 trao quyền nhóm nội bộ, không trao chủ nợ quyền nộp phục hồi này.
+- **B — Đúng · Chủ nợ không thuộc nhóm được quyền tự nộp đơn yêu cầu phục hồi:** Slide 36 trao quyền nhóm nội bộ, không trao chủ nợ quyền nộp phục hồi này.
 - **C — Sai · Được vì mọi người có quyền xin phá sản đều có quyền xin phục hồi:** Hai thủ tục có danh sách chủ thể khác nhau, không tự suy quyền từ phá sản.
 - **D — Sai · Được chỉ cần có đủ 20 chủ nợ:** Số chủ nợ không tạo tư cách chủ thể xin phục hồi theo slide 36.
 
@@ -597,7 +597,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 8. Đáp án B
 
-**Đề:** Hai công ty trao đổi tài liệu đề nghị và xác nhận nội dung để giao kết, không gặp đàm phán trực tiếp. Slide 9 gọi phương thức nào?
+**Đề:** Hai công ty trao đổi tài liệu đề nghị và xác nhận nội dung hợp đồng, không gặp đàm phán trực tiếp. Đây là phương thức giao kết nào?
 
 **Phân tích đề:** Chú ý cách trao đổi giữa hai bên, không chỉ nội dung hàng hóa.
 
@@ -620,7 +620,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 9. Đáp án D
 
-**Đề:** Người mua cần biết thành phần sản phẩm và nhận hóa đơn. Nhóm quyền nào ở slide phù hợp nhất?
+**Đề:** Cửa hàng không cung cấp thông tin chính xác về sản phẩm. Quyền nào của người tiêu dùng bị ảnh hưởng trực tiếp?
 
 **Phân tích đề:** Ghép dữ kiện thành phần và hóa đơn với đúng nhóm quyền.
 
@@ -716,7 +716,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 13. Đáp án B
 
-**Đề:** TNHH MTV được mô tả một chủ, có pháp nhân và gắn trách nhiệm hữu hạn của chủ. Ba mô tả này mâu thuẫn không?
+**Đề:** Công ty TNHH một thành viên có một chủ sở hữu, có tư cách pháp nhân và chủ chịu trách nhiệm hữu hạn. Ba mô tả này có mâu thuẫn với nhau không?
 
 **Phân tích đề:** Đối chiếu từng mô tả với ba tiêu chí đúng ở slide 19.
 
@@ -725,7 +725,7 @@ D. Bên bán luôn vô can dù đã cam kết
 **Lý thuyết:** Slide 19 phân loại theo ba tiêu chí riêng: cơ cấu chủ sở hữu gồm một chủ và nhiều chủ; tư cách pháp lý gồm có pháp nhân và không có pháp nhân; phạm vi trách nhiệm tài sản gồm hữu hạn và vô hạn. Khi đề hỏi số chủ, chỉ kết luận theo cơ cấu sở hữu; khi hỏi pháp nhân, dùng tư cách pháp lý; khi hỏi hữu hạn/vô hạn, dùng trách nhiệm tài sản. Không gộp ba tiêu chí hoặc suy tự động một đặc điểm từ đặc điểm còn lại. Ví dụ loại hình cụ thể được học ở chương 2; câu chương 1 chỉ cần dữ kiện đã cho và ba trục phân loại này.
 
 - **A — Sai · Không, vì một chủ đồng nghĩa luôn vô hạn:** Một chủ không quyết định vô hạn; TNHH MTV và DNTN khác chế độ trách nhiệm.
-- **B — Đúng · Không, dùng ba tiêu chí độc lập của slide 19:** Ba tiêu chí là cơ cấu chủ, tư cách pháp lý và phạm vi trách nhiệm; có thể cùng đúng.
+- **B — Đúng · Không; đây là ba tiêu chí độc lập nên có thể cùng tồn tại:** Ba tiêu chí là cơ cấu chủ, tư cách pháp lý và phạm vi trách nhiệm; có thể cùng đúng.
 - **C — Sai · Có, một chủ thì luôn không có pháp nhân:** TNHH MTV là ví dụ một chủ nhưng có pháp nhân, không suy như DNTN.
 - **D — Sai · Có, pháp nhân thì bắt buộc nhiều chủ:** Pháp nhân không yêu cầu mọi loại hình có nhiều chủ sở hữu.
 
@@ -793,7 +793,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 16. Đáp án C
 
-**Đề:** Bên thuê xe đạp giao một viên đá quý để bảo đảm trả lại xe. Theo slide 15, cách nhận diện nào đúng?
+**Đề:** Bên thuê xe đạp giao một viên đá quý để bảo đảm trả lại xe. Cần xác định biện pháp bảo đảm theo dấu hiệu nào?
 
 **Phân tích đề:** Cùng loại tài sản bảo đảm nhưng mục đích trả lại xe thuê quyết định biện pháp.
 
@@ -816,7 +816,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 17. Đáp án A
 
-**Đề:** Trong chương tổng quan, cặp “luật chung/luật riêng” được giới thiệu ở phần nào?
+**Đề:** Nguyên tắc áp dụng luật chung và luật riêng thuộc nhóm nội dung pháp lý nào?
 
 **Phân tích đề:** Nhận diện nhóm kiến thức chứ không suy một thứ bậc văn bản chưa được slide trình bày.
 
@@ -839,7 +839,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 18. Đáp án B
 
-**Đề:** Công ty thuộc giới hạn trái phiếu slide nêu: vốn chủ 6 tỷ, nợ hiện 22 tỷ, định phát hành 9 tỷ. Tổng nợ dự kiến có đạt giới hạn 5 lần không?
+**Đề:** Công ty có vốn chủ sở hữu 6 tỷ, nợ hiện tại 22 tỷ và dự kiến phát hành thêm 9 tỷ trái phiếu. Công ty không thuộc ngoại lệ của giới hạn tổng nợ 5 lần vốn chủ sở hữu. Đã đạt giới hạn này chưa?
 
 **Phân tích đề:** Tính tổng nợ và đúng vốn chủ; đề đã loại các ngoại lệ khỏi phạm vi.
 
@@ -935,7 +935,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 22. Đáp án D
 
-**Đề:** Hợp danh có pháp nhân; theo slide 72–73, điều đó có làm trách nhiệm thành viên hợp danh chỉ còn trong vốn đã góp không?
+**Đề:** Công ty hợp danh có tư cách pháp nhân. Điều đó có làm trách nhiệm thành viên hợp danh chỉ giới hạn trong số vốn đã góp không?
 
 **Phân tích đề:** Tách tư cách công ty khỏi trách nhiệm loại thành viên.
 
@@ -1035,7 +1035,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 26. Đáp án A
 
-**Đề:** Tài sản dùng kinh doanh của DNTN chỉ đủ trả một phần nợ. Theo slide 76, giới hạn tài sản nào áp dụng với cá nhân chủ?
+**Đề:** Tài sản dùng kinh doanh của doanh nghiệp tư nhân chỉ đủ trả một phần nợ. Cá nhân chủ doanh nghiệp chịu trách nhiệm trong phạm vi nào?
 
 **Phân tích đề:** Xác định trách nhiệm chủ, không nhầm vốn đưa vào kinh doanh với giới hạn nợ.
 
@@ -1058,7 +1058,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 27. Đáp án B
 
-**Đề:** Trong bảng phân chia tài sản TCTD của slide 87, nhóm tiền gửi nằm sau nhóm nào?
+**Đề:** Khi phân chia tài sản tổ chức tín dụng phá sản, nhóm tiền gửi nằm sau những nhóm nghĩa vụ nào?
 
 **Phân tích đề:** Đọc bảng riêng TCTD thay vì bảng doanh nghiệp thông thường.
 
@@ -1081,7 +1081,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 28. Đáp án C
 
-**Đề:** Hợp đồng giả tạo được đặt trong danh mục nào của bài giảng?
+**Đề:** Hợp đồng giả tạo thuộc nhóm căn cứ pháp lý nào?
 
 **Phân tích đề:** Nhận diện đúng nhóm căn cứ được slide giảng.
 
@@ -1127,7 +1127,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 30. Đáp án D
 
-**Đề:** X chuyển một phần tài sản để thành lập Y, còn X tiếp tục tồn tại. Theo slide 81, gọi là gì?
+**Đề:** Công ty X chuyển một phần tài sản để thành lập công ty Y, trong khi X tiếp tục tồn tại. Đây là hình thức tổ chức lại nào?
 
 **Phân tích đề:** Dấu hiệu quyết định là X vẫn tồn tại sau thành lập Y.
 
@@ -1242,7 +1242,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 35. Đáp án A
 
-**Đề:** Theo slide 82, doanh nghiệp đã bị tuyên bố phá sản có hệ quả về tư cách pháp lý nào?
+**Đề:** Việc doanh nghiệp bị tuyên bố phá sản dẫn đến hệ quả nào về tư cách pháp lý và đăng ký kinh doanh?
 
 **Phân tích đề:** Đề hỏi hệ quả doanh nghiệp, không trách nhiệm cá nhân chủ.
 
@@ -1265,7 +1265,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 36. Đáp án B
 
-**Đề:** Hợp đồng có thỏa thuận hợp pháp về một trường hợp miễn trách nhiệm, và tình huống đã rơi đúng trường hợp ấy. Slide 25 nêu căn cứ nào?
+**Đề:** Hợp đồng có thỏa thuận hợp pháp về một trường hợp miễn trách nhiệm; vi phạm xảy ra đúng trường hợp đó. Căn cứ miễn trách nhiệm nào cần được xem xét?
 
 **Phân tích đề:** Đề cho thỏa thuận và sự kiện trùng thỏa thuận, nên chọn đúng nhóm.
 
@@ -1288,7 +1288,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 37. Đáp án D
 
-**Đề:** Pháp luật bảo vệ cạnh tranh lành mạnh nhằm mục tiêu nào phù hợp bài giảng?
+**Đề:** Pháp luật bảo vệ cạnh tranh lành mạnh hướng tới mục tiêu nào?
 
 **Phân tích đề:** Tách bảo vệ cạnh tranh khỏi bảo lãnh lợi nhuận từng chủ thể.
 
@@ -1315,7 +1315,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 38. Đáp án B
 
-**Đề:** Nhóm nào đúng ba hình thức chào bán cổ phần ở slide?
+**Đề:** Nhóm nào gồm ba hình thức chào bán cổ phần?
 
 **Phân tích đề:** Nhận diện hành vi huy động vốn bằng bán cổ phần.
 
@@ -1365,7 +1365,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 ### Câu 40. Đáp án C
 
-**Đề:** Bên bán quyền đòi nợ đã cam kết bảo đảm khả năng thanh toán của con nợ; đến hạn con nợ không trả. Quy tắc slide?
+**Đề:** Bên bán quyền đòi nợ cam kết bảo đảm khả năng thanh toán của người mắc nợ; đến hạn người này không trả. Bên bán phải chịu trách nhiệm nào?
 
 **Phân tích đề:** Tìm dữ kiện cam kết của người bán quyền đòi nợ.
 
@@ -1375,7 +1375,7 @@ D. Bên bán luôn vô can dù đã cam kết
 
 - **A — Sai · Nợ tự vô hiệu vì chưa trả:** Nợ không tự vô hiệu chỉ vì người mắc nợ không thực hiện đến hạn.
 - **B — Sai · Bên mua tự mất mọi quyền:** Bên mua còn quyền theo hợp đồng và luật, không tự mất vì con nợ chậm trả.
-- **C — Đúng · Bên bán liên đới thanh toán theo slide 31:** Cam kết bảo đảm khả năng trả tạo trách nhiệm liên đới theo quy tắc slide 31.
+- **C — Đúng · Bên bán phải liên đới chịu trách nhiệm thanh toán:** Cam kết bảo đảm khả năng trả tạo trách nhiệm liên đới theo quy tắc slide 31.
 - **D — Sai · Bên bán luôn vô can dù đã cam kết:** Cam kết riêng là dữ kiện quyết định, không thể loại mọi trách nhiệm bên bán.
 
 **Nguồn:** Chương 5, slide 31.
@@ -1428,7 +1428,7 @@ C. Chỉ hợp lệ nếu hợp đồng dưới 1 triệu
 
 D. Luôn vô hiệu vì không công chứng
 
-## Câu 5. Quyền tự do kinh doanh trong bài được hiểu theo giới hạn nào?
+## Câu 5. Quyền tự do kinh doanh được thực hiện trong giới hạn nào?
 
 A. Được kinh doanh cả hàng thuộc điều cấm nếu có lãi
 
@@ -1448,7 +1448,7 @@ C. Đủ nếu hai người có 80% vốn, không cần xét số người
 
 D. Chưa, vì luật bắt buộc mọi người đồng ý
 
-## Câu 7. Hai loại hình doanh nghiệp hành nghề quản lý, thanh lý tài sản được slide 48 nêu là gì?
+## Câu 7. Những loại hình doanh nghiệp nào có thể hành nghề quản lý, thanh lý tài sản?
 
 A. Chỉ TNHH MTV và CTCP
 
@@ -1458,7 +1458,7 @@ C. Công ty hợp danh và DNTN
 
 D. Chỉ hộ kinh doanh và tổ hợp tác
 
-## Câu 8. Hai bên không thỏa thuận im lặng là chấp nhận. Theo trường hợp slide 10 đã nêu, có đủ căn cứ coi im lặng là chấp nhận chỉ vì không trả lời không?
+## Câu 8. Hai bên không thỏa thuận im lặng là chấp nhận; cũng không có căn cứ pháp lý khác được đặt ra. Chỉ việc không trả lời đã đủ để áp dụng trường hợp chấp nhận dựa trên thỏa thuận im lặng chưa?
 
 A. Có nếu bên gửi tự mong muốn
 
@@ -1466,9 +1466,9 @@ B. Có nếu người gửi đã in hợp đồng
 
 C. Có, mọi im lặng đều là chấp nhận
 
-D. Không; thiếu điều kiện thỏa thuận trong trường hợp được slide nêu
+D. Chưa; thiếu thỏa thuận im lặng là chấp nhận trong trường hợp này
 
-## Câu 9. Cửa hàng ép khách mua sản phẩm dù khách đã từ chối. Nhóm quyền nào slide đặt trọng tâm?
+## Câu 9. Cửa hàng ép khách mua sản phẩm dù khách đã từ chối. Quyền nào của người tiêu dùng bị xâm phạm trực tiếp?
 
 A. Quyền tự quyết chính sách thuế
 
@@ -1508,7 +1508,7 @@ C. Tín chấp của người mua
 
 D. Ký quỹ vì trả nhiều kỳ
 
-## Câu 13. Theo slide 19, cặp nào phân loại đúng theo phạm vi trách nhiệm tài sản?
+## Câu 13. Cặp khái niệm nào phân loại chủ thể kinh doanh theo phạm vi trách nhiệm tài sản?
 
 A. Có pháp nhân và không pháp nhân
 
@@ -1548,15 +1548,15 @@ C. Thế chấp chính khoản thuê
 
 D. Ký quỹ mặc dù giao tiền trực tiếp
 
-## Câu 17. Danh mục nguồn quốc tế tại slide 23 có loại bỏ nguồn luật quốc gia không?
+## Câu 17. Nguồn của pháp luật kinh tế trong lĩnh vực quốc tế có bao gồm luật quốc gia không?
 
-A. Có; chỉ có điều ước trong danh mục
+A. Không có luật quốc gia; chỉ điều ước quốc tế được áp dụng
 
-B. Có; chỉ có tập quán trong danh mục
+B. Không có luật quốc gia; chỉ tập quán quốc tế được áp dụng
 
-C. Không; nguồn luật quốc gia cũng được liệt kê
+C. Có; luật quốc gia là một trong các nguồn trong lĩnh vực kinh tế quốc tế
 
-D. Có; chỉ có án lệ trong danh mục
+D. Không có luật quốc gia; chỉ án lệ được áp dụng
 
 ## Câu 18. CTCP có 1 triệu cổ phần phổ thông đã bán; dự kiến mua lại 350.000 theo quyết định công ty. Vượt mức 30% không?
 
@@ -1568,13 +1568,13 @@ C. Không, 350.000 thấp hơn 1 triệu
 
 D. Có, 35% lớn hơn 30%
 
-## Câu 19. Bù trừ để ưu tiên một chủ nợ có khoản chưa đến hạn trong 4 tháng trước mở phá sản thuộc nhóm nào ở slide 70?
+## Câu 19. Doanh nghiệp bù trừ để ưu tiên một chủ nợ có khoản chưa đến hạn trong 4 tháng trước khi mở thủ tục phá sản. Giao dịch này cần được đánh giá thế nào?
 
 A. Luôn nằm ngoài xem xét vì chưa mở
 
 B. Luôn hợp lệ nếu gọi là bù trừ
 
-C. Một nhóm giao dịch được liệt kê để xem xét vô hiệu, có ngoại lệ pháp luật như slide nêu
+C. Thuộc nhóm giao dịch cần xem xét vô hiệu, đồng thời phải xét ngoại lệ pháp luật
 
 D. Chỉ là tăng vốn cổ phần
 
@@ -1588,7 +1588,7 @@ C. Cầm giữ tài sản nếu đủ điều kiện luật
 
 D. Tự tịch thu máy vĩnh viễn
 
-## Câu 21. Cặp quốc tịch và nơi cư trú trong danh sách slide 24 minh họa hệ thuộc nào?
+## Câu 21. Quốc tịch và nơi cư trú là cặp yếu tố nối thuộc hệ thuộc luật nào?
 
 A. Luật nhân thân
 
@@ -1618,7 +1618,7 @@ C. Chưa đạt vì phải 20 tỷ tròn
 
 D. Chỉ tính nợ có bảo đảm làm mẫu số
 
-## Câu 24. Sau hủy bỏ hợp đồng theo slide 22, tài sản nhận không thể trả lại nguyên vật. Nghĩa vụ hoàn trả được nêu là gì?
+## Câu 24. Hợp đồng bị hủy bỏ nhưng tài sản đã nhận không thể hoàn trả bằng hiện vật. Nghĩa vụ hoàn trả được thực hiện bằng cách nào?
 
 A. Chỉ nộp cổ phần ưu đãi
 
@@ -1658,11 +1658,11 @@ C. Cả hai luôn 65% tổng nợ
 
 D. Cả hai cùng mẫu số toàn bộ tài sản
 
-## Câu 28. Theo slide 24, phạt và bồi thường có thể cùng được thỏa thuận không?
+## Câu 28. Trong hợp đồng, các bên có thể thỏa thuận áp dụng đồng thời phạt vi phạm và bồi thường thiệt hại không?
 
 A. Không; bồi thường luôn loại phạt
 
-B. Có; slide nêu có thể thỏa thuận chịu cả hai
+B. Có; các bên được thỏa thuận chịu đồng thời hai chế tài
 
 C. Có; vì cả hai luôn cố định bằng 8%
 
@@ -1670,7 +1670,7 @@ D. Không; có phạt luôn loại bồi thường
 
 ## Câu 29. Tổ chức kinh tế thành lập hợp pháp hoạt động thương mại có thể là thương nhân không?
 
-A. Có theo nhóm chủ thể thương nhân trong slide
+A. Có, tổ chức kinh tế được thành lập hợp pháp thuộc nhóm chủ thể có thể là thương nhân
 
 B. Có nhưng chỉ khi mọi giao dịch có lãi
 
@@ -1678,7 +1678,7 @@ C. Không, thương nhân chỉ là cá nhân
 
 D. Không, thương nhân chỉ là DNTN
 
-## Câu 30. A và B chấm dứt để tạo công ty mới C kế thừa quyền, nghĩa vụ. Theo slide 83 là thủ tục nào?
+## Câu 30. Công ty A và B chấm dứt tồn tại để hình thành công ty mới C kế thừa quyền, nghĩa vụ. Đây là thủ tục tổ chức lại nào?
 
 A. Hợp nhất
 
@@ -1708,7 +1708,7 @@ C. Tự vô hiệu từ đầu vì giao chậm
 
 D. Vi phạm thực hiện và chế tài tương ứng
 
-## Câu 33. Trong bốn căn cứ cần quản lý kinh tế tại slide 4, căn cứ nào nói trực tiếp về vai trò chủ thể công?
+## Câu 33. Yếu tố nào trực tiếp phản ánh vai trò của Nhà nước trong các căn cứ về sự cần thiết quản lý kinh tế bằng pháp luật?
 
 A. Các ưu thế vốn có của Nhà nước
 
@@ -1728,7 +1728,7 @@ C. Đủ vì cổ đông nhất trí
 
 D. Chưa đủ, phải bảo đảm khả năng trả nợ sau chi trả
 
-## Câu 35. Theo ghi chú slide 78, đã giải quyết xong tranh chấp và nhận nghị quyết đề nghị tuyên bố phá sản thì mốc tuyên bố được nêu là gì?
+## Câu 35. Tranh chấp liên quan đã được giải quyết và Tòa án nhận nghị quyết đề nghị tuyên bố phá sản. Thời hạn tuyên bố phá sản được tính như thế nào trong trường hợp này?
 
 A. 3 năm từ thành lập
 
@@ -1748,7 +1748,7 @@ C. 150% nợ gốc
 
 D. 0 trong mọi trường hợp
 
-## Câu 37. Hiến pháp, luật và nghị định được bài tổng quan xếp vào nhóm nguồn nào?
+## Câu 37. Hiến pháp, luật và nghị định thuộc nhóm nguồn pháp luật kinh tế nào?
 
 A. Chỉ lựa chọn luật của người bán
 
@@ -1768,7 +1768,7 @@ C. 7 tỷ / 7 tỷ
 
 D. 7 tỷ / 5 tỷ
 
-## Câu 39. Trong nhóm nghĩa vụ nộp đơn tại slide 64, đối với CTCP bài giảng nêu chủ thể nào?
+## Câu 39. Trong công ty cổ phần, cơ quan nào thuộc nhóm có nghĩa vụ nộp đơn yêu cầu phá sản khi đáp ứng điều kiện luật định?
 
 A. Chỉ người thuê bảo vệ
 
@@ -1778,7 +1778,7 @@ C. Chỉ đơn vị vận chuyển không liên quan nợ
 
 D. Hội đồng quản trị
 
-## Câu 40. Hợp đồng có vi phạm và một khoản tổn thất, nhưng chưa xác định tổn thất có do vi phạm gây ra không. Theo slide 24, cần bổ sung gì?
+## Câu 40. Có vi phạm hợp đồng và một khoản tổn thất, nhưng chưa xác định tổn thất có do vi phạm gây ra không. Còn thiếu căn cứ nào để yêu cầu bồi thường?
 
 A. Số cổ đông của bên vi phạm
 
@@ -1900,7 +1900,7 @@ D. Quan hệ nhân quả
 
 ### Câu 5. Đáp án C
 
-**Đề:** Quyền tự do kinh doanh trong bài được hiểu theo giới hạn nào?
+**Đề:** Quyền tự do kinh doanh được thực hiện trong giới hạn nào?
 
 **Phân tích đề:** Tách quyền tự do khỏi nghĩa vụ tuân thủ điều kiện ngành nghề.
 
@@ -1950,7 +1950,7 @@ D. Quan hệ nhân quả
 
 ### Câu 7. Đáp án C
 
-**Đề:** Hai loại hình doanh nghiệp hành nghề quản lý, thanh lý tài sản được slide 48 nêu là gì?
+**Đề:** Những loại hình doanh nghiệp nào có thể hành nghề quản lý, thanh lý tài sản?
 
 **Phân tích đề:** Chọn đúng danh mục loại hình nghề, không suy từ mọi loại hình doanh nghiệp.
 
@@ -1973,7 +1973,7 @@ D. Quan hệ nhân quả
 
 ### Câu 8. Đáp án D
 
-**Đề:** Hai bên không thỏa thuận im lặng là chấp nhận. Theo trường hợp slide 10 đã nêu, có đủ căn cứ coi im lặng là chấp nhận chỉ vì không trả lời không?
+**Đề:** Hai bên không thỏa thuận im lặng là chấp nhận; cũng không có căn cứ pháp lý khác được đặt ra. Chỉ việc không trả lời đã đủ để áp dụng trường hợp chấp nhận dựa trên thỏa thuận im lặng chưa?
 
 **Phân tích đề:** Đọc đúng điều kiện của trường hợp im lặng trong slide.
 
@@ -1984,7 +1984,7 @@ D. Quan hệ nhân quả
 - **A — Sai · Có nếu bên gửi tự mong muốn:** Ý muốn riêng bên gửi không thay thỏa thuận hai bên.
 - **B — Sai · Có nếu người gửi đã in hợp đồng:** In hợp đồng không thay điều kiện về ý chí chấp nhận.
 - **C — Sai · Có, mọi im lặng đều là chấp nhận:** Phương án bỏ điều kiện thỏa thuận được slide nêu.
-- **D — Đúng · Không; thiếu điều kiện thỏa thuận trong trường hợp được slide nêu:** Slide 10 đặt điều kiện các bên thỏa thuận; dữ kiện không đáp ứng trường hợp này.
+- **D — Đúng · Chưa; thiếu thỏa thuận im lặng là chấp nhận trong trường hợp này:** Slide 10 đặt điều kiện các bên thỏa thuận; dữ kiện không đáp ứng trường hợp này.
 
 **Nguồn:** Chương 5, slide 10.
 
@@ -1996,7 +1996,7 @@ D. Quan hệ nhân quả
 
 ### Câu 9. Đáp án D
 
-**Đề:** Cửa hàng ép khách mua sản phẩm dù khách đã từ chối. Nhóm quyền nào slide đặt trọng tâm?
+**Đề:** Cửa hàng ép khách mua sản phẩm dù khách đã từ chối. Quyền nào của người tiêu dùng bị xâm phạm trực tiếp?
 
 **Phân tích đề:** Dữ kiện quyết định là không tự nguyện mua và đã từ chối.
 
@@ -2092,7 +2092,7 @@ D. Quan hệ nhân quả
 
 ### Câu 13. Đáp án C
 
-**Đề:** Theo slide 19, cặp nào phân loại đúng theo phạm vi trách nhiệm tài sản?
+**Đề:** Cặp khái niệm nào phân loại chủ thể kinh doanh theo phạm vi trách nhiệm tài sản?
 
 **Phân tích đề:** Xác định đề hỏi phạm vi trách nhiệm, không hai tiêu chí khác ở cùng slide.
 
@@ -2192,7 +2192,7 @@ D. Quan hệ nhân quả
 
 ### Câu 17. Đáp án C
 
-**Đề:** Danh mục nguồn quốc tế tại slide 23 có loại bỏ nguồn luật quốc gia không?
+**Đề:** Nguồn của pháp luật kinh tế trong lĩnh vực quốc tế có bao gồm luật quốc gia không?
 
 **Phân tích đề:** Đề hỏi danh mục nguồn chứ không thứ tự áp dụng trong vụ việc cụ thể.
 
@@ -2200,10 +2200,10 @@ D. Quan hệ nhân quả
 
 **Lý thuyết:** Nguồn áp dụng trong kinh tế có yếu tố nước ngoài gồm điều ước quốc tế, tập quán thương mại quốc tế, nguồn luật quốc gia và án lệ. Hệ thuộc được slide 24 nêu: luật nhân thân gồm quốc tịch, nơi cư trú; luật nơi có tài sản; luật Tòa án; luật nơi thực hiện hành vi; luật do các bên lựa chọn; luật nước người bán; luật nơi vi phạm. Học tên và yếu tố nối của từng hệ thuộc. Slide 25 giới thiệu nhóm nguyên tắc áp dụng pháp luật Việt Nam, điều ước, pháp luật nước ngoài, tập quán quốc tế. Không tự suy một thứ tự ưu tiên tuyệt đối hoặc điều kiện loại trừ luật nước ngoài mà slide chưa giải thích.
 
-- **A — Sai · Có; chỉ có điều ước trong danh mục:** Điều ước là một mục, không phải toàn bộ danh mục.
-- **B — Sai · Có; chỉ có tập quán trong danh mục:** Tập quán là một mục, không phải toàn bộ danh mục.
-- **C — Đúng · Không; nguồn luật quốc gia cũng được liệt kê:** Slide 23 gồm điều ước, tập quán quốc tế, luật quốc gia và án lệ.
-- **D — Sai · Có; chỉ có án lệ trong danh mục:** Án lệ là một mục, không phải toàn bộ danh mục.
+- **A — Sai · Không có luật quốc gia; chỉ điều ước quốc tế được áp dụng:** Điều ước là một mục, không phải toàn bộ danh mục.
+- **B — Sai · Không có luật quốc gia; chỉ tập quán quốc tế được áp dụng:** Tập quán là một mục, không phải toàn bộ danh mục.
+- **C — Đúng · Có; luật quốc gia là một trong các nguồn trong lĩnh vực kinh tế quốc tế:** Slide 23 gồm điều ước, tập quán quốc tế, luật quốc gia và án lệ.
+- **D — Sai · Không có luật quốc gia; chỉ án lệ được áp dụng:** Án lệ là một mục, không phải toàn bộ danh mục.
 
 **Nguồn:** Chương 1, slide 23, 25.
 
@@ -2242,7 +2242,7 @@ D. Quan hệ nhân quả
 
 ### Câu 19. Đáp án C
 
-**Đề:** Bù trừ để ưu tiên một chủ nợ có khoản chưa đến hạn trong 4 tháng trước mở phá sản thuộc nhóm nào ở slide 70?
+**Đề:** Doanh nghiệp bù trừ để ưu tiên một chủ nợ có khoản chưa đến hạn trong 4 tháng trước khi mở thủ tục phá sản. Giao dịch này cần được đánh giá thế nào?
 
 **Phân tích đề:** Kết hợp thời gian và việc ưu tiên khoản chưa đến hạn.
 
@@ -2252,7 +2252,7 @@ D. Quan hệ nhân quả
 
 - **A — Sai · Luôn nằm ngoài xem xét vì chưa mở:** Khoảng xem xét tính lùi trước mở nên trước mở không tự loại khỏi danh mục.
 - **B — Sai · Luôn hợp lệ nếu gọi là bù trừ:** Tên gọi bù trừ không loại quy tắc được slide nêu.
-- **C — Đúng · Một nhóm giao dịch được liệt kê để xem xét vô hiệu, có ngoại lệ pháp luật như slide nêu:** Slide 70 liệt kê thanh toán hoặc bù trừ có lợi cho khoản chưa đến hạn trong khoảng 6 tháng.
+- **C — Đúng · Thuộc nhóm giao dịch cần xem xét vô hiệu, đồng thời phải xét ngoại lệ pháp luật:** Slide 70 liệt kê thanh toán hoặc bù trừ có lợi cho khoản chưa đến hạn trong khoảng 6 tháng.
 - **D — Sai · Chỉ là tăng vốn cổ phần:** Bù trừ khoản nợ không phải phát hành cổ phần tăng vốn.
 
 **Nguồn:** Chương 4, slide 70.
@@ -2288,7 +2288,7 @@ D. Quan hệ nhân quả
 
 ### Câu 21. Đáp án A
 
-**Đề:** Cặp quốc tịch và nơi cư trú trong danh sách slide 24 minh họa hệ thuộc nào?
+**Đề:** Quốc tịch và nơi cư trú là cặp yếu tố nối thuộc hệ thuộc luật nào?
 
 **Phân tích đề:** Nhận diện hệ thuộc qua cặp yếu tố nối đúng.
 
@@ -2357,7 +2357,7 @@ D. Quan hệ nhân quả
 
 ### Câu 24. Đáp án B
 
-**Đề:** Sau hủy bỏ hợp đồng theo slide 22, tài sản nhận không thể trả lại nguyên vật. Nghĩa vụ hoàn trả được nêu là gì?
+**Đề:** Hợp đồng bị hủy bỏ nhưng tài sản đã nhận không thể hoàn trả bằng hiện vật. Nghĩa vụ hoàn trả được thực hiện bằng cách nào?
 
 **Phân tích đề:** Câu hỏi đi thẳng vào hậu quả hoàn trả của hủy bỏ.
 
@@ -2457,7 +2457,7 @@ D. Quan hệ nhân quả
 
 ### Câu 28. Đáp án B
 
-**Đề:** Theo slide 24, phạt và bồi thường có thể cùng được thỏa thuận không?
+**Đề:** Trong hợp đồng, các bên có thể thỏa thuận áp dụng đồng thời phạt vi phạm và bồi thường thiệt hại không?
 
 **Phân tích đề:** Đề hỏi khả năng thỏa thuận, không hỏi mặc định khi thiếu thỏa thuận.
 
@@ -2466,7 +2466,7 @@ D. Quan hệ nhân quả
 **Lý thuyết:** Slide 23 nêu buộc thực hiện đúng/tiếp tục thực hiện và trách nhiệm tài sản như phạt, bồi thường. Phạt ở slide 24 cần có thỏa thuận phạt và vi phạm. Quy tắc 8% trong phần này tính trên giá trị phần nghĩa vụ bị vi phạm, không toàn hợp đồng: phần vi phạm 200 triệu thì 16 triệu; 350 triệu thì 28 triệu. Câu tính đều ghi đặt trong quy tắc 8% của slide, không suy thành giới hạn mọi hợp đồng dân sự. Slide nêu các bên có thể thỏa thuận chịu cả phạt và bồi thường. Không kiểm tra mặc định Điều 418 BLDS hoặc Điều 307 LTM khi không có thỏa thuận kết hợp, vì bài giảng chưa trình bày.
 
 - **A — Sai · Không; bồi thường luôn loại phạt:** Phương án loại phạt trái nội dung thỏa thuận kết hợp.
-- **B — Đúng · Có; slide nêu có thể thỏa thuận chịu cả hai:** Slide 24 ghi nhận khả năng các bên thỏa thuận kết hợp.
+- **B — Đúng · Có; các bên được thỏa thuận chịu đồng thời hai chế tài:** Slide 24 ghi nhận khả năng các bên thỏa thuận kết hợp.
 - **C — Sai · Có; vì cả hai luôn cố định bằng 8%:** 8% nêu cho phạt, không là công thức cố định của bồi thường.
 - **D — Sai · Không; có phạt luôn loại bồi thường:** Phương án loại bồi thường trái nội dung thỏa thuận kết hợp.
 
@@ -2488,7 +2488,7 @@ D. Quan hệ nhân quả
 
 **Lý thuyết:** Chủ thể kinh doanh thực hiện trên thực tế hành vi kinh doanh theo pháp luật. Bốn dấu hiệu: có vốn đầu tư; thực hiện hành vi kinh doanh; hạch toán; nộp thuế vào ngân sách nhà nước. Hành vi kinh doanh: độc lập, nhân danh chính chủ thể; mang tính nghề nghiệp và thường xuyên; diễn ra trên thị trường; nhằm tìm lợi nhuận. Mục đích tìm lợi nhuận khác kết quả luôn có lãi. Chủ thể kinh doanh có nhóm thương nhân và nhóm khác. Thương nhân gồm tổ chức kinh tế thành lập hợp pháp và cá nhân hoạt động thương mại độc lập, thường xuyên, có đăng ký kinh doanh. Một lần bán tài sản cá nhân không đủ riêng dấu hiệu thường xuyên của thương nhân.
 
-- **A — Đúng · Có theo nhóm chủ thể thương nhân trong slide:** Slide gồm tổ chức kinh tế thành lập hợp pháp và nhóm cá nhân đủ dấu hiệu.
+- **A — Đúng · Có, tổ chức kinh tế được thành lập hợp pháp thuộc nhóm chủ thể có thể là thương nhân:** Slide gồm tổ chức kinh tế thành lập hợp pháp và nhóm cá nhân đủ dấu hiệu.
 - **B — Sai · Có nhưng chỉ khi mọi giao dịch có lãi:** Mục tiêu kinh doanh không yêu cầu mọi giao dịch đều thực tế có lợi nhuận.
 - **C — Sai · Không, thương nhân chỉ là cá nhân:** Thương nhân không bị giới hạn chỉ các cá nhân hoạt động mua bán.
 - **D — Sai · Không, thương nhân chỉ là DNTN:** DNTN không là hình thức duy nhất của chủ thể thương nhân.
@@ -2503,7 +2503,7 @@ D. Quan hệ nhân quả
 
 ### Câu 30. Đáp án A
 
-**Đề:** A và B chấm dứt để tạo công ty mới C kế thừa quyền, nghĩa vụ. Theo slide 83 là thủ tục nào?
+**Đề:** Công ty A và B chấm dứt tồn tại để hình thành công ty mới C kế thừa quyền, nghĩa vụ. Đây là thủ tục tổ chức lại nào?
 
 **Phân tích đề:** Nhận diện qua công ty mới và việc cả hai công ty cũ chấm dứt.
 
@@ -2580,7 +2580,7 @@ D. Quan hệ nhân quả
 
 ### Câu 33. Đáp án A
 
-**Đề:** Trong bốn căn cứ cần quản lý kinh tế tại slide 4, căn cứ nào nói trực tiếp về vai trò chủ thể công?
+**Đề:** Yếu tố nào trực tiếp phản ánh vai trò của Nhà nước trong các căn cứ về sự cần thiết quản lý kinh tế bằng pháp luật?
 
 **Phân tích đề:** Đề nhận diện một vế trong danh mục bốn căn cứ.
 
@@ -2634,7 +2634,7 @@ D. Quan hệ nhân quả
 
 ### Câu 35. Đáp án B
 
-**Đề:** Theo ghi chú slide 78, đã giải quyết xong tranh chấp và nhận nghị quyết đề nghị tuyên bố phá sản thì mốc tuyên bố được nêu là gì?
+**Đề:** Tranh chấp liên quan đã được giải quyết và Tòa án nhận nghị quyết đề nghị tuyên bố phá sản. Thời hạn tuyên bố phá sản được tính như thế nào trong trường hợp này?
 
 **Phân tích đề:** Đọc đủ giả thiết và sự kiện bắt đầu tính 15 ngày.
 
@@ -2684,7 +2684,7 @@ D. Quan hệ nhân quả
 
 ### Câu 37. Đáp án C
 
-**Đề:** Hiến pháp, luật và nghị định được bài tổng quan xếp vào nhóm nguồn nào?
+**Đề:** Hiến pháp, luật và nghị định thuộc nhóm nguồn pháp luật kinh tế nào?
 
 **Phân tích đề:** Nhận diện hình thức và nơi ban hành của nguồn.
 
@@ -2730,7 +2730,7 @@ D. Quan hệ nhân quả
 
 ### Câu 39. Đáp án D
 
-**Đề:** Trong nhóm nghĩa vụ nộp đơn tại slide 64, đối với CTCP bài giảng nêu chủ thể nào?
+**Đề:** Trong công ty cổ phần, cơ quan nào thuộc nhóm có nghĩa vụ nộp đơn yêu cầu phá sản khi đáp ứng điều kiện luật định?
 
 **Phân tích đề:** Chọn đúng cơ quan nội bộ được slide gọi tên, không chỉ một chức danh cá nhân.
 
@@ -2753,7 +2753,7 @@ D. Quan hệ nhân quả
 
 ### Câu 40. Đáp án D
 
-**Đề:** Hợp đồng có vi phạm và một khoản tổn thất, nhưng chưa xác định tổn thất có do vi phạm gây ra không. Theo slide 24, cần bổ sung gì?
+**Đề:** Có vi phạm hợp đồng và một khoản tổn thất, nhưng chưa xác định tổn thất có do vi phạm gây ra không. Còn thiếu căn cứ nào để yêu cầu bồi thường?
 
 **Phân tích đề:** Hai điều kiện đã có chưa thay điều kiện thứ ba.
 
@@ -2776,7 +2776,7 @@ D. Quan hệ nhân quả
 
 # Đề tổng hợp 03
 
-## Câu 1. Hành vi kinh doanh theo slide có bắt buộc mỗi giao dịch đều thực tế có lãi?
+## Câu 1. Để được xác định là hành vi kinh doanh, mỗi giao dịch có bắt buộc phải thực tế tạo ra lợi nhuận không?
 
 A. Không, nên không cần độc lập hay thường xuyên
 
@@ -2806,7 +2806,7 @@ C. Nhà cung cấp → lao động → thuế
 
 D. Thuế → nhà cung cấp → lao động
 
-## Câu 4. Mua bán, trao đổi, thuê và mượn tài sản trong slide 3 được phân loại dựa vào tiêu chí nào?
+## Câu 4. Việc chia hợp đồng thành mua bán, trao đổi, thuê và mượn tài sản dựa trên tiêu chí nào?
 
 A. Nơi có Tòa án
 
@@ -2816,7 +2816,7 @@ C. Nội dung thỏa thuận
 
 D. Số trang hợp đồng
 
-## Câu 5. Sản phẩm có nguy cơ gây tổn hại sức khỏe. Nhóm quyền người tiêu dùng ở slide cần nhấn?
+## Câu 5. Sản phẩm có nguy cơ gây tổn hại sức khỏe người sử dụng. Quyền nào của người tiêu dùng cần được bảo vệ trực tiếp?
 
 A. Quyền nhận toàn bộ lợi nhuận doanh nghiệp
 
@@ -2826,7 +2826,7 @@ C. Quyền được bảo đảm an toàn
 
 D. Quyền hủy mọi giao dịch không cần căn cứ
 
-## Câu 6. Slide 63 liệt kê vàng, ngoại tệ tự do chuyển đổi, quyền sử dụng đất và công nghệ trong nội dung nào?
+## Câu 6. Vàng, ngoại tệ tự do chuyển đổi, quyền sử dụng đất và công nghệ có thể thuộc nhóm tài sản phục vụ hoạt động nào?
 
 A. Các căn cứ phá sản rút gọn
 
@@ -2846,7 +2846,7 @@ C. Luôn Tòa nơi Giám đốc sinh ra
 
 D. Bất kỳ Tòa nào chủ nợ thích
 
-## Câu 8. Bài giảng yêu cầu xem chủ thể và thẩm quyền ký kết, đồng thời năng lực phải phù hợp hợp đồng. Nội dung này thuộc phần nào?
+## Câu 8. Kiểm tra chủ thể, thẩm quyền ký và năng lực phù hợp với hợp đồng thuộc nhóm yêu cầu nào trước khi giao kết?
 
 A. Chỉ chế tài phạt 8%
 
@@ -2896,15 +2896,15 @@ C. Bên được bảo lãnh A
 
 D. Bên bảo lãnh là người thứ ba
 
-## Câu 13. Slide 22 có giới thiệu nguyên tắc về cả luật chung và luật riêng không?
+## Câu 13. Nguyên tắc áp dụng luật chung và luật riêng thuộc nội dung nào khi giải quyết một quan hệ kinh tế?
 
-A. Có; đây là một mục trong phần nguyên tắc áp dụng
+A. Nguyên tắc áp dụng pháp luật kinh tế
 
-B. Không; chỉ có danh mục loại hình công ty
+B. Tiêu chí phân loại công ty theo cơ cấu chủ sở hữu
 
-C. Không; chỉ có lãi suất vay
+C. Công thức tính lãi của hợp đồng vay
 
-D. Không; chỉ có danh sách cơ quan quản lý
+D. Tiêu chí phân chia cơ quan theo phạm vi thẩm quyền
 
 ## Câu 14. TNHH đã có lợi nhuận nhưng chưa hoàn thành thuế, sau chia không đủ trả nợ đến hạn. Có đủ chia lợi nhuận?
 
@@ -2916,7 +2916,7 @@ C. Đủ nếu mỗi thành viên nhận ít
 
 D. Đủ vì cứ có lãi là chia
 
-## Câu 15. Nhóm TNHH có 60% vốn, điều lệ không hạ ngưỡng. Đạt ngưỡng chủ thể yêu cầu phá sản theo luật mới chưa?
+## Câu 15. Nhóm TNHH có 60% vốn, điều lệ không hạ ngưỡng. Đạt ngưỡng chủ thể yêu cầu phá sản theo Luật Phục hồi, phá sản 142/2025 chưa?
 
 A. Không vì TNHH tuyệt đối không có quyền
 
@@ -2936,7 +2936,7 @@ C. Tín chấp không cần tài sản
 
 D. Cầm giữ vật đang sửa
 
-## Câu 17. Tên hệ thuộc trong slide 24 dựa trên sự thống nhất chọn luật của hai bên là gì?
+## Câu 17. Các bên thống nhất lựa chọn pháp luật điều chỉnh quan hệ của mình. Tên hệ thuộc luật tương ứng là gì?
 
 A. Luật nơi có Tòa án
 
@@ -2976,7 +2976,7 @@ C. Chỉ sự đồng ý là đủ bỏ luật
 
 D. Yêu cầu hình thức của việc sửa đổi
 
-## Câu 21. Bộ quản lý một lĩnh vực kinh tế là ví dụ cơ quan có loại thẩm quyền nào trong cách phân biệt slide?
+## Câu 21. Bộ quản lý một lĩnh vực kinh tế cụ thể là ví dụ về cơ quan có loại thẩm quyền nào?
 
 A. Thẩm quyền chuyên môn theo lĩnh vực
 
@@ -2986,7 +2986,7 @@ C. Thẩm quyền chung mọi việc của mọi doanh nghiệp
 
 D. Không có quyền quản lý nào
 
-## Câu 22. Đợt chào bán cổ phần đã hoàn thành. Theo slide, hạn đăng ký đổi vốn điều lệ là?
+## Câu 22. Một đợt chào bán cổ phần đã hoàn thành. Thời hạn đăng ký thay đổi vốn điều lệ tính từ sự kiện này là bao lâu?
 
 A. 30 ngày từ giao dịch đầu tiên
 
@@ -2996,9 +2996,9 @@ C. 90 ngày từ đề xuất đợt bán
 
 D. Không cần đăng ký vì đã chào bán
 
-## Câu 23. Bảng phá sản thông thường luật mới đặt nghĩa vụ Nhà nước ở đâu so nợ không bảo đảm?
+## Câu 23. Thứ tự phân chia tài sản trong phá sản thông thường theo Luật Phục hồi, phá sản 142/2025 đặt nghĩa vụ Nhà nước ở đâu so nợ không bảo đảm?
 
-A. Cùng một bậc như mọi tài liệu cũ
+A. Cùng một thứ tự với nợ không có bảo đảm
 
 B. Sau toàn bộ chủ sở hữu
 
@@ -3006,7 +3006,7 @@ C. Trước chi phí phá sản
 
 D. Trước nợ không bảo đảm và phần thiếu nợ bảo đảm
 
-## Câu 24. Không thỏa thuận mức bồi thường; đã chứng minh hai khoản thiệt hại thực tế 45 và 15 triệu do vi phạm, không trùng. Theo slide 24, tổng bồi thường là bao nhiêu?
+## Câu 24. Hai bên không thỏa thuận mức bồi thường; có hai khoản thiệt hại thực tế 45 và 15 triệu đồng đã chứng minh do vi phạm gây ra, không trùng nhau. Tổng bồi thường là bao nhiêu?
 
 A. 4,8 triệu
 
@@ -3026,7 +3026,7 @@ C. Đúng nếu không muốn là thương nhân
 
 D. Đúng nếu bán online
 
-## Câu 26. Một DNTN muốn mua vốn góp trong công ty TNHH bằng chính tư cách DNTN. Quy tắc slide?
+## Câu 26. Doanh nghiệp tư nhân muốn mua phần vốn góp trong công ty TNHH bằng chính tư cách doanh nghiệp. Nhận định nào đúng?
 
 A. DNTN không được góp vốn/mua phần vốn trong công ty
 
@@ -3050,13 +3050,13 @@ D. Có vì nợ dưới 10 tỷ là đủ
 
 A. Bắt bên bán luôn phạt 8% dù miễn
 
-B. Căn cứ miễn trách nhiệm theo slide 25
+B. Có thể là căn cứ miễn trách nhiệm khi đủ điều kiện
 
 C. Làm hợp đồng tự vô hiệu vì bên mua có lỗi
 
 D. Bất khả kháng trong mọi trường hợp
 
-## Câu 29. Bài giảng nói pháp luật kinh tế điều chỉnh tổ chức, quản lý và kinh doanh. Phần địa vị pháp lý doanh nghiệp có nằm trong nội dung này?
+## Câu 29. Việc xác định địa vị pháp lý và tổ chức hoạt động của doanh nghiệp có thuộc nội dung điều chỉnh của pháp luật kinh tế không?
 
 A. Không, chỉ học phạt vi phạm
 
@@ -3066,7 +3066,7 @@ C. Không, chỉ học hợp đồng mua bán
 
 D. Có, thuộc xác định chủ thể và tổ chức hoạt động
 
-## Câu 30. A sáp nhập vào B là công ty nhận. Theo slide 84, mô tả nào đúng?
+## Câu 30. Công ty A sáp nhập vào công ty B là công ty nhận sáp nhập. Kết quả nào đúng về sự tồn tại và việc tiếp nhận quyền, nghĩa vụ?
 
 A. Công ty mới C bắt buộc được lập
 
@@ -3076,7 +3076,7 @@ C. Cả A và B tiếp tục như chưa tổ chức lại
 
 D. B tiếp tục, A chấm dứt; B nhận quyền và nghĩa vụ
 
-## Câu 31. TCTD có văn bản NHNN thuộc trường hợp slide 86 nhưng đã khắc phục, không còn mất khả năng thanh toán. Đủ cả hai điều kiện slide nêu chưa?
+## Câu 31. Tổ chức tín dụng có văn bản của NHNN về tình trạng kiểm soát đặc biệt thuộc trường hợp luật định nhưng đã khắc phục và không còn mất khả năng thanh toán. Đã đủ điều kiện áp dụng thủ tục phá sản chưa?
 
 A. Đủ nếu có tên ngân hàng
 
@@ -3086,7 +3086,7 @@ C. Đủ chỉ vì có văn bản
 
 D. Chưa; còn thiếu tình trạng vẫn mất khả năng thanh toán
 
-## Câu 32. Hợp đồng vô hiệu; bên nhận ngay tình đã thu hoa lợi thuộc ngoại lệ nêu tại slide 28. Có phải hoàn trả hoa lợi trong trường hợp này?
+## Câu 32. Giao dịch bị vô hiệu; bên nhận tài sản ngay tình đã thu hoa lợi, lợi tức. Xét riêng hoa lợi, lợi tức đã thu, nghĩa vụ hoàn trả được xác định như thế nào?
 
 A. Có trong mọi trường hợp không xét ngay tình
 
@@ -3094,13 +3094,13 @@ B. Không nên cũng giữ luôn tài sản gốc
 
 C. Không nên tự miễn cả thiệt hại do lỗi riêng
 
-D. Không theo ngoại lệ luật đã nêu
+D. Không phải hoàn trả hoa lợi, lợi tức đã thu trong trường hợp ngay tình này
 
 ## Câu 33. “Nguồn pháp luật kinh tế” được hiểu gần nhất là gì?
 
 A. Mọi thói quen doanh nghiệp dù trái luật
 
-B. Mọi ý kiến cá nhân của giảng viên
+B. Mọi ý kiến cá nhân của người tư vấn
 
 C. Hình thức chứa đựng các quy tắc được áp dụng theo pháp luật
 
@@ -3166,7 +3166,7 @@ C. 350 triệu vẫn ưu tiên như được bảo đảm toàn bộ
 
 D. 350 triệu ở nhóm nợ chưa có bảo đảm thanh toán theo luật
 
-## Câu 40. Mua bán hàng hóa không thuộc yêu cầu văn bản riêng. Theo slide 30, nhóm hình thức nào được nêu?
+## Câu 40. Hợp đồng mua bán hàng hóa không thuộc trường hợp bắt buộc lập văn bản. Những hình thức giao kết nào được chấp nhận?
 
 A. Chỉ thư do một bên tự viết
 
@@ -3184,7 +3184,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 1. Đáp án C
 
-**Đề:** Hành vi kinh doanh theo slide có bắt buộc mỗi giao dịch đều thực tế có lãi?
+**Đề:** Để được xác định là hành vi kinh doanh, mỗi giao dịch có bắt buộc phải thực tế tạo ra lợi nhuận không?
 
 **Phân tích đề:** Tách mục tiêu hoạt động và kết quả thực tế từng lần.
 
@@ -3257,7 +3257,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 4. Đáp án C
 
-**Đề:** Mua bán, trao đổi, thuê và mượn tài sản trong slide 3 được phân loại dựa vào tiêu chí nào?
+**Đề:** Việc chia hợp đồng thành mua bán, trao đổi, thuê và mượn tài sản dựa trên tiêu chí nào?
 
 **Phân tích đề:** Nhận diện tiêu chí phân loại chứ không định nghĩa thuê/mượn ngoài slide.
 
@@ -3280,7 +3280,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 5. Đáp án C
 
-**Đề:** Sản phẩm có nguy cơ gây tổn hại sức khỏe. Nhóm quyền người tiêu dùng ở slide cần nhấn?
+**Đề:** Sản phẩm có nguy cơ gây tổn hại sức khỏe người sử dụng. Quyền nào của người tiêu dùng cần được bảo vệ trực tiếp?
 
 **Phân tích đề:** Gắn nguy cơ sức khỏe với đúng nhóm quyền an toàn.
 
@@ -3307,7 +3307,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 6. Đáp án B
 
-**Đề:** Slide 63 liệt kê vàng, ngoại tệ tự do chuyển đổi, quyền sử dụng đất và công nghệ trong nội dung nào?
+**Đề:** Vàng, ngoại tệ tự do chuyển đổi, quyền sử dụng đất và công nghệ có thể thuộc nhóm tài sản phục vụ hoạt động nào?
 
 **Phân tích đề:** Đề kiểm tra danh mục tài sản thực sự được bài giảng nêu.
 
@@ -3357,7 +3357,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 8. Đáp án C
 
-**Đề:** Bài giảng yêu cầu xem chủ thể và thẩm quyền ký kết, đồng thời năng lực phải phù hợp hợp đồng. Nội dung này thuộc phần nào?
+**Đề:** Kiểm tra chủ thể, thẩm quyền ký và năng lực phù hợp với hợp đồng thuộc nhóm yêu cầu nào trước khi giao kết?
 
 **Phân tích đề:** Nhận diện nhóm yêu cầu trước khi giao kết.
 
@@ -3480,7 +3480,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 13. Đáp án A
 
-**Đề:** Slide 22 có giới thiệu nguyên tắc về cả luật chung và luật riêng không?
+**Đề:** Nguyên tắc áp dụng luật chung và luật riêng thuộc nội dung nào khi giải quyết một quan hệ kinh tế?
 
 **Phân tích đề:** Nhận diện mục nguyên tắc được bài giảng giới thiệu.
 
@@ -3488,10 +3488,10 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 **Lý thuyết:** Nguồn PLKT là cách thức thể hiện quy tắc pháp lý điều chỉnh quản lý nhà nước về kinh tế và hoạt động kinh doanh của tổ chức, cá nhân. Nguồn trong nước ở slide 22 có ba nhóm: văn bản quy phạm pháp luật, tập quán pháp, án lệ. Bố cục tách danh mục nguồn khỏi nguyên tắc áp dụng. Phần nguyên tắc chỉ giới thiệu áp dụng văn bản QPPL và áp dụng luật chung, luật riêng. Slide không trình bày quy trình lựa chọn án lệ, điều kiện chi tiết dùng tập quán, thứ bậc xử lý văn bản hay một thứ tự áp dụng cho mọi tình huống; các chi tiết ấy không được đặt thành câu bắt buộc của bộ đề này.
 
-- **A — Đúng · Có; đây là một mục trong phần nguyên tắc áp dụng:** Slide 22 nêu nguyên tắc áp dụng luật chung, luật riêng.
-- **B — Sai · Không; chỉ có danh mục loại hình công ty:** Danh mục công ty không phải nội dung duy nhất của slide này.
-- **C — Sai · Không; chỉ có lãi suất vay:** Lãi suất vay không phải nội dung duy nhất của slide này.
-- **D — Sai · Không; chỉ có danh sách cơ quan quản lý:** Cơ quan quản lý không phải nội dung duy nhất của slide này.
+- **A — Đúng · Nguyên tắc áp dụng pháp luật kinh tế:** Slide 22 đặt luật chung, luật riêng trong các nguyên tắc áp dụng pháp luật kinh tế.
+- **B — Sai · Tiêu chí phân loại công ty theo cơ cấu chủ sở hữu:** Cơ cấu chủ sở hữu là tiêu chí phân loại chủ thể, không phải nguyên tắc áp dụng luật chung và luật riêng.
+- **C — Sai · Công thức tính lãi của hợp đồng vay:** Lãi vay là nội dung hợp đồng, không phải nguyên tắc lựa chọn và áp dụng nguồn luật.
+- **D — Sai · Tiêu chí phân chia cơ quan theo phạm vi thẩm quyền:** Phân loại cơ quan theo thẩm quyền khác với nguyên tắc áp dụng luật chung và luật riêng.
 
 **Nguồn:** Chương 1, slide 22.
 
@@ -3526,7 +3526,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 15. Đáp án C
 
-**Đề:** Nhóm TNHH có 60% vốn, điều lệ không hạ ngưỡng. Đạt ngưỡng chủ thể yêu cầu phá sản theo luật mới chưa?
+**Đề:** Nhóm TNHH có 60% vốn, điều lệ không hạ ngưỡng. Đạt ngưỡng chủ thể yêu cầu phá sản theo Luật Phục hồi, phá sản 142/2025 chưa?
 
 **Phân tích đề:** Nhận diện loại hình và dữ kiện không hạ ngưỡng.
 
@@ -3572,7 +3572,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 17. Đáp án C
 
-**Đề:** Tên hệ thuộc trong slide 24 dựa trên sự thống nhất chọn luật của hai bên là gì?
+**Đề:** Các bên thống nhất lựa chọn pháp luật điều chỉnh quan hệ của mình. Tên hệ thuộc luật tương ứng là gì?
 
 **Phân tích đề:** Nhận diện tên hệ thuộc theo dữ kiện, không kiểm tra phạm vi quyền chọn luật.
 
@@ -3668,7 +3668,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 21. Đáp án A
 
-**Đề:** Bộ quản lý một lĩnh vực kinh tế là ví dụ cơ quan có loại thẩm quyền nào trong cách phân biệt slide?
+**Đề:** Bộ quản lý một lĩnh vực kinh tế cụ thể là ví dụ về cơ quan có loại thẩm quyền nào?
 
 **Phân tích đề:** Dữ kiện một lĩnh vực giúp nhận diện tính chuyên môn.
 
@@ -3691,7 +3691,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 22. Đáp án B
 
-**Đề:** Đợt chào bán cổ phần đã hoàn thành. Theo slide, hạn đăng ký đổi vốn điều lệ là?
+**Đề:** Một đợt chào bán cổ phần đã hoàn thành. Thời hạn đăng ký thay đổi vốn điều lệ tính từ sự kiện này là bao lâu?
 
 **Phân tích đề:** Gắn đúng mốc hoàn thành chào bán, không mốc đề xuất.
 
@@ -3718,7 +3718,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 23. Đáp án D
 
-**Đề:** Bảng phá sản thông thường luật mới đặt nghĩa vụ Nhà nước ở đâu so nợ không bảo đảm?
+**Đề:** Thứ tự phân chia tài sản trong phá sản thông thường theo Luật Phục hồi, phá sản 142/2025 đặt nghĩa vụ Nhà nước ở đâu so nợ không bảo đảm?
 
 **Phân tích đề:** Đề nhấn luật mới và phá sản thông thường, chọn đúng bảng.
 
@@ -3726,7 +3726,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 **Lý thuyết:** Phân chia phá sản thông thường theo bảy thứ tự: 1 chi phí phá sản; 2 nợ lương; 3 bảo hiểm bắt buộc gồm BHXH, thất nghiệp, y tế, tai nạn lao động/bệnh nghề; 4 trợ cấp thôi việc và quyền lợi lao động khác theo thỏa ước/hợp đồng; 5 nợ phát sinh nhằm phục hồi; 6 nghĩa vụ tài chính Nhà nước; 7 nợ không bảo đảm và phần nợ bảo đảm thiếu. Từng thứ tự phải xử lý trước khi sang sau; thiếu ở cùng thứ tự thì chia tỷ lệ theo số nợ. Ví dụ còn 600 cho A nợ 400, B nợ 800 cùng nhóm: A 200, B 400. Tài sản dư sau đủ nghĩa vụ thuộc chủ/thành viên/cổ đông theo slide 81. Bài đúng/sai slide 90 phủ nhận chi phí sau lương, chủ nợ bảo đảm luôn ưu tiên toàn bộ và đấu giá mọi trường hợp không ngoại lệ; không biến các mệnh đề sai thành lý thuyết đúng.
 
-- **A — Sai · Cùng một bậc như mọi tài liệu cũ:** Không dùng cách gộp trong tài liệu luật cũ cho bảng mới đề hỏi.
+- **A — Sai · Cùng một thứ tự với nợ không có bảo đảm:** Slide 80 liệt kê nghĩa vụ tài chính với Nhà nước trước nợ không có bảo đảm và phần thiếu của nợ có bảo đảm; không gộp các khoản này vào cùng một thứ tự.
 - **B — Sai · Sau toàn bộ chủ sở hữu:** Chủ chỉ nhận dư sau các nghĩa vụ, không được trả trước Nhà nước.
 - **C — Sai · Trước chi phí phá sản:** Chi phí phá sản ở đầu, không sau nghĩa vụ Nhà nước.
 - **D — Đúng · Trước nợ không bảo đảm và phần thiếu nợ bảo đảm:** Luật mới tách nghĩa vụ Nhà nước ở bậc 6, nợ không bảo đảm ở bậc 7.
@@ -3741,7 +3741,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 24. Đáp án C
 
-**Đề:** Không thỏa thuận mức bồi thường; đã chứng minh hai khoản thiệt hại thực tế 45 và 15 triệu do vi phạm, không trùng. Theo slide 24, tổng bồi thường là bao nhiêu?
+**Đề:** Hai bên không thỏa thuận mức bồi thường; có hai khoản thiệt hại thực tế 45 và 15 triệu đồng đã chứng minh do vi phạm gây ra, không trùng nhau. Tổng bồi thường là bao nhiêu?
 
 **Phân tích đề:** Đề cho cả hai khoản thực tế, cùng nguyên nhân, không trùng để cộng.
 
@@ -3791,7 +3791,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 26. Đáp án A
 
-**Đề:** Một DNTN muốn mua vốn góp trong công ty TNHH bằng chính tư cách DNTN. Quy tắc slide?
+**Đề:** Doanh nghiệp tư nhân muốn mua phần vốn góp trong công ty TNHH bằng chính tư cách doanh nghiệp. Nhận định nào đúng?
 
 **Phân tích đề:** Đề ghi giao dịch bằng tư cách DNTN, không giao dịch riêng cá nhân.
 
@@ -3850,7 +3850,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 **Lý thuyết:** Bốn căn cứ miễn trách nhiệm được nêu: trường hợp các bên thỏa thuận; bất khả kháng; vi phạm hoàn toàn do lỗi bên kia; thực hiện quyết định cơ quan quản lý có thẩm quyền mà các bên không thể biết khi giao kết. Học đúng từ hoàn toàn và thời điểm không thể biết khi ký, không chỉ thấy có lỗi bên kia hoặc có quyết định là kết luận miễn. Slide chỉ gọi tên bất khả kháng, không giảng đủ ba yếu tố định nghĩa; cũng không trình bày nghĩa vụ thông báo/chứng minh để kiểm tra riêng. Khi câu dùng một căn cứ, dữ kiện phải cho đủ nội dung được nêu trong chính slide.
 
 - **A — Sai · Bắt bên bán luôn phạt 8% dù miễn:** Nếu thuộc miễn thì không mặc định chịu phạt như không được miễn.
-- **B — Đúng · Căn cứ miễn trách nhiệm theo slide 25:** LTM có căn cứ miễn khi hành vi vi phạm hoàn toàn do lỗi bên kia.
+- **B — Đúng · Có thể là căn cứ miễn trách nhiệm khi đủ điều kiện:** LTM có căn cứ miễn khi hành vi vi phạm hoàn toàn do lỗi bên kia.
 - **C — Sai · Làm hợp đồng tự vô hiệu vì bên mua có lỗi:** Lỗi thực hiện không tự làm điều kiện hiệu lực lúc giao kết bị thiếu.
 - **D — Sai · Bất khả kháng trong mọi trường hợp:** Lỗi bên kia là căn cứ riêng, không phải luôn sự kiện bất khả kháng.
 
@@ -3864,7 +3864,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 29. Đáp án D
 
-**Đề:** Bài giảng nói pháp luật kinh tế điều chỉnh tổ chức, quản lý và kinh doanh. Phần địa vị pháp lý doanh nghiệp có nằm trong nội dung này?
+**Đề:** Việc xác định địa vị pháp lý và tổ chức hoạt động của doanh nghiệp có thuộc nội dung điều chỉnh của pháp luật kinh tế không?
 
 **Phân tích đề:** Đề kiểm tra phạm vi nội dung của môn từ định nghĩa rộng.
 
@@ -3891,7 +3891,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 30. Đáp án D
 
-**Đề:** A sáp nhập vào B là công ty nhận. Theo slide 84, mô tả nào đúng?
+**Đề:** Công ty A sáp nhập vào công ty B là công ty nhận sáp nhập. Kết quả nào đúng về sự tồn tại và việc tiếp nhận quyền, nghĩa vụ?
 
 **Phân tích đề:** Xác định ai là công ty nhận trước khi chọn hậu quả.
 
@@ -3914,7 +3914,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 31. Đáp án D
 
-**Đề:** TCTD có văn bản NHNN thuộc trường hợp slide 86 nhưng đã khắc phục, không còn mất khả năng thanh toán. Đủ cả hai điều kiện slide nêu chưa?
+**Đề:** Tổ chức tín dụng có văn bản của NHNN về tình trạng kiểm soát đặc biệt thuộc trường hợp luật định nhưng đã khắc phục và không còn mất khả năng thanh toán. Đã đủ điều kiện áp dụng thủ tục phá sản chưa?
 
 **Phân tích đề:** Đọc quan hệ kết hợp hai điều kiện trong slide.
 
@@ -3937,7 +3937,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 32. Đáp án D
 
-**Đề:** Hợp đồng vô hiệu; bên nhận ngay tình đã thu hoa lợi thuộc ngoại lệ nêu tại slide 28. Có phải hoàn trả hoa lợi trong trường hợp này?
+**Đề:** Giao dịch bị vô hiệu; bên nhận tài sản ngay tình đã thu hoa lợi, lợi tức. Xét riêng hoa lợi, lợi tức đã thu, nghĩa vụ hoàn trả được xác định như thế nào?
 
 **Phân tích đề:** Đề đã cho đủ ngay tình và thuộc ngoại lệ, chỉ hỏi hoa lợi.
 
@@ -3948,7 +3948,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 - **A — Sai · Có trong mọi trường hợp không xét ngay tình:** Khẳng định mọi trường hợp phải trả bỏ qua ngoại lệ đề đã xác định.
 - **B — Sai · Không nên cũng giữ luôn tài sản gốc:** Ngoại lệ hoa lợi không cho giữ tài sản gốc vốn phải hoàn trả.
 - **C — Sai · Không nên tự miễn cả thiệt hại do lỗi riêng:** Trách nhiệm thiệt hại theo lỗi là vấn đề khác, không tự miễn từ ngoại lệ này.
-- **D — Đúng · Không theo ngoại lệ luật đã nêu:** Slide 28 có ngoại lệ bên ngay tình không trả hoa lợi/lợi tức đã thu.
+- **D — Đúng · Không phải hoàn trả hoa lợi, lợi tức đã thu trong trường hợp ngay tình này:** Slide 28 có ngoại lệ bên ngay tình không trả hoa lợi/lợi tức đã thu.
 
 **Nguồn:** Chương 5, slide 28.
 
@@ -3969,7 +3969,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 **Lý thuyết:** Nguồn PLKT là cách thức thể hiện quy tắc pháp lý điều chỉnh quản lý nhà nước về kinh tế và hoạt động kinh doanh của tổ chức, cá nhân. Nguồn trong nước ở slide 22 có ba nhóm: văn bản quy phạm pháp luật, tập quán pháp, án lệ. Bố cục tách danh mục nguồn khỏi nguyên tắc áp dụng. Phần nguyên tắc chỉ giới thiệu áp dụng văn bản QPPL và áp dụng luật chung, luật riêng. Slide không trình bày quy trình lựa chọn án lệ, điều kiện chi tiết dùng tập quán, thứ bậc xử lý văn bản hay một thứ tự áp dụng cho mọi tình huống; các chi tiết ấy không được đặt thành câu bắt buộc của bộ đề này.
 
 - **A — Sai · Mọi thói quen doanh nghiệp dù trái luật:** Thói quen trái luật không tự được công nhận là nguồn để áp dụng hợp lệ.
-- **B — Sai · Mọi ý kiến cá nhân của giảng viên:** Ý kiến giảng giải hỗ trợ hiểu, không tự là quy tắc có hiệu lực pháp luật.
+- **B — Sai · Mọi ý kiến cá nhân của người tư vấn:** Ý kiến giảng giải hỗ trợ hiểu, không tự là quy tắc có hiệu lực pháp luật.
 - **C — Đúng · Hình thức chứa đựng các quy tắc được áp dụng theo pháp luật:** Nguồn là hình thức chứa quy tắc pháp lý có giá trị áp dụng theo cơ chế.
 - **D — Sai · Chỉ các sách giáo khoa đã in:** Sách giáo khoa không thay các văn bản và nguồn pháp luật được thừa nhận.
 
@@ -4129,7 +4129,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 ### Câu 40. Đáp án B
 
-**Đề:** Mua bán hàng hóa không thuộc yêu cầu văn bản riêng. Theo slide 30, nhóm hình thức nào được nêu?
+**Đề:** Hợp đồng mua bán hàng hóa không thuộc trường hợp bắt buộc lập văn bản. Những hình thức giao kết nào được chấp nhận?
 
 **Phân tích đề:** Đề loại giả thiết luật riêng bắt buộc văn bản rồi hỏi danh mục chung.
 
@@ -4152,7 +4152,7 @@ D. Chỉ giấy có công chứng trong mọi trường hợp
 
 # Đề tổng hợp 04
 
-## Câu 1. Quá trình thành lập, tổ chức quản lý, giải thể và phá sản chủ thể kinh doanh thuộc phạm vi nào được slide 6 nêu?
+## Câu 1. Quan hệ về thành lập, tổ chức quản lý, giải thể và phá sản chủ thể kinh doanh thuộc phạm vi điều chỉnh nào?
 
 A. Chỉ quan hệ tiền gửi cá nhân
 
@@ -4202,7 +4202,7 @@ C. Có, doanh nghiệp lớn phải luôn bán rẻ hơn
 
 D. Không, nên doanh nghiệp nhỏ không có quyền
 
-## Câu 6. TNHH hai thành viên hết hạn góp nhưng vốn thực góp thiếu. Theo slide 28, phải đăng ký điều chỉnh trong bao lâu?
+## Câu 6. Công ty TNHH hai thành viên trở lên hết hạn góp vốn nhưng số thực góp thiếu. Công ty phải đăng ký điều chỉnh trong thời hạn bao lâu?
 
 A. Không cần điều chỉnh
 
@@ -4222,7 +4222,7 @@ C. Chưa đủ
 
 D. Đủ vì có bằng là hết điều kiện
 
-## Câu 8. Khoản vay không thế chấp có tự là “tín chấp” đúng biện pháp BLDS ở slide không?
+## Câu 8. Khoản vay không có tài sản thế chấp có tự động được xác định là tín chấp theo Bộ luật Dân sự không?
 
 A. Có, tín chấp nghĩa mọi vay không tài sản
 
@@ -4232,7 +4232,7 @@ C. Không, vì tín chấp không bao giờ bảo đảm vay
 
 D. Không, còn chủ thể tổ chức cơ sở và điều kiện luật định
 
-## Câu 9. Khách bị thiệt hại do sản phẩm; muốn yêu cầu khoản tiền khắc phục. Nhóm quyền được slide nêu?
+## Câu 9. Khách hàng bị thiệt hại do sản phẩm và muốn yêu cầu khoản tiền khắc phục. Yêu cầu này gắn với quyền nào của người tiêu dùng?
 
 A. Quyền tự quyết tịch thu giấy phép
 
@@ -4242,7 +4242,7 @@ C. Quyền có tiền bồi thường bất kể chứng cứ
 
 D. Quyền tự chiếm kho hàng người bán
 
-## Câu 10. Thành viên đã chuyển vốn làm TNHH chỉ còn một người. Hạn chuyển tổ chức MTV và đăng ký theo trường hợp slide?
+## Câu 10. Chuyển nhượng phần vốn làm công ty TNHH hai thành viên trở lên chỉ còn một thành viên. Thời hạn tổ chức theo mô hình một thành viên và đăng ký thay đổi là bao lâu?
 
 A. 10 năm từ thay đổi vốn
 
@@ -4272,7 +4272,7 @@ C. Bên thuê tự thành chủ mọi tài sản di sản
 
 D. Mọi khoản nợ của người chết tự xóa
 
-## Câu 13. Công ty có hai tổ chức cùng sở hữu vốn. Theo cơ cấu chủ sở hữu ở slide 19, xếp vào nhóm nào?
+## Câu 13. Hai tổ chức cùng sở hữu vốn trong một công ty. Xét cơ cấu chủ sở hữu, công ty thuộc nhóm nào?
 
 A. Không có chủ vì không là cá nhân
 
@@ -4292,7 +4292,7 @@ C. Công ty vẫn luôn MTV với tất cả cùng là một chủ
 
 D. Công ty tự giải thể ngay bất kể tình trạng
 
-## Câu 15. Sau mở phá sản, công ty muốn phân chia lợi nhuận. Slide 69 nêu giới hạn nào?
+## Câu 15. Sau khi mở thủ tục phá sản, công ty muốn chia lợi nhuận cho chủ sở hữu. Hoạt động này được đánh giá thế nào?
 
 A. Phân chia lợi nhuận, phân phối thu nhập thuộc hoạt động bị cấm
 
@@ -4302,7 +4302,7 @@ C. Được vì chưa có tuyên bố phá sản
 
 D. Được nếu chỉ gọi là quà cho cổ đông
 
-## Câu 16. Hủy bỏ hợp đồng đúng trường hợp bài giảng nêu nhưng bên hủy quên thông báo ngay và gây thiệt hại. Hậu quả theo slide 22?
+## Câu 16. Bên có căn cứ hủy bỏ hợp đồng không thông báo ngay, gây thiệt hại cho bên kia. Phải chịu hậu quả nào?
 
 A. Luôn được miễn vì có quyền hủy
 
@@ -4312,7 +4312,7 @@ C. Bồi thường thiệt hại do không thông báo
 
 D. Chỉ đổi tên bên bán
 
-## Câu 17. Tập quán thương mại quốc tế trong slide 23 nằm cùng danh mục nguồn với nhóm nào?
+## Câu 17. Tập quán thương mại quốc tế cùng với những nguồn nào tạo thành nhóm nguồn pháp luật kinh tế trong lĩnh vực quốc tế?
 
 A. Cầm cố, thế chấp, ký quỹ
 
@@ -4322,7 +4322,7 @@ C. Lương, thuế, nợ khác
 
 D. Một chủ, nhiều chủ, pháp nhân
 
-## Câu 18. Cổ đông phản đối thuộc trường hợp slide 64 gửi văn bản yêu cầu mua lại ngày thứ 8 từ nghị quyết. Xét riêng hạn yêu cầu đã đạt chưa?
+## Câu 18. Cổ đông phản đối nghị quyết thuộc trường hợp được yêu cầu mua lại cổ phần gửi văn bản vào ngày thứ 8 kể từ nghị quyết. Xét riêng thời hạn gửi yêu cầu, đã đáp ứng chưa?
 
 A. Chưa, vì hạn chỉ 3 ngày
 
@@ -4330,9 +4330,9 @@ B. Chưa, vì luôn phải chờ 90 ngày mới gửi
 
 C. Đạt, còn trong hạn 10 ngày
 
-D. Không có thời hạn yêu cầu trong slide
+D. Không có bất kỳ thời hạn nào cho yêu cầu mua lại
 
-## Câu 19. Theo slide 72, nhóm nào có nghĩa vụ tham gia Hội nghị chủ nợ phá sản?
+## Câu 19. Nhóm người nào có nghĩa vụ tham gia Hội nghị chủ nợ trong thủ tục phá sản?
 
 A. Chỉ người mua cổ phần ưu đãi
 
@@ -4372,9 +4372,9 @@ C. Không, cần đúng điều kiện luật và cách thể hiện
 
 D. Không, cổ phần tuyệt đối không bao giờ bị hạn chế
 
-## Câu 23. Ba bảng phương án phục hồi, phá sản thông thường và TCTD của bài giảng nên phân biệt thế nào?
+## Câu 23. Thứ tự thanh toán trong phương án phục hồi, phá sản thông thường và phá sản tổ chức tín dụng lần lượt có bao nhiêu nhóm hoặc thứ tự?
 
-A. Lần lượt 5 nhóm, 7 thứ tự và 4 nhóm trong các bảng slide
+A. Lần lượt 5 nhóm, 7 thứ tự và 4 nhóm
 
 B. Cả ba luôn trả chủ sở hữu trước
 
@@ -4384,7 +4384,7 @@ D. Cả ba đều bỏ quyền lao động
 
 ## Câu 24. Đối tượng đã không thể thực hiện ngay lúc giao kết. Căn cứ cần xét khác với chậm giao sau ký là gì?
 
-A. Vô hiệu do đối tượng không thể thực hiện theo slide 26, 27
+A. Vô hiệu do có đối tượng không thể thực hiện được
 
 B. Chỉ đơn phương chấm dứt từ thông báo
 
@@ -4402,7 +4402,7 @@ C. Có, nếu công ty nhỏ
 
 D. Có, nếu chưa có ai phản đối
 
-## Câu 26. Hợp danh và DNTN cùng có hạn chế huy động nào ở slide?
+## Câu 26. Công ty hợp danh và doanh nghiệp tư nhân có cùng hạn chế nào về việc phát hành chứng khoán?
 
 A. Đều được phát hành trái phiếu như mọi TNHH
 
@@ -4422,9 +4422,9 @@ C. Không, vì mọi doanh nghiệp đều rút gọn
 
 D. Có, cặp đó là căn cứ duy nhất
 
-## Câu 28. Đã trả tiền nhưng chưa nhận vật do giao không đồng bộ. Theo slide 30, quyền về lãi tính trên cơ sở nào?
+## Câu 28. Bên mua đã trả tiền nhưng chưa nhận vật do bên bán giao không đồng bộ. Khoản lãi được tính trên cơ sở nào?
 
-A. Số tiền đã trả, theo thỏa thuận trong giới hạn được slide dẫn
+A. Số tiền đã trả; áp dụng lãi thỏa thuận trong giới hạn pháp luật
 
 B. Luôn tiền cọc gấp đôi
 
@@ -4432,7 +4432,7 @@ C. Toàn bộ vốn điều lệ bên bán
 
 D. Số nhân viên bên mua
 
-## Câu 29. Mục tiêu lợi nhuận, độc lập, thường xuyên đã có; để xét tư cách thương nhân cá nhân theo slide còn cần gì?
+## Câu 29. Cá nhân hoạt động thương mại độc lập, thường xuyên và hướng tới lợi nhuận. Để xét tư cách thương nhân còn cần điều kiện nào?
 
 A. Bắt buộc có 50 nhân viên
 
@@ -4442,7 +4442,7 @@ C. Chỉ dùng tên tiếng Anh
 
 D. Bắt buộc phát hành trái phiếu
 
-## Câu 30. Danh mục chuyển đổi ở slide 85 có bao gồm DNTN chuyển thành công ty hợp danh không?
+## Câu 30. Doanh nghiệp tư nhân có thể chuyển đổi thành công ty hợp danh không?
 
 A. Không, chỉ được đổi thành Hội nghị chủ nợ
 
@@ -4452,7 +4452,7 @@ C. Không, chỉ được đổi thành cơ quan thuế
 
 D. Có, bên cạnh TNHH và CTCP
 
-## Câu 31. Slide 88 tính hạn 30 ngày tuyên bố TCTD phá sản từ sự kiện nào?
+## Câu 31. Thời hạn 30 ngày ra quyết định tuyên bố tổ chức tín dụng phá sản được tính từ sự kiện nào?
 
 A. Một khách hàng gửi tiền lần đầu
 
@@ -4492,7 +4492,7 @@ C. Đạt nên được bỏ mọi đăng ký thay đổi
 
 D. Không, vốn không bao giờ được hoàn trả
 
-## Câu 35. Định kỳ thực hiện phương án phục hồi cần báo cáo theo mốc nào ở slide?
+## Câu 35. Báo cáo định kỳ về việc thực hiện phương án phục hồi phải gửi với tần suất nào?
 
 A. 3 lần mỗi ngày
 
@@ -4506,23 +4506,23 @@ D. 3 năm một lần
 
 A. Phạt cố định 8% Nhà nước trả
 
-B. Miễn trách nhiệm khi đủ điều kiện slide 25
+B. Miễn trách nhiệm khi đủ điều kiện
 
 C. Cho mọi bên tự bỏ nghĩa vụ dù quyết định không liên quan
 
 D. Tự vô hiệu mọi hợp đồng đã ký
 
-## Câu 37. Phần vốn, tài sản, tổ chức kinh doanh và chấm dứt hoạt động có điểm chung trong chương tổng quan?
+## Câu 37. Quan hệ về vốn, tài sản, tổ chức kinh doanh và chấm dứt hoạt động cùng thuộc nhóm phạm vi điều chỉnh nào?
 
 A. Đều chỉ là quyền người tiêu dùng
 
 B. Đều chỉ học ở chương ngoài phạm vi thi
 
-C. Đều là các nội dung thuộc pháp luật kinh tế theo phạm vi giảng
+C. Đều thuộc phạm vi điều chỉnh của pháp luật kinh tế
 
 D. Đều chỉ là tập quán quốc tế
 
-## Câu 38. Hợp đồng chuyển phần vốn đã ký nhưng chưa ghi đầy đủ thông tin người mua vào sổ thành viên. Quy tắc slide về người chuyển?
+## Câu 38. Hợp đồng chuyển phần vốn đã ký nhưng chưa ghi đủ thông tin người mua vào sổ thành viên. Quyền và nghĩa vụ của người chuyển được xác định như thế nào?
 
 A. Công ty tự thành một thành viên
 
@@ -4542,7 +4542,7 @@ C. Hoạt động tự do không ảnh hưởng chủ nợ
 
 D. Tự hợp lệ vì đối tác là người quen
 
-## Câu 40. Bài giảng nêu hai dạng vô hiệu theo phạm vi là gì?
+## Câu 40. Xét theo phạm vi nội dung không được công nhận giá trị pháp lý, hợp đồng vô hiệu được chia thành những dạng nào?
 
 A. Vô hiệu toàn bộ và vô hiệu từng phần
 
@@ -4560,7 +4560,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 1. Đáp án C
 
-**Đề:** Quá trình thành lập, tổ chức quản lý, giải thể và phá sản chủ thể kinh doanh thuộc phạm vi nào được slide 6 nêu?
+**Đề:** Quan hệ về thành lập, tổ chức quản lý, giải thể và phá sản chủ thể kinh doanh thuộc phạm vi điều chỉnh nào?
 
 **Phân tích đề:** Đề hỏi nhóm quan hệ được slide 6 ghi trực tiếp.
 
@@ -4687,7 +4687,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 6. Đáp án C
 
-**Đề:** TNHH hai thành viên hết hạn góp nhưng vốn thực góp thiếu. Theo slide 28, phải đăng ký điều chỉnh trong bao lâu?
+**Đề:** Công ty TNHH hai thành viên trở lên hết hạn góp vốn nhưng số thực góp thiếu. Công ty phải đăng ký điều chỉnh trong thời hạn bao lâu?
 
 **Phân tích đề:** Xác định sự kiện góp thiếu và mốc bắt đầu tính.
 
@@ -4737,7 +4737,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 8. Đáp án D
 
-**Đề:** Khoản vay không thế chấp có tự là “tín chấp” đúng biện pháp BLDS ở slide không?
+**Đề:** Khoản vay không có tài sản thế chấp có tự động được xác định là tín chấp theo Bộ luật Dân sự không?
 
 **Phân tích đề:** Tách cách gọi thị trường “vay tín chấp” khỏi biện pháp bảo đảm được giảng.
 
@@ -4760,7 +4760,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 9. Đáp án B
 
-**Đề:** Khách bị thiệt hại do sản phẩm; muốn yêu cầu khoản tiền khắc phục. Nhóm quyền được slide nêu?
+**Đề:** Khách hàng bị thiệt hại do sản phẩm và muốn yêu cầu khoản tiền khắc phục. Yêu cầu này gắn với quyền nào của người tiêu dùng?
 
 **Phân tích đề:** Dữ kiện thiệt hại gắn quyền yêu cầu bồi thường, không biện pháp tự cưỡng chế.
 
@@ -4783,7 +4783,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 10. Đáp án D
 
-**Đề:** Thành viên đã chuyển vốn làm TNHH chỉ còn một người. Hạn chuyển tổ chức MTV và đăng ký theo trường hợp slide?
+**Đề:** Chuyển nhượng phần vốn làm công ty TNHH hai thành viên trở lên chỉ còn một thành viên. Thời hạn tổ chức theo mô hình một thành viên và đăng ký thay đổi là bao lâu?
 
 **Phân tích đề:** Đếm người sau chuyển và lấy ngày hoàn thành chuyển nhượng làm mốc.
 
@@ -4856,7 +4856,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 13. Đáp án D
 
-**Đề:** Công ty có hai tổ chức cùng sở hữu vốn. Theo cơ cấu chủ sở hữu ở slide 19, xếp vào nhóm nào?
+**Đề:** Hai tổ chức cùng sở hữu vốn trong một công ty. Xét cơ cấu chủ sở hữu, công ty thuộc nhóm nào?
 
 **Phân tích đề:** Đếm số chủ thể sở hữu, không số cá nhân đứng sau mỗi tổ chức.
 
@@ -4902,7 +4902,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 15. Đáp án A
 
-**Đề:** Sau mở phá sản, công ty muốn phân chia lợi nhuận. Slide 69 nêu giới hạn nào?
+**Đề:** Sau khi mở thủ tục phá sản, công ty muốn chia lợi nhuận cho chủ sở hữu. Hoạt động này được đánh giá thế nào?
 
 **Phân tích đề:** Chú ý giai đoạn mở thủ tục khác tuyên bố và giới hạn đã phát sinh.
 
@@ -4925,7 +4925,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 16. Đáp án C
 
-**Đề:** Hủy bỏ hợp đồng đúng trường hợp bài giảng nêu nhưng bên hủy quên thông báo ngay và gây thiệt hại. Hậu quả theo slide 22?
+**Đề:** Bên có căn cứ hủy bỏ hợp đồng không thông báo ngay, gây thiệt hại cho bên kia. Phải chịu hậu quả nào?
 
 **Phân tích đề:** Đọc cả quyền hủy và nghĩa vụ khi thực hiện quyền.
 
@@ -4948,7 +4948,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 17. Đáp án B
 
-**Đề:** Tập quán thương mại quốc tế trong slide 23 nằm cùng danh mục nguồn với nhóm nào?
+**Đề:** Tập quán thương mại quốc tế cùng với những nguồn nào tạo thành nhóm nguồn pháp luật kinh tế trong lĩnh vực quốc tế?
 
 **Phân tích đề:** Đề kiểm tra danh mục, không điều kiện áp dụng tập quán cụ thể.
 
@@ -4971,7 +4971,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 18. Đáp án C
 
-**Đề:** Cổ đông phản đối thuộc trường hợp slide 64 gửi văn bản yêu cầu mua lại ngày thứ 8 từ nghị quyết. Xét riêng hạn yêu cầu đã đạt chưa?
+**Đề:** Cổ đông phản đối nghị quyết thuộc trường hợp được yêu cầu mua lại cổ phần gửi văn bản vào ngày thứ 8 kể từ nghị quyết. Xét riêng thời hạn gửi yêu cầu, đã đáp ứng chưa?
 
 **Phân tích đề:** Chỉ xét hạn gửi yêu cầu của cổ đông, không hạn thanh toán mua lại.
 
@@ -4982,7 +4982,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 - **A — Sai · Chưa, vì hạn chỉ 3 ngày:** Slide nêu 10 ngày chứ không 3 ngày cho yêu cầu này.
 - **B — Sai · Chưa, vì luôn phải chờ 90 ngày mới gửi:** 90 ngày không là hạn gửi được slide 64 trình bày.
 - **C — Đúng · Đạt, còn trong hạn 10 ngày:** Slide 64 ghi văn bản gửi trong 10 ngày; ngày 8 nằm trong hạn.
-- **D — Sai · Không có thời hạn yêu cầu trong slide:** Mốc 10 ngày thực sự xuất hiện trên slide 64.
+- **D — Sai · Không có bất kỳ thời hạn nào cho yêu cầu mua lại:** Mốc 10 ngày thực sự xuất hiện trên slide 64.
 
 **Nguồn:** Chương 2, slide 64.
 
@@ -4994,7 +4994,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 19. Đáp án B
 
-**Đề:** Theo slide 72, nhóm nào có nghĩa vụ tham gia Hội nghị chủ nợ phá sản?
+**Đề:** Nhóm người nào có nghĩa vụ tham gia Hội nghị chủ nợ trong thủ tục phá sản?
 
 **Phân tích đề:** Phân biệt nghĩa vụ tham gia với quyền của chủ nợ và đại diện lao động.
 
@@ -5086,7 +5086,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 23. Đáp án A
 
-**Đề:** Ba bảng phương án phục hồi, phá sản thông thường và TCTD của bài giảng nên phân biệt thế nào?
+**Đề:** Thứ tự thanh toán trong phương án phục hồi, phá sản thông thường và phá sản tổ chức tín dụng lần lượt có bao nhiêu nhóm hoặc thứ tự?
 
 **Phân tích đề:** Gắn mỗi bảng với thủ tục của nó trước khi học thứ tự.
 
@@ -5094,7 +5094,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 **Lý thuyết:** Phân chia phá sản thông thường theo bảy thứ tự: 1 chi phí phá sản; 2 nợ lương; 3 bảo hiểm bắt buộc gồm BHXH, thất nghiệp, y tế, tai nạn lao động/bệnh nghề; 4 trợ cấp thôi việc và quyền lợi lao động khác theo thỏa ước/hợp đồng; 5 nợ phát sinh nhằm phục hồi; 6 nghĩa vụ tài chính Nhà nước; 7 nợ không bảo đảm và phần nợ bảo đảm thiếu. Từng thứ tự phải xử lý trước khi sang sau; thiếu ở cùng thứ tự thì chia tỷ lệ theo số nợ. Ví dụ còn 600 cho A nợ 400, B nợ 800 cùng nhóm: A 200, B 400. Tài sản dư sau đủ nghĩa vụ thuộc chủ/thành viên/cổ đông theo slide 81. Bài đúng/sai slide 90 phủ nhận chi phí sau lương, chủ nợ bảo đảm luôn ưu tiên toàn bộ và đấu giá mọi trường hợp không ngoại lệ; không biến các mệnh đề sai thành lý thuyết đúng.
 
-- **A — Đúng · Lần lượt 5 nhóm, 7 thứ tự và 4 nhóm trong các bảng slide:** Slide 42 nêu 5 nhóm; slide 79–80 nêu 7 thứ tự; slide 87 nêu 4 nhóm của TCTD.
+- **A — Đúng · Lần lượt 5 nhóm, 7 thứ tự và 4 nhóm:** Slide 42 nêu 5 nhóm; slide 79–80 nêu 7 thứ tự; slide 87 nêu 4 nhóm của TCTD.
 - **B — Sai · Cả ba luôn trả chủ sở hữu trước:** Chủ sở hữu không được đặt trước các nghĩa vụ trong các bảng.
 - **C — Sai · Cả ba luôn là một bảng 4 nhóm:** Gộp mọi bảng thành 4 nhóm làm mất sự khác nhau bài giảng trình bày.
 - **D — Sai · Cả ba đều bỏ quyền lao động:** Các bảng đều có quyền lao động, không bỏ nhóm này.
@@ -5129,7 +5129,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 **Lý thuyết:** Vô hiệu: toàn bộ hoặc từng phần không được công nhận giá trị pháp lý, quyền nghĩa vụ không phát sinh theo phần vô hiệu. Căn cứ slide 27: điều cấm/đạo đức; giả tạo; người chưa thành niên/mất hoặc hạn chế năng lực, khó khăn nhận thức trong trường hợp nêu; nhầm lẫn; lừa dối/đe dọa/cưỡng ép; không nhận thức, làm chủ hành vi; hình thức; đối tượng không thể thực hiện. Hậu quả slide 28: không phát sinh/thay đổi/chấm dứt quyền nghĩa vụ từ xác lập; khôi phục ban đầu, hoàn trả tài sản hoặc tiền; bên ngay tình không trả hoa lợi/lợi tức đã thu; bên có lỗi gây thiệt hại bồi thường. Phân biệt vô hiệu từ xác lập với vi phạm thực hiện một hợp đồng vốn hợp lệ; không thêm hiệu lực giao dịch bị che giấu hoặc thời hiệu kiện ngoài slide.
 
-- **A — Đúng · Vô hiệu do đối tượng không thể thực hiện theo slide 26, 27:** Slide 27 liệt kê đối tượng không thể thực hiện được là căn cứ vô hiệu; đề đã cho tình trạng này khi giao kết.
+- **A — Đúng · Vô hiệu do có đối tượng không thể thực hiện được:** Slide 27 liệt kê đối tượng không thể thực hiện được là căn cứ vô hiệu; đề đã cho tình trạng này khi giao kết.
 - **B — Sai · Chỉ đơn phương chấm dứt từ thông báo:** Đề nêu căn cứ từ lúc xác lập, không chỉ cơ chế chấm dứt về tương lai.
 - **C — Sai · Tự miễn trách nhiệm mọi bên không xét biết/không biết:** Đề cho vấn đề hiệu lực ban đầu, không cung cấp căn cứ để tự miễn trách nhiệm mọi bên.
 - **D — Sai · Chỉ áp phạt 8% bỏ điều kiện hiệu lực:** Trước chế tài cần xem hiệu lực; trần phạt không thay căn cứ vô hiệu.
@@ -5171,7 +5171,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 26. Đáp án D
 
-**Đề:** Hợp danh và DNTN cùng có hạn chế huy động nào ở slide?
+**Đề:** Công ty hợp danh và doanh nghiệp tư nhân có cùng hạn chế nào về việc phát hành chứng khoán?
 
 **Phân tích đề:** So công cụ phát hành, không đồng nhất tất cả huy động vốn.
 
@@ -5225,7 +5225,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 28. Đáp án A
 
-**Đề:** Đã trả tiền nhưng chưa nhận vật do giao không đồng bộ. Theo slide 30, quyền về lãi tính trên cơ sở nào?
+**Đề:** Bên mua đã trả tiền nhưng chưa nhận vật do bên bán giao không đồng bộ. Khoản lãi được tính trên cơ sở nào?
 
 **Phân tích đề:** Đọc đúng khoản tiền đã trả, không chuyển sang một cơ sở tính khác.
 
@@ -5233,7 +5233,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 **Lý thuyết:** Mua bán hàng hóa: bên bán chuyển sở hữu, bên mua trả tiền; chủ thể được slide 29 mô tả đều là thương nhân hoặc một bên thương nhân. Hình thức lời nói, văn bản, hành vi cụ thể; luật yêu cầu văn bản thì tuân theo. Đã trả tiền nhưng chưa nhận vật do giao không đồng bộ: lãi trên tiền đã trả theo thỏa thuận, không vượt mức Điều 468 được slide dẫn. Không tự thêm bồi thường khi đề chưa cho đủ thiệt hại/nhân quả. Bán quyền đòi nợ: nếu bên bán cam kết bảo đảm khả năng thanh toán của người mắc nợ mà đến hạn không trả, bên bán liên đới chịu trách nhiệm theo slide 31. Slide không giảng riêng hình thức mua bán quốc tế để hỏi bắt buộc văn bản theo một điều luật ngoài.
 
-- **A — Đúng · Số tiền đã trả, theo thỏa thuận trong giới hạn được slide dẫn:** Slide 30 nêu lãi đối với số tiền đã trả, theo thỏa thuận không vượt mức được dẫn.
+- **A — Đúng · Số tiền đã trả; áp dụng lãi thỏa thuận trong giới hạn pháp luật:** Slide 30 nêu lãi đối với số tiền đã trả, theo thỏa thuận không vượt mức được dẫn.
 - **B — Sai · Luôn tiền cọc gấp đôi:** Gấp đôi cọc không là nội dung quyền về lãi được slide nêu.
 - **C — Sai · Toàn bộ vốn điều lệ bên bán:** Vốn điều lệ không là cơ sở tính lãi trong tình huống đã trả tiền.
 - **D — Sai · Số nhân viên bên mua:** Số nhân viên không là cơ sở tính lãi.
@@ -5248,7 +5248,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 29. Đáp án B
 
-**Đề:** Mục tiêu lợi nhuận, độc lập, thường xuyên đã có; để xét tư cách thương nhân cá nhân theo slide còn cần gì?
+**Đề:** Cá nhân hoạt động thương mại độc lập, thường xuyên và hướng tới lợi nhuận. Để xét tư cách thương nhân còn cần điều kiện nào?
 
 **Phân tích đề:** Đề đã cho các dấu hiệu hoạt động, tìm điều kiện pháp lý còn lại.
 
@@ -5275,7 +5275,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 30. Đáp án D
 
-**Đề:** Danh mục chuyển đổi ở slide 85 có bao gồm DNTN chuyển thành công ty hợp danh không?
+**Đề:** Doanh nghiệp tư nhân có thể chuyển đổi thành công ty hợp danh không?
 
 **Phân tích đề:** Đề kiểm tra danh mục chuyển đổi thực sự có trên slide.
 
@@ -5298,7 +5298,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 31. Đáp án C
 
-**Đề:** Slide 88 tính hạn 30 ngày tuyên bố TCTD phá sản từ sự kiện nào?
+**Đề:** Thời hạn 30 ngày ra quyết định tuyên bố tổ chức tín dụng phá sản được tính từ sự kiện nào?
 
 **Phân tích đề:** Học số ngày kèm đúng mốc bắt đầu, không nhớ riêng 30.
 
@@ -5390,7 +5390,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 35. Đáp án B
 
-**Đề:** Định kỳ thực hiện phương án phục hồi cần báo cáo theo mốc nào ở slide?
+**Đề:** Báo cáo định kỳ về việc thực hiện phương án phục hồi phải gửi với tần suất nào?
 
 **Phân tích đề:** Gắn mốc thời gian với đúng việc báo cáo thực hiện.
 
@@ -5422,7 +5422,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 **Lý thuyết:** Bốn căn cứ miễn trách nhiệm được nêu: trường hợp các bên thỏa thuận; bất khả kháng; vi phạm hoàn toàn do lỗi bên kia; thực hiện quyết định cơ quan quản lý có thẩm quyền mà các bên không thể biết khi giao kết. Học đúng từ hoàn toàn và thời điểm không thể biết khi ký, không chỉ thấy có lỗi bên kia hoặc có quyết định là kết luận miễn. Slide chỉ gọi tên bất khả kháng, không giảng đủ ba yếu tố định nghĩa; cũng không trình bày nghĩa vụ thông báo/chứng minh để kiểm tra riêng. Khi câu dùng một căn cứ, dữ kiện phải cho đủ nội dung được nêu trong chính slide.
 
 - **A — Sai · Phạt cố định 8% Nhà nước trả:** Không có khoản phạt Nhà nước mặc định trả cho mọi bên như đề gợi.
-- **B — Đúng · Miễn trách nhiệm khi đủ điều kiện slide 25:** Đây là một căn cứ miễn theo luật, phải xét liên hệ vi phạm và điều kiện.
+- **B — Đúng · Miễn trách nhiệm khi đủ điều kiện:** Đây là một căn cứ miễn theo luật, phải xét liên hệ vi phạm và điều kiện.
 - **C — Sai · Cho mọi bên tự bỏ nghĩa vụ dù quyết định không liên quan:** Không phải mọi quyết định đều miễn; phải có tác động và điều kiện quy định.
 - **D — Sai · Tự vô hiệu mọi hợp đồng đã ký:** Căn cứ miễn khi thực hiện khác điều kiện vô hiệu từ lúc giao kết.
 
@@ -5436,7 +5436,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 37. Đáp án C
 
-**Đề:** Phần vốn, tài sản, tổ chức kinh doanh và chấm dứt hoạt động có điểm chung trong chương tổng quan?
+**Đề:** Quan hệ về vốn, tài sản, tổ chức kinh doanh và chấm dứt hoạt động cùng thuộc nhóm phạm vi điều chỉnh nào?
 
 **Phân tích đề:** Ghép các mảng vào phạm vi môn, không nhầm với một nhóm quyền nhỏ.
 
@@ -5446,7 +5446,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 - **A — Sai · Đều chỉ là quyền người tiêu dùng:** Quyền tiêu dùng chỉ một nhóm vai trò bảo vệ, không bao trùm các mục này.
 - **B — Sai · Đều chỉ học ở chương ngoài phạm vi thi:** Chương tổng quan giới thiệu, các chương thi tiếp tục triển khai doanh nghiệp/phá sản.
-- **C — Đúng · Đều là các nội dung thuộc pháp luật kinh tế theo phạm vi giảng:** Các nội dung gắn địa vị chủ thể và tổ chức/thực hiện hoạt động kinh tế.
+- **C — Đúng · Đều thuộc phạm vi điều chỉnh của pháp luật kinh tế:** Các nội dung gắn địa vị chủ thể và tổ chức/thực hiện hoạt động kinh tế.
 - **D — Sai · Đều chỉ là tập quán quốc tế:** Các quan hệ có quy định trong nước và nguồn khác, không chỉ tập quán quốc tế.
 
 **Nguồn:** Chương 1, slide 14, 15.
@@ -5463,7 +5463,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 38. Đáp án D
 
-**Đề:** Hợp đồng chuyển phần vốn đã ký nhưng chưa ghi đầy đủ thông tin người mua vào sổ thành viên. Quy tắc slide về người chuyển?
+**Đề:** Hợp đồng chuyển phần vốn đã ký nhưng chưa ghi đủ thông tin người mua vào sổ thành viên. Quyền và nghĩa vụ của người chuyển được xác định như thế nào?
 
 **Phân tích đề:** Tách hiệu lực hợp đồng chuyển và mốc tư cách đối với công ty.
 
@@ -5509,7 +5509,7 @@ D. Chỉ vô hiệu “một chủ” và “nhiều chủ”
 
 ### Câu 40. Đáp án A
 
-**Đề:** Bài giảng nêu hai dạng vô hiệu theo phạm vi là gì?
+**Đề:** Xét theo phạm vi nội dung không được công nhận giá trị pháp lý, hợp đồng vô hiệu được chia thành những dạng nào?
 
 **Phân tích đề:** Nhận diện đúng hai tên dạng được bài giảng trình bày.
 
