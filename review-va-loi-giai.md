@@ -3488,6 +3488,92 @@ Phải biết chủ sở hữu để chọn; còn kiểm tra trường hợp BKS
 
 ### Câu 47 · Vận dụng · Có trong slide
 
+Công ty TNHH Sen chuyển một phần tài sản, quyền, nghĩa vụ và thành viên sang công ty TNHH Hoa mới thành lập, còn Sen tiếp tục tồn tại. Giám đốc gọi việc này là “chia công ty” và cho rằng Sen đương nhiên hết trách nhiệm với nợ cũ. Không có thỏa thuận khác với chủ nợ. Nhận định nào phù hợp?
+
+A. Tên gọi của giám đốc tự quyết định hình thức và làm xóa nợ cũ
+
+B. Đây là tách công ty; Sen và Hoa còn phải cùng liên đới chịu trách nhiệm về các nghĩa vụ cũ theo quy định
+
+C. Đây là chia công ty; Sen phải chấm dứt ngay vì giám đốc đã gọi như vậy
+
+D. Đây là hợp nhất; chỉ công ty Hoa còn tồn tại
+
+**Đáp án:** Đây là tách công ty; Sen và Hoa còn phải cùng liên đới chịu trách nhiệm về các nghĩa vụ cũ theo quy định
+
+**Phân tích:** Bước 1: hỏi công ty cũ còn tồn tại không. Bước 2: nhận diện tách từ việc chuyển một phần sang công ty mới. Bước 3: xem chủ nợ có tham gia thỏa thuận khác không; đề nói không nên giữ quy tắc liên đới.
+
+**Bẫy:** Đề trộn hai lỗi: gọi sai hình thức và suy sai rằng chuyển tài sản là xóa trách nhiệm.
+
+**Lý thuyết:** Tách không chấm dứt công ty bị tách. Sau đăng ký, công ty bị tách và được tách cùng liên đới chịu trách nhiệm về nợ và nghĩa vụ cũ, trừ thỏa thuận khác với các bên liên quan. Chia có cơ chế chấm dứt công ty bị chia.
+
+**Tên gọi của giám đốc tự quyết định hình thức và làm xóa nợ cũ — Sai:** Nhãn do giám đốc đặt không thay thế điều kiện tổ chức lại hoặc sự thỏa thuận với các bên có quyền.
+
+**Đây là tách công ty; Sen và Hoa còn phải cùng liên đới chịu trách nhiệm về các nghĩa vụ cũ theo quy định — Đúng:** Sen vẫn tồn tại là dấu hiệu của tách. Cơ chế liên đới không bị loại chỉ bởi việc chuyển nghĩa vụ trong nội bộ.
+
+**Đây là chia công ty; Sen phải chấm dứt ngay vì giám đốc đã gọi như vậy — Sai:** Phải dựa vào cấu trúc thực tế, không dựa vào cách gọi; chia làm công ty bị chia chấm dứt sau khi công ty mới được cấp đăng ký.
+
+**Đây là hợp nhất; chỉ công ty Hoa còn tồn tại — Sai:** Hợp nhất tạo công ty mới và chấm dứt các công ty bị hợp nhất; không đúng dữ kiện Sen tiếp tục tồn tại.
+
+**Chương 2, slide 80 · Nội dung trên slide**
+
+> Chia công ty Công ty trách nhiệm hữu hạn, công ty cổ phần có thể chia các tài sản, quyền và nghĩa vụ, thành viên, cổ đông của công ty hiện có (sau đây gọi là công ty bị chia) để thành lập hai hoặc nhiều công ty mới. Công ty bị chia chấm dứt tồn tại sau khi các công ty mới được cấp Giấy chứng nhận đăng ký doanh nghiệp. Các công ty mới phải cùng liên đới chịu trách nhiệm về nghĩa vụ, các khoản nợ chưa thanh toán, hợp đồng lao động và nghĩa vụ tài sản khác của công ty bị chia hoặc thỏa thuận với chủ nợ, khách hàng và người lao động để một trong số các công ty đó thực hiện nghĩa vụ này. Các công ty mới đương nhiên kế thừa toàn bộ quyền, nghĩa vụ và lợi ích hợp pháp được phân chia theo nghị quyết, quyết định chia công ty.
+
+**Chương 2, slide 81 · Nội dung trên slide**
+
+> Tách công ty Công ty trách nhiệm hữu hạn, công ty cổ phần có thể tách bằng cách chuyển một phần tài sản, quyền, nghĩa vụ, thành viên, cổ đông của công ty hiện có (sau đây gọi là công ty bị tách) để thành lập một hoặc một số CTTNHH, CTCP mới (sau đây gọi là công ty được tách) mà không chấm dứt tồn tại của công ty bị tách.
+
+**Chương 2, slide 82 · Nội dung trên slide**
+
+> Sau khi đăng ký doanh nghiệp, công ty bị tách và công ty được tách phải cùng liên đới chịu trách nhiệm về các nghĩa vụ, các khoản nợ chưa thanh toán, hợp đồng lao động và nghĩa vụ tài sản khác của công ty bị tách, trừ trường hợp công ty bị tách, công ty được tách, chủ nợ, khách hàng và người lao động của công ty bị tách có thỏa thuận khác. Các công ty được tách đương nhiên kế thừa toàn bộ quyền, nghĩa vụ và lợi ích hợp pháp được phân chia theo nghị quyết, quyết định tách công ty.
+
+<details>
+<summary>rv-050 · Review liên quan</summary>
+
+26. **Hợp nhất doanh nghiệp áp dụng cho mọi loại hình công ty, đúng hay sai?**
+
+**Ghi chú đối chiếu:** Hợp nhất áp dụng hai hoặc nhiều công ty theo điều kiện; không phải mọi loại hình doanh nghiệp.
+
+TNHH, CTCP, hợp danh là công ty; DNTN không phải công ty. Nếu đề đúng chữ “mọi loại hình công ty” khác chữ “mọi loại hình doanh nghiệp”; không sửa hai phạm vi thành một.
+
+</details>
+
+<details>
+<summary>rv-122 · Review liên quan</summary>
+
+11. Công ty A sau khi tách ra thành Công ty B và C thì Công ty B và C vẫn phải liên đới chịu trách nhiệm các khoản và nghĩa vụ phát sinh trừ những gì đã thỏa thuận trước đó (Đúng/Sai).
+
+**Ghi chú đối chiếu:** Về nguyên tắc công ty bị tách và công ty được tách liên đới với nợ/nghĩa vụ theo luật, trừ thỏa thuận hợp lệ với chủ thể có quyền.
+
+Tách không làm A chấm dứt như chia. Không chỉ B và C; cần cả A. Thỏa thuận nội bộ A/B/C không đủ loại trách nhiệm nếu chủ nợ/người lao động liên quan chưa đồng ý.
+
+</details>
+
+<details>
+<summary>rv-220 · Review liên quan</summary>
+
+10. **Công ty A sau khi tách ra thành Công ty B và Công ty C thì Công ty B và Công ty C vẫn phải liên đới chịu trách nhiệm đối với các khoản nợ và nghĩa vụ phát sinh, trừ những gì đã thỏa thuận trước đó – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Về nguyên tắc công ty bị tách và công ty được tách liên đới với nợ/nghĩa vụ theo luật, trừ thỏa thuận hợp lệ với chủ thể có quyền.
+
+Tách không làm A chấm dứt như chia. Không chỉ B và C; cần cả A. Thỏa thuận nội bộ A/B/C không đủ loại trách nhiệm nếu chủ nợ/người lao động liên quan chưa đồng ý.
+
+</details>
+
+<details>
+<summary>rv-324 · Review liên quan</summary>
+
+17. **Công ty trách nhiệm hữu hạn có thể thực hiện hình thức tổ chức lại nào?**\
+    A. Chia, tách.\
+    B. Sáp nhập, hợp nhất.
+
+**Ghi chú đối chiếu:** Cả chia/tách và sáp nhập/hợp nhất đều có thể cho TNHH khi đủ điều kiện.
+
+A và B không loại trừ nhau nên nếu đề một lựa chọn thì không có đáp án duy nhất.
+
+</details>
+
+### Câu 48 · Vận dụng · Có trong slide
+
 Muốn góp loại tài sản khác với tài sản đã cam kết vào TNHH hai thành viên, cần chấp thuận thế nào?
 
 A. Chỉ chủ nợ quyết định
@@ -3599,7 +3685,7 @@ Chỉ “tối thiểu 2 thành viên góp vốn, đồng sở hữu” chưa đ
 
 </details>
 
-### Câu 48 · Vận dụng · Có trong slide
+### Câu 49 · Vận dụng · Có trong slide
 
 Hết hạn góp, Bình chưa góp đồng nào vào TNHH hai thành viên. Hậu quả tư cách thành viên?
 
@@ -3712,7 +3798,7 @@ Chỉ “tối thiểu 2 thành viên góp vốn, đồng sở hữu” chưa đ
 
 </details>
 
-### Câu 49 · Nhận biết · Có trong slide
+### Câu 50 · Nhận biết · Có trong slide
 
 Sau ngày cuối cùng phải góp đủ, TNHH hai thành viên thiếu vốn phải đăng ký điều chỉnh trong bao lâu?
 
@@ -3825,7 +3911,7 @@ Chỉ “tối thiểu 2 thành viên góp vốn, đồng sở hữu” chưa đ
 
 </details>
 
-### Câu 50 · Nhận biết · Có trong slide
+### Câu 51 · Nhận biết · Có trong slide
 
 Số thành viên và tư cách pháp nhân của TNHH hai thành viên trở lên?
 
@@ -3942,7 +4028,7 @@ Chỉ “tối thiểu 2 thành viên góp vốn, đồng sở hữu” chưa đ
 
 </details>
 
-### Câu 51 · Nhận biết · Có trong slide
+### Câu 52 · Nhận biết · Có trong slide
 
 Cơ cấu quản lý công ty TNHH hai thành viên trở lên có Hội đồng nào?
 
@@ -4018,7 +4104,7 @@ Review chưa chỉ rõ loại TNHH nên lời giải bao gồm hai nhánh, khôn
 
 </details>
 
-### Câu 52 · Vận dụng · Có trong slide
+### Câu 53 · Vận dụng · Có trong slide
 
 TNHH có lãi sau thuế nhưng chia lợi nhuận sẽ không trả được nợ đến hạn. Có được chia?
 
@@ -4094,7 +4180,83 @@ Review chưa chỉ rõ loại TNHH nên lời giải bao gồm hai nhánh, khôn
 
 </details>
 
-### Câu 53 · Nhận biết · Có trong slide
+### Câu 54 · Vận dụng · Có trong slide
+
+Công ty TNHH có Mai sở hữu 60% và Long sở hữu 40%. Công ty tăng vốn thêm 2 tỷ bằng việc tăng vốn góp của thành viên hiện hữu. Long không góp thêm, không chuyển nhượng quyền góp vốn; các thành viên không có thỏa thuận khác. Nếu Mai nhận góp toàn bộ phần được phân bổ lại, Mai được góp thêm tổng cộng bao nhiêu?
+
+A. 4 tỷ đồng
+
+B. 2 tỷ đồng
+
+C. 1,2 tỷ đồng
+
+D. 0,8 tỷ đồng
+
+**Đáp án:** 2 tỷ đồng
+
+**Phân tích:** Bước 1: tính phần tăng ban đầu: Mai 60% × 2 = 1,2 tỷ, Long 0,8 tỷ. Bước 2: xác định phần bỏ trống. Bước 3: phân bổ lại phần 0,8 tỷ cho người còn lại theo quy tắc mặc định.
+
+**Bẫy:** Tỷ lệ 60/40 là điểm xuất phát; không bỏ qua bước phân bổ phần vốn tăng thêm mà một thành viên không góp.
+
+**Lý thuyết:** Vốn góp thêm được chia theo tỷ lệ hiện có. Nếu thành viên không góp hoặc góp một phần, phần còn lại được chia cho các thành viên khác theo tỷ lệ của họ, trừ thỏa thuận khác.
+
+**4 tỷ đồng — Sai:** Mức tăng toàn công ty chỉ 2 tỷ, không thể phân bổ thành 4 tỷ trong tình huống này.
+
+**2 tỷ đồng — Đúng:** Mai được phân bổ ban đầu 1,2 tỷ; phần 0,8 tỷ của Long được chia cho thành viên khác. Chỉ còn Mai nên Mai có thể góp thêm tổng 2 tỷ.
+
+**1,2 tỷ đồng — Sai:** 1,2 tỷ chỉ là phần ban đầu theo 60%, chưa xét việc Long không góp.
+
+**0,8 tỷ đồng — Sai:** 0,8 tỷ là phần ban đầu của Long, không phải tổng phần Mai được góp.
+
+**Chương 2, slide 37 · Nội dung trên slide**
+
+> * Tăng, giảm vốn điều lệ - CT có thể tăng vốn điều lệ trong trường hợp sau đây: + Tăng vốn góp của thành viên; + Tiếp nhận thêm vốn góp của thành viên mới. Trường hợp tăng vốn góp của thành viên thì vốn góp thêm được chia cho các thành viên theo tỷ lệ tương ứng với phần vốn góp của họ trong vốn điều lệ công ty. Thành viên có thể chuyển nhượng quyền góp vốn của mình cho người khác. Trường hợp có thành viên không góp hoặc chỉ góp một phần phần vốn góp thêm thì số vốn còn lại của phần vốn góp thêm của thành viên đó được chia cho các thành viên khác theo tỷ lệ tương ứng với phần vốn góp của họ trong vốn điều lệ công ty nếu các thành viên không có thỏa thuận khác.
+
+<details>
+<summary>rv-062 · Review liên quan</summary>
+
+3. **Công ty trách nhiệm hữu hạn tăng vốn điều lệ bằng cách nào?**
+
+**Ghi chú đối chiếu:** TNHH hai thành viên: tăng phần góp hiện có hoặc nhận thành viên mới. MTV: chủ sở hữu thêm vốn hoặc huy động thêm chủ rồi chuyển đổi.
+
+Review chưa chỉ rõ loại TNHH nên lời giải bao gồm hai nhánh, không chỉ trả một cách tăng vốn.
+
+</details>
+
+<details>
+<summary>rv-077 · Review liên quan</summary>
+
+3. **Công ty trách nhiệm hữu hạn tăng vốn điều lệ bằng cách nào?**
+
+**Ghi chú đối chiếu:** TNHH hai thành viên: tăng phần góp hiện có hoặc nhận thành viên mới. MTV: chủ sở hữu thêm vốn hoặc huy động thêm chủ rồi chuyển đổi.
+
+Review chưa chỉ rõ loại TNHH nên lời giải bao gồm hai nhánh, không chỉ trả một cách tăng vốn.
+
+</details>
+
+<details>
+<summary>rv-153 · Review liên quan</summary>
+
+5. **Công ty trách nhiệm hữu hạn hai thành viên tăng vốn như thế nào?**
+
+**Ghi chú đối chiếu:** Tăng vốn góp thành viên hiện có hoặc tiếp nhận thành viên mới.
+
+Phân biệt vay tiền không tự tăng vốn điều lệ.
+
+</details>
+
+<details>
+<summary>rv-198 · Review liên quan</summary>
+
+3. **Công ty trách nhiệm hữu hạn tăng vốn điều lệ bằng cách nào?**
+
+**Ghi chú đối chiếu:** TNHH hai thành viên: tăng phần góp hiện có hoặc nhận thành viên mới. MTV: chủ sở hữu thêm vốn hoặc huy động thêm chủ rồi chuyển đổi.
+
+Review chưa chỉ rõ loại TNHH nên lời giải bao gồm hai nhánh, không chỉ trả một cách tăng vốn.
+
+</details>
+
+### Câu 55 · Nhận biết · Có trong slide
 
 TNHH hai thành viên có thể tăng vốn bằng cách nào?
 
@@ -4170,7 +4332,7 @@ Review chưa chỉ rõ loại TNHH nên lời giải bao gồm hai nhánh, khôn
 
 </details>
 
-### Câu 54 · Thông hiểu · Có trong slide
+### Câu 56 · Thông hiểu · Có trong slide
 
 TNHH đã hoạt động liên tục hơn 2 năm nên luôn được hoàn trả một phần vốn, dù sau hoàn trả không thể trả đủ các khoản nợ.
 
@@ -4264,7 +4426,135 @@ Không có quyền rút vốn tùy tiện; thêm chủ sở hữu mới có th�
 
 </details>
 
-### Câu 55 · Vận dụng · Có trong slide
+### Câu 57 · Vận dụng · Có trong slide
+
+An cam kết góp 4 tỷ đồng vào công ty TNHH hai thành viên nhưng đến hạn chỉ góp 1,5 tỷ. Công ty đăng ký điều chỉnh vốn và tỷ lệ phần vốn góp ngày 20/4. Khoản nợ X phát sinh ngày 12/4; khoản nợ Y phát sinh ngày 25/4. Không có bảo lãnh hoặc vi phạm riêng khác. Cách xác định căn cứ trách nhiệm của An đối với hai khoản nợ nào phù hợp?
+
+A. X theo phần vốn cam kết; Y theo phần vốn đã góp sau điều chỉnh
+
+B. Cả X và Y đều chỉ theo 1,5 tỷ đã góp
+
+C. Cả X và Y đều luôn theo 4 tỷ cam kết
+
+D. An phải tự trả toàn bộ hai khoản nợ bằng mọi tài sản riêng
+
+**Đáp án:** X theo phần vốn cam kết; Y theo phần vốn đã góp sau điều chỉnh
+
+**Phân tích:** Bước 1: vẽ ba mốc: hết hạn góp → 12/4 → đăng ký 20/4 → 25/4. Bước 2: đặt từng khoản nợ trước hay sau ngày đăng ký điều chỉnh. Bước 3: tách quyền thành viên theo thực góp khỏi trách nhiệm với nợ cũ. Đề hỏi căn cứ và phạm vi, không đủ dữ kiện để tính một khoản tiền An phải trực tiếp trả.
+
+**Bẫy:** Không lấy ngày chủ nợ đòi tiền hoặc ngày đến hạn trả nợ thay cho ngày nghĩa vụ phát sinh; không mặc định An phải trả đúng 4 tỷ cho X.
+
+**Lý thuyết:** Trong hạn góp vốn, quyền và nghĩa vụ gắn với tỷ lệ cam kết. Sau hạn, người góp thiếu có quyền theo phần thực góp nhưng còn chịu trách nhiệm gắn với cam kết đối với nghĩa vụ phát sinh trước ngày đăng ký thay đổi vốn và tỷ lệ góp vốn.
+
+**X theo phần vốn cam kết; Y theo phần vốn đã góp sau điều chỉnh — Đúng:** X phát sinh trước ngày đăng ký thay đổi nên áp dụng trách nhiệm gắn với cam kết; Y phát sinh sau khi đã điều chỉnh thì áp dụng chế độ trách nhiệm hữu hạn theo phần đã góp.
+
+**Cả X và Y đều chỉ theo 1,5 tỷ đã góp — Sai:** Bỏ qua quy tắc bảo vệ chủ nợ đối với nghĩa vụ phát sinh trước ngày đăng ký điều chỉnh.
+
+**Cả X và Y đều luôn theo 4 tỷ cam kết — Sai:** Kéo dài trách nhiệm theo cam kết sang cả nghĩa vụ mới sau khi đã điều chỉnh, dù đề không có căn cứ trách nhiệm riêng khác.
+
+**An phải tự trả toàn bộ hai khoản nợ bằng mọi tài sản riêng — Sai:** Nhầm công ty TNHH với chế độ trách nhiệm vô hạn của chủ DNTN hoặc thành viên hợp danh.
+
+**Chương 2, slide 26 · Nội dung trên slide**
+
+> * Vốn điều lệ - Vốn điều lệ của CTTNHH hai thành viên trở lên khi đăng ký thành lập DN là tổng giá trị phần vốn góp của các thành viên cam kết góp và ghi trong Điều lệ công ty. - Thành viên phải góp vốn cho công ty đủ và đúng loại tài sản đã cam kết khi đăng ký thành lập doanh nghiệp trong thời hạn 90 ngày kể từ ngày được cấp Giấy CNĐKDN, không kể thời gian vận chuyển, nhập khẩu tài sản góp vốn, thực hiện thủ tục hành chính để chuyển quyền sở hữu tài sản. Trong thời hạn này, thành viên có các quyền và nghĩa vụ tương ứng với tỷ lệ phần vốn góp đã cam kết. Thành viên công ty chỉ được góp vốn cho công ty bằng loại tài sản khác với tài sản đã cam kết nếu được sự tán thành của trên 50% số thành viên còn lại.
+
+**Chương 2, slide 27 · Nội dung trên slide**
+
+> - Sau thời hạn quy định mà vẫn có thành viên chưa góp vốn hoặc chưa góp đủ phần vốn góp đã cam kết thì được xử lý như sau: + Thành viên chưa góp vốn theo cam kết đương nhiên không còn là thành viên của công ty; + Thành viên chưa góp đủ phần vốn góp đã cam kết có các quyền tương ứng với phần vốn góp đã góp; Các thành viên chưa góp vốn hoặc chưa góp đủ số vốn đã cam kết phải chịu trách nhiệm tương ứng với tỷ lệ phần vốn góp đã cam kết đối với các nghĩa vụ tài chính của công ty phát sinh trong thời gian trước ngày công ty đăng ký thay đổi vốn điều lệ và tỷ lệ phần vốn góp của thành viên.
+
+**Chương 2, slide 28 · Nội dung trên slide**
+
+> - Đối với công ty: Trường hợp có thành viên chưa góp vốn hoặc chưa góp đủ số vốn đã cam kết: + Công ty phải đăng ký thay đổi vốn điều lệ, tỷ lệ phần vốn góp của các thành viên bằng số vốn đã góp trong thời hạn 30 ngày kể từ ngày cuối cùng phải góp đủ phần vốn góp theo quy định. + Phần vốn góp chưa góp của các thành viên được chào bán theo nghị quyết, quyết định của Hội đồng thành viên.
+
+<details>
+<summary>rv-063 · Review liên quan</summary>
+
+4. **Trong thời hạn góp vốn, khoản nợ phát sinh từ hoạt động kinh doanh cần thanh toán thì phạm vi nghĩa vụ thanh toán của công ty trách nhiệm hữu hạn hai thành viên được xác định theo phần vốn nào?**
+
+**Ghi chú đối chiếu:** Phần vốn đã cam kết góp trong thời hạn góp vốn theo quy định.
+
+Phân biệt quyền/ nghĩa vụ trong hạn với quyền theo thực góp khi hết hạn; nợ phát sinh trước đăng ký điều chỉnh còn xét vốn cam kết.
+
+</details>
+
+<details>
+<summary>rv-078 · Review liên quan</summary>
+
+4. **Trong thời hạn góp vốn, khoản nợ phát sinh từ hoạt động kinh doanh cần thanh toán thì phạm vi nghĩa vụ thanh toán của công ty trách nhiệm hữu hạn hai thành viên được xác định theo phần vốn nào?**
+
+**Ghi chú đối chiếu:** Phần vốn đã cam kết góp trong thời hạn góp vốn theo quy định.
+
+Phân biệt quyền/ nghĩa vụ trong hạn với quyền theo thực góp khi hết hạn; nợ phát sinh trước đăng ký điều chỉnh còn xét vốn cam kết.
+
+</details>
+
+<details>
+<summary>rv-116 · Review liên quan</summary>
+
+5. Ông D cam kết góp 10 tỷ vào công ty. Thời hạn góp là 15/3/2020 nhưng sau đó ông D chỉ góp được 2 tỷ và công ty đã giảm Vốn điều lệ rồi. 30/6/2020 công ty mắc nợ. Hỏi quyền và nghĩa vụ của ông D trong phạm vi bao nhiêu?
+
+**Ghi chú đối chiếu:** 2 tỷ nếu là thành viên TNHH hai thành viên, vốn đã đăng ký điều chỉnh trước khoản nợ mới và không có vi phạm riêng.
+
+Review chỉ ghi “công ty”, không nêu loại hình hoặc ngày đăng ký cụ thể. Khoản nợ sau điều chỉnh theo vốn thực góp khác khoản nợ trước điều chỉnh vẫn xét cam kết 10 tỷ. Bài luyện nêu rõ giả định TNHH hai thành viên.
+
+</details>
+
+<details>
+<summary>rv-179 · Review liên quan</summary>
+
+5. **Ông A cam kết góp vốn 3,3 tỷ đồng, thời hạn góp vốn đến ngày 15/3/2022. Đến hạn nhưng ông A mới góp được 2 tỷ đồng. Ngày 10/4/2022, công ty đăng ký điều chỉnh vốn điều lệ. Có một khoản nợ phát sinh ngày 30/3/2022. Hỏi ông A phải chịu trách nhiệm trong phạm vi số vốn bao nhiêu?**
+
+**Ghi chú đối chiếu:** 3,3 tỷ theo phần cam kết nếu là thành viên TNHH hai thành viên và khoản nợ phát sinh trước đăng ký điều chỉnh 10/4.
+
+30/3 nằm sau hạn góp 15/3 nhưng trước điều chỉnh 10/4. Đây chính là bẫy: không chỉ xét thực góp 2 tỷ. Review không nói loại công ty rõ; bài luyện thêm TNHH hai thành viên.
+
+</details>
+
+<details>
+<summary>rv-199 · Review liên quan</summary>
+
+4. **Trong thời hạn góp vốn, khoản nợ phát sinh từ hoạt động kinh doanh cần thanh toán thì phạm vi nghĩa vụ thanh toán của công ty trách nhiệm hữu hạn hai thành viên được xác định theo phần vốn nào?**
+
+**Ghi chú đối chiếu:** Phần vốn đã cam kết góp trong thời hạn góp vốn theo quy định.
+
+Phân biệt quyền/ nghĩa vụ trong hạn với quyền theo thực góp khi hết hạn; nợ phát sinh trước đăng ký điều chỉnh còn xét vốn cam kết.
+
+</details>
+
+<details>
+<summary>rv-214 · Review liên quan</summary>
+
+4. **Ông D cam kết góp 10 tỷ đồng vào công ty. Thời hạn góp vốn là ngày 15/3/2020 nhưng sau đó ông D chỉ góp được 2 tỷ đồng và công ty đã giảm vốn điều lệ. Ngày 30/6/2020, công ty phát sinh khoản nợ. Hỏi quyền và nghĩa vụ của ông D được xác định trong phạm vi bao nhiêu?**
+
+**Ghi chú đối chiếu:** 2 tỷ nếu là thành viên TNHH hai thành viên, vốn đã đăng ký điều chỉnh trước khoản nợ mới và không có vi phạm riêng.
+
+Review chỉ ghi “công ty”, không nêu loại hình hoặc ngày đăng ký cụ thể. Khoản nợ sau điều chỉnh theo vốn thực góp khác khoản nợ trước điều chỉnh vẫn xét cam kết 10 tỷ. Bài luyện nêu rõ giả định TNHH hai thành viên.
+
+</details>
+
+<details>
+<summary>rv-244 · Review liên quan</summary>
+
+5. **Ông A cam kết góp vốn 3,3 tỷ đồng, thời hạn góp vốn đến ngày 15/3/2022. Đến hạn nhưng ông A mới góp được 2 tỷ đồng. Ngày 10/4/2022, công ty đăng ký điều chỉnh vốn điều lệ. Có một khoản nợ phát sinh ngày 30/3/2022. Hỏi ông A phải chịu trách nhiệm trong phạm vi số vốn bao nhiêu?**
+
+**Ghi chú đối chiếu:** 3,3 tỷ theo phần cam kết nếu là thành viên TNHH hai thành viên và khoản nợ phát sinh trước đăng ký điều chỉnh 10/4.
+
+30/3 nằm sau hạn góp 15/3 nhưng trước điều chỉnh 10/4. Đây chính là bẫy: không chỉ xét thực góp 2 tỷ. Review không nói loại công ty rõ; bài luyện thêm TNHH hai thành viên.
+
+</details>
+
+<details>
+<summary>rv-379 · Review liên quan</summary>
+
+5. **Ông A cam kết góp vốn 3,3 tỷ đồng, thời hạn góp vốn đến ngày 15/3/2022. Đến hạn nhưng ông A mới góp được 2 tỷ đồng. Ngày 10/4/2022, công ty đăng ký điều chỉnh vốn điều lệ. Có một khoản nợ phát sinh ngày 30/3/2022. Hỏi ông A phải chịu trách nhiệm trong phạm vi số vốn bao nhiêu?**
+
+**Ghi chú đối chiếu:** 3,3 tỷ theo phần cam kết nếu là thành viên TNHH hai thành viên và khoản nợ phát sinh trước đăng ký điều chỉnh 10/4.
+
+30/3 nằm sau hạn góp 15/3 nhưng trước điều chỉnh 10/4. Đây chính là bẫy: không chỉ xét thực góp 2 tỷ. Review không nói loại công ty rõ; bài luyện thêm TNHH hai thành viên.
+
+</details>
+
+### Câu 58 · Vận dụng · Có trong slide
 
 Thành viên góp thiếu bị yêu cầu trả nợ công ty phát sinh trước ngày đăng ký điều chỉnh vốn. Nhận định nào đúng?
 
@@ -4362,7 +4652,7 @@ Phân biệt quyền/ nghĩa vụ trong hạn với quyền theo thực góp khi
 
 </details>
 
-### Câu 56 · Vận dụng · Có trong slide
+### Câu 59 · Vận dụng · Có trong slide
 
 Thành viên công ty TNHH hai thành viên tặng phần vốn cho người thuộc đối tượng thừa kế theo pháp luật. Theo quy tắc trong slide, người nhận trở thành thành viên thế nào?
 
@@ -4475,7 +4765,116 @@ Mua 5 tỷ từ tài sản 10 tỷ chỉ còn 5, không đủ trả nợ 7; đi�
 
 </details>
 
-### Câu 57 · Vận dụng · Bổ sung từ leak/review
+### Câu 60 · Vận dụng · Có trong slide
+
+Nam là thành viên hợp danh của công ty vận tải Bắc. Nam cùng một người bạn lập công ty TNHH để nhân danh công ty mới kinh doanh cùng ngành vận tải, nhằm thu lợi riêng từ các khách hàng đang được Bắc phục vụ. Nam lập luận rằng thành viên hợp danh được thành lập công ty TNHH nên mọi việc đều hợp pháp. Điểm nào cần bác bỏ?
+
+A. Công ty TNHH không được kinh doanh vận tải trong mọi trường hợp
+
+B. Chỉ thành viên góp vốn, không phải thành viên hợp danh, mới bị hạn chế tư lợi
+
+C. Việc không bị cấm tuyệt đối lập công ty TNHH không loại bỏ hạn chế kinh doanh cùng ngành để tư lợi
+
+D. Cứ là thành viên hợp danh thì bị cấm góp vốn vào mọi tổ chức
+
+**Đáp án:** Việc không bị cấm tuyệt đối lập công ty TNHH không loại bỏ hạn chế kinh doanh cùng ngành để tư lợi
+
+**Phân tích:** Bước 1: xác định Nam là thành viên hợp danh. Bước 2: gạch chân cùng ngành và thu lợi riêng. Bước 3: kiểm tra hạn chế hành vi, thay vì chỉ hỏi có được lập TNHH hay không.
+
+**Bẫy:** Không áp dụng máy móc đáp án review về lập TNHH khác ngành cho tình huống cạnh tranh cùng ngành để tư lợi.
+
+**Lý thuyết:** Thành viên hợp danh chịu các hạn chế riêng: về DNTN, thành viên hợp danh ở công ty khác, chuyển vốn và kinh doanh cùng ngành để tư lợi. Quyền thành lập một loại công ty không có nghĩa mọi hành vi trong công ty đó đều được phép.
+
+**Công ty TNHH không được kinh doanh vận tải trong mọi trường hợp — Sai:** Đề không đưa căn cứ cấm cả loại hình TNHH kinh doanh vận tải.
+
+**Chỉ thành viên góp vốn, không phải thành viên hợp danh, mới bị hạn chế tư lợi — Sai:** Hạn chế đang xét được slide đặt với thành viên hợp danh.
+
+**Việc không bị cấm tuyệt đối lập công ty TNHH không loại bỏ hạn chế kinh doanh cùng ngành để tư lợi — Đúng:** Cần xét cả hình thức doanh nghiệp lẫn mục đích và ngành kinh doanh. Slide cấm thành viên hợp danh nhân danh cá nhân hoặc người khác kinh doanh cùng ngành để tư lợi hoặc phục vụ lợi ích khác.
+
+**Cứ là thành viên hợp danh thì bị cấm góp vốn vào mọi tổ chức — Sai:** Cấm mọi góp vốn là mở rộng quá mức; trọng tâm là hành vi cạnh tranh tư lợi đã nêu.
+
+**Chương 2, slide 74 · Nội dung trên slide**
+
+> Hạn chế quyền đối với thành viên hợp danh - Thành viên hợp danh không được làm chủ doanh nghiệp tư nhân; không được làm thành viên hợp danh của công ty hợp danh khác trừ trường hợp được sự nhất trí của các thành viên hợp danh còn lại. - Thành viên hợp danh không được nhân danh cá nhân hoặc nhân danh người khác kinh doanh cùng ngành, nghề kinh doanh của công ty để tư lợi hoặc phục vụ lợi ích của tổ chức, cá nhân khác. -Thành viên hợp danh không được chuyển một phần hoặc toàn bộ phần vốn góp của mình tại công ty cho tổ chức, cá nhân khác nếu không được sự chấp thuận của các thành viên hợp danh còn lại.
+
+<details>
+<summary>rv-064 · Review liên quan</summary>
+
+5. **Công ty hợp danh: Huy, Hoàng là thành viên hợp danh; Kim là thành viên góp vốn. Hoàng với Kim thành lập, quản lý công ty trách nhiệm hữu hạn hai thành viên có hợp pháp không?**
+
+**Ghi chú đối chiếu:** Có thể hợp pháp nếu đủ điều kiện và không vi phạm hạn chế kinh doanh cùng ngành để tư lợi hoặc hạn chế riêng.
+
+Không có lệnh cấm mọi thành viên hợp danh lập mọi công ty; tuy nhiên đề không cho ngành nghề nên không khẳng định luôn hợp pháp. Thành viên góp vốn có phạm vi quyền khác thành viên hợp danh.
+
+</details>
+
+<details>
+<summary>rv-079 · Review liên quan</summary>
+
+5. **Công ty hợp danh: Huy, Hoàng là thành viên hợp danh; Kim là thành viên góp vốn. Hoàng với Kim thành lập, quản lý công ty trách nhiệm hữu hạn hai thành viên có hợp pháp không?**
+
+**Ghi chú đối chiếu:** Có thể hợp pháp nếu đủ điều kiện và không vi phạm hạn chế kinh doanh cùng ngành để tư lợi hoặc hạn chế riêng.
+
+Không có lệnh cấm mọi thành viên hợp danh lập mọi công ty; tuy nhiên đề không cho ngành nghề nên không khẳng định luôn hợp pháp. Thành viên góp vốn có phạm vi quyền khác thành viên hợp danh.
+
+</details>
+
+<details>
+<summary>rv-118 · Review liên quan</summary>
+
+7. Thành viên công ty hợp danh không được phép thành lập doanh nghiệp (Đúng/Sai).
+
+**Ghi chú đối chiếu:** Sai nếu cấm mọi thành viên lập mọi doanh nghiệp.
+
+Phân biệt hợp danh với góp vốn; hạn chế hợp danh có phạm vi riêng, không phải cấm lập TNHH trong mọi tình huống.
+
+</details>
+
+<details>
+<summary>rv-200 · Review liên quan</summary>
+
+5. **Công ty hợp danh: Huy, Hoàng là thành viên hợp danh; Kim là thành viên góp vốn. Hoàng với Kim thành lập, quản lý công ty trách nhiệm hữu hạn hai thành viên có hợp pháp không?**
+
+**Ghi chú đối chiếu:** Có thể hợp pháp nếu đủ điều kiện và không vi phạm hạn chế kinh doanh cùng ngành để tư lợi hoặc hạn chế riêng.
+
+Không có lệnh cấm mọi thành viên hợp danh lập mọi công ty; tuy nhiên đề không cho ngành nghề nên không khẳng định luôn hợp pháp. Thành viên góp vốn có phạm vi quyền khác thành viên hợp danh.
+
+</details>
+
+<details>
+<summary>rv-216 · Review liên quan</summary>
+
+6. **Thành viên công ty hợp danh không được phép thành lập doanh nghiệp – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Sai nếu cấm mọi thành viên lập mọi doanh nghiệp.
+
+Phân biệt hợp danh với góp vốn; hạn chế hợp danh có phạm vi riêng, không phải cấm lập TNHH trong mọi tình huống.
+
+</details>
+
+<details>
+<summary>rv-267 · Review liên quan</summary>
+
+13. **Anh H là thành viên góp vốn, muốn đầu tư thêm vốn của mình vào kinh doanh hộ kinh doanh thì có hợp pháp hay không?**
+
+**Ghi chú đối chiếu:** Có thể hợp pháp: thành viên góp vốn không bị áp tất cả hạn chế của thành viên hợp danh; phải đáp ứng điều kiện HKD.
+
+Nếu H là thành viên hợp danh thì cần xét phạm vi hạn chế riêng; không đổi tư cách review.
+
+</details>
+
+<details>
+<summary>rv-391 · Review liên quan</summary>
+
+2. **Thành viên hợp danh không được làm thành viên hợp danh của công ty hợp danh khác, trừ trường hợp được sự nhất trí của các thành viên hợp danh còn lại – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Đúng. Ngoại lệ nhất trí áp cho làm hợp danh công ty khác.
+
+Không kéo ngoại lệ này sang chủ DNTN như đáp án sai ở câu 24.
+
+</details>
+
+### Câu 61 · Vận dụng · Bổ sung từ leak/review
 
 Một thành viên hợp danh và một thành viên góp vốn có thể cùng thành lập TNHH hai thành viên kinh doanh khác ngành, nếu không có hạn chế riêng khác.
 
@@ -4571,7 +4970,7 @@ Nếu H là thành viên hợp danh thì cần xét phạm vi hạn chế riêng
 
 </details>
 
-### Câu 58 · Thông hiểu · Bổ sung từ leak/review
+### Câu 62 · Thông hiểu · Bổ sung từ leak/review
 
 Trong TNHH một thành viên do tổ chức sở hữu, thành viên HĐTV có thể được bổ nhiệm kiêm Giám đốc/Tổng giám đốc khi đủ điều kiện.
 
@@ -4630,7 +5029,7 @@ Quy định luật về GĐ/TGĐ không nên tự trích thành quy tắc chi ti
 
 </details>
 
-### Câu 59 · Vận dụng · Có trong slide
+### Câu 63 · Vận dụng · Có trong slide
 
 C cam kết 3 tỷ nhưng chỉ góp 1 tỷ sau hạn. Khi xác định quyền thành viên sau hạn cần dựa vào đâu?
 
@@ -4684,7 +5083,76 @@ Review chỉ ghi “công ty”, không nêu loại hình hoặc ngày đăng k�
 
 </details>
 
-### Câu 60 · Vận dụng · Có trong slide
+### Câu 64 · Vận dụng · Có trong slide
+
+Hà chào bán phần vốn trong công ty TNHH cho các thành viên còn lại với giá 2 tỷ, thanh toán ngay. Sau 30 ngày không ai mua. Hà muốn bán cho người ngoài với giá 1,7 tỷ và cho trả chậm. Chỉ xét cơ chế chuyển nhượng thông thường, lựa chọn nào đúng?
+
+A. Được bán ngay nếu người ngoài hứa giữ bí mật
+
+B. Vĩnh viễn không được chuyển nhượng cho người ngoài
+
+C. Chưa thể viện dẫn đợt chào bán cũ để bán ra ngoài với các điều kiện thuận lợi hơn
+
+D. Được bán ngay vì đã chờ đủ 30 ngày, bất kể điều kiện thay đổi
+
+**Đáp án:** Chưa thể viện dẫn đợt chào bán cũ để bán ra ngoài với các điều kiện thuận lợi hơn
+
+**Phân tích:** Bước 1: kiểm tra đã chào bán và hết 30 ngày chưa. Bước 2: so giá và phương thức thanh toán giữa hai lần. Bước 3: kết luận dựa trên cả thời hạn lẫn điều kiện, không chỉ một yếu tố.
+
+**Bẫy:** Cụm “đã đủ 30 ngày” dễ làm bỏ sót cụm “cùng điều kiện chào bán”.
+
+**Lý thuyết:** Thành viên chào bán cho thành viên còn lại theo tỷ lệ với cùng điều kiện. Nếu họ không mua hoặc không mua hết trong 30 ngày thì phần còn lại được chuyển nhượng ra ngoài với cùng điều kiện chào bán.
+
+**Được bán ngay nếu người ngoài hứa giữ bí mật — Sai:** Giữ bí mật không thay thế quyền ưu tiên mua theo cơ chế chuyển nhượng.
+
+**Vĩnh viễn không được chuyển nhượng cho người ngoài — Sai:** Luật và slide cho phép chuyển nhượng ra ngoài khi đáp ứng điều kiện; không có cấm tuyệt đối.
+
+**Chưa thể viện dẫn đợt chào bán cũ để bán ra ngoài với các điều kiện thuận lợi hơn — Đúng:** Quy tắc bán cho người ngoài sau 30 ngày vẫn yêu cầu cùng điều kiện chào bán. Giá và thời hạn thanh toán đã thay đổi nên cần xử lý lại quyền mua của thành viên theo các điều kiện mới.
+
+**Được bán ngay vì đã chờ đủ 30 ngày, bất kể điều kiện thay đổi — Sai:** Chờ đủ thời hạn không xóa yêu cầu cùng điều kiện.
+
+**Chương 2, slide 31 · Nội dung trên slide**
+
+> * Chuyển nhượng phần vốn góp - Thành viên CTTNHH hai thành viên trở lên có quyền chuyển nhượng một phần hoặc toàn bộ phần vốn góp của mình cho người khác theo quy định sau đây: + Chào bán phần vốn góp đó cho thành viên còn lại theo tỷ lệ tương ứng với phần vốn góp của thành viên còn lại trong công ty với cùng điều kiện chào bán; + Chuyển nhượng với cùng điều kiện chào bán đối với các thành viên còn lại cho người không phải là thành viên nếu các thành viên còn lại của công ty không mua hoặc không mua hết trong thời hạn 30 ngày kể từ ngày chào bán.
+
+<details>
+<summary>rv-116 · Review liên quan</summary>
+
+5. Ông D cam kết góp 10 tỷ vào công ty. Thời hạn góp là 15/3/2020 nhưng sau đó ông D chỉ góp được 2 tỷ và công ty đã giảm Vốn điều lệ rồi. 30/6/2020 công ty mắc nợ. Hỏi quyền và nghĩa vụ của ông D trong phạm vi bao nhiêu?
+
+**Ghi chú đối chiếu:** 2 tỷ nếu là thành viên TNHH hai thành viên, vốn đã đăng ký điều chỉnh trước khoản nợ mới và không có vi phạm riêng.
+
+Review chỉ ghi “công ty”, không nêu loại hình hoặc ngày đăng ký cụ thể. Khoản nợ sau điều chỉnh theo vốn thực góp khác khoản nợ trước điều chỉnh vẫn xét cam kết 10 tỷ. Bài luyện nêu rõ giả định TNHH hai thành viên.
+
+</details>
+
+<details>
+<summary>rv-214 · Review liên quan</summary>
+
+4. **Ông D cam kết góp 10 tỷ đồng vào công ty. Thời hạn góp vốn là ngày 15/3/2020 nhưng sau đó ông D chỉ góp được 2 tỷ đồng và công ty đã giảm vốn điều lệ. Ngày 30/6/2020, công ty phát sinh khoản nợ. Hỏi quyền và nghĩa vụ của ông D được xác định trong phạm vi bao nhiêu?**
+
+**Ghi chú đối chiếu:** 2 tỷ nếu là thành viên TNHH hai thành viên, vốn đã đăng ký điều chỉnh trước khoản nợ mới và không có vi phạm riêng.
+
+Review chỉ ghi “công ty”, không nêu loại hình hoặc ngày đăng ký cụ thể. Khoản nợ sau điều chỉnh theo vốn thực góp khác khoản nợ trước điều chỉnh vẫn xét cam kết 10 tỷ. Bài luyện nêu rõ giả định TNHH hai thành viên.
+
+</details>
+
+<details>
+<summary>rv-365 · Review liên quan</summary>
+
+6. **Ông Hải là một trong các thành viên của Công ty trách nhiệm hữu hạn hai thành viên trở lên Hải Hà, có yêu cầu công ty mua lại phần vốn góp của mình với giá thỏa thuận là 5 tỷ đồng. Tuy nhiên, toàn bộ tài sản còn lại của công ty chỉ có giá trị khoảng 10 tỷ đồng. Ngoài ra, công ty còn nợ BIDV 7 tỷ đồng. Do đó, ông Hải được:**\
+   A. Công ty Hải Hà thanh toán đủ 5 tỷ đồng ngay lập tức.\
+   B. Công ty Hải Hà thanh toán đầy đủ 5 tỷ đồng nhưng phải đợi các thành viên góp thêm vốn.\
+   C. Công ty Hải Hà thanh toán 3 tỷ đồng vì công ty phải trả khoản nợ 7 tỷ đồng.\
+   D. Chuyển nhượng tự do phần vốn góp của mình cho người khác, kể cả người không phải là thành viên công ty.
+
+**Ghi chú đối chiếu:** D. Được chuyển nhượng theo trường hợp công ty không thanh toán được mua lại hợp lệ.
+
+Mua 5 tỷ từ tài sản 10 tỷ chỉ còn 5, không đủ trả nợ 7; điều kiện mua lại không đạt. A thanh toán ngay sai. B không có quyền buộc chờ góp vốn vô hạn. C không tự chia trả 3 tỷ một phần rồi coi mua lại xong.
+
+</details>
+
+### Câu 65 · Vận dụng · Có trong slide
 
 Một thành viên TNHH hai thành viên bị Tòa án tuyên bố mất tích. Theo slide, quyền và nghĩa vụ thành viên được thực hiện qua ai?
 
@@ -4738,7 +5206,7 @@ Review chỉ ghi “công ty”, không nêu loại hình hoặc ngày đăng k�
 
 </details>
 
-### Câu 61 · Nhận biết · Có trong slide
+### Câu 66 · Nhận biết · Có trong slide
 
 Vốn điều lệ TNHH hai thành viên tại đăng ký thành lập là gì?
 
@@ -4792,7 +5260,7 @@ Không đưa toàn bộ vốn vay vào vốn điều lệ. Khi hỏi tổng tài
 
 </details>
 
-### Câu 62 · Vận dụng · Có trong slide
+### Câu 67 · Vận dụng · Có trong slide
 
 TNHH có hai đại diện theo pháp luật. Cả hai định cư ở nước ngoài và không bảo đảm người cư trú Việt Nam theo luật. Điểm cần sửa?
 
@@ -4857,7 +5325,7 @@ Không suy mặc nhiên Chủ tịch và Giám đốc cùng là đại diện kh
 
 </details>
 
-### Câu 63 · Vận dụng · Bổ sung từ leak/review
+### Câu 68 · Vận dụng · Bổ sung từ leak/review
 
 TNHH một thành viên do tổ chức sở hữu chọn HĐTV, bổ nhiệm Tùng làm Chủ tịch HĐTV và Phương làm Giám đốc. Điều lệ không quy định người đại diện. Ai là đại diện theo luật?
 
@@ -4912,7 +5380,7 @@ A “hoặc” không phải lựa chọn tùy giao dịch. C Giám đốc khôn
 
 </details>
 
-### Câu 64 · Thông hiểu · Có trong slide
+### Câu 69 · Thông hiểu · Có trong slide
 
 TNHH một thành viên có thể tăng hoặc giảm vốn điều lệ khi đáp ứng điều kiện tương ứng.
 
@@ -4962,7 +5430,7 @@ Không có quyền rút vốn tùy tiện; thêm chủ sở hữu mới có th�
 
 </details>
 
-### Câu 65 · Nhận biết · Có trong slide
+### Câu 70 · Nhận biết · Có trong slide
 
 Thời hạn góp đủ vốn TNHH hai thành viên là bao lâu, theo quy tắc chung?
 
@@ -5005,7 +5473,7 @@ D. 90 ngày từ cấp đăng ký, loại trừ thời gian luật quy định
 
 </details>
 
-### Câu 66 · Thông hiểu · Có trong slide
+### Câu 71 · Thông hiểu · Có trong slide
 
 TNHH có tư cách pháp nhân có thể dùng tài sản thuộc sở hữu của công ty để góp vốn thành lập CTCP, nếu đáp ứng pháp luật.
 
@@ -5074,7 +5542,7 @@ TNHH có pháp nhân và tài sản riêng: A/C phủ nhận sai; B nhầm tài 
 
 </details>
 
-### Câu 67 · Nhận biết · Bổ sung từ leak/review
+### Câu 72 · Nhận biết · Bổ sung từ leak/review
 
 TNHH hai thành viên: cuộc họp lần đầu không đủ điều kiện, điều lệ không quy định khác. Quy tắc triệu tập lần hai là gì?
 
@@ -5115,7 +5583,7 @@ D. Ngay lập tức; đủ 100% vốn
 
 </details>
 
-### Câu 68 · Thông hiểu · Có trong slide
+### Câu 73 · Thông hiểu · Có trong slide
 
 Công ty TNHH hai thành viên trở lên không thanh toán được phần vốn phải mua lại theo yêu cầu hợp lệ. Thành viên yêu cầu mua lại có quyền làm gì?
 
@@ -5162,7 +5630,7 @@ Mua 5 tỷ từ tài sản 10 tỷ chỉ còn 5, không đủ trả nợ 7; đi�
 
 </details>
 
-### Câu 69 · Nhận biết · Có trong slide
+### Câu 74 · Nhận biết · Có trong slide
 
 Thành viên TNHH phản đối nghị quyết tổ chức lại thuộc trường hợp luật định muốn yêu cầu mua lại. Hạn gửi văn bản?
 
@@ -5209,7 +5677,7 @@ Mua 5 tỷ từ tài sản 10 tỷ chỉ còn 5, không đủ trả nợ 7; đi�
 
 </details>
 
-### Câu 70 · Nhận biết · Có trong slide
+### Câu 75 · Nhận biết · Có trong slide
 
 Chuyển nhượng thông thường phần vốn TNHH hai thành viên phải ưu tiên thế nào?
 
@@ -5256,7 +5724,7 @@ Mua 5 tỷ từ tài sản 10 tỷ chỉ còn 5, không đủ trả nợ 7; đi�
 
 </details>
 
-### Câu 71 · Vận dụng · Có trong slide
+### Câu 76 · Vận dụng · Có trong slide
 
 Đã chào bán đúng điều kiện cho thành viên còn lại nhưng họ không mua hết. Sau bao lâu có thể bán phần còn lại ra ngoài theo cơ chế thông thường?
 
@@ -5303,7 +5771,7 @@ Mua 5 tỷ từ tài sản 10 tỷ chỉ còn 5, không đủ trả nợ 7; đi�
 
 </details>
 
-### Câu 72 · Thông hiểu · Có trong slide
+### Câu 77 · Thông hiểu · Có trong slide
 
 Giao dịch nào thông thường chỉ đổi người sở hữu phần vốn, không tự làm giảm vốn điều lệ?
 
@@ -5350,7 +5818,7 @@ Mua 5 tỷ từ tài sản 10 tỷ chỉ còn 5, không đủ trả nợ 7; đi�
 
 </details>
 
-### Câu 73 · Vận dụng · Có trong slide
+### Câu 78 · Vận dụng · Có trong slide
 
 Thành viên TNHH chết và có người thừa kế phần vốn hợp pháp. Nguyên tắc tư cách của người thừa kế?
 
@@ -5397,7 +5865,7 @@ Mua 5 tỷ từ tài sản 10 tỷ chỉ còn 5, không đủ trả nợ 7; đi�
 
 </details>
 
-### Câu 74 · Vận dụng · Có trong slide
+### Câu 79 · Vận dụng · Có trong slide
 
 Một thành viên tặng phần vốn cho người không thuộc hàng thừa kế theo BLDS. Người nhận được làm thành viên khi nào?
 
@@ -5444,7 +5912,7 @@ Mua 5 tỷ từ tài sản 10 tỷ chỉ còn 5, không đủ trả nợ 7; đi�
 
 </details>
 
-### Câu 75 · Vận dụng · Có trong slide
+### Câu 80 · Vận dụng · Có trong slide
 
 Chuyển nhượng làm TNHH hai thành viên chỉ còn một chủ. Cần làm gì?
 
@@ -5491,7 +5959,7 @@ Mua 5 tỷ từ tài sản 10 tỷ chỉ còn 5, không đủ trả nợ 7; đi�
 
 </details>
 
-### Câu 76 · Vận dụng · Có trong slide
+### Câu 81 · Vận dụng · Có trong slide
 
 Thành viên TNHH đã ký hợp đồng bán phần vốn nhưng thông tin người mua chưa được ghi đầy đủ vào sổ thành viên. Người bán còn quyền và nghĩa vụ đối với phần vốn đó không?
 
@@ -5538,7 +6006,7 @@ Mua 5 tỷ từ tài sản 10 tỷ chỉ còn 5, không đủ trả nợ 7; đi�
 
 </details>
 
-### Câu 77 · Vận dụng · Có trong slide
+### Câu 82 · Vận dụng · Có trong slide
 
 Thành viên dùng phần vốn góp để trả nợ cho người ngoài công ty TNHH hai thành viên. Người nhận thanh toán muốn trở thành thành viên cần điều gì?
 
@@ -5585,7 +6053,7 @@ Mua 5 tỷ từ tài sản 10 tỷ chỉ còn 5, không đủ trả nợ 7; đi�
 
 </details>
 
-### Câu 78 · Thông hiểu · Có trong slide
+### Câu 83 · Thông hiểu · Có trong slide
 
 Người thừa kế phần vốn góp không muốn trở thành thành viên TNHH hai thành viên. Cách xử lý phần vốn được bài giảng nêu là gì?
 
@@ -5634,7 +6102,7 @@ Mua 5 tỷ từ tài sản 10 tỷ chỉ còn 5, không đủ trả nợ 7; đi�
 
 ## 4. Công ty cổ phần
 
-### Câu 79 · Nhận biết · Bổ sung từ leak/review
+### Câu 84 · Nhận biết · Bổ sung từ leak/review
 
 Số lượng thành viên Hội đồng quản trị CTCP nằm trong khoảng nào theo Luật Doanh nghiệp 2020?
 
@@ -5700,7 +6168,7 @@ D. Ít nhất 5, không giới hạn
 
 </details>
 
-### Câu 80 · Nhận biết · Có trong slide
+### Câu 85 · Nhận biết · Có trong slide
 
 Cổ đông phản đối nghị quyết thuộc trường hợp được yêu cầu công ty mua lại cổ phần phải gửi văn bản trong thời hạn bao lâu?
 
@@ -5766,7 +6234,7 @@ D. 10 ngày từ ngày ĐHĐCĐ thông qua nghị quyết
 
 </details>
 
-### Câu 81 · Nhận biết · Có trong slide
+### Câu 86 · Nhận biết · Có trong slide
 
 HĐQT được quyết định mua lại cổ phần phổ thông trong giới hạn nào mỗi 12 tháng?
 
@@ -5832,7 +6300,7 @@ D. Chỉ đúng một cổ phần
 
 </details>
 
-### Câu 82 · Thông hiểu · Có trong slide
+### Câu 87 · Thông hiểu · Có trong slide
 
 Theo quyết định của công ty, giới hạn mua lại tổng cổ phần phổ thông đã bán là bao nhiêu?
 
@@ -5898,7 +6366,121 @@ D. Chỉ 8%
 
 </details>
 
-### Câu 83 · Thông hiểu · Bổ sung từ leak/review
+### Câu 88 · Vận dụng · Có trong slide
+
+Công ty cổ phần lựa chọn mô hình thứ hai. Hội đồng quản trị có 7 người, trong đó 1 thành viên độc lập, và đã có Ủy ban kiểm toán. Công ty dự định thay một thành viên hiện tại bằng thành viên độc lập đủ điều kiện, giữ tổng số 7 người. Cách xử lý này có đáp ứng tỷ lệ tối thiểu không?
+
+A. Có; cần ít nhất 2 người độc lập trong tổng số 7 người
+
+B. Không; một người độc lập đã đủ nên không cần thay
+
+C. Không; bắt buộc cả 7 người đều độc lập
+
+D. Không; Ủy ban kiểm toán thay thế hoàn toàn yêu cầu về thành viên độc lập
+
+**Đáp án:** Có; cần ít nhất 2 người độc lập trong tổng số 7 người
+
+**Phân tích:** Bước 1: tính 20% của tổng số thành viên. Bước 2: vì số người là số nguyên, lấy số nguyên đủ đạt tỷ lệ. Bước 3: kiểm tra đề nói thay người hay thêm người; ở đây tổng vẫn là 7.
+
+**Bẫy:** Không làm tròn 1,4 xuống 1; nếu đề là thêm người thì phải tính lại mẫu số.
+
+**Lý thuyết:** Mô hình thứ hai yêu cầu ít nhất 20% thành viên HĐQT là thành viên độc lập và có Ủy ban kiểm toán trực thuộc HĐQT.
+
+**Có; cần ít nhất 2 người độc lập trong tổng số 7 người — Đúng:** 20% × 7 = 1,4 nên số nguyên tối thiểu là 2. Sau thay thế, 2/7 khoảng 28,57%, đạt ngưỡng; Ủy ban kiểm toán vẫn được duy trì.
+
+**Không; một người độc lập đã đủ nên không cần thay — Sai:** 1/7 khoảng 14,29%, chưa đạt 20%.
+
+**Không; bắt buộc cả 7 người đều độc lập — Sai:** Slide chỉ yêu cầu ít nhất 20%, không phải 100%.
+
+**Không; Ủy ban kiểm toán thay thế hoàn toàn yêu cầu về thành viên độc lập — Sai:** Hai điều kiện tồn tại đồng thời; có Ủy ban kiểm toán không miễn điều kiện tỷ lệ.
+
+**Chương 2, slide 53 · Nội dung trên slide**
+
+> MÔ HÌNH TỔ CHỨC QUẢN LÝ THỨ HAI CỦA CÔNG TY CỔ PHẦN ĐẠI HỘI ĐỒNG CỔ ĐÔNG HỘI ĐỒNG QUẢN TRỊ Có ít nhất 20% số thành viên HĐQT phải là thành viên độc lập và có Ủy ban kiểm toán trực thuộc HĐQT GĐ/TGĐ Các thành viên độc lập thực hiện chức năng giám sát và tổ chức thực hiện kiểm soát đối với việc quản lý điều hành công ty
+
+<details>
+<summary>rv-005 · Review liên quan</summary>
+
+5. **Số thành viên trong Hội đồng quản trị công ty cổ phần.**\
+   → **Từ 3 đến 11 thành viên.**
+
+**Ghi chú đối chiếu:** Từ 3 đến 11 thành viên.
+
+Đúng theo Điều 154 Luật Doanh nghiệp 2020. Ngưỡng này cần bổ sung từ văn bản chính thức; không gán cho một slide không có con số.
+
+</details>
+
+<details>
+<summary>rv-032 · Review liên quan</summary>
+
+8. **Số thành viên trong Hội đồng quản trị công ty cổ phần?**
+
+**Ghi chú đối chiếu:** Từ 3 đến 11 thành viên.
+
+Đúng theo Điều 154 Luật Doanh nghiệp 2020. Ngưỡng này cần bổ sung từ văn bản chính thức; không gán cho một slide không có con số.
+
+</details>
+
+<details>
+<summary>rv-065 · Review liên quan</summary>
+
+6. **Công ty cổ phần HĐ có tổng 30 cổ đông, cổ đông nhà nước sở hữu 55% tổng số cổ phần có quyền biểu quyết. Công ty cổ phần lựa chọn mô hình cơ cấu tổ chức quản lý nào?**
+
+**Ghi chú đối chiếu:** Có thể chọn một trong hai mô hình; nếu mô hình thứ nhất phải có BKS, nếu mô hình thứ hai phải có ≥20% HĐQT độc lập và Ủy ban kiểm toán.
+
+30 cổ đông không thuộc ngoại lệ dưới 11. Sở hữu 55% nhà nước còn cần xem luật đặc thù, nhưng không tự loại mô hình Ủy ban kiểm toán theo quy tắc slide. Bản “55% tổng cổ phần” khác “có quyền biểu quyết”; giữ nguyên từng bản.
+
+</details>
+
+<details>
+<summary>rv-080 · Review liên quan</summary>
+
+6. **Công ty cổ phần hoạt động có tổng 30 cổ đông, cổ đông nhà nước nắm giữ 55% tổng số cổ phần công ty. Công ty cổ phần lựa chọn mô hình cơ cấu tổ chức quản lý nào?**
+
+**Ghi chú đối chiếu:** Có thể chọn một trong hai mô hình; nếu mô hình thứ nhất phải có BKS, nếu mô hình thứ hai phải có ≥20% HĐQT độc lập và Ủy ban kiểm toán.
+
+30 cổ đông không thuộc ngoại lệ dưới 11. Sở hữu 55% nhà nước còn cần xem luật đặc thù, nhưng không tự loại mô hình Ủy ban kiểm toán theo quy tắc slide. Bản “55% tổng cổ phần” khác “có quyền biểu quyết”; giữ nguyên từng bản.
+
+</details>
+
+<details>
+<summary>rv-162 · Review liên quan</summary>
+
+6) **Hội đồng quản trị công ty cổ phần có bao nhiêu thành viên?**
+
+**Ghi chú đối chiếu:** Từ 3 đến 11 thành viên.
+
+Đúng theo Điều 154 Luật Doanh nghiệp 2020. Ngưỡng này cần bổ sung từ văn bản chính thức; không gán cho một slide không có con số.
+
+</details>
+
+<details>
+<summary>rv-201 · Review liên quan</summary>
+
+6. **Công ty cổ phần hoạt động có tổng 30 cổ đông, cổ đông nhà nước nắm giữ 55% tổng số cổ phần công ty. Công ty cổ phần lựa chọn mô hình cơ cấu tổ chức quản lý nào?**
+
+**Ghi chú đối chiếu:** Có thể chọn một trong hai mô hình; nếu mô hình thứ nhất phải có BKS, nếu mô hình thứ hai phải có ≥20% HĐQT độc lập và Ủy ban kiểm toán.
+
+30 cổ đông không thuộc ngoại lệ dưới 11. Sở hữu 55% nhà nước còn cần xem luật đặc thù, nhưng không tự loại mô hình Ủy ban kiểm toán theo quy tắc slide. Bản “55% tổng cổ phần” khác “có quyền biểu quyết”; giữ nguyên từng bản.
+
+</details>
+
+<details>
+<summary>rv-371 · Review liên quan</summary>
+
+12. **Công ty cổ phần X lựa chọn mô hình quản trị không có Ban kiểm soát. Điều kiện bắt buộc đối với Hội đồng quản trị của công ty này là gì?**\
+    A. Phải có ít nhất 50% số thành viên Hội đồng quản trị là thành viên độc lập.\
+    B. Phải có ít nhất 20% số thành viên Hội đồng quản trị là thành viên độc lập và có Ủy ban kiểm toán.\
+    C. Chủ tịch Hội đồng quản trị phải kiêm Giám đốc công ty.\
+    D. Tất cả thành viên Hội đồng quản trị đều phải là cổ đông sáng lập.
+
+**Ghi chú đối chiếu:** B nếu CTCP chọn mô hình có Ủy ban kiểm toán theo điểm b khoản 1 Điều 137.
+
+Mô hình đó ít nhất 20% HĐQT độc lập và Ủy ban kiểm toán. Nhưng CTCP chọn mô hình thứ nhất đủ ngoại lệ dưới 11/ tổ chức dưới 50% cũng có thể không BKS, nên chỉ “không BKS” chưa hoàn toàn duy nhất điều kiện B. A 50% không đúng ngưỡng; C kiêm nhiệm không bắt buộc; D mọi thành viên sáng lập không bắt buộc.
+
+</details>
+
+### Câu 89 · Thông hiểu · Bổ sung từ leak/review
 
 Mọi cổ đông bất kỳ đều có quyền mua và sở hữu cổ phần ưu đãi biểu quyết.
 
@@ -5932,7 +6514,7 @@ Nếu đề chọn cổ đông sáng lập giữa các lựa chọn thì phù h�
 
 </details>
 
-### Câu 84 · Nhận biết · Có trong slide
+### Câu 90 · Nhận biết · Có trong slide
 
 Vốn điều lệ CTCP được chia như thế nào?
 
@@ -6031,7 +6613,7 @@ Chỉ nói “có từ 3 thành viên” không duy nhất: TNHH hai thành viê
 
 </details>
 
-### Câu 85 · Thông hiểu · Có trong slide
+### Câu 91 · Thông hiểu · Có trong slide
 
 Công ty cổ phần có 120.000 cổ phần đã bán, mệnh giá 10.000 đồng/cổ phần. Vốn điều lệ tương ứng là bao nhiêu?
 
@@ -6130,7 +6712,7 @@ Chỉ nói “có từ 3 thành viên” không duy nhất: TNHH hai thành viê
 
 </details>
 
-### Câu 86 · Thông hiểu · Có trong slide
+### Câu 92 · Thông hiểu · Có trong slide
 
 Cổ tức được hiểu là khoản nào?
 
@@ -6229,7 +6811,7 @@ Chỉ nói “có từ 3 thành viên” không duy nhất: TNHH hai thành viê
 
 </details>
 
-### Câu 87 · Nhận biết · Có trong slide
+### Câu 93 · Nhận biết · Có trong slide
 
 Số cổ đông CTCP được quy định thế nào?
 
@@ -6328,7 +6910,7 @@ Chỉ nói “có từ 3 thành viên” không duy nhất: TNHH hai thành viê
 
 </details>
 
-### Câu 88 · Thông hiểu · Có trong slide
+### Câu 94 · Thông hiểu · Có trong slide
 
 Doanh nghiệp tư nhân có được dùng chính tư cách doanh nghiệp để góp vốn, mua cổ phần hoặc phần vốn góp trong công ty không?
 
@@ -6416,7 +6998,7 @@ DNTN không có sự tách biệt tài sản độc lập với cá nhân chủ 
 
 </details>
 
-### Câu 89 · Nhận biết · Có trong slide
+### Câu 95 · Nhận biết · Có trong slide
 
 CTCP được phát hành cổ phần, trái phiếu và các loại chứng khoán khác theo pháp luật.
 
@@ -6490,7 +7072,7 @@ Không chọn TNHH nếu hỏi cổ phiếu/cổ phần; TNHH chỉ có quyền 
 
 </details>
 
-### Câu 90 · Nhận biết · Có trong slide
+### Câu 96 · Nhận biết · Có trong slide
 
 Loại cổ phần nào CTCP bắt buộc phải có?
 
@@ -6533,7 +7115,7 @@ Review dùng “cổ phiếu”; thuật ngữ điều chỉnh cấu trúc vốn
 
 </details>
 
-### Câu 91 · Nhận biết · Có trong slide
+### Câu 97 · Nhận biết · Có trong slide
 
 Công ty cổ phần có những hình thức chào bán cổ phần nào?
 
@@ -6617,7 +7199,7 @@ Mô hình đó ít nhất 20% HĐQT độc lập và Ủy ban kiểm toán. Như
 
 </details>
 
-### Câu 92 · Nhận biết · Có trong slide
+### Câu 98 · Nhận biết · Có trong slide
 
 Sau khi kết thúc đợt bán cổ phần, công ty phải đăng ký thay đổi vốn điều lệ trong thời hạn bao lâu?
 
@@ -6697,7 +7279,102 @@ Mô hình đó ít nhất 20% HĐQT độc lập và Ủy ban kiểm toán. Như
 
 </details>
 
-### Câu 93 · Nhận biết · Có trong slide
+### Câu 99 · Vận dụng · Có trong slide
+
+Hai công ty cổ phần cùng chọn mô hình thứ nhất có Ban kiểm soát. Công ty A có 10 cổ đông, các cổ đông là tổ chức sở hữu tổng 45% cổ phần; công ty B có 10 cổ đông, các cổ đông là tổ chức sở hữu tổng 55%. Chỉ xét ngoại lệ không bắt buộc lập Ban kiểm soát của mô hình này, kết luận nào đúng?
+
+A. Cả hai đều thuộc ngoại lệ vì có dưới 11 cổ đông
+
+B. Cả hai đều không thuộc ngoại lệ vì có cổ đông là tổ chức
+
+C. B thuộc ngoại lệ; A không thuộc ngoại lệ
+
+D. A thuộc ngoại lệ; B không thuộc ngoại lệ
+
+**Đáp án:** A thuộc ngoại lệ; B không thuộc ngoại lệ
+
+**Phân tích:** Lập bảng hai cột điều kiện: số cổ đông < 11; sở hữu của tổ chức < 50%. A đạt cả hai, B chỉ đạt cột thứ nhất. Đề đã cố định mô hình nên không chuyển sang phân tích mô hình thứ hai.
+
+**Bẫy:** Không nhầm tỷ lệ của mọi cổ đông là tổ chức với tỷ lệ riêng của cổ đông nhà nước.
+
+**Lý thuyết:** Ở mô hình thứ nhất, CTCP có dưới 11 cổ đông và các cổ đông là tổ chức sở hữu dưới 50% tổng số cổ phần thì không bắt buộc có Ban kiểm soát. Mô hình thứ hai là cơ chế khác với thành viên độc lập và Ủy ban kiểm toán.
+
+**Cả hai đều thuộc ngoại lệ vì có dưới 11 cổ đông — Sai:** Số cổ đông chỉ là một trong hai điều kiện phải cùng thỏa mãn.
+
+**Cả hai đều không thuộc ngoại lệ vì có cổ đông là tổ chức — Sai:** Có tổ chức làm cổ đông không tự loại ngoại lệ; phải xét tổng tỷ lệ sở hữu của nhóm đó.
+
+**B thuộc ngoại lệ; A không thuộc ngoại lệ — Sai:** Đảo ngược kết quả so sánh tỷ lệ 45% và 55% với ngưỡng 50%.
+
+**A thuộc ngoại lệ; B không thuộc ngoại lệ — Đúng:** A đồng thời có dưới 11 cổ đông và tổ chức sở hữu dưới 50%; B thiếu điều kiện thứ hai.
+
+**Chương 2, slide 52 · Nội dung trên slide**
+
+> b. Cơ cấu tổ chức quản lý MÔ HÌNH TỔ CHỨC QUẢN LÝ THỨ NHẤT ĐHĐCĐ HỘI ĐỒNG QUẢN TRỊ GĐ/TGĐ BAN KIỂM SOÁT (Trường hợp công ty có dưới 11 cổ đông và các cổ đông là tổ chức sở hữu dưới 50% tổng số cổ phần của công ty thì không bắt buộc phải có BKS)
+
+**Chương 2, slide 53 · Nội dung trên slide**
+
+> MÔ HÌNH TỔ CHỨC QUẢN LÝ THỨ HAI CỦA CÔNG TY CỔ PHẦN ĐẠI HỘI ĐỒNG CỔ ĐÔNG HỘI ĐỒNG QUẢN TRỊ Có ít nhất 20% số thành viên HĐQT phải là thành viên độc lập và có Ủy ban kiểm toán trực thuộc HĐQT GĐ/TGĐ Các thành viên độc lập thực hiện chức năng giám sát và tổ chức thực hiện kiểm soát đối với việc quản lý điều hành công ty
+
+<details>
+<summary>rv-065 · Review liên quan</summary>
+
+6. **Công ty cổ phần HĐ có tổng 30 cổ đông, cổ đông nhà nước sở hữu 55% tổng số cổ phần có quyền biểu quyết. Công ty cổ phần lựa chọn mô hình cơ cấu tổ chức quản lý nào?**
+
+**Ghi chú đối chiếu:** Có thể chọn một trong hai mô hình; nếu mô hình thứ nhất phải có BKS, nếu mô hình thứ hai phải có ≥20% HĐQT độc lập và Ủy ban kiểm toán.
+
+30 cổ đông không thuộc ngoại lệ dưới 11. Sở hữu 55% nhà nước còn cần xem luật đặc thù, nhưng không tự loại mô hình Ủy ban kiểm toán theo quy tắc slide. Bản “55% tổng cổ phần” khác “có quyền biểu quyết”; giữ nguyên từng bản.
+
+</details>
+
+<details>
+<summary>rv-080 · Review liên quan</summary>
+
+6. **Công ty cổ phần hoạt động có tổng 30 cổ đông, cổ đông nhà nước nắm giữ 55% tổng số cổ phần công ty. Công ty cổ phần lựa chọn mô hình cơ cấu tổ chức quản lý nào?**
+
+**Ghi chú đối chiếu:** Có thể chọn một trong hai mô hình; nếu mô hình thứ nhất phải có BKS, nếu mô hình thứ hai phải có ≥20% HĐQT độc lập và Ủy ban kiểm toán.
+
+30 cổ đông không thuộc ngoại lệ dưới 11. Sở hữu 55% nhà nước còn cần xem luật đặc thù, nhưng không tự loại mô hình Ủy ban kiểm toán theo quy tắc slide. Bản “55% tổng cổ phần” khác “có quyền biểu quyết”; giữ nguyên từng bản.
+
+</details>
+
+<details>
+<summary>rv-090 · Review liên quan</summary>
+
+1. Công ty cổ phần không nhất thiết phải có Ban kiểm soát / Con dấu *(Lưu ý: Chữ gốc OCR là "CDSL", trong các đề thi luật thường đánh lừa ở ý "Ban kiểm soát" nếu dưới 11 cổ đông, hoặc "Con dấu")*. Đúng/Sai.
+
+**Ghi chú đối chiếu:** Không đủ xác định nhận định gốc nói Ban kiểm soát hay con dấu.
+
+Giữ nguyên note OCR “CDSL” và hai cách đoán. Nếu hỏi BKS: có thể không cần theo một mô hình/điều kiện; không gắn cùng đáp án cho “con dấu”. Bài luyện chỉ hỏi BKS, có nhãn tự biên soạn.
+
+</details>
+
+<details>
+<summary>rv-201 · Review liên quan</summary>
+
+6. **Công ty cổ phần hoạt động có tổng 30 cổ đông, cổ đông nhà nước nắm giữ 55% tổng số cổ phần công ty. Công ty cổ phần lựa chọn mô hình cơ cấu tổ chức quản lý nào?**
+
+**Ghi chú đối chiếu:** Có thể chọn một trong hai mô hình; nếu mô hình thứ nhất phải có BKS, nếu mô hình thứ hai phải có ≥20% HĐQT độc lập và Ủy ban kiểm toán.
+
+30 cổ đông không thuộc ngoại lệ dưới 11. Sở hữu 55% nhà nước còn cần xem luật đặc thù, nhưng không tự loại mô hình Ủy ban kiểm toán theo quy tắc slide. Bản “55% tổng cổ phần” khác “có quyền biểu quyết”; giữ nguyên từng bản.
+
+</details>
+
+<details>
+<summary>rv-371 · Review liên quan</summary>
+
+12. **Công ty cổ phần X lựa chọn mô hình quản trị không có Ban kiểm soát. Điều kiện bắt buộc đối với Hội đồng quản trị của công ty này là gì?**\
+    A. Phải có ít nhất 50% số thành viên Hội đồng quản trị là thành viên độc lập.\
+    B. Phải có ít nhất 20% số thành viên Hội đồng quản trị là thành viên độc lập và có Ủy ban kiểm toán.\
+    C. Chủ tịch Hội đồng quản trị phải kiêm Giám đốc công ty.\
+    D. Tất cả thành viên Hội đồng quản trị đều phải là cổ đông sáng lập.
+
+**Ghi chú đối chiếu:** B nếu CTCP chọn mô hình có Ủy ban kiểm toán theo điểm b khoản 1 Điều 137.
+
+Mô hình đó ít nhất 20% HĐQT độc lập và Ủy ban kiểm toán. Nhưng CTCP chọn mô hình thứ nhất đủ ngoại lệ dưới 11/ tổ chức dưới 50% cũng có thể không BKS, nên chỉ “không BKS” chưa hoàn toàn duy nhất điều kiện B. A 50% không đúng ngưỡng; C kiêm nhiệm không bắt buộc; D mọi thành viên sáng lập không bắt buộc.
+
+</details>
+
+### Câu 100 · Nhận biết · Có trong slide
 
 Mô hình CTCP có Ủy ban kiểm toán thuộc HĐQT cần tỷ lệ độc lập tối thiểu nào?
 
@@ -6777,7 +7454,7 @@ Mô hình đó ít nhất 20% HĐQT độc lập và Ủy ban kiểm toán. Như
 
 </details>
 
-### Câu 94 · Thông hiểu · Bổ sung từ leak/review
+### Câu 101 · Thông hiểu · Bổ sung từ leak/review
 
 Đại hội đồng cổ đông gồm tất cả cổ đông, không phân biệt loại cổ phần và quyền biểu quyết.
 
@@ -6842,7 +7519,7 @@ B. Sai
 
 </details>
 
-### Câu 95 · Thông hiểu · Có trong slide
+### Câu 102 · Thông hiểu · Có trong slide
 
 Trong mô hình có Ban kiểm soát, điều kiện để CTCP không bắt buộc có Ban này là gì?
 
@@ -6885,7 +7562,7 @@ Giữ nguyên note OCR “CDSL” và hai cách đoán. Nếu hỏi BKS: có th�
 
 </details>
 
-### Câu 96 · Vận dụng · Có trong slide
+### Câu 103 · Vận dụng · Có trong slide
 
 CTCP có lợi nhuận năm nay nhưng chưa xử lý lỗ trước, chia cổ tức sẽ thiếu tiền trả nợ đến hạn. Nhận định đúng?
 
@@ -6936,7 +7613,7 @@ D. Chưa đủ điều kiện trả cổ tức phổ thông
 
 </details>
 
-### Câu 97 · Thông hiểu · Bổ sung từ leak/review
+### Câu 104 · Thông hiểu · Bổ sung từ leak/review
 
 Luật buộc mọi thành viên HĐQT, Giám đốc và Kiểm soát viên phải là cổ đông của CTCP.
 
@@ -6973,7 +7650,7 @@ HĐQT, GĐ/TGĐ, Kiểm soát viên không bắt buộc luôn là cổ đông; k
 
 </details>
 
-### Câu 98 · Vận dụng · Bổ sung từ leak/review
+### Câu 105 · Vận dụng · Bổ sung từ leak/review
 
 Nhóm 5 cổ đông sáng lập đăng ký CTCP có 5 triệu cổ phần phổ thông và 2 triệu cổ phần ưu đãi được chào bán khi đăng ký. Nhóm phải cùng đăng ký mua tối thiểu bao nhiêu cổ phần phổ thông?
 
@@ -7018,7 +7695,7 @@ Nếu 5 triệu phổ thông chào bán khi đăng ký, 20% là 1 triệu, khôn
 
 </details>
 
-### Câu 99 · Thông hiểu · Có trong slide
+### Câu 106 · Thông hiểu · Có trong slide
 
 Chỉ riêng việc đang bị truy cứu trách nhiệm hình sự tự động làm cá nhân không còn quyền sở hữu cổ phần đã mua hợp pháp.
 
@@ -7061,7 +7738,66 @@ Phải xét biện pháp tố tụng/tài sản hoặc hạn chế luật riêng
 
 </details>
 
-### Câu 100 · Nhận biết · Bổ sung từ leak/review
+### Câu 107 · Vận dụng · Có trong slide
+
+Một công ty cổ phần có 1 triệu cổ phần phổ thông đã bán. Trong 12 tháng đang xét, công ty chưa mua lại cổ phần nào. Hội đồng quản trị muốn tự quyết định mua lại 150.000 cổ phần phổ thông; giả định công ty đủ điều kiện thanh toán. Chỉ xét thẩm quyền quyết định, phương án nào đúng?
+
+A. HĐQT tự quyết định vì 150.000 chưa vượt 30% tổng cổ phần phổ thông
+
+B. Giám đốc tự quyết định mọi giao dịch mua lại
+
+C. Không cơ quan nào được quyết định mua lại quá 10%
+
+D. Trường hợp này thuộc thẩm quyền quyết định của Đại hội đồng cổ đông
+
+**Đáp án:** Trường hợp này thuộc thẩm quyền quyết định của Đại hội đồng cổ đông
+
+**Phân tích:** Bước 1: tính 15%. Bước 2: tách hai câu hỏi: công ty có được mua không và ai được quyết định. Bước 3: so 15% với trần thẩm quyền 10%, không chỉ với trần 30%.
+
+**Bẫy:** Có đủ tiền chưa đủ để HĐQT có thẩm quyền quyết định.
+
+**Lý thuyết:** Công ty có quyền mua lại không quá 30% tổng cổ phần phổ thông đã bán. HĐQT quyết định mua lại không quá 10% tổng cổ phần từng loại đã bán trong 12 tháng; trường hợp khác do ĐHĐCĐ quyết định.
+
+**HĐQT tự quyết định vì 150.000 chưa vượt 30% tổng cổ phần phổ thông — Sai:** 30% là trần mua lại cổ phần phổ thông của công ty theo quy tắc đang nêu, không phải giới hạn thẩm quyền riêng của HĐQT.
+
+**Giám đốc tự quyết định mọi giao dịch mua lại — Sai:** Không có quy tắc giao cho giám đốc tự quyết định mọi mua lại cổ phần.
+
+**Không cơ quan nào được quyết định mua lại quá 10% — Sai:** Vượt 10% của HĐQT không đồng nghĩa bị cấm tuyệt đối; chuyển sang thẩm quyền ĐHĐCĐ khi đủ điều kiện.
+
+**Trường hợp này thuộc thẩm quyền quyết định của Đại hội đồng cổ đông — Đúng:** 150.000/1.000.000 = 15%, vượt giới hạn HĐQT tự quyết định không quá 10% từng loại trong 12 tháng; trường hợp khác do ĐHĐCĐ quyết định.
+
+**Chương 2, slide 65 · Nội dung trên slide**
+
+> - Mua lại cổ phần theo quyết định của công ty Công ty có quyền mua lại không quá 30% tổng số cổ phần phổ thông đã bán, một phần hoặc toàn bộ cổ phần ưu đãi cổ tức đã bán theo quy định sau đây: Hội đồng quản trị có quyền quyết định mua lại không quá 10% tổng số cổ phần của từng loại đã bán trong thời hạn 12 tháng. Trường hợp khác, việc mua lại cổ phần do Đại hội đồng cổ đông quyết định; Hội đồng quản trị quyết định giá mua lại cổ phần.
+
+<details>
+<summary>rv-281 · Review liên quan</summary>
+
+27. **Ai có quyền quyết định cao nhất trong công ty cổ phần?**\
+    *Ghi chú trong nguồn:* **Hội đồng quản trị.**
+
+**Ghi chú đối chiếu:** Đại hội đồng cổ đông là cơ quan quyết định cao nhất, không phải HĐQT.
+
+Giữ nguyên note review “Hội đồng quản trị” nhưng đánh dấu mâu thuẫn. HĐQT có quyền quản lý và quyền yêu cầu phục hồi không làm thành cao nhất.
+
+</details>
+
+<details>
+<summary>rv-365 · Review liên quan</summary>
+
+6. **Ông Hải là một trong các thành viên của Công ty trách nhiệm hữu hạn hai thành viên trở lên Hải Hà, có yêu cầu công ty mua lại phần vốn góp của mình với giá thỏa thuận là 5 tỷ đồng. Tuy nhiên, toàn bộ tài sản còn lại của công ty chỉ có giá trị khoảng 10 tỷ đồng. Ngoài ra, công ty còn nợ BIDV 7 tỷ đồng. Do đó, ông Hải được:**\
+   A. Công ty Hải Hà thanh toán đủ 5 tỷ đồng ngay lập tức.\
+   B. Công ty Hải Hà thanh toán đầy đủ 5 tỷ đồng nhưng phải đợi các thành viên góp thêm vốn.\
+   C. Công ty Hải Hà thanh toán 3 tỷ đồng vì công ty phải trả khoản nợ 7 tỷ đồng.\
+   D. Chuyển nhượng tự do phần vốn góp của mình cho người khác, kể cả người không phải là thành viên công ty.
+
+**Ghi chú đối chiếu:** D. Được chuyển nhượng theo trường hợp công ty không thanh toán được mua lại hợp lệ.
+
+Mua 5 tỷ từ tài sản 10 tỷ chỉ còn 5, không đủ trả nợ 7; điều kiện mua lại không đạt. A thanh toán ngay sai. B không có quyền buộc chờ góp vốn vô hạn. C không tự chia trả 3 tỷ một phần rồi coi mua lại xong.
+
+</details>
+
+### Câu 108 · Nhận biết · Bổ sung từ leak/review
 
 Cơ quan quyết định cao nhất của CTCP là cơ quan nào?
 
@@ -7113,7 +7849,7 @@ Giữ nguyên note review “Hội đồng quản trị” nhưng đánh dấu m
 
 </details>
 
-### Câu 101 · Thông hiểu · Bổ sung từ leak/review
+### Câu 109 · Thông hiểu · Bổ sung từ leak/review
 
 Theo quyền thông thường, cổ đông nắm loại cổ phần nào được dự họp và biểu quyết tại Đại hội đồng cổ đông?
 
@@ -7169,7 +7905,7 @@ Không nói tuyệt đối không bao giờ được dự/biểu quyết khi quy
 
 </details>
 
-### Câu 102 · Thông hiểu · Bổ sung từ leak/review
+### Câu 110 · Thông hiểu · Bổ sung từ leak/review
 
 Cổ đông sở hữu ưu đãi biểu quyết được tự do chuyển nhượng loại cổ phần đó như cổ phần phổ thông.
 
@@ -7202,7 +7938,7 @@ Thiếu phương án nên chưa chọn chữ cái. Không nói “không bao gi�
 
 </details>
 
-### Câu 103 · Nhận biết · Có trong slide
+### Câu 111 · Nhận biết · Có trong slide
 
 Ngoài cổ phần phổ thông bắt buộc, công ty cổ phần có thể có những nhóm cổ phần ưu đãi nào?
 
@@ -7246,7 +7982,7 @@ Bài luyện phân biệt các loại ưu đãi, không tự dựng một câu c
 
 </details>
 
-### Câu 104 · Nhận biết · Bổ sung từ leak/review
+### Câu 112 · Nhận biết · Bổ sung từ leak/review
 
 Ai điều hành công việc kinh doanh hằng ngày của CTCP?
 
@@ -7297,7 +8033,7 @@ HĐQT là cơ quan quản lý; ĐHĐCĐ quyết định cao nhất. Không nhầ
 
 ## 5. Công ty hợp danh và doanh nghiệp tư nhân
 
-### Câu 105 · Nhận biết · Có trong slide
+### Câu 113 · Nhận biết · Có trong slide
 
 Cấu trúc thành viên công ty hợp danh nào đúng?
 
@@ -7356,7 +8092,7 @@ Việc chuyển nhượng còn phải được thành viên hợp danh còn lạ
 
 </details>
 
-### Câu 106 · Thông hiểu · Có trong slide
+### Câu 114 · Thông hiểu · Có trong slide
 
 Công ty hợp danh có cơ quan quản lý nào trong các lựa chọn dưới đây?
 
@@ -7415,7 +8151,7 @@ Việc chuyển nhượng còn phải được thành viên hợp danh còn lạ
 
 </details>
 
-### Câu 107 · Vận dụng · Có trong slide
+### Câu 115 · Vận dụng · Có trong slide
 
 Một thành viên hợp danh tự kinh doanh cùng ngành để tư lợi trong trường hợp luật cấm. Lập luận nào đúng?
 
@@ -7474,7 +8210,7 @@ Việc chuyển nhượng còn phải được thành viên hợp danh còn lạ
 
 </details>
 
-### Câu 108 · Thông hiểu · Bổ sung từ leak/review
+### Câu 116 · Thông hiểu · Bổ sung từ leak/review
 
 Thành viên hợp danh muốn chuyển phần vốn của mình cho người khác. Yêu cầu nào đúng?
 
@@ -7535,7 +8271,7 @@ Việc chuyển nhượng còn phải được thành viên hợp danh còn lạ
 
 </details>
 
-### Câu 109 · Vận dụng · Có trong slide
+### Câu 117 · Vận dụng · Có trong slide
 
 Chủ một DNTN muốn lập thêm DNTN khác và đồng thời làm thành viên hợp danh. Đánh giá nào đúng?
 
@@ -7623,7 +8359,7 @@ DNTN không có sự tách biệt tài sản độc lập với cá nhân chủ 
 
 </details>
 
-### Câu 110 · Thông hiểu · Có trong slide
+### Câu 118 · Thông hiểu · Có trong slide
 
 Đặc điểm DNTN nào đúng?
 
@@ -7711,7 +8447,7 @@ DNTN không có sự tách biệt tài sản độc lập với cá nhân chủ 
 
 </details>
 
-### Câu 111 · Nhận biết · Bổ sung từ leak/review
+### Câu 119 · Nhận biết · Bổ sung từ leak/review
 
 Thành viên hợp danh không được đồng thời làm chủ doanh nghiệp tư nhân.
 
@@ -7755,7 +8491,7 @@ B. Sai
 
 </details>
 
-### Câu 112 · Nhận biết · Có trong slide
+### Câu 120 · Nhận biết · Có trong slide
 
 Công ty hợp danh có thể phát hành chứng khoán nào?
 
@@ -7825,7 +8561,7 @@ Gợi ý cuối review “TNHH và DNTN” sai vì TNHH có thể phát hành tr
 
 </details>
 
-### Câu 113 · Thông hiểu · Bổ sung từ leak/review
+### Câu 121 · Thông hiểu · Bổ sung từ leak/review
 
 Mọi thành viên công ty hợp danh đều bắt buộc là cá nhân.
 
@@ -7866,7 +8602,7 @@ Không nhầm tên công ty hợp danh với nhóm thành viên hợp danh.
 
 </details>
 
-### Câu 114 · Nhận biết · Có trong slide
+### Câu 122 · Nhận biết · Có trong slide
 
 Phạm vi trách nhiệm tài sản của thành viên hợp danh và thành viên góp vốn khác nhau như thế nào?
 
@@ -7946,7 +8682,7 @@ Không có phương án nên chưa chọn chữ cái. Làm ăn thua lỗ không 
 
 </details>
 
-### Câu 115 · Vận dụng · Có trong slide
+### Câu 123 · Vận dụng · Có trong slide
 
 Nợ của doanh nghiệp tư nhân vượt giá trị tài sản dùng kinh doanh. Cá nhân chủ doanh nghiệp chịu trách nhiệm trong phạm vi nào?
 
@@ -7989,7 +8725,7 @@ Doanh nghiệp trả nợ bằng tài sản của mình; chế độ hữu hạn
 
 </details>
 
-### Câu 116 · Thông hiểu · Bổ sung từ leak/review
+### Câu 124 · Thông hiểu · Bổ sung từ leak/review
 
 Thành viên hợp danh có thể là thành viên hợp danh công ty khác nếu được sự nhất trí của các thành viên hợp danh còn lại.
 
@@ -8030,7 +8766,7 @@ Không kéo ngoại lệ này sang chủ DNTN như đáp án sai ở câu 24.
 
 ## 6. Hợp tác xã và hộ kinh doanh
 
-### Câu 117 · Thông hiểu · Có trong slide
+### Câu 125 · Thông hiểu · Có trong slide
 
 Mọi người thực hiện kinh doanh, kể cả bán hàng rong thuộc diện miễn, đều bắt buộc đăng ký hộ kinh doanh.
 
@@ -8088,7 +8824,7 @@ Chương 3 slide 112 liệt kê nhóm miễn đăng ký theo điều kiện; tr�
 
 </details>
 
-### Câu 118 · Vận dụng · Có trong slide
+### Câu 126 · Vận dụng · Có trong slide
 
 Hộ kinh doanh kê khai giả mạo nội dung trong hồ sơ đăng ký. Hành vi này thuộc trường hợp xử lý nào được nêu trong bài giảng?
 
@@ -8154,7 +8890,7 @@ Chương 3 slide 112 liệt kê nhóm miễn đăng ký theo điều kiện; tr�
 
 </details>
 
-### Câu 119 · Vận dụng · Có trong slide
+### Câu 127 · Vận dụng · Có trong slide
 
 HKD ngừng hoạt động liên tục 7 tháng, không thông báo cơ quan đăng ký kinh doanh và cơ quan thuế. Điều gì cần được xem xét?
 
@@ -8220,7 +8956,7 @@ Chương 3 slide 112 liệt kê nhóm miễn đăng ký theo điều kiện; tr�
 
 </details>
 
-### Câu 120 · Nhận biết · Có trong slide
+### Câu 128 · Nhận biết · Có trong slide
 
 Mô hình quản trị đầy đủ của HTX gồm những cơ quan nào?
 
@@ -8326,7 +9062,7 @@ Gợi ý “HTX quy mô lớn” đúng như ví dụ, chưa đầy đủ nếu 
 
 </details>
 
-### Câu 121 · Nhận biết · Có trong slide
+### Câu 129 · Nhận biết · Có trong slide
 
 Trong mô hình quản trị đầy đủ của HTX, Chủ tịch HĐQT có thể kiêm Giám đốc/Tổng giám đốc.
 
@@ -8420,7 +9156,7 @@ Gợi ý “HTX quy mô lớn” đúng như ví dụ, chưa đầy đủ nếu 
 
 </details>
 
-### Câu 122 · Vận dụng · Có trong slide
+### Câu 130 · Vận dụng · Có trong slide
 
 HTX có đủ tiền trả toàn bộ nợ nhưng đang giải quyết tranh chấp tại Trọng tài. Đại hội đã thông qua giải thể. Chỉ theo các điều kiện trong slide, điều gì còn thiếu?
 
@@ -8533,7 +9269,7 @@ Gợi ý “HTX quy mô lớn” đúng như ví dụ, chưa đầy đủ nếu 
 
 </details>
 
-### Câu 123 · Nhận biết · Có trong slide
+### Câu 131 · Nhận biết · Có trong slide
 
 Hợp tác xã do ít nhất 5 thành viên chính thức tự nguyện thành lập, có tư cách pháp nhân.
 
@@ -8597,7 +9333,7 @@ A không xác định nhóm thành viên, thiếu chính xác so với C. B và 
 
 </details>
 
-### Câu 124 · Nhận biết · Có trong slide
+### Câu 132 · Nhận biết · Có trong slide
 
 Ba hợp tác xã là thành viên chính thức tự nguyện liên kết thành một tổ chức có tư cách pháp nhân để mở rộng quy mô kinh doanh. Đây là loại tổ chức nào?
 
@@ -8692,7 +9428,7 @@ Review nói xuất hiện hai lần nhưng không chép câu thứ hai; giữ no
 
 </details>
 
-### Câu 125 · Thông hiểu · Có trong slide
+### Câu 133 · Thông hiểu · Có trong slide
 
 Cá nhân đăng ký hộ kinh doanh có thể góp vốn, mua cổ phần trong doanh nghiệp với tư cách cá nhân.
 
@@ -8776,7 +9512,7 @@ Chủ DNTN không được đồng thời chủ HKD theo slide; không nhầm đ
 
 </details>
 
-### Câu 126 · Nhận biết · Bổ sung từ leak/review
+### Câu 134 · Nhận biết · Bổ sung từ leak/review
 
 HTX có bao nhiêu thành viên chính thức trở lên có thể tổ chức đại hội đại biểu theo Luật HTX 2023?
 
@@ -8834,7 +9570,7 @@ D. 150
 
 </details>
 
-### Câu 127 · Vận dụng · Có trong slide
+### Câu 135 · Vận dụng · Có trong slide
 
 Minh Dũng 16 tuổi, công dân Việt Nam, đáp ứng điều kiện năng lực, tự nguyện và điều lệ. Nếu không góp vốn mà góp sức lao động, có thể gia nhập HTX với tư cách nào?
 
@@ -8897,7 +9633,118 @@ Bài luyện một tình huống rõ cho nhóm này; không tuyên bố có 4 c�
 
 </details>
 
-### Câu 128 · Nhận biết · Có trong slide
+### Câu 136 · Vận dụng · Có trong slide
+
+Liên hiệp HTX đang có 9 thành viên, quản trị rút gọn, nhận thêm một thành viên hợp lệ thành 10. Cả hai người đại diện theo pháp luật đều dự định chuyển cư trú ra nước ngoài. Gói xử lý nào đáp ứng đồng thời yêu cầu về quản trị và người đại diện?
+
+A. Không cần thay đổi vì liên hiệp HTX khác HTX nên không có các yêu cầu này
+
+B. Đại hội thành viên gần nhất quyết định chuyển sang quản trị đầy đủ; bảo đảm luôn có ít nhất một đại diện cư trú tại Việt Nam
+
+C. Chỉ chuyển quản trị đầy đủ; cả hai đại diện có thể cư trú nước ngoài lâu dài
+
+D. Chỉ giữ một đại diện tại Việt Nam; vẫn luôn được giữ quản trị rút gọn với 10 thành viên
+
+**Đáp án:** Đại hội thành viên gần nhất quyết định chuyển sang quản trị đầy đủ; bảo đảm luôn có ít nhất một đại diện cư trú tại Việt Nam
+
+**Phân tích:** Tách tình huống thành hai nhánh độc lập: quy mô quyết định mô hình; nơi cư trú quyết định bố trí đại diện. Chọn đáp án xử lý đủ cả hai, không chỉ nhánh dễ nhận ra.
+
+**Bẫy:** “Có nhiều đại diện” không có nghĩa được để tất cả cùng không cư trú tại Việt Nam.
+
+**Lý thuyết:** Liên hiệp HTX từ 10 thành viên trở lên phải quản trị đầy đủ; nếu phát triển từ rút gọn thì Đại hội gần nhất quyết định chuyển. HTX và liên hiệp HTX có thể có nhiều đại diện nhưng phải luôn có ít nhất một người cư trú tại Việt Nam.
+
+**Không cần thay đổi vì liên hiệp HTX khác HTX nên không có các yêu cầu này — Sai:** Slide đề cập trực tiếp liên hiệp HTX trong cả hai quy tắc.
+
+**Đại hội thành viên gần nhất quyết định chuyển sang quản trị đầy đủ; bảo đảm luôn có ít nhất một đại diện cư trú tại Việt Nam — Đúng:** Mốc 10 thành viên làm phát sinh yêu cầu chuyển quản trị; yêu cầu có đại diện cư trú tại Việt Nam áp dụng cả HTX và liên hiệp HTX.
+
+**Chỉ chuyển quản trị đầy đủ; cả hai đại diện có thể cư trú nước ngoài lâu dài — Sai:** Đáp ứng một yêu cầu không bù cho việc vi phạm yêu cầu về cư trú.
+
+**Chỉ giữ một đại diện tại Việt Nam; vẫn luôn được giữ quản trị rút gọn với 10 thành viên — Sai:** Đã đạt 10 thành viên thì không còn thuộc nhóm được chọn rút gọn theo quy tắc slide.
+
+**Chương 3, slide 99 · Nội dung trên slide**
+
+> * Tổ chức quản trị của HTX - Tổ chức quản trị của hợp tác xã, liên hiệp hợp tác xã bao gồm hai loại: + Tổ chức quản trị đầy đủ bao gồm: Đại hội thành viên, Hội đồng quản trị, Giám đốc (Tổng giám đốc), Ban kiểm soát. Chủ tịch Hội đồng quản trị có thể kiêm Giám đốc (TGĐ); + Tổ chức quản trị rút gọn bao gồm: Đại hội thành viên, Giám đốc, kiểm soát viên. -> Hợp tác xã quy mô nhỏ, vừa, lớn, liên hiệp hợp tác xã từ 10 thành viên trở lên phải tổ chức theo tổ chức quản trị đầy đủ. -> Hợp tác xã quy mô siêu nhỏ, liên hiệp hợp tác xã dưới 10 thành viên có thể tổ chức theo tổ chức quản trị đầy đủ hoặc tổ chức quản trị rút gọn.
+
+**Chương 3, slide 100 · Nội dung trên slide**
+
+> Trường hợp hợp tác xã, liên hiệp hợp tác xã đang tổ chức theo tổ chức quản trị rút gọn phát triển thành hợp tác xã quy mô nhỏ, vừa, lớn, liên hiệp hợp tác xã từ 10 thành viên trở lên thì Đại hội thành viên gần nhất phải quyết định việc chuyển sang tổ chức quản trị đầy đủ.
+
+**Chương 3, slide 101 · Nội dung trên slide**
+
+> * Người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã - Người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã là cá nhân đại diện cho hợp tác xã, liên hiệp hợp tác xã thực hiện các quyền, nghĩa vụ phát sinh từ giao dịch của hợp tác xã, liên hiệp hợp tác xã; đại diện cho hợp tác xã, liên hiệp hợp tác xã với tư cách người yêu cầu giải quyết việc dân sự, nguyên đơn, bị đơn, người có quyền, nghĩa vụ liên quan trước Trọng tài, Tòa án và quyền, nghĩa vụ khác theo quy định của pháp luật. - Hợp tác xã, liên hiệp hợp tác xã có thể có một hoặc nhiều người đại diện theo pháp luật. - Hợp tác xã, liên hiệp hợp tác xã phải bảo đảm luôn có ít nhất một người đại diện theo pháp luật cư trú tại Việt Nam.
+
+<details>
+<summary>rv-036 · Review liên quan</summary>
+
+12. **Đại diện pháp luật của hợp tác xã?**
+
+**Ghi chú đối chiếu:** Người đại diện theo pháp luật xác định theo điều lệ, có thể một hoặc nhiều người.
+
+Slide 101 không xác định luôn chỉ Chủ tịch HĐQT hay Giám đốc. Đề thiếu điều lệ/chức danh nên không đoán một người.
+
+</details>
+
+<details>
+<summary>rv-194 · Review liên quan</summary>
+
+5) Hợp tác xã X góp 1 tỷ đồng vào góp vốn trong Liên hiệp hợp tác xã Y, đồng thời Hợp tác xã X mua nhiều khối lượng hàng hóa của Liên hiệp hợp tác xã Y. Vậy Hợp tác xã X là thành viên liên kết góp vốn, thành viên chính thức, hay thành viên liên kết không góp vốn?
+
+**Ghi chú đối chiếu:** Thành viên chính thức của liên hiệp HTX nếu HTX X được kết nạp và đáp ứng điều kiện góp vốn/sử dụng dịch vụ.
+
+Không chỉ là liên kết góp vốn vì có sử dụng hàng hóa/dịch vụ, và chủ thể là HTX. Còn cần điều kiện gia nhập theo luật/điều lệ.
+
+</details>
+
+<details>
+<summary>rv-269 · Review liên quan</summary>
+
+15. **Mô hình quản trị rút gọn của hợp tác xã gồm những gì?**
+
+**Ghi chú đối chiếu:** Đại hội thành viên, Giám đốc/Tổng giám đốc, Kiểm soát viên.
+
+Không thêm HĐQT/BKS vào mô hình rút gọn.
+
+</details>
+
+<details>
+<summary>rv-303 · Review liên quan</summary>
+
+6. **Mô hình tổ chức quản trị rút gọn của hợp tác xã bao gồm những gì?**
+
+**Ghi chú đối chiếu:** Đại hội thành viên, Giám đốc/Tổng giám đốc, Kiểm soát viên.
+
+Không thêm HĐQT/BKS vào mô hình rút gọn.
+
+</details>
+
+<details>
+<summary>rv-347 · Review liên quan</summary>
+
+10. **Thành viên chính thức của liên hiệp hợp tác xã là ai?**\
+    *Nguồn ghi câu này xuất hiện hai lần với cách hỏi khác nhau.*
+
+**Ghi chú đối chiếu:** Hợp tác xã.
+
+Review nói xuất hiện hai lần nhưng không chép câu thứ hai; giữ note nguyên văn, không tự tạo một bản chép thứ hai.
+
+</details>
+
+<details>
+<summary>rv-373 · Review liên quan</summary>
+
+14. **Mô hình quản trị rút gọn của hợp tác xã áp dụng cho loại hợp tác xã nào?**\
+    A. Nhỏ.\
+    B. Siêu nhỏ.\
+    C. Vừa.\
+    D. Lớn.
+
+**Ghi chú đối chiếu:** B. Siêu nhỏ.
+
+Nhỏ, vừa, lớn theo slide phải đầy đủ.
+
+</details>
+
+### Câu 137 · Nhận biết · Có trong slide
 
 HTX có thể có một hoặc nhiều người đại diện theo pháp luật và phải bảo đảm ít nhất một người cư trú tại Việt Nam.
 
@@ -8932,7 +9779,7 @@ Slide 101 không xác định luôn chỉ Chủ tịch HĐQT hay Giám đốc. �
 
 </details>
 
-### Câu 129 · Vận dụng · Có trong slide
+### Câu 138 · Vận dụng · Có trong slide
 
 Một hộ gia đình đủ điều kiện xin gia nhập HTX. Các thành viên hộ dự định mỗi người tự thực hiện quyền của hộ mà không cử đại diện. Cách xử lý phù hợp là gì?
 
@@ -9063,7 +9910,181 @@ Slide cho pháp nhân Việt Nam hoặc một số chủ thể không pháp nhâ
 
 </details>
 
-### Câu 130 · Nhận biết · Có trong slide
+### Câu 139 · Vận dụng · Có trong slide
+
+HTX có vốn điều lệ 10 tỷ. Thành viên chính thức Việt góp 2,8 tỷ. Ba thành viên liên kết góp vốn trong nước góp tổng 3,2 tỷ, mỗi người đều dưới 30% vốn điều lệ. Giả định không có nhóm đầu tư nước ngoài và các điều kiện khác đều đáp ứng. Phần nào vượt giới hạn?
+
+A. Không phần nào vượt vì từng người đều dưới 30%
+
+B. Cả hai vì toàn bộ mọi thành viên cộng lại không được vượt 30%
+
+C. Tổng vốn của nhóm liên kết góp vốn; phần của Việt chưa vượt trần cá nhân
+
+D. Chỉ phần của Việt vì thành viên chính thức không được góp quá 20%
+
+**Đáp án:** Tổng vốn của nhóm liên kết góp vốn; phần của Việt chưa vượt trần cá nhân
+
+**Phân tích:** Vẽ hai phép tính: 2,8/10 cho một thành viên chính thức; 3,2/10 cho toàn nhóm liên kết. Hai ngưỡng cùng số không đồng nghĩa cùng đơn vị kiểm tra.
+
+**Bẫy:** Không chuyển trần tổng nhóm thành trần từng người; không lấy tỷ lệ trong luật cũ khi đang ôn theo slide đã gửi.
+
+**Lý thuyết:** Phải phân biệt trần của mỗi thành viên chính thức với trần tổng phần vốn của tất cả thành viên liên kết góp vốn. Ở HTX cả hai dùng 30% nhưng đối tượng tính khác nhau.
+
+**Không phần nào vượt vì từng người đều dưới 30% — Sai:** Trần tổng nhóm tồn tại độc lập với tỷ lệ từng cá nhân.
+
+**Cả hai vì toàn bộ mọi thành viên cộng lại không được vượt 30% — Sai:** Không thể áp 30% cho tổng mọi thành viên; vốn điều lệ đương nhiên là tổng vốn theo cấu trúc của HTX.
+
+**Tổng vốn của nhóm liên kết góp vốn; phần của Việt chưa vượt trần cá nhân — Đúng:** Việt là 28%, dưới trần 30% một thành viên chính thức; nhóm liên kết là 32%, vượt trần tổng nhóm 30%.
+
+**Chỉ phần của Việt vì thành viên chính thức không được góp quá 20% — Sai:** Slide trong bộ học quy định 30%, không phải ngưỡng 20% của quy định cũ.
+
+**Chương 3, slide 104 · Nội dung trên slide**
+
+> - Góp vốn điều lệ HTX, liên hiệp hợp tác xã + Phần vốn góp của thành viên chính thức được thực hiện theo thỏa thuận và theo quy định của Luật này và Điều lệ về vốn góp tối thiểu và vốn góp tối đa. Vốn góp tối đa không quá 30% vốn điều lệ đối với hợp tác xã và không quá 40% vốn điều lệ đối với liên hiệp hợp tác xã. + Tổng phần vốn góp của tất cả thành viên liên kết góp vốn được thực hiện theo thỏa thuận và theo quy định của Điều lệ nhưng không quá 30% vốn điều lệ đối với hợp tác xã và không quá 40% vốn điều lệ đối với liên hiệp hợp tác xã. + Tổng phần vốn góp của tất cả thành viên là tổ chức kinh tế có vốn đầu tư nước ngoài, cá nhân là nhà đầu tư nước ngoài không quá 30% vốn điều lệ đối với hợp tác xã, liên hiệp hợp tác xã.
+
+<details>
+<summary>rv-047 · Review liên quan</summary>
+
+23. **Mức vốn góp tối đa của mỗi thành viên ở hợp tác xã.**
+
+**Ghi chú đối chiếu:** 30%
+
+Đối chiếu quy tắc và phạm vi trong phần lý thuyết, phân tích đề và căn cứ dưới đây. Câu luyện là tự biên soạn, không phải phục dựng chắc chắn phương án bị thiếu của đề thi.
+
+</details>
+
+### Câu 140 · Vận dụng · Có trong slide
+
+HTX có 20 thành viên chính thức và vốn điều lệ 10 tỷ. Có 6 thành viên là cá nhân nhà đầu tư nước ngoài hoặc tổ chức kinh tế có vốn đầu tư nước ngoài, tổng vốn của nhóm là 3 tỷ. HTX muốn nhận thêm một thành viên chính thức thuộc nhóm này, góp 500 triệu, nâng tổng số lên 21 và vốn lên 10,5 tỷ. Chỉ xét hai giới hạn số thành viên và tổng vốn của nhóm nước ngoài, phương án kết nạp này thế nào?
+
+A. Đạt cả hai vì 7/21 dưới 35% nên không cần xét vốn
+
+B. Đạt giới hạn số thành viên nhưng vượt giới hạn tổng vốn của nhóm
+
+C. Đạt cả hai vì mỗi người đều góp dưới 30%
+
+D. Vượt số thành viên nhưng đạt tổng vốn của nhóm
+
+**Đáp án:** Đạt giới hạn số thành viên nhưng vượt giới hạn tổng vốn của nhóm
+
+**Phân tích:** Bước 1: cập nhật số người 7/21. Bước 2: cập nhật tổng vốn 3,5/10,5. Bước 3: so từng kết quả với ngưỡng riêng; cùng tỷ lệ có thể cho hai kết luận khác nhau.
+
+**Bẫy:** Không giữ mẫu số cũ 20 người hoặc 10 tỷ khi đề đã thay đổi quy mô.
+
+**Lý thuyết:** Tổng số thành viên chính thức thuộc nhóm đầu tư nước ngoài phải dưới 35%; tổng vốn của nhóm này không quá 30% vốn điều lệ. Khi kết nạp và tăng vốn phải tính lại cả tử số và mẫu số.
+
+**Đạt cả hai vì 7/21 dưới 35% nên không cần xét vốn — Sai:** Đạt ngưỡng số người không miễn kiểm tra ngưỡng vốn.
+
+**Đạt giới hạn số thành viên nhưng vượt giới hạn tổng vốn của nhóm — Đúng:** Số thành viên là 7/21 khoảng 33,33%, dưới 35%. Tổng vốn là 3,5/10,5 khoảng 33,33%, vượt 30%.
+
+**Đạt cả hai vì mỗi người đều góp dưới 30% — Sai:** Trần nhóm xét tổng vốn nhóm, không chỉ vốn từng người.
+
+**Vượt số thành viên nhưng đạt tổng vốn của nhóm — Sai:** Hai tỷ lệ cùng bằng khoảng 33,33% nhưng ngưỡng khác nhau nên kết luận ngược là sai.
+
+**Chương 3, slide 96 · Nội dung trên slide**
+
+> Tổng số thành viên chính thức là tổ chức kinh tế có vốn đầu tư nước ngoài và cá nhân là nhà đầu tư nước ngoài phải chiếm tỷ lệ dưới 35% tổng số thành viên chính thức của hợp tác xã.
+
+**Chương 3, slide 104 · Nội dung trên slide**
+
+> - Góp vốn điều lệ HTX, liên hiệp hợp tác xã + Phần vốn góp của thành viên chính thức được thực hiện theo thỏa thuận và theo quy định của Luật này và Điều lệ về vốn góp tối thiểu và vốn góp tối đa. Vốn góp tối đa không quá 30% vốn điều lệ đối với hợp tác xã và không quá 40% vốn điều lệ đối với liên hiệp hợp tác xã. + Tổng phần vốn góp của tất cả thành viên liên kết góp vốn được thực hiện theo thỏa thuận và theo quy định của Điều lệ nhưng không quá 30% vốn điều lệ đối với hợp tác xã và không quá 40% vốn điều lệ đối với liên hiệp hợp tác xã. + Tổng phần vốn góp của tất cả thành viên là tổ chức kinh tế có vốn đầu tư nước ngoài, cá nhân là nhà đầu tư nước ngoài không quá 30% vốn điều lệ đối với hợp tác xã, liên hiệp hợp tác xã.
+
+<details>
+<summary>rv-047 · Review liên quan</summary>
+
+23. **Mức vốn góp tối đa của mỗi thành viên ở hợp tác xã.**
+
+**Ghi chú đối chiếu:** 30%
+
+Đối chiếu quy tắc và phạm vi trong phần lý thuyết, phân tích đề và căn cứ dưới đây. Câu luyện là tự biên soạn, không phải phục dựng chắc chắn phương án bị thiếu của đề thi.
+
+</details>
+
+<details>
+<summary>rv-172 · Review liên quan</summary>
+
+10. Chủ thể nào không được trở thành thành viên của hợp tác xã? (Trắc nghiệm)
+
+**Ghi chú đối chiếu:** Thiếu phương án nên chưa xác định chủ thể bị loại.
+
+Slide 93–95 cho từng nhóm điều kiện. Pháp nhân Việt Nam khác pháp nhân nước ngoài, 16 tuổi có thể nhóm không góp vốn, nên không học lệnh cấm mọi thành viên dưới 18.
+
+</details>
+
+<details>
+<summary>rv-180 · Review liên quan</summary>
+
+6. **Doanh nghiệp tham gia hợp tác xã phải được thành lập và hoạt động tại Việt Nam – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Hướng đúng đối với doanh nghiệp là pháp nhân Việt Nam đủ điều kiện; cần dùng đúng khái niệm, không suy mọi doanh nghiệp đều có pháp nhân.
+
+Slide cho pháp nhân Việt Nam hoặc một số chủ thể không pháp nhân khác; DNTN không tự thuộc mục “pháp nhân Việt Nam”. Một pháp nhân Việt Nam có vốn nước ngoài không phải pháp nhân nước ngoài.
+
+</details>
+
+<details>
+<summary>rv-245 · Review liên quan</summary>
+
+6. **Doanh nghiệp tham gia hợp tác xã phải được thành lập và hoạt động tại Việt Nam – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Hướng đúng đối với doanh nghiệp là pháp nhân Việt Nam đủ điều kiện; cần dùng đúng khái niệm, không suy mọi doanh nghiệp đều có pháp nhân.
+
+Slide cho pháp nhân Việt Nam hoặc một số chủ thể không pháp nhân khác; DNTN không tự thuộc mục “pháp nhân Việt Nam”. Một pháp nhân Việt Nam có vốn nước ngoài không phải pháp nhân nước ngoài.
+
+</details>
+
+<details>
+<summary>rv-272 · Review liên quan</summary>
+
+18. **Chủ thể nào đủ điều kiện để trở thành thành viên chính thức của hợp tác xã?**\
+    A. Pháp nhân nước ngoài.\
+    B. Hợp tác xã.\
+    C. Pháp nhân Việt Nam.\
+    D. ...
+
+**Ghi chú đối chiếu:** B và C đều có thể: HTX là pháp nhân Việt Nam, pháp nhân Việt Nam có thể tham gia nếu đủ điều kiện.
+
+A pháp nhân nước ngoài không thuộc danh sách pháp nhân Việt Nam. D bị thiếu. Không ép chọn duy nhất C và phủ định HTX.
+
+</details>
+
+<details>
+<summary>rv-327 · Review liên quan</summary>
+
+20. **Thành viên hợp tác xã nào không có tư cách pháp nhân?**\
+    A. Tổ hợp tác.\
+    B. Hợp tác xã.\
+    C. Liên hiệp hợp tác xã.
+
+**Ghi chú đối chiếu:** A. Tổ hợp tác không có tư cách pháp nhân; HTX và liên hiệp HTX có.
+
+Tổ hợp tác có thể tham gia theo nhóm chủ thể và người đại diện; không pháp nhân không có nghĩa không được tham gia mọi quan hệ.
+
+</details>
+
+<details>
+<summary>rv-369 · Review liên quan</summary>
+
+10. **Tổ chức nước ngoài không được là thành viên của hợp tác xã – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Pháp nhân nước ngoài không thuộc danh sách pháp nhân Việt Nam để trực tiếp làm thành viên theo mục đó; không nhầm với pháp nhân Việt Nam có vốn nước ngoài.
+
+Cá nhân nước ngoài được tham gia theo điều kiện khác. Nguyên văn “tổ chức nước ngoài” có thể rộng hơn pháp nhân nên cần đúng loại chủ thể, không cấm mọi yếu tố nước ngoài trong HTX.
+
+</details>
+
+<details>
+<summary>rv-380 · Review liên quan</summary>
+
+6. **Doanh nghiệp tham gia hợp tác xã phải được thành lập và hoạt động tại Việt Nam – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Hướng đúng đối với doanh nghiệp là pháp nhân Việt Nam đủ điều kiện; cần dùng đúng khái niệm, không suy mọi doanh nghiệp đều có pháp nhân.
+
+Slide cho pháp nhân Việt Nam hoặc một số chủ thể không pháp nhân khác; DNTN không tự thuộc mục “pháp nhân Việt Nam”. Một pháp nhân Việt Nam có vốn nước ngoài không phải pháp nhân nước ngoài.
+
+</details>
+
+### Câu 141 · Nhận biết · Có trong slide
 
 Theo quy tắc vốn góp của HTX, một thành viên chính thức được góp tối đa bao nhiêu vốn điều lệ?
 
@@ -9106,7 +10127,7 @@ D. Không giới hạn
 
 </details>
 
-### Câu 131 · Thông hiểu · Có trong slide
+### Câu 142 · Thông hiểu · Có trong slide
 
 Một người muốn góp vào HTX một quyền tài sản định giá được nhưng không phải chủ sở hữu hợp pháp và cũng không có quyền sử dụng hợp pháp. Nhận định nào đúng?
 
@@ -9160,7 +10181,7 @@ Người góp phải có quyền sở hữu hoặc quyền sử dụng hợp ph�
 
 </details>
 
-### Câu 132 · Vận dụng · Có trong slide
+### Câu 143 · Vận dụng · Có trong slide
 
 Sau giảm vốn điều lệ, vốn một thành viên vượt trần tối đa. Biện pháp nào dưới đây phù hợp với bài giảng?
 
@@ -9203,7 +10224,7 @@ D. Giải thể ngay trong mọi trường hợp
 
 </details>
 
-### Câu 133 · Vận dụng · Có trong slide
+### Câu 144 · Vận dụng · Có trong slide
 
 HTX có vốn điều lệ 10 tỷ đồng. Tổng vốn của các thành viên thuộc nhóm đầu tư nước ngoài là 3,2 tỷ. Chỉ xét trần vốn của nhóm này, nhận định nào đúng?
 
@@ -9246,7 +10267,7 @@ D. Đạt vì nhóm này được góp 40%
 
 </details>
 
-### Câu 134 · Vận dụng · Có trong slide
+### Câu 145 · Vận dụng · Có trong slide
 
 HTX có vốn điều lệ 8 tỷ đồng. Ba thành viên liên kết góp vốn góp lần lượt 1 tỷ, 0,8 tỷ và 0,8 tỷ. Mỗi người đều dưới 30%. Tổng nhóm này có phù hợp trần vốn không?
 
@@ -9289,7 +10310,7 @@ D. Không, mọi thành viên liên kết bị cấm góp vốn
 
 </details>
 
-### Câu 135 · Thông hiểu · Có trong slide
+### Câu 146 · Thông hiểu · Có trong slide
 
 HTX được trả vốn cho thành viên để giảm vốn điều lệ ngay cả khi sau hoàn trả không thể thanh toán đủ nợ.
 
@@ -9324,7 +10345,7 @@ B. Sai
 
 </details>
 
-### Câu 136 · Nhận biết · Có trong slide
+### Câu 147 · Nhận biết · Có trong slide
 
 Phần vốn góp tối đa của một thành viên chính thức trong liên hiệp HTX không quá bao nhiêu vốn điều lệ?
 
@@ -9390,7 +10411,184 @@ Review nói xuất hiện hai lần nhưng không chép câu thứ hai; giữ no
 
 </details>
 
-### Câu 137 · Thông hiểu · Có trong slide
+### Câu 148 · Vận dụng · Có trong slide
+
+Điều lệ HTX quy định vốn tối thiểu 100 triệu. Dũng cam kết góp 500 triệu nhưng hết hạn mới góp 200 triệu. Một nghĩa vụ tài chính phát sinh trước ngày Dũng được cấp Giấy chứng nhận phần vốn góp. Dũng nói: “Tôi vẫn là thành viên và có quyền theo 200 triệu, nên trách nhiệm với nghĩa vụ này cũng chỉ xét 200 triệu”. Kết luận nào đúng?
+
+A. Dũng đúng toàn bộ vì quyền và trách nhiệm luôn chỉ có một căn cứ
+
+B. Dũng mất tư cách dù đã góp cao hơn mức tối thiểu
+
+C. Dũng có mọi quyền tương ứng đủ 500 triệu sau hạn dù chỉ góp 200 triệu
+
+D. Dũng đúng về quyền theo thực góp nhưng sai khi suy trách nhiệm với nghĩa vụ trước ngày cấp giấy cũng chỉ theo thực góp
+
+**Đáp án:** Dũng đúng về quyền theo thực góp nhưng sai khi suy trách nhiệm với nghĩa vụ trước ngày cấp giấy cũng chỉ theo thực góp
+
+**Phân tích:** Bước 1: so 200 với mức tối thiểu 100 để xác định tư cách. Bước 2: xác định quyền theo 200. Bước 3: đặt nghĩa vụ trước mốc cấp giấy để kiểm tra căn cứ trách nhiệm. Không dùng mốc đăng ký điều chỉnh vốn của công ty TNHH thay cho mốc đặc thù HTX.
+
+**Bẫy:** Hai chế định có hình thức câu gần giống nhau nhưng mốc thời gian khác nhau.
+
+**Lý thuyết:** Thành viên góp thiếu nhưng đạt tối thiểu có quyền theo thực góp; phải chịu trách nhiệm tương ứng tỷ lệ cam kết với nghĩa vụ phát sinh trước ngày cấp Giấy chứng nhận phần vốn góp theo quy định và Điều lệ.
+
+**Dũng đúng toàn bộ vì quyền và trách nhiệm luôn chỉ có một căn cứ — Sai:** Slide tách quyền sau hạn và trách nhiệm bảo vệ nghĩa vụ phát sinh trước mốc cấp giấy.
+
+**Dũng mất tư cách dù đã góp cao hơn mức tối thiểu — Sai:** Góp thiếu cam kết nhưng bằng hoặc cao hơn tối thiểu không tự dẫn đến chấm dứt tư cách trong quy tắc đang xét.
+
+**Dũng có mọi quyền tương ứng đủ 500 triệu sau hạn dù chỉ góp 200 triệu — Sai:** Sau hạn, quyền theo số đã góp, không phải toàn bộ cam kết chưa thực hiện.
+
+**Dũng đúng về quyền theo thực góp nhưng sai khi suy trách nhiệm với nghĩa vụ trước ngày cấp giấy cũng chỉ theo thực góp — Đúng:** 200 triệu đạt tối thiểu nên quyền theo thực góp; slide vẫn gắn trách nhiệm với tỷ lệ cam kết cho nghĩa vụ phát sinh trước ngày cấp Giấy chứng nhận phần vốn góp.
+
+**Chương 3, slide 105 · Nội dung trên slide**
+
+> Thời hạn, hình thức và mức góp vốn điều lệ của thành viên theo quy định của Điều lệ nhưng thời hạn phải góp đủ vốn chậm nhất là 06 tháng kể từ ngày hợp tác xã, liên hiệp hợp tác xã được cấp Giấy chứng nhận đăng ký hợp tác xã hoặc kể từ ngày được kết nạp, không kể thời gian vận chuyển, nhập khẩu tài sản góp vốn, thực hiện thủ tục hành chính để chuyển quyền sở hữu tài sản (nếu có). Trong thời hạn này, thành viên có các quyền, nghĩa vụ tương ứng với tỷ lệ phần vốn góp đã cam kết. Thành viên chỉ được góp vốn cho hợp tác xã, liên hiệp hợp tác xã bằng loại tài sản khác với tài sản đã cam kết nếu được sự tán thành của Hội đồng quản trị đối với tổ chức quản trị đầy đủ hoặc Đại hội thành viên đối với tổ chức quản trị rút gọn.
+
+**Chương 3, slide 106 · Nội dung trên slide**
+
+> Sau thời hạn quy định, thành viên chưa góp vốn hoặc chưa góp đủ phần vốn góp đã cam kết thì xử lý như sau: Thành viên chưa góp vốn theo cam kết hoặc góp vốn thấp hơn vốn góp tối thiểu quy định trong Điều lệ sẽ bị chấm dứt tư cách thành viên; Thành viên chưa góp đủ phần vốn góp đã cam kết nhưng có phần vốn góp bằng hoặc cao hơn vốn góp tối thiểu theo quy định của Điều lệ có quyền tương ứng với phần vốn góp đã góp theo quy định của Luật này và Điều lệ. Trong thời hạn 30 ngày kể từ ngày kết thúc thời hạn phải góp đủ phần vốn góp đã cam kết theo quy định, HTX, LHHTX phải đăng ký thay đổi vốn điều lệ bằng phần vốn đã góp theo quy định của Luật này, trừ trường hợp phần vốn góp còn thiếu đã được góp đủ trong thời hạn này. Thành viên chưa góp đủ phần vốn góp đã cam kết phải chịu trách nhiệm tương ứng với tỷ lệ phần vốn góp đã cam kết đối với nghĩa vụ tài chính phát sinh trong thời gian trước ngày được cấp Giấy chứng nhận phần vốn góp theo quy định của Luật này và Điều lệ.
+
+<details>
+<summary>rv-063 · Review liên quan</summary>
+
+4. **Trong thời hạn góp vốn, khoản nợ phát sinh từ hoạt động kinh doanh cần thanh toán thì phạm vi nghĩa vụ thanh toán của công ty trách nhiệm hữu hạn hai thành viên được xác định theo phần vốn nào?**
+
+**Ghi chú đối chiếu:** Phần vốn đã cam kết góp trong thời hạn góp vốn theo quy định.
+
+Phân biệt quyền/ nghĩa vụ trong hạn với quyền theo thực góp khi hết hạn; nợ phát sinh trước đăng ký điều chỉnh còn xét vốn cam kết.
+
+</details>
+
+<details>
+<summary>rv-078 · Review liên quan</summary>
+
+4. **Trong thời hạn góp vốn, khoản nợ phát sinh từ hoạt động kinh doanh cần thanh toán thì phạm vi nghĩa vụ thanh toán của công ty trách nhiệm hữu hạn hai thành viên được xác định theo phần vốn nào?**
+
+**Ghi chú đối chiếu:** Phần vốn đã cam kết góp trong thời hạn góp vốn theo quy định.
+
+Phân biệt quyền/ nghĩa vụ trong hạn với quyền theo thực góp khi hết hạn; nợ phát sinh trước đăng ký điều chỉnh còn xét vốn cam kết.
+
+</details>
+
+<details>
+<summary>rv-116 · Review liên quan</summary>
+
+5. Ông D cam kết góp 10 tỷ vào công ty. Thời hạn góp là 15/3/2020 nhưng sau đó ông D chỉ góp được 2 tỷ và công ty đã giảm Vốn điều lệ rồi. 30/6/2020 công ty mắc nợ. Hỏi quyền và nghĩa vụ của ông D trong phạm vi bao nhiêu?
+
+**Ghi chú đối chiếu:** 2 tỷ nếu là thành viên TNHH hai thành viên, vốn đã đăng ký điều chỉnh trước khoản nợ mới và không có vi phạm riêng.
+
+Review chỉ ghi “công ty”, không nêu loại hình hoặc ngày đăng ký cụ thể. Khoản nợ sau điều chỉnh theo vốn thực góp khác khoản nợ trước điều chỉnh vẫn xét cam kết 10 tỷ. Bài luyện nêu rõ giả định TNHH hai thành viên.
+
+</details>
+
+<details>
+<summary>rv-155 · Review liên quan</summary>
+
+7. **Chị A góp vốn vào hợp tác xã, đồng thời là người lãnh đạo trong hợp tác xã. Chị A là thành viên gì?**    &#x20;
+
+**Ghi chú đối chiếu:** Cần biết góp vốn và việc sử dụng dịch vụ/góp sức lao động, không chỉ nhãn “người lãnh đạo”.
+
+Chị A góp vốn và thực sự làm việc quản lý như góp sức lao động, đủ điều kiện kết nạp thì hướng thành viên chính thức. Jessica chỉ biết quốc tịch/vai trò chưa đủ chọn A–D; nếu không góp vốn mà lao động, cư trú hợp pháp thì liên kết không góp vốn. Nếu vốn đầu tư nước ngoài, kiểm tra GCN đăng ký đầu tư.
+
+</details>
+
+<details>
+<summary>rv-179 · Review liên quan</summary>
+
+5. **Ông A cam kết góp vốn 3,3 tỷ đồng, thời hạn góp vốn đến ngày 15/3/2022. Đến hạn nhưng ông A mới góp được 2 tỷ đồng. Ngày 10/4/2022, công ty đăng ký điều chỉnh vốn điều lệ. Có một khoản nợ phát sinh ngày 30/3/2022. Hỏi ông A phải chịu trách nhiệm trong phạm vi số vốn bao nhiêu?**
+
+**Ghi chú đối chiếu:** 3,3 tỷ theo phần cam kết nếu là thành viên TNHH hai thành viên và khoản nợ phát sinh trước đăng ký điều chỉnh 10/4.
+
+30/3 nằm sau hạn góp 15/3 nhưng trước điều chỉnh 10/4. Đây chính là bẫy: không chỉ xét thực góp 2 tỷ. Review không nói loại công ty rõ; bài luyện thêm TNHH hai thành viên.
+
+</details>
+
+<details>
+<summary>rv-199 · Review liên quan</summary>
+
+4. **Trong thời hạn góp vốn, khoản nợ phát sinh từ hoạt động kinh doanh cần thanh toán thì phạm vi nghĩa vụ thanh toán của công ty trách nhiệm hữu hạn hai thành viên được xác định theo phần vốn nào?**
+
+**Ghi chú đối chiếu:** Phần vốn đã cam kết góp trong thời hạn góp vốn theo quy định.
+
+Phân biệt quyền/ nghĩa vụ trong hạn với quyền theo thực góp khi hết hạn; nợ phát sinh trước đăng ký điều chỉnh còn xét vốn cam kết.
+
+</details>
+
+<details>
+<summary>rv-214 · Review liên quan</summary>
+
+4. **Ông D cam kết góp 10 tỷ đồng vào công ty. Thời hạn góp vốn là ngày 15/3/2020 nhưng sau đó ông D chỉ góp được 2 tỷ đồng và công ty đã giảm vốn điều lệ. Ngày 30/6/2020, công ty phát sinh khoản nợ. Hỏi quyền và nghĩa vụ của ông D được xác định trong phạm vi bao nhiêu?**
+
+**Ghi chú đối chiếu:** 2 tỷ nếu là thành viên TNHH hai thành viên, vốn đã đăng ký điều chỉnh trước khoản nợ mới và không có vi phạm riêng.
+
+Review chỉ ghi “công ty”, không nêu loại hình hoặc ngày đăng ký cụ thể. Khoản nợ sau điều chỉnh theo vốn thực góp khác khoản nợ trước điều chỉnh vẫn xét cam kết 10 tỷ. Bài luyện nêu rõ giả định TNHH hai thành viên.
+
+</details>
+
+<details>
+<summary>rv-244 · Review liên quan</summary>
+
+5. **Ông A cam kết góp vốn 3,3 tỷ đồng, thời hạn góp vốn đến ngày 15/3/2022. Đến hạn nhưng ông A mới góp được 2 tỷ đồng. Ngày 10/4/2022, công ty đăng ký điều chỉnh vốn điều lệ. Có một khoản nợ phát sinh ngày 30/3/2022. Hỏi ông A phải chịu trách nhiệm trong phạm vi số vốn bao nhiêu?**
+
+**Ghi chú đối chiếu:** 3,3 tỷ theo phần cam kết nếu là thành viên TNHH hai thành viên và khoản nợ phát sinh trước đăng ký điều chỉnh 10/4.
+
+30/3 nằm sau hạn góp 15/3 nhưng trước điều chỉnh 10/4. Đây chính là bẫy: không chỉ xét thực góp 2 tỷ. Review không nói loại công ty rõ; bài luyện thêm TNHH hai thành viên.
+
+</details>
+
+<details>
+<summary>rv-266 · Review liên quan</summary>
+
+12. **Chị A góp vốn 500 triệu đồng vào hợp tác xã và đồng thời là người lao động trong hợp tác xã. Chị A thuộc trường hợp nào sau đây?**\
+    A. Thành viên chính thức và phải đăng ký Giấy chứng nhận đầu tư.\
+    B. Thành viên liên kết góp vốn và không phải đăng ký đầu tư.\
+    C. Thành viên chính thức và phải có Giấy phép đầu tư.\
+    D. Thành viên góp vốn và phải có Giấy phép đầu tư.
+
+**Ghi chú đối chiếu:** Hướng thành viên chính thức nếu đủ điều kiện kết nạp; cả A–D review đều có chi tiết không phù hợp hoặc thiếu với công dân Việt Nam.
+
+A/C thêm giấy chứng nhận/giấy phép đầu tư không có căn cứ chỉ từ chị A. B nói chỉ liên kết góp vốn trong khi có lao động. D không phân loại đúng và thêm giấy phép. Bài luyện nêu đủ điều kiện, không yêu cầu giấy đầu tư cho cá nhân Việt Nam.
+
+</details>
+
+<details>
+<summary>rv-335 · Review liên quan</summary>
+
+28. **Chị Thanh góp 100 triệu đồng vốn góp và trực tiếp tham gia lao động tại hợp tác xã. Chị Thanh thuộc loại thành viên nào của hợp tác xã?**\
+    A. Thành viên chính thức.\
+    B. Thành viên liên kết góp vốn.\
+    C. Thành viên liên kết không góp vốn.\
+    D. Tất cả đáp án trên.
+
+**Ghi chú đối chiếu:** A. Thành viên chính thức nếu đủ điều kiện gia nhập.
+
+B chỉ góp vốn không lao động/dùng dịch vụ; C không góp vốn; D gộp ba nhóm khác nhau sai.
+
+</details>
+
+<details>
+<summary>rv-359 · Review liên quan</summary>
+
+22. **Các câu về thành viên góp vốn, thành viên không góp vốn và thành viên chính thức trong hợp tác xã.**\
+    *Nguồn ghi có khoảng 4 câu thuộc nhóm này.*
+
+**Ghi chú đối chiếu:** Review chỉ nêu khoảng 4 câu thuộc nhóm thành viên, không có từng câu nguyên văn.
+
+Bài luyện một tình huống rõ cho nhóm này; không tuyên bố có 4 câu đề thật đã phục dựng. Lý thuyết lời giải bao quát ba loại.
+
+</details>
+
+<details>
+<summary>rv-379 · Review liên quan</summary>
+
+5. **Ông A cam kết góp vốn 3,3 tỷ đồng, thời hạn góp vốn đến ngày 15/3/2022. Đến hạn nhưng ông A mới góp được 2 tỷ đồng. Ngày 10/4/2022, công ty đăng ký điều chỉnh vốn điều lệ. Có một khoản nợ phát sinh ngày 30/3/2022. Hỏi ông A phải chịu trách nhiệm trong phạm vi số vốn bao nhiêu?**
+
+**Ghi chú đối chiếu:** 3,3 tỷ theo phần cam kết nếu là thành viên TNHH hai thành viên và khoản nợ phát sinh trước đăng ký điều chỉnh 10/4.
+
+30/3 nằm sau hạn góp 15/3 nhưng trước điều chỉnh 10/4. Đây chính là bẫy: không chỉ xét thực góp 2 tỷ. Review không nói loại công ty rõ; bài luyện thêm TNHH hai thành viên.
+
+</details>
+
+### Câu 149 · Thông hiểu · Có trong slide
 
 Chị Thanh đủ điều kiện gia nhập HTX, góp vốn và trực tiếp lao động tại HTX. Chị thuộc nhóm nào?
 
@@ -9508,7 +10706,7 @@ Bài luyện một tình huống rõ cho nhóm này; không tuyên bố có 4 c�
 
 </details>
 
-### Câu 138 · Vận dụng · Có trong slide
+### Câu 150 · Vận dụng · Có trong slide
 
 Thành viên cam kết góp 500 triệu, Điều lệ HTX quy định tối thiểu 100 triệu. Hết hạn đã góp 200 triệu. Quyền của thành viên xác định theo căn cứ nào?
 
@@ -9615,7 +10813,156 @@ Bài luyện một tình huống rõ cho nhóm này; không tuyên bố có 4 c�
 
 </details>
 
-### Câu 139 · Vận dụng · Có trong slide
+### Câu 151 · Vận dụng · Có trong slide
+
+HTX đã kết nạp hợp lệ ba người thành niên: Lan góp vốn và trực tiếp lao động; Bình chỉ góp vốn, không lao động và không dùng dịch vụ; Chi chỉ dùng dịch vụ, không góp vốn. Thứ tự phân loại Lan – Bình – Chi nào đúng?
+
+A. Chính thức – liên kết góp vốn – liên kết không góp vốn
+
+B. Chính thức – chính thức – liên kết không góp vốn
+
+C. Liên kết góp vốn – liên kết không góp vốn – chính thức
+
+D. Cả ba đều là thành viên chính thức vì đều liên quan đến HTX
+
+**Đáp án:** Chính thức – liên kết góp vốn – liên kết không góp vốn
+
+**Phân tích:** Lập ba cột vốn – dịch vụ – lao động. Điền từng người rồi đối chiếu tổ hợp, không phân loại theo nghề nghiệp hoặc độ thân thiết với HTX.
+
+**Bẫy:** Đề đã cho kết nạp hợp lệ; không phải suy thêm điều kiện gia nhập còn thiếu.
+
+**Lý thuyết:** Chính thức: góp vốn và sử dụng sản phẩm/dịch vụ hoặc góp sức lao động. Liên kết góp vốn: chỉ góp vốn. Liên kết không góp vốn: sử dụng sản phẩm/dịch vụ và/hoặc góp sức lao động mà không góp vốn.
+
+**Chính thức – liên kết góp vốn – liên kết không góp vốn — Đúng:** Lan kết hợp góp vốn và lao động; Bình có riêng vốn; Chi có sử dụng dịch vụ mà không góp vốn. Ba cấu trúc khớp ba loại thành viên.
+
+**Chính thức – chính thức – liên kết không góp vốn — Sai:** Bình thiếu sử dụng dịch vụ hoặc lao động nên không thể chỉ dựa vào vốn để xếp chính thức.
+
+**Liên kết góp vốn – liên kết không góp vốn – chính thức — Sai:** Đảo ngược điều kiện vốn và hoạt động của cả ba người.
+
+**Cả ba đều là thành viên chính thức vì đều liên quan đến HTX — Sai:** Quan hệ với HTX không tự tạo cùng một loại tư cách thành viên.
+
+**Chương 3, slide 91 · Nội dung trên slide**
+
+> +Thành viên chính thức bao gồm: Thành viên góp vốn và sử dụng sản phẩm, dịch vụ của hợp tác xã, liên hiệp hợp tác xã; Thành viên góp vốn và góp sức lao động vào hợp tác xã, liên hiệp hợp tác xã; Thành viên góp vốn, sử dụng sản phẩm, dịch vụ và góp sức lao động vào hợp tác xã, liên hiệp hợp tác xã. + Thành viên liên kết góp vốn là thành viên chỉ góp vốn, không sử dụng sản phẩm, dịch vụ của hợp tác xã, liên hiệp hợp tác xã và không góp sức lao động vào hợp tác xã, liên hiệp hợp tác xã.
+
+**Chương 3, slide 92 · Nội dung trên slide**
+
+> +Thành viên liên kết không góp vốn bao gồm: Thành viên không góp vốn, chỉ sử dụng sản phẩm, dịch vụ của hợp tác xã, liên hiệp hợp tác xã; Thành viên không góp vốn, chỉ góp sức lao động vào hợp tác xã, liên hiệp hợp tác xã; Thành viên không góp vốn, chỉ sử dụng sản phẩm, dịch vụ của hợp tác xã, liên hiệp hợp tác xã và góp sức lao động vào hợp tác xã, liên hiệp hợp tác xã.
+
+**Chương 3, slide 93 · Nội dung trên slide**
+
+> * Điều kiện trở thành thành viên hợp tác xã - Thành viên + Thành viên chính thức, thành viên liên kết góp vốn của hợp tác xã bao gồm: Cá nhân là công dân Việt Nam từ đủ 18 tuổi trở lên, có năng lực hành vi dân sự đầy đủ; Cá nhân là nhà đầu tư nước ngoài có giấy chứng nhận đăng ký đầu tư theo quy định của PL về đầu tư; Hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân thành lập, hoạt động tại Việt Nam. Các thành viên của tổ chức này phải cử một người đại diện theo quy định của Bộ luật Dân sự để thực hiện quyền, nghĩa vụ của thành viên hợp tác xã; Pháp nhân Việt Nam.
+
+**Chương 3, slide 94 · Nội dung trên slide**
+
+> + Thành viên liên kết không góp vốn của hợp tác xã bao gồm: Cá nhân là công dân Việt Nam hoặc người nước ngoài cư trú hợp pháp tại Việt Nam, từ đủ 18 tuổi trở lên, có năng lực hành vi dân sự đầy đủ; Cá nhân là công dân Việt Nam từ đủ 15 tuổi trở lên đến dưới 18 tuổi, không bị hạn chế năng lực hành vi dân sự, không bị mất năng lực hành vi dân sự, không có khó khăn trong nhận thức, làm chủ hành vi; khi tham gia các giao dịch dân sự, lao động thì phải đáp ứng các điều kiện theo quy định của pháp luật; Hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân thành lập, hoạt động tại Việt Nam. Các thành viên của tổ chức này phải cử một người đại diện theo quy định của Bộ luật Dân sự để thực hiện quyền, nghĩa vụ của thành viên hợp tác xã; Pháp nhân Việt Nam.
+
+<details>
+<summary>rv-144 · Review liên quan</summary>
+
+6. **Jessica là người nước ngoài tham gia hợp tác xã với vai trò người lãnh đạo. Ý nào sau đây đúng?**\
+   A. Thành viên không góp vốn, không cần có Giấy chứng nhận đầu tư.\
+   B. Thành viên, có Giấy chứng nhận đầu tư.\
+   C. Thành viên góp vốn, không có Giấy chứng nhận đầu tư.\
+   D. Thành viên chính thức, có Giấy chứng nhận đầu tư.
+
+**Ghi chú đối chiếu:** Cần biết góp vốn và việc sử dụng dịch vụ/góp sức lao động, không chỉ nhãn “người lãnh đạo”.
+
+Chị A góp vốn và thực sự làm việc quản lý như góp sức lao động, đủ điều kiện kết nạp thì hướng thành viên chính thức. Jessica chỉ biết quốc tịch/vai trò chưa đủ chọn A–D; nếu không góp vốn mà lao động, cư trú hợp pháp thì liên kết không góp vốn. Nếu vốn đầu tư nước ngoài, kiểm tra GCN đăng ký đầu tư.
+
+</details>
+
+<details>
+<summary>rv-147 · Review liên quan</summary>
+
+3. **Muốn trở thành thành viên chính thức của hợp tác xã, chỉ cần góp vốn – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Sai. Góp vốn chưa đủ cho tư cách chính thức.
+
+Còn sử dụng sản phẩm/dịch vụ hoặc góp sức lao động, tự nguyện và điều kiện luật/điều lệ.
+
+</details>
+
+<details>
+<summary>rv-155 · Review liên quan</summary>
+
+7. **Chị A góp vốn vào hợp tác xã, đồng thời là người lãnh đạo trong hợp tác xã. Chị A là thành viên gì?**    &#x20;
+
+**Ghi chú đối chiếu:** Cần biết góp vốn và việc sử dụng dịch vụ/góp sức lao động, không chỉ nhãn “người lãnh đạo”.
+
+Chị A góp vốn và thực sự làm việc quản lý như góp sức lao động, đủ điều kiện kết nạp thì hướng thành viên chính thức. Jessica chỉ biết quốc tịch/vai trò chưa đủ chọn A–D; nếu không góp vốn mà lao động, cư trú hợp pháp thì liên kết không góp vốn. Nếu vốn đầu tư nước ngoài, kiểm tra GCN đăng ký đầu tư.
+
+</details>
+
+<details>
+<summary>rv-265 · Review liên quan</summary>
+
+11. **Để trở thành thành viên của hợp tác xã thì chỉ cần góp vốn – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Sai. Góp vốn chưa đủ cho tư cách chính thức.
+
+Còn sử dụng sản phẩm/dịch vụ hoặc góp sức lao động, tự nguyện và điều kiện luật/điều lệ.
+
+</details>
+
+<details>
+<summary>rv-266 · Review liên quan</summary>
+
+12. **Chị A góp vốn 500 triệu đồng vào hợp tác xã và đồng thời là người lao động trong hợp tác xã. Chị A thuộc trường hợp nào sau đây?**\
+    A. Thành viên chính thức và phải đăng ký Giấy chứng nhận đầu tư.\
+    B. Thành viên liên kết góp vốn và không phải đăng ký đầu tư.\
+    C. Thành viên chính thức và phải có Giấy phép đầu tư.\
+    D. Thành viên góp vốn và phải có Giấy phép đầu tư.
+
+**Ghi chú đối chiếu:** Hướng thành viên chính thức nếu đủ điều kiện kết nạp; cả A–D review đều có chi tiết không phù hợp hoặc thiếu với công dân Việt Nam.
+
+A/C thêm giấy chứng nhận/giấy phép đầu tư không có căn cứ chỉ từ chị A. B nói chỉ liên kết góp vốn trong khi có lao động. D không phân loại đúng và thêm giấy phép. Bài luyện nêu đủ điều kiện, không yêu cầu giấy đầu tư cho cá nhân Việt Nam.
+
+</details>
+
+<details>
+<summary>rv-335 · Review liên quan</summary>
+
+28. **Chị Thanh góp 100 triệu đồng vốn góp và trực tiếp tham gia lao động tại hợp tác xã. Chị Thanh thuộc loại thành viên nào của hợp tác xã?**\
+    A. Thành viên chính thức.\
+    B. Thành viên liên kết góp vốn.\
+    C. Thành viên liên kết không góp vốn.\
+    D. Tất cả đáp án trên.
+
+**Ghi chú đối chiếu:** A. Thành viên chính thức nếu đủ điều kiện gia nhập.
+
+B chỉ góp vốn không lao động/dùng dịch vụ; C không góp vốn; D gộp ba nhóm khác nhau sai.
+
+</details>
+
+<details>
+<summary>rv-359 · Review liên quan</summary>
+
+22. **Các câu về thành viên góp vốn, thành viên không góp vốn và thành viên chính thức trong hợp tác xã.**\
+    *Nguồn ghi có khoảng 4 câu thuộc nhóm này.*
+
+**Ghi chú đối chiếu:** Review chỉ nêu khoảng 4 câu thuộc nhóm thành viên, không có từng câu nguyên văn.
+
+Bài luyện một tình huống rõ cho nhóm này; không tuyên bố có 4 câu đề thật đã phục dựng. Lý thuyết lời giải bao quát ba loại.
+
+</details>
+
+<details>
+<summary>rv-398 · Review liên quan</summary>
+
+5) **Jessica, 30 tuổi, có năng lực hành vi dân sự đầy đủ, mang quốc tịch Anh, tham gia Hợp tác xã Thăng Long có trụ sở tại Hà Nội bằng cách trở thành người lao động trực tiếp tại Hợp tác xã Thăng Long. Chọn đáp án đúng về Jessica:**\
+   A. Là thành viên chính thức và không phải có Giấy chứng nhận đăng ký đầu tư.\
+   B. Là thành viên liên kết không góp vốn và không phải có Giấy chứng nhận đăng ký đầu tư.\
+   C. Là thành viên liên kết góp vốn và phải có Giấy chứng nhận đăng ký đầu tư.\
+   D. Là thành viên và phải có Giấy chứng nhận đăng ký đầu tư.
+
+**Ghi chú đối chiếu:** B nếu Jessica không góp vốn, cư trú hợp pháp và đủ điều kiện kết nạp.
+
+A chính thức thiếu góp vốn; C liên kết góp vốn trái dữ kiện; D đòi GCN đầu tư cho nhóm không góp vốn là sai. Review chưa nêu cư trú hợp pháp rõ nên phải ghi điều kiện bổ sung, không coi chỉ quốc tịch/30 tuổi đủ.
+
+</details>
+
+### Câu 152 · Vận dụng · Có trong slide
 
 Jessica 30 tuổi, quốc tịch Anh, cư trú hợp pháp tại Việt Nam, đủ năng lực và điều kiện kết nạp; chỉ lao động trực tiếp, không góp vốn. Chị thuộc nhóm nào?
 
@@ -9685,7 +11032,7 @@ A chính thức thiếu góp vốn; C liên kết góp vốn trái dữ kiện; 
 
 </details>
 
-### Câu 140 · Vận dụng · Có trong slide
+### Câu 153 · Vận dụng · Có trong slide
 
 Một HTX có 20 thành viên chính thức. Trong đó 7 người thuộc nhóm cá nhân là nhà đầu tư nước ngoài hoặc tổ chức kinh tế có vốn đầu tư nước ngoài. Tỷ lệ này đáp ứng giới hạn số thành viên không?
 
@@ -9831,7 +11178,7 @@ A chính thức thiếu góp vốn; C liên kết góp vốn trái dữ kiện; 
 
 </details>
 
-### Câu 141 · Thông hiểu · Bổ sung từ leak/review
+### Câu 154 · Thông hiểu · Bổ sung từ leak/review
 
 Thành viên liên kết góp vốn đương nhiên có quyền biểu quyết tại Đại hội thành viên như thành viên chính thức.
 
@@ -9877,7 +11224,7 @@ Góp vốn liên kết không tự tạo quyền biểu quyết.
 
 </details>
 
-### Câu 142 · Thông hiểu · Có trong slide
+### Câu 155 · Thông hiểu · Có trong slide
 
 Chỉ cần nộp tiền góp vốn là đương nhiên trở thành thành viên chính thức HTX.
 
@@ -9939,7 +11286,7 @@ Bài luyện một tình huống rõ cho nhóm này; không tuyên bố có 4 c�
 
 </details>
 
-### Câu 143 · Vận dụng · Có trong slide
+### Câu 156 · Vận dụng · Có trong slide
 
 Điều lệ HTX quy định vốn góp tối thiểu 100 triệu. Hết hạn, người cam kết góp 300 triệu chỉ góp 80 triệu. Tư cách thành viên được xử lý thế nào?
 
@@ -9993,7 +11340,7 @@ Còn sử dụng sản phẩm/dịch vụ hoặc góp sức lao động, tự ng
 
 </details>
 
-### Câu 144 · Thông hiểu · Có trong slide
+### Câu 157 · Thông hiểu · Có trong slide
 
 Không nộp phí thành viên theo Điều lệ là một căn cứ chấm dứt tư cách thành viên liên kết không góp vốn.
 
@@ -10039,7 +11386,7 @@ Còn sử dụng sản phẩm/dịch vụ hoặc góp sức lao động, tự ng
 
 </details>
 
-### Câu 145 · Thông hiểu · Có trong slide
+### Câu 158 · Thông hiểu · Có trong slide
 
 Thành viên đã được kết nạp, không góp vốn và chỉ sử dụng dịch vụ của HTX vẫn có thể là thành viên liên kết không góp vốn.
 
@@ -10085,7 +11432,7 @@ Còn sử dụng sản phẩm/dịch vụ hoặc góp sức lao động, tự ng
 
 </details>
 
-### Câu 146 · Nhận biết · Có trong slide
+### Câu 159 · Nhận biết · Có trong slide
 
 Thời hạn góp đủ vốn điều lệ vào HTX theo Điều lệ bị giới hạn tối đa thế nào?
 
@@ -10181,7 +11528,7 @@ Bài luyện một tình huống rõ cho nhóm này; không tuyên bố có 4 c�
 
 </details>
 
-### Câu 147 · Thông hiểu · Có trong slide
+### Câu 160 · Thông hiểu · Có trong slide
 
 Thành viên HTX A có thể đồng thời là thành viên HTX B nếu đáp ứng điều kiện và Điều lệ không quy định khác.
 
@@ -10258,7 +11605,7 @@ Bài luyện một tình huống rõ cho nhóm này; không tuyên bố có 4 c�
 
 </details>
 
-### Câu 148 · Vận dụng · Có trong slide
+### Câu 161 · Vận dụng · Có trong slide
 
 HTX đã kết nạp doanh nghiệp D theo đúng điều kiện. D góp vốn, thường xuyên mua dịch vụ vận tải của HTX, không góp sức lao động. D là thành viên nào?
 
@@ -10347,7 +11694,134 @@ Bài luyện một tình huống rõ cho nhóm này; không tuyên bố có 4 c�
 
 </details>
 
-### Câu 149 · Thông hiểu · Có trong slide
+### Câu 162 · Vận dụng · Có trong slide
+
+Hùng mượn xe tải của anh trai để vận chuyển hàng. Hùng không sở hữu xe, không có quyền tài sản hợp pháp nào cho phép định đoạt hoặc góp quyền sử dụng vào HTX, và chủ xe chưa đồng ý. Hùng đề nghị ghi toàn bộ chiếc xe thành vốn góp của mình. Cách xử lý đúng là gì?
+
+A. Chưa đủ căn cứ góp vốn bằng xe; phải xác định quyền hợp pháp đối với tài sản hoặc quyền được góp
+
+B. Được góp vì Hùng đang thực tế giữ xe
+
+C. Được góp nếu xe được định giá bằng đồng Việt Nam, không cần xét quyền
+
+D. HTX không được nhận góp vốn bằng phương tiện vận tải trong mọi trường hợp
+
+**Đáp án:** Chưa đủ căn cứ góp vốn bằng xe; phải xác định quyền hợp pháp đối với tài sản hoặc quyền được góp
+
+**Phân tích:** Bước 1: xác định tài sản có thuộc loại nhận góp được không. Bước 2: xác định Hùng có quyền gì. Bước 3: chỉ khi đúng quyền mới xét giá trị và thủ tục; không bắt đầu bằng việc định giá chiếc xe.
+
+**Bẫy:** Có tài sản trong tay khác với có quyền dùng nó làm vốn góp.
+
+**Lý thuyết:** Tài sản góp vốn có thể là tài sản hoặc quyền định giá được bằng đồng Việt Nam; người góp phải có quyền hợp pháp tương ứng. Với xe, đất và tài sản khác có thể góp tài sản hoặc thỏa thuận quyền khác khi đủ điều kiện.
+
+**Chưa đủ căn cứ góp vốn bằng xe; phải xác định quyền hợp pháp đối với tài sản hoặc quyền được góp — Đúng:** Slide yêu cầu chủ sở hữu hợp pháp hoặc người có quyền sử dụng quyền tài sản, quyền khác hợp pháp. Đề đã loại việc Hùng có quyền được góp.
+
+**Được góp vì Hùng đang thực tế giữ xe — Sai:** Chiếm giữ thực tế theo hợp đồng mượn không tự chuyển quyền sở hữu hoặc quyền góp vốn.
+
+**Được góp nếu xe được định giá bằng đồng Việt Nam, không cần xét quyền — Sai:** Định giá được chỉ là điều kiện về loại tài sản; không thay thế điều kiện về người có quyền góp.
+
+**HTX không được nhận góp vốn bằng phương tiện vận tải trong mọi trường hợp — Sai:** Slide nêu phương tiện vận tải có thể được góp hoặc thỏa thuận quyền khác theo pháp luật.
+
+**Chương 3, slide 103 · Nội dung trên slide**
+
+> * Tài sản, tài chính của HTX, LHHTX - Tài sản góp vốn là Đồng Việt Nam, ngoại tệ tự do chuyển đổi, vàng, quyền sử dụng đất, quyền sở hữu trí tuệ, công nghệ, bí quyết kỹ thuật, tài sản khác, quyền khác định giá được bằng Đồng Việt Nam. Chỉ cá nhân, tổ chức là chủ sở hữu hợp pháp hoặc có quyền sử dụng quyền tài sản hợp pháp, quyền khác quy định tại khoản 1 Điều này có quyền góp vốn theo quy định của pháp luật. Đối với tài sản là quyền sử dụng đất, phương tiện vận tải, tài sản khác thì cá nhân, tổ chức có thể lựa chọn góp vốn bằng tài sản đó hoặc thỏa thuận cho phép hợp tác xã, liên hiệp hợp tác xã được hưởng quyền khác đối với tài sản đó theo quy định của pháp luật về đất đai và pháp luật về dân sự.
+
+<details>
+<summary>rv-172 · Review liên quan</summary>
+
+10. Chủ thể nào không được trở thành thành viên của hợp tác xã? (Trắc nghiệm)
+
+**Ghi chú đối chiếu:** Thiếu phương án nên chưa xác định chủ thể bị loại.
+
+Slide 93–95 cho từng nhóm điều kiện. Pháp nhân Việt Nam khác pháp nhân nước ngoài, 16 tuổi có thể nhóm không góp vốn, nên không học lệnh cấm mọi thành viên dưới 18.
+
+</details>
+
+<details>
+<summary>rv-180 · Review liên quan</summary>
+
+6. **Doanh nghiệp tham gia hợp tác xã phải được thành lập và hoạt động tại Việt Nam – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Hướng đúng đối với doanh nghiệp là pháp nhân Việt Nam đủ điều kiện; cần dùng đúng khái niệm, không suy mọi doanh nghiệp đều có pháp nhân.
+
+Slide cho pháp nhân Việt Nam hoặc một số chủ thể không pháp nhân khác; DNTN không tự thuộc mục “pháp nhân Việt Nam”. Một pháp nhân Việt Nam có vốn nước ngoài không phải pháp nhân nước ngoài.
+
+</details>
+
+<details>
+<summary>rv-245 · Review liên quan</summary>
+
+6. **Doanh nghiệp tham gia hợp tác xã phải được thành lập và hoạt động tại Việt Nam – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Hướng đúng đối với doanh nghiệp là pháp nhân Việt Nam đủ điều kiện; cần dùng đúng khái niệm, không suy mọi doanh nghiệp đều có pháp nhân.
+
+Slide cho pháp nhân Việt Nam hoặc một số chủ thể không pháp nhân khác; DNTN không tự thuộc mục “pháp nhân Việt Nam”. Một pháp nhân Việt Nam có vốn nước ngoài không phải pháp nhân nước ngoài.
+
+</details>
+
+<details>
+<summary>rv-272 · Review liên quan</summary>
+
+18. **Chủ thể nào đủ điều kiện để trở thành thành viên chính thức của hợp tác xã?**\
+    A. Pháp nhân nước ngoài.\
+    B. Hợp tác xã.\
+    C. Pháp nhân Việt Nam.\
+    D. ...
+
+**Ghi chú đối chiếu:** B và C đều có thể: HTX là pháp nhân Việt Nam, pháp nhân Việt Nam có thể tham gia nếu đủ điều kiện.
+
+A pháp nhân nước ngoài không thuộc danh sách pháp nhân Việt Nam. D bị thiếu. Không ép chọn duy nhất C và phủ định HTX.
+
+</details>
+
+<details>
+<summary>rv-327 · Review liên quan</summary>
+
+20. **Thành viên hợp tác xã nào không có tư cách pháp nhân?**\
+    A. Tổ hợp tác.\
+    B. Hợp tác xã.\
+    C. Liên hiệp hợp tác xã.
+
+**Ghi chú đối chiếu:** A. Tổ hợp tác không có tư cách pháp nhân; HTX và liên hiệp HTX có.
+
+Tổ hợp tác có thể tham gia theo nhóm chủ thể và người đại diện; không pháp nhân không có nghĩa không được tham gia mọi quan hệ.
+
+</details>
+
+<details>
+<summary>rv-348 · Review liên quan</summary>
+
+11. **Tài sản góp vốn vào doanh nghiệp bao gồm những loại tài sản nào?**
+
+**Ghi chú đối chiếu:** Tiền Việt Nam, ngoại tệ tự do chuyển đổi, vàng, quyền sử dụng đất, quyền sở hữu trí tuệ, công nghệ/bí quyết kỹ thuật và tài sản khác định giá được bằng VND theo luật.
+
+Người góp phải có quyền sở hữu hoặc quyền sử dụng hợp pháp; tài sản cần chuyển quyền khi luật yêu cầu. Câu luyện cũ về thanh toán cổ phần/trái phiếu là vận dụng liên quan, không thay thuật ngữ góp vốn trong trích review.
+
+</details>
+
+<details>
+<summary>rv-369 · Review liên quan</summary>
+
+10. **Tổ chức nước ngoài không được là thành viên của hợp tác xã – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Pháp nhân nước ngoài không thuộc danh sách pháp nhân Việt Nam để trực tiếp làm thành viên theo mục đó; không nhầm với pháp nhân Việt Nam có vốn nước ngoài.
+
+Cá nhân nước ngoài được tham gia theo điều kiện khác. Nguyên văn “tổ chức nước ngoài” có thể rộng hơn pháp nhân nên cần đúng loại chủ thể, không cấm mọi yếu tố nước ngoài trong HTX.
+
+</details>
+
+<details>
+<summary>rv-380 · Review liên quan</summary>
+
+6. **Doanh nghiệp tham gia hợp tác xã phải được thành lập và hoạt động tại Việt Nam – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Hướng đúng đối với doanh nghiệp là pháp nhân Việt Nam đủ điều kiện; cần dùng đúng khái niệm, không suy mọi doanh nghiệp đều có pháp nhân.
+
+Slide cho pháp nhân Việt Nam hoặc một số chủ thể không pháp nhân khác; DNTN không tự thuộc mục “pháp nhân Việt Nam”. Một pháp nhân Việt Nam có vốn nước ngoài không phải pháp nhân nước ngoài.
+
+</details>
+
+### Câu 163 · Thông hiểu · Có trong slide
 
 Pháp nhân Việt Nam đáp ứng điều kiện tự nguyện, vốn góp và điều lệ có thể là thành viên chính thức của HTX.
 
@@ -10459,7 +11933,7 @@ Slide cho pháp nhân Việt Nam hoặc một số chủ thể không pháp nhâ
 
 </details>
 
-### Câu 150 · Thông hiểu · Có trong slide
+### Câu 164 · Thông hiểu · Có trong slide
 
 Chủ hộ kinh doanh chỉ chịu trách nhiệm đến số vốn đã kê khai đăng ký.
 
@@ -10520,7 +11994,7 @@ Không có pháp nhân, một hộ đăng ký không có nghĩa chỉ một đ�
 
 </details>
 
-### Câu 151 · Nhận biết · Có trong slide
+### Câu 165 · Nhận biết · Có trong slide
 
 Ai có thể đứng tên thành lập hộ kinh doanh khi đáp ứng điều kiện pháp luật?
 
@@ -10608,7 +12082,7 @@ Chủ DNTN không được đồng thời chủ HKD theo slide; không nhầm đ
 
 </details>
 
-### Câu 152 · Vận dụng · Có trong slide
+### Câu 166 · Vận dụng · Có trong slide
 
 Ba thành viên hộ gia đình đăng ký hộ kinh doanh. Việc lựa chọn người đại diện được thực hiện thế nào?
 
@@ -10684,7 +12158,7 @@ Chủ DNTN không được đồng thời chủ HKD theo slide; không nhầm đ
 
 </details>
 
-### Câu 153 · Vận dụng · Có trong slide
+### Câu 167 · Vận dụng · Có trong slide
 
 Liên hiệp HTX có 9 thành viên được lựa chọn tổ chức quản trị thế nào theo bài giảng?
 
@@ -10776,7 +12250,7 @@ Nhỏ, vừa, lớn theo slide phải đầy đủ.
 
 </details>
 
-### Câu 154 · Nhận biết · Bổ sung từ leak/review
+### Câu 168 · Nhận biết · Bổ sung từ leak/review
 
 Thành viên chính thức của liên hiệp HTX là chủ thể nào?
 
@@ -10835,7 +12309,7 @@ Review nói xuất hiện hai lần nhưng không chép câu thứ hai; giữ no
 
 </details>
 
-### Câu 155 · Nhận biết · Có trong slide
+### Câu 169 · Nhận biết · Có trong slide
 
 HTX nào có thể chọn mô hình quản trị rút gọn?
 
@@ -10908,7 +12382,7 @@ Nhỏ, vừa, lớn theo slide phải đầy đủ.
 
 </details>
 
-### Câu 156 · Vận dụng · Có trong slide
+### Câu 170 · Vận dụng · Có trong slide
 
 HTX đang quản trị rút gọn. Thành viên muốn thay máy móc đã cam kết góp bằng tiền. Chủ thể nào phải tán thành việc thay loại tài sản?
 
@@ -10977,7 +12451,7 @@ Nhỏ, vừa, lớn theo slide phải đầy đủ.
 
 </details>
 
-### Câu 157 · Vận dụng · Có trong slide
+### Câu 171 · Vận dụng · Có trong slide
 
 HTX siêu nhỏ đang quản trị rút gọn phát triển thành HTX quy mô nhỏ. Cần thực hiện điều gì?
 
@@ -11065,7 +12539,7 @@ Nhỏ, vừa, lớn theo slide phải đầy đủ.
 
 </details>
 
-### Câu 158 · Thông hiểu · Có trong slide
+### Câu 172 · Thông hiểu · Có trong slide
 
 HTX quy mô nhỏ, vừa và lớn đều phải tổ chức theo mô hình quản trị đầy đủ.
 
@@ -11108,7 +12582,7 @@ Siêu nhỏ là nhóm có thể lựa chọn.
 
 </details>
 
-### Câu 159 · Thông hiểu · Có trong slide
+### Câu 173 · Thông hiểu · Có trong slide
 
 Một hộ kinh doanh chỉ được hoạt động tại đúng một địa điểm trên toàn quốc.
 
@@ -11143,7 +12617,7 @@ Một hộ đăng ký toàn quốc khác một điểm kinh doanh.
 
 </details>
 
-### Câu 160 · Thông hiểu · Có trong slide
+### Câu 174 · Thông hiểu · Có trong slide
 
 Với quyền sử dụng đất hoặc phương tiện vận tải, slide nêu lựa chọn nào khi đưa tài sản vào hoạt động HTX?
 
@@ -11186,7 +12660,7 @@ Người góp phải có quyền sở hữu hoặc quyền sử dụng hợp ph�
 
 </details>
 
-### Câu 161 · Vận dụng · Có trong slide
+### Câu 175 · Vận dụng · Có trong slide
 
 Một người được kết nạp vào HTX chỉ góp vốn, không dùng dịch vụ và không lao động. Người đó là thành viên gì?
 
@@ -11238,7 +12712,7 @@ Bài luyện một tình huống rõ cho nhóm này; không tuyên bố có 4 c�
 
 </details>
 
-### Câu 162 · Thông hiểu · Có trong slide
+### Câu 176 · Thông hiểu · Có trong slide
 
 Thành viên liên kết góp vốn bị chấm dứt tư cách chỉ vì không sử dụng dịch vụ hoặc không góp sức lao động liên tục theo Điều lệ.
 
@@ -11268,7 +12742,7 @@ B. Sai
 
 ## 7. Giao kết, hiệu lực và nội dung hợp đồng
 
-### Câu 163 · Thông hiểu · Có trong slide
+### Câu 177 · Thông hiểu · Có trong slide
 
 Nhóm hợp đồng nào được phân loại dựa trên nội dung thỏa thuận?
 
@@ -11334,7 +12808,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 164 · Thông hiểu · Có trong slide
+### Câu 178 · Thông hiểu · Có trong slide
 
 Việc chia hợp đồng thành có yếu tố nước ngoài và không có yếu tố nước ngoài dựa trên tiêu chí nào?
 
@@ -11400,7 +12874,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 165 · Vận dụng · Có trong slide
+### Câu 179 · Vận dụng · Có trong slide
 
 Thông điệp dữ liệu đáp ứng pháp luật giao dịch điện tử. Có bị bác chỉ vì không in ra giấy?
 
@@ -11466,7 +12940,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 166 · Thông hiểu · Có trong slide
+### Câu 180 · Thông hiểu · Có trong slide
 
 Hai bên gặp nhau đàm phán rồi thống nhất nội dung hợp đồng. Đây là phương thức giao kết nào?
 
@@ -11532,7 +13006,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 167 · Nhận biết · Có trong slide
+### Câu 181 · Nhận biết · Có trong slide
 
 Thời điểm giao kết từ xa theo quy tắc bên đề nghị nhận chấp nhận là?
 
@@ -11598,7 +13072,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 168 · Thông hiểu · Có trong slide
+### Câu 182 · Thông hiểu · Có trong slide
 
 Khi nào việc tuân thủ hình thức bắt buộc được đặt ra như một điều kiện của hợp đồng?
 
@@ -11668,7 +13142,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 169 · Thông hiểu · Có trong slide
+### Câu 183 · Thông hiểu · Có trong slide
 
 Không có thỏa thuận coi im lặng là chấp nhận, nhưng bên đề nghị chỉ viện dẫn việc bên kia không trả lời để khẳng định đã giao kết hợp đồng.
 
@@ -11748,7 +13222,7 @@ Chiều ngược “mọi thỏa thuận đều hợp đồng” sai.
 
 </details>
 
-### Câu 170 · Vận dụng · Có trong slide
+### Câu 184 · Vận dụng · Có trong slide
 
 Hai bên giao kết bằng lời nói và đã thống nhất nội dung. Họ có thể chứng minh việc thỏa thuận bằng cách nào theo bài giảng?
 
@@ -11814,7 +13288,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 171 · Vận dụng · Có trong slide
+### Câu 185 · Vận dụng · Có trong slide
 
 Hai bên bình đẳng và tự nguyện ký thỏa thuận làm xâm phạm lợi ích công cộng. Lập luận “tự do hợp đồng nên luôn được công nhận” sai ở đâu?
 
@@ -11939,7 +13413,7 @@ Quy tắc: năng lực phù hợp, tự nguyện, mục đích/nội dung hợp 
 
 </details>
 
-### Câu 172 · Nhận biết · Có trong slide
+### Câu 186 · Nhận biết · Có trong slide
 
 Theo khái niệm hợp đồng mua bán hàng hóa, hai bên thỏa thuận trao đổi những gì?
 
@@ -11997,7 +13471,7 @@ Con người không phải hàng hóa/đối tượng được mua bán. Nhà, �
 
 </details>
 
-### Câu 173 · Nhận biết · Có trong slide
+### Câu 187 · Nhận biết · Có trong slide
 
 Nhóm điều kiện có hiệu lực cơ bản nào đúng?
 
@@ -12062,7 +13536,7 @@ Quy tắc: năng lực phù hợp, tự nguyện, mục đích/nội dung hợp 
 
 </details>
 
-### Câu 174 · Thông hiểu · Có trong slide
+### Câu 188 · Thông hiểu · Có trong slide
 
 Các điều khoản của hợp đồng được chia thành ba nhóm cơ bản nào?
 
@@ -12130,7 +13604,7 @@ Chủ yếu cần để hình thành hợp đồng; thường lệ được phá
 
 </details>
 
-### Câu 175 · Nhận biết · Có trong slide
+### Câu 189 · Nhận biết · Có trong slide
 
 Điều khoản chủ yếu có vai trò gì đối với việc hình thành hợp đồng?
 
@@ -12198,7 +13672,7 @@ Chủ yếu cần để hình thành hợp đồng; thường lệ được phá
 
 </details>
 
-### Câu 176 · Thông hiểu · Bổ sung từ leak/review
+### Câu 190 · Thông hiểu · Bổ sung từ leak/review
 
 Hợp đồng phụ bắt buộc luôn được giao kết sau hợp đồng chính.
 
@@ -12239,7 +13713,7 @@ Hợp đồng phụ được định nghĩa bằng phụ thuộc hiệu lực, k
 
 </details>
 
-### Câu 177 · Nhận biết · Có trong slide
+### Câu 191 · Nhận biết · Có trong slide
 
 Chủ thể của hợp đồng mua bán hàng hóa có đặc điểm nào trong các lựa chọn dưới đây?
 
@@ -12310,7 +13784,7 @@ Giữ note review; không tự đòi cả hai tổ chức hoặc cả hai thươ
 
 </details>
 
-### Câu 178 · Nhận biết · Có trong slide
+### Câu 192 · Nhận biết · Có trong slide
 
 Trước khi giao kết hợp đồng nhân danh doanh nghiệp, cần kiểm tra những vấn đề nào về chủ thể và người ký?
 
@@ -12357,7 +13831,7 @@ Không chỉ Giám đốc theo tên chức danh; kiểm tra điều lệ, ủy q
 
 </details>
 
-### Câu 179 · Vận dụng · Có trong slide
+### Câu 193 · Vận dụng · Có trong slide
 
 Hợp đồng yêu cầu 100 máy đúng chuẩn, bên bán giao 80 máy và 20 máy sai chuẩn. Cần phân tích gì?
 
@@ -12404,7 +13878,7 @@ Giao muộn 8 ngày là vi phạm thời hạn, 20 máy hỏng là vi phạm ch�
 
 </details>
 
-### Câu 180 · Nhận biết · Có trong slide
+### Câu 194 · Nhận biết · Có trong slide
 
 Điều khoản tùy nghi có đặc điểm nào?
 
@@ -12453,7 +13927,7 @@ A không là điều khoản thiết yếu để mọi hợp đồng mua bán h�
 
 ## 8. Biện pháp bảo đảm hợp đồng
 
-### Câu 181 · Vận dụng · Có trong slide
+### Câu 195 · Vận dụng · Có trong slide
 
 Nhóm nào bao quát các loại tài sản có thể dùng để đặt cọc?
 
@@ -12497,7 +13971,121 @@ D. Tiền, kim khí quý, đá quý hoặc vật có giá trị khác
 
 </details>
 
-### Câu 182 · Vận dụng · Có trong slide
+### Câu 196 · Vận dụng · Có trong slide
+
+Công ty A gửi đề nghị giao kết bằng văn bản, cho phép trả lời đến 17 giờ ngày 12/8. B gửi chấp nhận toàn bộ điều kiện lúc 15 giờ; A nhận được lúc 15 giờ 10 phút cùng ngày. Các bên không thỏa thuận cách xác định thời điểm khác. Đối với giao kết gián tiếp bằng văn bản này, hợp đồng được giao kết lúc nào?
+
+A. 17 giờ ngày 12/8 khi hết hạn trả lời
+
+B. Chỉ khi cả hai gặp mặt và ký thêm bản giấy
+
+C. 15 giờ 10 phút ngày 12/8
+
+D. 15 giờ ngày 12/8 khi B gửi trả lời
+
+**Đáp án:** 15 giờ 10 phút ngày 12/8
+
+**Phân tích:** Bước 1: xác định đề nghị và chấp nhận khớp nhau. Bước 2: kiểm tra nhận trong hạn. Bước 3: chọn thời điểm nhận, tách khỏi thời điểm gửi và hạn cuối.
+
+**Bẫy:** Thời điểm gửi email không luôn là thời điểm giao kết theo quy tắc đang học.
+
+**Lý thuyết:** Giao kết gián tiếp bằng văn bản được xác định theo thuyết tiếp nhận: khi bên đề nghị nhận được trả lời chấp nhận. Hợp đồng có hiệu lực từ giao kết hợp pháp, trừ thỏa thuận hoặc quy định khác.
+
+**17 giờ ngày 12/8 khi hết hạn trả lời — Sai:** Hết hạn trả lời không phải thời điểm giao kết nếu đã nhận chấp nhận hợp lệ trước đó.
+
+**Chỉ khi cả hai gặp mặt và ký thêm bản giấy — Sai:** Giao kết gián tiếp qua tài liệu giao dịch không luôn cần gặp mặt ký lại.
+
+**15 giờ 10 phút ngày 12/8 — Đúng:** Thuyết tiếp nhận xác định lúc bên đề nghị nhận được trả lời chấp nhận.
+
+**15 giờ ngày 12/8 khi B gửi trả lời — Sai:** Đó là thời điểm gửi, khác thời điểm tiếp nhận được bài giảng sử dụng.
+
+**Chương 5, slide 9 · Nội dung trên slide**
+
+> * Thủ tục giao kết hợp đồng ( GT ) - HĐ giao kết theo thủ tục trực tiếp: Là việc các bên trực tiếp bàn bạc và đi đến xác nhân sự thoả thuận các điều khoản ngay tại thời điểm đàm phán. Trường hợp này, hợp đồng thường phát sinh hiệu lực khi các bên xác nhận đàm phán vào hợp đồng. - HĐ giao kết theo thủ tục gián tiếp: Là việc các bên thông qua các tài liệu giao dịch (Fax, điện tín,…) để chuyển tải ý chí đàm phán. Trường hợp này, hợp đồng thường phát sinh hiệu lực khi các bên nhận được tài liệu giao dịch thể hiện sự thoả thuận.
+
+**Chương 5, slide 10 · Nội dung trên slide**
+
+> Thời điểm giao kết hợp đồng Về nguyên tắc, HĐ được giao kết vào thời điểm các bên đạt được sự thỏa thuận. HĐ được giao kết trực tiếp bằng văn bản: Thời điểm giao kết HĐ là thời điểm bên sau cùng ký vào văn bản; HĐ được giao kết gián tiếp bằng VB (thông qua các tài liệu giao dịch): Thời điểm đạt được sự thỏa thuận được xác định theo thuyết "tiếp nhận” (HĐ được giao kết khi bên đề nghị nhận được trả lời chấp nhận giao kết) HĐ được giao kết bằng lời nói: là thời điểm các bên đã thỏa thuận về nội dung của HĐ. Các bên có thể sử dụng những biện pháp, chứng cứ hợp pháp để chứng minh việc "các bên đã thỏa thuận" Sự im lặng của bên được đề nghị cho đến khi hết thời hạn trả lời cũng có thể là căn xác định hợp đồng đã được giao kết, nếu có thoả thuận im lặng là sự trả lời chấp nhận giao kết hợp đồng. Hợp đồng được giao kết hợp pháp có hiệu lực từ thời điểm giao kết, trừ trường hợp các bên có thỏa thuận khác hoặc pháp luật có quy định khác.
+
+<details>
+<summary>rv-014 · Review liên quan</summary>
+
+14. **Mọi cá nhân, tổ chức đều có quyền thành lập, quản lý doanh nghiệp.**\
+    → **Sai.**
+
+**Ghi chú đối chiếu:** Sai. Không phải mọi công dân/cá nhân/tổ chức đều có quyền thành lập, quản lý doanh nghiệp.
+
+Kiểm tra tuổi, năng lực, cán bộ công chức, truy cứu hình sự và các trường hợp cấm. Riêng bị can ở câu 164 thuộc hạn chế thành lập/quản lý; không đồng nhất với quyền sở hữu cổ phần.
+
+</details>
+
+<details>
+<summary>rv-060 · Review liên quan</summary>
+
+1. **Mọi công dân Việt Nam đều được quyền thành lập, quản lý doanh nghiệp – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Sai. Không phải mọi công dân/cá nhân/tổ chức đều có quyền thành lập, quản lý doanh nghiệp.
+
+Kiểm tra tuổi, năng lực, cán bộ công chức, truy cứu hình sự và các trường hợp cấm. Riêng bị can ở câu 164 thuộc hạn chế thành lập/quản lý; không đồng nhất với quyền sở hữu cổ phần.
+
+</details>
+
+<details>
+<summary>rv-075 · Review liên quan</summary>
+
+1. **Mọi công dân Việt Nam đều được quyền thành lập, quản lý doanh nghiệp – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Sai. Không phải mọi công dân/cá nhân/tổ chức đều có quyền thành lập, quản lý doanh nghiệp.
+
+Kiểm tra tuổi, năng lực, cán bộ công chức, truy cứu hình sự và các trường hợp cấm. Riêng bị can ở câu 164 thuộc hạn chế thành lập/quản lý; không đồng nhất với quyền sở hữu cổ phần.
+
+</details>
+
+<details>
+<summary>rv-164 · Review liên quan</summary>
+
+2. Anh A là bị can về tội ma túy. Anh A có quyền thành lập doanh nghiệp hay không? (Đúng/Sai)
+
+**Ghi chú đối chiếu:** Sai. Không phải mọi công dân/cá nhân/tổ chức đều có quyền thành lập, quản lý doanh nghiệp.
+
+Kiểm tra tuổi, năng lực, cán bộ công chức, truy cứu hình sự và các trường hợp cấm. Riêng bị can ở câu 164 thuộc hạn chế thành lập/quản lý; không đồng nhất với quyền sở hữu cổ phần.
+
+</details>
+
+<details>
+<summary>rv-196 · Review liên quan</summary>
+
+1. **Mọi công dân Việt Nam đều được quyền thành lập, quản lý doanh nghiệp – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Sai. Không phải mọi công dân/cá nhân/tổ chức đều có quyền thành lập, quản lý doanh nghiệp.
+
+Kiểm tra tuổi, năng lực, cán bộ công chức, truy cứu hình sự và các trường hợp cấm. Riêng bị can ở câu 164 thuộc hạn chế thành lập/quản lý; không đồng nhất với quyền sở hữu cổ phần.
+
+</details>
+
+<details>
+<summary>rv-291 · Review liên quan</summary>
+
+6. **Mọi sự thỏa thuận đều là hợp đồng – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Sai. Không mọi sự thỏa thuận đều là hợp đồng.
+
+Hợp đồng là thỏa thuận xác lập, thay đổi hoặc chấm dứt quyền và nghĩa vụ dân sự. Một cuộc hẹn xã giao không tạo nghĩa vụ pháp lý kiểu hợp đồng chỉ vì có thỏa thuận.
+
+</details>
+
+<details>
+<summary>rv-328 · Review liên quan</summary>
+
+21. **Hợp đồng là sự thỏa thuận – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Đúng: hợp đồng là sự thỏa thuận, có mục đích pháp lý xác lập/thay đổi/chấm dứt quyền, nghĩa vụ.
+
+Chiều ngược “mọi thỏa thuận đều hợp đồng” sai.
+
+</details>
+
+### Câu 197 · Vận dụng · Có trong slide
 
 Bán quyền đòi nợ và bên bán cam kết bảo đảm khả năng thanh toán của người mắc nợ. Đến hạn người mắc nợ không trả, bên bán có trách nhiệm nào?
 
@@ -12555,7 +14143,7 @@ Con người không phải hàng hóa/đối tượng được mua bán. Nhà, �
 
 </details>
 
-### Câu 183 · Thông hiểu · Bổ sung từ leak/review
+### Câu 198 · Thông hiểu · Bổ sung từ leak/review
 
 Nhận định nào phù hợp về tài sản bảo đảm?
 
@@ -12607,7 +14195,7 @@ Nguyên văn ghi “bảo đảm doanh nghiệp” chưa rõ đang hỏi bảo �
 
 </details>
 
-### Câu 184 · Nhận biết · Có trong slide
+### Câu 199 · Nhận biết · Có trong slide
 
 Bảo lãnh có cấu trúc chủ thể nào?
 
@@ -12707,7 +14295,7 @@ B cầm cố dùng tài sản; C “quyền sở hữu” không tên biện ph�
 
 </details>
 
-### Câu 185 · Nhận biết · Có trong slide
+### Câu 200 · Nhận biết · Có trong slide
 
 Cho vay có bảo đảm bằng tín chấp theo nhóm chủ thể nêu trong bài giảng phải được lập thành văn bản.
 
@@ -12799,7 +14387,7 @@ B cầm cố dùng tài sản; C “quyền sở hữu” không tên biện ph�
 
 </details>
 
-### Câu 186 · Thông hiểu · Có trong slide
+### Câu 201 · Thông hiểu · Có trong slide
 
 Chỉ có việc vay tiền không kèm tài sản thế chấp đã đủ để xác định biện pháp bảo đảm là tín chấp chưa?
 
@@ -12899,7 +14487,77 @@ B cầm cố dùng tài sản; C “quyền sở hữu” không tên biện ph�
 
 </details>
 
-### Câu 187 · Thông hiểu · Có trong slide
+### Câu 202 · Vận dụng · Có trong slide
+
+Trong hợp đồng mua nguyên liệu, công ty mẹ cam kết với bên bán sẽ trả thay cho công ty con nếu đến hạn công ty con không trả. Ở hợp đồng khác, công ty con gửi tiền của mình vào tài khoản phong tỏa tại ngân hàng để bảo đảm thanh toán. Hai cơ chế tương ứng là gì?
+
+A. Bảo lãnh – ký quỹ
+
+B. Tín chấp – ký cược
+
+C. Ký quỹ – bảo lãnh
+
+D. Thế chấp – đặt cọc
+
+**Đáp án:** Bảo lãnh – ký quỹ
+
+**Phân tích:** Hỏi ở giao dịch thứ nhất: ai có nghĩa vụ trả thay? Hỏi giao dịch thứ hai: tiền đang nằm ở đâu và dưới cơ chế nào? Không gộp mọi sự có mặt của bên thứ ba thành một biện pháp.
+
+**Bẫy:** Ngân hàng giữ tiền và công ty mẹ hứa trả thay đều là bên thứ ba nhưng vai trò pháp lý khác nhau.
+
+**Lý thuyết:** Bảo lãnh dựa vào cam kết thực hiện thay của người thứ ba khi bên được bảo lãnh không thực hiện đúng nghĩa vụ đến hạn. Ký quỹ dựa vào tài sản gửi trong tài khoản phong tỏa tại tổ chức tín dụng.
+
+**Bảo lãnh – ký quỹ — Đúng:** Cam kết của bên thứ ba thực hiện nghĩa vụ thay là bảo lãnh; gửi tài sản vào tài khoản phong tỏa tại tổ chức tín dụng là ký quỹ.
+
+**Tín chấp – ký cược — Sai:** Công ty mẹ không phải tổ chức chính trị – xã hội ở cơ sở tín chấp cho người nghèo; hợp đồng sau không nhằm trả lại động sản thuê.
+
+**Ký quỹ – bảo lãnh — Sai:** Đảo ngược dấu hiệu cam kết trả thay và tài khoản phong tỏa.
+
+**Thế chấp – đặt cọc — Sai:** Đề không mô tả dùng tài sản sở hữu để thế chấp hoặc giao tài sản đặt cọc trực tiếp cho bên bán.
+
+**Chương 5, slide 16 · Nội dung trên slide**
+
+> Bảo lãnh: là việc người thứ ba (sau đây gọi là bên bảo lãnh) cam kết với bên có quyền (sau đây gọi là bên nhận bảo lãnh) sẽ thực hiện nghĩa vụ thay cho bên có nghĩa vụ (sau đây gọi là bên được bảo lãnh), nếu khi đến thời hạn thực hiện nghĩa vụ mà bên được bảo lãnh không thực hiện hoặc thực hiện không đúng nghĩa vụ.
+
+**Chương 5, slide 18 · Nội dung trên slide**
+
+> Ký quỹ: là việc bên có nghĩa vụ gửi một khoản tiền hoặc kim khí quý, đá quý hoặc giấy tờ có giá vào tài khoản phong tỏa tại một tổ chức tín dụng để bảo đảm việc thực hiện nghĩa vụ. Bảo lưu quyền sở hữu: Trong hợp đồng mua bán, quyền sở hữu tài sản có thể được bên bán bảo lưu cho đến khi nghĩa vụ thanh toán được thực hiện đầy đủ. Bảo lưu quyền sở hữu phải được lập thành văn bản riêng hoặc được ghi trong hợp đồng mua bán.
+
+<details>
+<summary>rv-051 · Review liên quan</summary>
+
+27. **Biện pháp không được bảo đảm bằng tài sản.**
+
+**Ghi chú đối chiếu:** Tín chấp dựa uy tín tổ chức chính trị–xã hội ở cơ sở; bảo lãnh không bắt buộc phải giao tài sản.
+
+Không có phương án nên chưa biết đề muốn một hay nhiều biện pháp. “Không bảo đảm bằng tài sản” có thể cần phân biệt tín chấp/bảo lãnh, không kết luận chỉ một tên trong mọi trường hợp.
+
+</details>
+
+<details>
+<summary>rv-111 · Review liên quan</summary>
+
+5) Để bảo đảm nghĩa vụ thanh toán theo hợp đồng mua bán hàng hóa, Công ty chuyển 3 tỷ vào tài khoản phong tỏa được mở tại Ngân hàng...? Đặt cọc / Ký quỹ / Ký cược / Bảo lãnh.
+
+**Ghi chú đối chiếu:** Ký quỹ.
+
+3 tỷ được gửi vào tài khoản phong tỏa tại tổ chức tín dụng để bảo đảm nghĩa vụ; không phải giao trực tiếp cho đối tác như đặt cọc/ký cược.
+
+</details>
+
+<details>
+<summary>rv-399 · Review liên quan</summary>
+
+6) **Biện pháp nào là biện pháp bảo đảm có tài sản do bên thứ ba nắm giữ, bảo quản?**\
+   *Đáp án gợi ý trong nguồn: Ký quỹ.*
+
+**Ghi chú đối chiếu:** Ký quỹ khi tài sản gửi tài khoản phong tỏa tại ngân hàng; chỉ “người thứ ba giữ” chưa duy nhất.
+
+Thế chấp cũng có thể thỏa thuận người thứ ba giữ theo Điều 317. Note review ký quỹ là hướng đúng nếu có cơ chế tài khoản phong tỏa; bài luyện thêm rõ cơ chế.
+
+</details>
+
+### Câu 203 · Thông hiểu · Có trong slide
 
 Bảo lãnh có luôn cần giao tài sản cho bên nhận bảo lãnh?
 
@@ -12942,7 +14600,132 @@ Không có phương án nên chưa biết đề muốn một hay nhiều biện 
 
 </details>
 
-### Câu 188 · Thông hiểu · Bổ sung từ leak/review
+### Câu 204 · Vận dụng · Có trong slide
+
+Doanh nghiệp A dùng máy tiện của mình bảo đảm khoản vay nhưng tiếp tục giữ và sử dụng máy. Doanh nghiệp B giao chiếc máy thuộc sở hữu mình cho bên cho vay giữ để bảo đảm khoản vay. Không có cơ chế giữ hộ của bên thứ ba. Biện pháp tương ứng A – B là gì?
+
+A. Ký cược – ký quỹ
+
+B. Bảo lưu quyền sở hữu – tín chấp
+
+C. Thế chấp – cầm cố
+
+D. Cầm cố – thế chấp
+
+**Đáp án:** Thế chấp – cầm cố
+
+**Phân tích:** Đừng bắt đầu bằng loại máy là động sản. Hãy hỏi tài sản bảo đảm do ai giữ và có chuyển giao cho bên nhận hay không. Sau đó loại phương án yêu cầu một quan hệ thuê, mua bán hoặc tài khoản phong tỏa mà đề không có.
+
+**Bẫy:** Cùng là máy móc nhưng biện pháp khác nhau do cách bố trí tài sản.
+
+**Lý thuyết:** Cầm cố: giao tài sản thuộc sở hữu cho bên nhận để bảo đảm nghĩa vụ. Thế chấp: dùng tài sản thuộc sở hữu để bảo đảm và không giao cho bên nhận thế chấp.
+
+**Ký cược – ký quỹ — Sai:** Ký cược gắn với trả lại động sản thuê; ký quỹ cần tài khoản phong tỏa tại tổ chức tín dụng.
+
+**Bảo lưu quyền sở hữu – tín chấp — Sai:** Không có mua bán giữ quyền sở hữu hoặc tổ chức chính trị – xã hội tín chấp trong dữ kiện.
+
+**Thế chấp – cầm cố — Đúng:** A không giao tài sản cho bên nhận bảo đảm nên là thế chấp; B giao tài sản cho bên nhận để bảo đảm nghĩa vụ nên là cầm cố.
+
+**Cầm cố – thế chấp — Sai:** Đảo ngược dấu hiệu giao tài sản giữa hai cơ chế.
+
+**Chương 5, slide 14 · Nội dung trên slide**
+
+> Cầm cố tài sản: là việc một bên (sau đây gọi là bên cầm cố) giao tài sản thuộc quyền sở hữu của mình cho bên kia (sau đây gọi là bên nhận cầm cố) để bảo đảm thực hiện nghĩa vụ. Thế chấp tài sản: là việc một bên (sau đây gọi là bên thế chấp) dùng tài sản thuộc sở hữu của mình để bảo đảm thực hiện nghĩa vụ và không giao tài sản cho bên kia (sau đây gọi là bên nhận thế chấp).
+
+<details>
+<summary>rv-052 · Review liên quan</summary>
+
+28. **Khoản nợ ưu tiên thanh toán của tổ chức tín dụng.**
+
+**Ghi chú đối chiếu:** Chi phí phá sản đứng đầu thứ tự phân chia TCTD; sau đó quyền lợi người lao động và khoản tiền gửi theo thứ tự đặc thù.
+
+Nếu hỏi “khoản nợ” không kể chi phí thì phải xem phương án; tiền gửi không đứng trước chi phí/lương. Slide 87 khác thủ tục phá sản doanh nghiệp thông thường.
+
+</details>
+
+<details>
+<summary>rv-070 · Review liên quan</summary>
+
+11. **Đối với thế chấp tài sản, bên có quyền có thể nắm giữ tài sản bảo đảm – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Theo định nghĩa thế chấp: không giao tài sản cho bên nhận thế chấp; bên thế chấp hoặc người thứ ba được thỏa thuận giữ.
+
+Câu review “có thể nắm giữ” khác câu trong note “luôn giữ”. Không đổi từ chỉ khả năng thành tuyệt đối. Giữ giấy tờ, xử lý/thu giữ khi vi phạm là tình huống khác với giữ tài sản trong cấu trúc thế chấp ban đầu.
+
+</details>
+
+<details>
+<summary>rv-085 · Review liên quan</summary>
+
+11. **Đối với thế chấp tài sản, bên có quyền có thể nắm giữ tài sản bảo đảm – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Theo định nghĩa thế chấp: không giao tài sản cho bên nhận thế chấp; bên thế chấp hoặc người thứ ba được thỏa thuận giữ.
+
+Câu review “có thể nắm giữ” khác câu trong note “luôn giữ”. Không đổi từ chỉ khả năng thành tuyệt đối. Giữ giấy tờ, xử lý/thu giữ khi vi phạm là tình huống khác với giữ tài sản trong cấu trúc thế chấp ban đầu.
+
+</details>
+
+<details>
+<summary>rv-106 · Review liên quan</summary>
+
+7. Công ty vay ngân hàng và thế chấp trước 1 dây chuyền sản xuất. Là hình thức gì?
+   - A. Ký quỹ.
+   - B. Cầm giữ.
+   - C. Thế chấp tài sản.
+   - D. Bảo lãnh.
+
+**Ghi chú đối chiếu:** C. Thế chấp tài sản, khi không giao dây chuyền cho bên nhận bảo đảm.
+
+Nếu nguyên văn chỉ nói “thế chấp” đã nêu tên biện pháp; phân biệt ký quỹ tài khoản phong tỏa, cầm giữ chiếm giữ hợp pháp phát sinh từ song vụ, bảo lãnh người thứ ba.
+
+</details>
+
+<details>
+<summary>rv-110 · Review liên quan</summary>
+
+4) Ngân hàng cho công ty vay 1,5 tỷ có 1 dây chuyền sản xuất sở hữu của mình để bảo đảm nghĩa vụ trả nợ. Biện pháp bảo đảm là: Thế chấp / Cầm giữ / Ký cược / Cầm cố?
+
+**Ghi chú đối chiếu:** Có thể thế chấp nếu không giao dây chuyền; chỉ biết dùng tài sản bảo đảm chưa phân biệt thế chấp/cầm cố.
+
+Bài luyện thêm dữ kiện vẫn giữ sử dụng và không giao tài sản. Không coi dữ kiện bổ sung là chữ gốc review.
+
+</details>
+
+<details>
+<summary>rv-174 · Review liên quan</summary>
+
+12. Biện pháp bảo đảm nào sử dụng động sản hoặc bất động sản làm tài sản bảo đảm? (Trắc nghiệm: Cầm cố, Thế chấp, Ký cược, Ký quỹ, Đặt cọc...)
+
+**Ghi chú đối chiếu:** Thế chấp có thể dùng động sản, bất động sản theo điều kiện luật.
+
+Chỉ tiêu “động sản hoặc bất động sản” chưa đủ loại mọi biện pháp khác: BLDS không định nghĩa cầm cố chỉ bằng động sản trong mọi trường hợp. Bài luyện thêm không giao tài sản để phân biệt.
+
+</details>
+
+<details>
+<summary>rv-206 · Review liên quan</summary>
+
+11. **Đối với thế chấp tài sản, bên có quyền có thể nắm giữ tài sản bảo đảm – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Theo định nghĩa thế chấp: không giao tài sản cho bên nhận thế chấp; bên thế chấp hoặc người thứ ba được thỏa thuận giữ.
+
+Câu review “có thể nắm giữ” khác câu trong note “luôn giữ”. Không đổi từ chỉ khả năng thành tuyệt đối. Giữ giấy tờ, xử lý/thu giữ khi vi phạm là tình huống khác với giữ tài sản trong cấu trúc thế chấp ban đầu.
+
+</details>
+
+<details>
+<summary>rv-403 · Review liên quan</summary>
+
+10) **Tài sản được sử dụng trong hoạt động thế chấp là gì?**\
+    *Đáp án gợi ý trong nguồn: Động sản và bất động sản.*
+
+**Ghi chú đối chiếu:** Thế chấp có thể dùng động sản, bất động sản theo điều kiện luật.
+
+Chỉ tiêu “động sản hoặc bất động sản” chưa đủ loại mọi biện pháp khác: BLDS không định nghĩa cầm cố chỉ bằng động sản trong mọi trường hợp. Bài luyện thêm không giao tài sản để phân biệt.
+
+</details>
+
+### Câu 205 · Thông hiểu · Bổ sung từ leak/review
 
 Trong thế chấp theo BLDS 2015, bên nhận thế chấp luôn trực tiếp giữ tài sản bảo đảm.
 
@@ -13024,7 +14807,7 @@ Câu review “có thể nắm giữ” khác câu trong note “luôn giữ”.
 
 </details>
 
-### Câu 189 · Thông hiểu · Bổ sung từ leak/review
+### Câu 206 · Thông hiểu · Bổ sung từ leak/review
 
 Một tài sản có thể bảo đảm nhiều nghĩa vụ nếu đáp ứng điều kiện và thông báo theo pháp luật.
 
@@ -13098,7 +14881,102 @@ B. Sai
 
 </details>
 
-### Câu 190 · Thông hiểu · Bổ sung từ leak/review
+### Câu 207 · Vận dụng · Có trong slide
+
+Một hợp đồng đã được xác định vô hiệu. A đã giao cho B 200 triệu; B chưa giao hàng. Cơ quan có thẩm quyền xác định hành vi có lỗi của B còn gây tổn thất riêng 15 triệu cho A. Không có khoản hoàn trả hoặc đối trừ nào khác. Kết luận nào đúng?
+
+A. B chỉ trả 15 triệu vì bồi thường thay thế hoàn trả
+
+B. B hoàn trả 200 triệu và bồi thường 15 triệu thiệt hại do lỗi
+
+C. B chỉ trả 200 triệu vì hợp đồng vô hiệu loại mọi bồi thường
+
+D. B giữ 200 triệu vì hợp đồng không làm phát sinh nghĩa vụ
+
+**Đáp án:** B hoàn trả 200 triệu và bồi thường 15 triệu thiệt hại do lỗi
+
+**Phân tích:** Tách hai “rổ”: tiền đã nhận phải hoàn trả 200; thiệt hại riêng do lỗi là 15. Đề đã xác định thiệt hại riêng nên không có tính trùng cùng một khoản.
+
+**Bẫy:** Đừng đọc nửa đầu “không làm phát sinh quyền, nghĩa vụ” rồi bỏ các hậu quả hoàn trả và bồi thường.
+
+**Lý thuyết:** Giao dịch vô hiệu không phát sinh quyền, nghĩa vụ theo giao dịch kể từ xác lập. Các bên hoàn trả những gì đã nhận; bên có lỗi gây thiệt hại phải bồi thường.
+
+**B chỉ trả 15 triệu vì bồi thường thay thế hoàn trả — Sai:** Bồi thường không tự thay thế việc trả lại tài sản đã nhận.
+
+**B hoàn trả 200 triệu và bồi thường 15 triệu thiệt hại do lỗi — Đúng:** Hoàn trả khôi phục tình trạng ban đầu; bồi thường là hậu quả riêng của lỗi gây thiệt hại, đề đã xác định đủ.
+
+**B chỉ trả 200 triệu vì hợp đồng vô hiệu loại mọi bồi thường — Sai:** Điều về giao dịch vô hiệu vẫn có nghĩa vụ bồi thường của bên có lỗi gây thiệt hại.
+
+**B giữ 200 triệu vì hợp đồng không làm phát sinh nghĩa vụ — Sai:** Không phát sinh quyền, nghĩa vụ theo hợp đồng không đồng nghĩa được giữ tài sản của bên kia.
+
+**Chương 5, slide 28 · Nội dung trên slide**
+
+> Hậu quả pháp lý của giao dịch dân sự vô hiệu 1. Giao dịch dân sự vô hiệu không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên kể từ thời điểm giao dịch được xác lập. 2. Khi giao dịch dân sự vô hiệu thì các bên khôi phục lại tình trạng ban đầu, hoàn trả cho nhau những gì đã nhận. Trường hợp không thể hoàn trả được bằng hiện vật thì trị giá thành tiền để hoàn trả. 3. Bên ngay tình trong việc thu hoa lợi, lợi tức không phải hoàn trả lại hoa lợi, lợi tức đó. 4. Bên có lỗi gây thiệt hại thì phải bồi thường.
+
+<details>
+<summary>rv-074 · Review liên quan</summary>
+
+15. **Hợp đồng vô hiệu không làm phát sinh quyền và nghĩa vụ của các bên kể từ thời điểm hợp đồng được giao kết. Vì vậy, bồi thường thiệt hại cũng không được áp dụng khi xảy ra vi phạm – đúng hay sai?**
+
+
+
+
+
+
+
+"Em thi chủ yếu nội dung vào chương tranh chấp (các biện pháp giải quyết tranh chấp), hợp tác xã (thành viên hợp tác xã: thành viên chính thức, không góp vốn, thành viên góp vốn), thế chấp (bên nhận thế chấp luôn giữ tài sản đảm bảo là đúng hay sai), cầm cố (bên cầm cố phải giữ tài sản và bảo quản là đúng hay sai)
+\
+Với đi thi cũng hỏi cả đặc điểm của chủ thể kinh doanh nữa ạ"
+
+**Ghi chú đối chiếu:** Sai đối với cả nhận định ghép.
+
+Mệnh đề đầu về không làm phát sinh quyền/nghĩa vụ từ giao kết là đúng. Suy ra không bao giờ bồi thường là sai: bên có lỗi gây thiệt hại do giao dịch vô hiệu vẫn có trách nhiệm theo quy định. Bồi thường do vô hiệu khác thực hiện điều khoản của hợp đồng vô hiệu.
+
+</details>
+
+<details>
+<summary>rv-089 · Review liên quan</summary>
+
+15. **Hợp đồng vô hiệu không làm phát sinh quyền và nghĩa vụ của các bên kể từ thời điểm hợp đồng được giao kết. Vì vậy, bồi thường thiệt hại cũng không được áp dụng khi xảy ra vi phạm – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Sai đối với cả nhận định ghép.
+
+Mệnh đề đầu về không làm phát sinh quyền/nghĩa vụ từ giao kết là đúng. Suy ra không bao giờ bồi thường là sai: bên có lỗi gây thiệt hại do giao dịch vô hiệu vẫn có trách nhiệm theo quy định. Bồi thường do vô hiệu khác thực hiện điều khoản của hợp đồng vô hiệu.
+
+</details>
+
+<details>
+<summary>rv-210 · Review liên quan</summary>
+
+15. **Hợp đồng vô hiệu không làm phát sinh quyền và nghĩa vụ của các bên kể từ thời điểm hợp đồng được giao kết. Vì vậy, bồi thường thiệt hại cũng không được áp dụng khi xảy ra vi phạm – đúng hay sai?**
+
+
+
+**Thỏa thuận mức phạt vi phạm theo hợp đồng là 12%. Nếu công ty vi phạm hợp đồng thì:**
+
+A. **Phạt vi phạm hợp đồng nhưng không quá tỷ lệ phần trăm theo quy định.**\
+B. **Chỉ phạt mức 12%.**\
+C. **Hợp đồng bị vô hiệu.**\
+D. **[Không rõ/không có nội dung trong nguồn].**
+
+**Ghi chú đối chiếu:** Sai đối với cả nhận định ghép.
+
+Mệnh đề đầu về không làm phát sinh quyền/nghĩa vụ từ giao kết là đúng. Suy ra không bao giờ bồi thường là sai: bên có lỗi gây thiệt hại do giao dịch vô hiệu vẫn có trách nhiệm theo quy định. Bồi thường do vô hiệu khác thực hiện điều khoản của hợp đồng vô hiệu. Đoạn review không đánh số về phạt 12% được giữ ở cuối mục này: A phù hợp nếu thuộc trần LTM, B vượt trần, C không tự vô hiệu toàn hợp đồng, D không rõ. Có bài luyện bổ sung riêng ngay dưới.
+
+</details>
+
+<details>
+<summary>rv-290 · Review liên quan</summary>
+
+5. **Hợp đồng vô hiệu không làm phát sinh quyền và nghĩa vụ của các bên kể từ thời điểm hợp đồng được giao kết – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Đúng: hợp đồng vô hiệu không làm phát sinh quyền/nghĩa vụ kể từ giao kết.
+
+Nhưng vẫn có nghĩa vụ hoàn trả và bồi thường do vô hiệu khi có lỗi, thiệt hại; câu này không có mệnh đề suy sai như câu 74.
+
+</details>
+
+### Câu 208 · Thông hiểu · Bổ sung từ leak/review
 
 Trong cầm cố theo định nghĩa BLDS, bên cầm cố vẫn trực tiếp giữ tài sản để bảo đảm cho bên nhận cầm cố.
 
@@ -13145,7 +15023,7 @@ Mệnh đề đầu về không làm phát sinh quyền/nghĩa vụ từ giao k�
 
 </details>
 
-### Câu 191 · Nhận biết · Có trong slide
+### Câu 209 · Nhận biết · Có trong slide
 
 Yêu cầu hình thức nào được nêu riêng cho bảo lưu quyền sở hữu?
 
@@ -13199,7 +15077,7 @@ Người bán giữ quyền sở hữu đến khi mua trả đủ; không phải
 
 </details>
 
-### Câu 192 · Thông hiểu · Có trong slide
+### Câu 210 · Thông hiểu · Có trong slide
 
 Bảo lưu quyền sở hữu trong mua bán có ý nghĩa gì?
 
@@ -13253,7 +15131,7 @@ Người bán giữ quyền sở hữu đến khi mua trả đủ; không phải
 
 </details>
 
-### Câu 193 · Vận dụng · Có trong slide
+### Câu 211 · Vận dụng · Có trong slide
 
 Công ty dùng xe thuộc sở hữu mình bảo đảm nợ nhưng vẫn sử dụng xe, không giao bên cho vay. Cơ chế gần nhất?
 
@@ -13334,7 +15212,87 @@ Chỉ tiêu “động sản hoặc bất động sản” chưa đủ loại m�
 
 </details>
 
-### Câu 194 · Nhận biết · Có trong slide
+### Câu 212 · Vận dụng · Có trong slide
+
+Hai thương nhân ký hợp đồng mua bán hàng hóa thông thường trị giá 1 tỷ đồng, có điều khoản phạt 12% giá trị phần nghĩa vụ bị vi phạm. Bên bán chỉ vi phạm phần giao hàng trị giá 250 triệu; phần còn lại đã thực hiện đúng. Không thuộc trường hợp có mức phạt chuyên ngành khác và không có căn cứ miễn trách nhiệm. Mức phạt tối đa có thể yêu cầu cho vi phạm này là bao nhiêu?
+
+A. 30 triệu đồng
+
+B. 80 triệu đồng
+
+C. 120 triệu đồng
+
+D. 20 triệu đồng
+
+**Đáp án:** 20 triệu đồng
+
+**Phân tích:** Bước 1: xác định phần thực sự vi phạm là 250 triệu. Bước 2: thay mức 12% vượt giới hạn bằng mức tối đa 8% để xác định giới hạn yêu cầu. Bước 3: tính 0,08 × 250. Không suy rằng cả hợp đồng tự vô hiệu chỉ vì điều khoản mức phạt vượt giới hạn.
+
+**Bẫy:** Hai bẫy độc lập: sai tỷ lệ và sai mẫu giá trị. Không áp trần thương mại này cho mọi hợp đồng dân sự.
+
+**Lý thuyết:** Với tình huống hợp đồng thương mại thông thường này, mức phạt không quá 8% giá trị phần nghĩa vụ hợp đồng bị vi phạm. Phạt đòi hỏi có thỏa thuận và vi phạm; khác căn cứ bồi thường thiệt hại.
+
+**30 triệu đồng — Sai:** 30 triệu là 12% × 250 triệu, giữ nguyên tỷ lệ vượt giới hạn.
+
+**80 triệu đồng — Sai:** 80 triệu là 8% toàn bộ hợp đồng 1 tỷ, dùng sai cơ sở tính.
+
+**120 triệu đồng — Sai:** 120 triệu vừa dùng tỷ lệ 12% vừa dùng toàn bộ giá trị hợp đồng.
+
+**20 triệu đồng — Đúng:** 8% × 250 triệu = 20 triệu. Dùng giá trị phần nghĩa vụ bị vi phạm và giới hạn mức phạt của hợp đồng thương mại thông thường.
+
+**Chương 5, slide 24 · Nội dung trên slide**
+
+> * Phạt vi phạm + Khái niệm: Phạt vi phạm là sự thoả thuận giữa các bên trong HĐ, theo đó bên vi phạm nghĩa vụ phảI nộp một khoản tiền cho bên bị vi phạm. + Căn cứ áp dụng: Có hành vi vi phạm HĐ; Có thoả thuận trong hợp đồng về việc áp dụng chế tài phạt vi phạm. + Mức phạt: Do các bên thoả thuận nhưng không được quá 8% giá trị phần hợp đồng bị vi phạm. * Bồi thường thiệt hại + Khái niệm: BTTH là việc bên VP bồi thường những tổn thất vật chất do hành vi VP hợp đồng gây ra cho bên bị VP. + Căn cứ áp dụng: Có hành vi VP; Có thiệt hại thực tế xẩy ra; Có mối quan hệ nhân quả giữa hành vi VP và thiệt hại thực tế. + Mức bồi thường: Do các bên thoả thuận, nếu không thoả thuận phải BTTH toàn bộ thiệt hại. => Các bên có thể thoả thuận về nộp tiền phạt vi phạm và BTTH.
+
+<details>
+<summary>rv-107 · Review liên quan</summary>
+
+1) Thỏa thuận mức phạt vi phạm theo hợp đồng là 12%. Nếu công ty vi phạm hợp đồng thì:
+   - A. Phạt vi phạm hợp đồng nhưng không quá % quy định.
+   - B. Chỉ phạt mức 12%.
+   - C. Hợp đồng bị vô hiệu.
+   - D...
+
+**Ghi chú đối chiếu:** A. Chỉ phạt trong giới hạn luật định nếu là hợp đồng thương mại thông thường chịu trần 8%.
+
+B vượt trần; C vô hiệu toàn bộ là suy diễn; D không rõ nên không tự bổ sung như nguyên bản. Nếu hợp đồng dân sự/luật chuyên ngành khác thì không áp trần 8% chỉ vì có “công ty”.
+
+</details>
+
+<details>
+<summary>rv-123 · Review liên quan</summary>
+
+12. A và B ký hợp đồng, nếu bên kia vi phạm thì phạt 12% giá trị nghĩa vụ hợp đồng. B vi phạm, A yêu cầu phạt như trong hợp đồng đã thỏa thuận. Vậy nhận định đúng là?
+
+**Ghi chú đối chiếu:** Phạt trong giới hạn 8% phần nghĩa vụ vi phạm nếu thuộc LTM thông thường; không tự thu đủ 12%.
+
+Review chưa nêu rõ luật áp dụng. Cần xác định thương mại và ngoại lệ chuyên ngành trước tỷ lệ.
+
+</details>
+
+<details>
+<summary>rv-142 · Review liên quan</summary>
+
+4. **Phạt vi phạm không quá 8% giá trị.**
+
+**Ghi chú đối chiếu:** Thông thường không quá 8% giá trị phần nghĩa vụ bị vi phạm, nếu thuộc LTM và không ngoại lệ.
+
+Nguyên văn chỉ “8% giá trị” thiếu mẫu số; không học thành 8% toàn bộ hợp đồng.
+
+</details>
+
+<details>
+<summary>rv-221 · Review liên quan</summary>
+
+11. **A và B ký hợp đồng, nếu một bên vi phạm thì bị phạt 12% giá trị nghĩa vụ hợp đồng. B vi phạm, A yêu cầu phạt theo mức đã thỏa thuận trong hợp đồng. Nhận định đúng là?**
+
+**Ghi chú đối chiếu:** Phạt trong giới hạn 8% phần nghĩa vụ vi phạm nếu thuộc LTM thông thường; không tự thu đủ 12%.
+
+Review chưa nêu rõ luật áp dụng. Cần xác định thương mại và ngoại lệ chuyên ngành trước tỷ lệ.
+
+</details>
+
+### Câu 213 · Nhận biết · Có trong slide
 
 Ký quỹ được thực hiện bằng cơ chế nào?
 
@@ -13389,7 +15347,7 @@ Thế chấp cũng có thể thỏa thuận người thứ ba giữ theo Điều
 
 </details>
 
-### Câu 195 · Nhận biết · Có trong slide
+### Câu 214 · Nhận biết · Có trong slide
 
 Giấy tờ có giá là một loại tài sản được bài giảng liệt kê để ký quỹ vào tài khoản phong tỏa tại tổ chức tín dụng.
 
@@ -13436,7 +15394,61 @@ Thế chấp cũng có thể thỏa thuận người thứ ba giữ theo Điều
 
 </details>
 
-### Câu 196 · Vận dụng · Có trong slide
+### Câu 215 · Vận dụng · Có trong slide
+
+Xưởng sửa máy đang nắm giữ hợp pháp máy theo hợp đồng sửa chữa song vụ. Tiền công đã đến hạn là 40 triệu; khách mới trả 15 triệu và yêu cầu nhận máy ngay. Không có thỏa thuận hoặc căn cứ khác buộc giao máy trước khi trả đủ. Vì sao xưởng có căn cứ xem xét cầm giữ máy?
+
+A. Cầm giữ phát sinh chỉ vì xưởng muốn tăng giá công sửa
+
+B. Nghĩa vụ đến hạn mới được thực hiện một phần nên vẫn là thực hiện không đúng nghĩa vụ
+
+C. Xưởng đã trở thành chủ sở hữu máy ngay khi khách chậm trả
+
+D. Khách phải ký hợp đồng cầm cố mới thì cầm giữ mới có thể phát sinh
+
+**Đáp án:** Nghĩa vụ đến hạn mới được thực hiện một phần nên vẫn là thực hiện không đúng nghĩa vụ
+
+**Phân tích:** Kiểm tra theo thứ tự: giữ hợp pháp → máy là đối tượng hợp đồng song vụ → đến hạn → còn thiếu 25 triệu. Sau đó kết luận về biện pháp; không suy thêm quyền bán hoặc sở hữu máy.
+
+**Bẫy:** Đã trả một phần không đồng nghĩa đã hoàn thành nghĩa vụ; quyền giữ không đồng nghĩa quyền sở hữu.
+
+**Lý thuyết:** Cầm giữ đòi hỏi nắm giữ hợp pháp tài sản là đối tượng của hợp đồng song vụ và nghĩa vụ đã đến hạn nhưng không thực hiện hoặc thực hiện không đúng.
+
+**Cầm giữ phát sinh chỉ vì xưởng muốn tăng giá công sửa — Sai:** Không thể giữ máy chỉ vì muốn tăng giá; phải có các điều kiện đã nêu.
+
+**Nghĩa vụ đến hạn mới được thực hiện một phần nên vẫn là thực hiện không đúng nghĩa vụ — Đúng:** Bên giữ hợp pháp đối tượng hợp đồng song vụ được cầm giữ khi nghĩa vụ đến hạn không được thực hiện hoặc thực hiện không đúng; trả thiếu là dữ kiện chưa thực hiện đủ.
+
+**Xưởng đã trở thành chủ sở hữu máy ngay khi khách chậm trả — Sai:** Cầm giữ là cơ chế bảo đảm, không tự chuyển quyền sở hữu của khách sang xưởng.
+
+**Khách phải ký hợp đồng cầm cố mới thì cầm giữ mới có thể phát sinh — Sai:** Slide xác định cầm giữ phát sinh từ vi phạm nghĩa vụ đến hạn, không đòi một hợp đồng cầm cố mới.
+
+**Chương 5, slide 19 · Nội dung trên slide**
+
+> Cầm giữ tài sản: là việc bên có quyền (sau đây gọi là bên cầm giữ) đang nắm giữ hợp pháp tài sản là đối tượng của hợp đồng song vụ được chiếm giữ tài sản trong trường hợp bên có nghĩa vụ không thực hiện hoặc thực hiện không đúng nghĩa vụ. Cầm giữ tài sản phát sinh từ thời điểm đến hạn thực hiện nghĩa vụ mà bên có nghĩa vụ không thực hiện hoặc thực hiện không đúng nghĩa vụ.
+
+<details>
+<summary>rv-115 · Review liên quan</summary>
+
+4. Có 1 ông đi sửa máy xúc có ký hợp đồng rồi nhưng đến lúc máy xúc sửa xong nó không có tiền thì nhà sửa máy xúc cho nó giữ máy xúc ấy lại. Đây là biện pháp bảo đảm hợp đồng gì?
+
+**Ghi chú đối chiếu:** Cầm giữ tài sản.
+
+Bên sửa đã chiếm giữ máy xúc hợp pháp theo hợp đồng song vụ và khách không trả tiền đến hạn. Không phải ký thêm cầm cố; không dùng thế chấp nếu giữ lại do quyền từ hợp đồng sửa chữa.
+
+</details>
+
+<details>
+<summary>rv-213 · Review liên quan</summary>
+
+3. **Một người mang máy xúc đi sửa và có ký hợp đồng. Đến khi máy xúc sửa xong, người đó không có tiền thanh toán nên bên sửa máy xúc giữ lại máy xúc. Đây là biện pháp bảo đảm hợp đồng gì?**
+
+**Ghi chú đối chiếu:** Cầm giữ tài sản.
+
+Bên sửa đã chiếm giữ máy xúc hợp pháp theo hợp đồng song vụ và khách không trả tiền đến hạn. Không phải ký thêm cầm cố; không dùng thế chấp nếu giữ lại do quyền từ hợp đồng sửa chữa.
+
+</details>
+
+### Câu 216 · Vận dụng · Có trong slide
 
 Xưởng sửa xe chiếm giữ hợp pháp xe đang sửa theo hợp đồng song vụ; khách không trả tiền đến hạn. Biện pháp cần xét?
 
@@ -13490,7 +15502,7 @@ Bên sửa đã chiếm giữ máy xúc hợp pháp theo hợp đồng song vụ
 
 </details>
 
-### Câu 197 · Vận dụng · Có trong slide
+### Câu 217 · Vận dụng · Có trong slide
 
 Xưởng đang giữ hợp pháp tài sản để sửa, nhưng hạn khách trả tiền chưa đến. Chỉ viện dẫn biện pháp cầm giữ do không thanh toán đã đủ chưa?
 
@@ -13544,7 +15556,303 @@ Bên sửa đã chiếm giữ máy xúc hợp pháp theo hợp đồng song vụ
 
 </details>
 
-### Câu 198 · Nhận biết · Có trong slide
+### Câu 218 · Vận dụng · Có trong slide
+
+Hợp đồng yêu cầu bên mua bàn giao mặt bằng đúng ngày để bên bán lắp dây chuyền. Bên bán đã chuẩn bị đầy đủ, nhưng bên mua không bàn giao; cơ quan giải quyết xác định việc lắp chậm hoàn toàn do lỗi này của bên mua. Bên mua vẫn yêu cầu bên bán chịu phạt vì chậm lắp. Căn cứ nào cần xem xét?
+
+A. Chỉ được miễn nếu có bão hoặc động đất
+
+B. Hợp đồng tự chấm dứt ngay do bên mua có lỗi
+
+C. Miễn trách nhiệm do vi phạm hoàn toàn do lỗi của bên kia
+
+D. Bên bán luôn phải chịu phạt vì chỉ cần có ngày hoàn thành chậm
+
+**Đáp án:** Miễn trách nhiệm do vi phạm hoàn toàn do lỗi của bên kia
+
+**Phân tích:** Bước 1: nhận diện việc chậm. Bước 2: xác định nguyên nhân và chữ “hoàn toàn”. Bước 3: xét miễn trước khi tính phạt; không viện việc bên mua có một phần lỗi nếu đề không cho lỗi hoàn toàn.
+
+**Bẫy:** Nếu đề chỉ nói bên mua góp một phần lỗi thì không được tự áp đáp án miễn toàn bộ của câu này.
+
+**Lý thuyết:** Các căn cứ miễn trách nhiệm gồm thỏa thuận, bất khả kháng, vi phạm hoàn toàn do lỗi bên kia và quyết định của cơ quan nhà nước có thẩm quyền mà các bên không thể biết khi giao kết.
+
+**Chỉ được miễn nếu có bão hoặc động đất — Sai:** Bất khả kháng chỉ là một trong các căn cứ, không phải căn cứ duy nhất.
+
+**Hợp đồng tự chấm dứt ngay do bên mua có lỗi — Sai:** Miễn trách nhiệm đối với vi phạm không tự đồng nghĩa hợp đồng chấm dứt.
+
+**Miễn trách nhiệm do vi phạm hoàn toàn do lỗi của bên kia — Đúng:** Slide liệt kê vi phạm hoàn toàn do lỗi bên kia là căn cứ miễn trách nhiệm; dữ kiện đã xác định tính hoàn toàn.
+
+**Bên bán luôn phải chịu phạt vì chỉ cần có ngày hoàn thành chậm — Sai:** Chậm thực tế chưa đủ để bỏ qua căn cứ miễn trách nhiệm.
+
+**Chương 5, slide 25 · Nội dung trên slide**
+
+> CÁC TRƯỜNG HỢP MIỄN TRÁCH NHIỆM PHÁP LÝ DO VI PHẠM HỢP ĐỒNG Các trường hợp do các bên thỏa thuận Sự kiện bất khả kháng Vi phạm HĐ của một bên hoàn toàn do lỗi của bên kia vi phạm hợp đồng của một bên do thực hiện quyết định của cơ quan nhà nước có thẩm quyền mà các bên không thể biết được vào thời điểm giao kết hợp đồng.
+
+<details>
+<summary>rv-119 · Review liên quan</summary>
+
+8. Buộc tiếp tục thực hiện hợp đồng là trách nhiệm chỉ xảy ra khi bên vi phạm nghĩa vụ chậm hợp đồng (Đúng/Sai).
+
+**Ghi chú đối chiếu:** Sai. Buộc thực hiện đúng hợp đồng không chỉ áp dụng chậm thực hiện.
+
+Sai chất lượng, thiếu số lượng và vi phạm nghĩa vụ khác cũng cần xét thực hiện đúng theo điều kiện.
+
+</details>
+
+<details>
+<summary>rv-157 · Review liên quan</summary>
+
+1) **Công ty A ký hợp đồng mua bán hàng hóa với Công ty B để mua một số lượng hàng hóa. Hạn giao là ngày 18/9/2023. Đến ngày 26/9/2023, Công ty B mới giao hết hàng hóa cho Công ty A. Trong lúc lắp đặt phát hiện 20 máy bị hỏng, không chạy được. Giả sử không phát sinh thiệt hại nào khác, Công ty B có trách nhiệm pháp lý nào liên quan đến việc thực hiện hợp đồng?**
+
+**Ghi chú đối chiếu:** Xem xét buộc thực hiện đúng hợp đồng: sửa chữa/thay thế 20 máy hỏng; phạt chỉ nếu có thỏa thuận, bồi thường cần thiệt hại thực tế và nhân quả.
+
+Giao muộn 8 ngày là vi phạm thời hạn, 20 máy hỏng là vi phạm chất lượng. “Không thiệt hại khác” không xóa nghĩa vụ khắc phục; không tự suy có phạt hoặc mọi thiệt hại bằng 0 nếu bản thân hàng hỏng gây tổn thất chưa được xử lý.
+
+</details>
+
+<details>
+<summary>rv-217 · Review liên quan</summary>
+
+7. **Buộc tiếp tục thực hiện hợp đồng là trách nhiệm chỉ xảy ra khi bên vi phạm nghĩa vụ chậm thực hiện hợp đồng – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Sai. Buộc thực hiện đúng hợp đồng không chỉ áp dụng chậm thực hiện.
+
+Sai chất lượng, thiếu số lượng và vi phạm nghĩa vụ khác cũng cần xét thực hiện đúng theo điều kiện.
+
+</details>
+
+### Câu 219 · Vận dụng · Có trong slide
+
+Bên bán giao nguyên liệu chậm, không có căn cứ miễn trách nhiệm. Bên mua chứng minh đã chi thêm 18 triệu thuê máy để xử lý trực tiếp việc giao chậm; đồng thời yêu cầu 12 triệu là chi phí sửa mái kho do một trận mưa không liên quan đến vi phạm. Hợp đồng không có thỏa thuận phạt. Giả định 18 triệu là tổn thất vật chất thực tế có quan hệ nhân quả đầy đủ, yêu cầu nào có căn cứ theo dữ kiện?
+
+A. Bồi thường 18 triệu; không tính 12 triệu và không tự đặt tiền phạt
+
+B. Bồi thường đủ 30 triệu vì mọi khoản chi cùng thời gian đều được tính
+
+C. Phạt 8% dù hợp đồng không thỏa thuận phạt
+
+D. Không bồi thường vì không có điều khoản phạt
+
+**Đáp án:** Bồi thường 18 triệu; không tính 12 triệu và không tự đặt tiền phạt
+
+**Phân tích:** Lập từng dòng chi phí, kiểm tra ba điều kiện bồi thường. Dòng 18 triệu đủ, dòng 12 triệu thiếu liên hệ với vi phạm. Sau đó kiểm tra riêng điều khoản phạt, không cộng theo cảm tính.
+
+**Bẫy:** Không nhầm mọi chi phí phát sinh sau vi phạm với thiệt hại do vi phạm.
+
+**Lý thuyết:** Bồi thường cần hành vi vi phạm, thiệt hại thực tế và quan hệ nhân quả. Phạt vi phạm cần có thỏa thuận và vi phạm; không đồng nhất hai chế tài.
+
+**Bồi thường 18 triệu; không tính 12 triệu và không tự đặt tiền phạt — Đúng:** 18 triệu đủ vi phạm – thiệt hại thực tế – nhân quả. Khoản 12 triệu thiếu nhân quả; phạt thiếu thỏa thuận.
+
+**Bồi thường đủ 30 triệu vì mọi khoản chi cùng thời gian đều được tính — Sai:** Cùng thời gian không chứng minh quan hệ nhân quả.
+
+**Phạt 8% dù hợp đồng không thỏa thuận phạt — Sai:** Trần 8% không tự làm phát sinh chế tài phạt khi không có thỏa thuận.
+
+**Không bồi thường vì không có điều khoản phạt — Sai:** Bồi thường và phạt có căn cứ khác nhau; thiếu thỏa thuận phạt không tự loại bồi thường.
+
+**Chương 5, slide 24 · Nội dung trên slide**
+
+> * Phạt vi phạm + Khái niệm: Phạt vi phạm là sự thoả thuận giữa các bên trong HĐ, theo đó bên vi phạm nghĩa vụ phảI nộp một khoản tiền cho bên bị vi phạm. + Căn cứ áp dụng: Có hành vi vi phạm HĐ; Có thoả thuận trong hợp đồng về việc áp dụng chế tài phạt vi phạm. + Mức phạt: Do các bên thoả thuận nhưng không được quá 8% giá trị phần hợp đồng bị vi phạm. * Bồi thường thiệt hại + Khái niệm: BTTH là việc bên VP bồi thường những tổn thất vật chất do hành vi VP hợp đồng gây ra cho bên bị VP. + Căn cứ áp dụng: Có hành vi VP; Có thiệt hại thực tế xẩy ra; Có mối quan hệ nhân quả giữa hành vi VP và thiệt hại thực tế. + Mức bồi thường: Do các bên thoả thuận, nếu không thoả thuận phải BTTH toàn bộ thiệt hại. => Các bên có thể thoả thuận về nộp tiền phạt vi phạm và BTTH.
+
+<details>
+<summary>rv-157 · Review liên quan</summary>
+
+1) **Công ty A ký hợp đồng mua bán hàng hóa với Công ty B để mua một số lượng hàng hóa. Hạn giao là ngày 18/9/2023. Đến ngày 26/9/2023, Công ty B mới giao hết hàng hóa cho Công ty A. Trong lúc lắp đặt phát hiện 20 máy bị hỏng, không chạy được. Giả sử không phát sinh thiệt hại nào khác, Công ty B có trách nhiệm pháp lý nào liên quan đến việc thực hiện hợp đồng?**
+
+**Ghi chú đối chiếu:** Xem xét buộc thực hiện đúng hợp đồng: sửa chữa/thay thế 20 máy hỏng; phạt chỉ nếu có thỏa thuận, bồi thường cần thiệt hại thực tế và nhân quả.
+
+Giao muộn 8 ngày là vi phạm thời hạn, 20 máy hỏng là vi phạm chất lượng. “Không thiệt hại khác” không xóa nghĩa vụ khắc phục; không tự suy có phạt hoặc mọi thiệt hại bằng 0 nếu bản thân hàng hỏng gây tổn thất chưa được xử lý.
+
+</details>
+
+<details>
+<summary>rv-187 · Review liên quan</summary>
+
+13. **Phạt vi phạm chỉ xem xét thiệt hại của bên bị vi phạm mà không xem xét bên vi phạm – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Sai nếu lấy thiệt hại là điều kiện bắt buộc/phạm vi duy nhất của phạt vi phạm.
+
+Phạt cần vi phạm và thỏa thuận, không phải chứng minh thiệt hại giống bồi thường. Không đồng nhất trách nhiệm bồi thường với phạt.
+
+</details>
+
+<details>
+<summary>rv-252 · Review liên quan</summary>
+
+13. **Phạt vi phạm chỉ xem xét thiệt hại của bên bị vi phạm mà không xem xét bên vi phạm – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Sai nếu lấy thiệt hại là điều kiện bắt buộc/phạm vi duy nhất của phạt vi phạm.
+
+Phạt cần vi phạm và thỏa thuận, không phải chứng minh thiệt hại giống bồi thường. Không đồng nhất trách nhiệm bồi thường với phạt.
+
+</details>
+
+<details>
+<summary>rv-387 · Review liên quan</summary>
+
+13. **Phạt vi phạm chỉ xem xét thiệt hại của bên bị vi phạm mà không xem xét bên vi phạm – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Sai nếu lấy thiệt hại là điều kiện bắt buộc/phạm vi duy nhất của phạt vi phạm.
+
+Phạt cần vi phạm và thỏa thuận, không phải chứng minh thiệt hại giống bồi thường. Không đồng nhất trách nhiệm bồi thường với phạt.
+
+</details>
+
+### Câu 220 · Vận dụng · Có trong slide
+
+Ngày 1/6, Mai giao 2 triệu để bảo đảm sẽ ký hợp đồng thuê máy ảnh ngày 5/6. Khi ký hợp đồng, các bên trả lại khoản này và Mai giao một khoản 8 triệu mới, có mục đích duy nhất bảo đảm trả lại máy ảnh thuê nguyên vẹn, đúng hạn. Hai khoản có bản chất tương ứng nào?
+
+A. Cả hai luôn là ký cược chỉ vì cuối cùng có thuê máy ảnh
+
+B. Cả hai luôn là ký quỹ vì đều bằng tiền
+
+C. Khoản đầu là cầm giữ; khoản sau là bảo lãnh
+
+D. Khoản đầu là đặt cọc; khoản sau là ký cược
+
+**Đáp án:** Khoản đầu là đặt cọc; khoản sau là ký cược
+
+**Phân tích:** Bước 1: đọc mục đích khoản ngày 1/6. Bước 2: lưu ý khoản đó đã trả lại, không phải tự đổi tên. Bước 3: đọc mục đích duy nhất khoản mới và nhận diện động sản thuê.
+
+**Bẫy:** Không thấy “tiền thuê” là chọn ký cược cho tất cả các khoản tiền.
+
+**Lý thuyết:** Phân loại theo mục đích bảo đảm và quan hệ được bảo đảm. Đặt cọc có thể bảo đảm giao kết hoặc thực hiện; ký cược áp dụng bên thuê động sản để bảo đảm trả lại tài sản thuê.
+
+**Cả hai luôn là ký cược chỉ vì cuối cùng có thuê máy ảnh — Sai:** Trước khi ký, khoản đầu hướng tới giao kết, không phải khoản duy nhất bảo đảm trả lại động sản đã thuê.
+
+**Cả hai luôn là ký quỹ vì đều bằng tiền — Sai:** Không có gửi tiền vào tài khoản phong tỏa tại tổ chức tín dụng.
+
+**Khoản đầu là cầm giữ; khoản sau là bảo lãnh — Sai:** Không có chiếm giữ đối tượng hợp đồng song vụ do không thực hiện nghĩa vụ, cũng không có bên thứ ba cam kết thực hiện thay.
+
+**Khoản đầu là đặt cọc; khoản sau là ký cược — Đúng:** Khoản đầu bảo đảm giao kết nên là đặt cọc; khoản mới của bên thuê động sản nhằm bảo đảm trả lại tài sản nên là ký cược.
+
+**Chương 5, slide 15 · Nội dung trên slide**
+
+> Đặt cọc: là việc một bên (sau đây gọi là bên đặt cọc) giao cho bên kia (sau đây gọi là bên nhận đặt cọc) một khoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung là tài sản đặt cọc) trong một thời hạn để bảo đảm giao kết hoặc thực hiện hợp đồng. Ký cược: là việc bên thuê tài sản là động sản giao cho bên cho thuê một khoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung là tài sản ký cược) trong một thời hạn để bảo đảm việc trả lại tài sản thuê.
+
+<details>
+<summary>rv-175 · Review liên quan</summary>
+
+1. **Biện pháp nào bảo đảm việc giao kết hợp đồng?**\
+   A. Thế chấp\
+   B. Đặt cọc\
+   C. Ký quỹ\
+   D. Ký cược
+
+**Ghi chú đối chiếu:** B. Đặt cọc ở bản có A–D.
+
+Đặt cọc có thể bảo đảm giao kết hoặc thực hiện. Thế chấp bảo đảm nghĩa vụ, ký quỹ qua tài khoản phong tỏa, ký cược đặc trưng thuê động sản/hoàn trả.
+
+</details>
+
+<details>
+<summary>rv-184 · Review liên quan</summary>
+
+10. **A muốn thuê sách. Hiệu sách yêu cầu A đưa một khoản tiền bằng giá bìa của sách để bảo đảm sách không bị hỏng và được trả đúng hạn. Đây là biện pháp bảo đảm nào?**\
+    A. Cầm cố\
+    B. Thế chấp\
+    C. Đặt cọc\
+    D. Cầm giữ
+
+**Ghi chú đối chiếu:** Ký cược theo tình huống đặc trưng bảo đảm trả lại sách thuê; danh sách A–D review thiếu phương án này.
+
+A cầm cố phải giao tài sản làm bảo đảm nghĩa vụ khác; B thế chấp không giao tài sản; C đặt cọc có phạm vi chung nhưng không phải phương án đặc trưng khi hỏi trả tài sản thuê động sản; D cầm giữ là quyền giữ đối tượng đang chiếm giữ hợp pháp khi nghĩa vụ đến hạn không được thực hiện. Không ép chọn C vì thiếu ký cược.
+
+</details>
+
+<details>
+<summary>rv-240 · Review liên quan</summary>
+
+1. **Biện pháp nào bảo đảm việc giao kết hợp đồng?**\
+   A. Thế chấp\
+   B. Đặt cọc\
+   C. Ký quỹ\
+   D. Ký cược
+
+**Ghi chú đối chiếu:** B. Đặt cọc ở bản có A–D.
+
+Đặt cọc có thể bảo đảm giao kết hoặc thực hiện. Thế chấp bảo đảm nghĩa vụ, ký quỹ qua tài khoản phong tỏa, ký cược đặc trưng thuê động sản/hoàn trả.
+
+</details>
+
+<details>
+<summary>rv-249 · Review liên quan</summary>
+
+10. **A muốn thuê sách. Hiệu sách yêu cầu A đưa một khoản tiền bằng giá bìa sách để bảo đảm sách không bị hỏng và được trả đúng hạn. Hỏi đây là biện pháp bảo đảm nào?**\
+    A. Cầm cố\
+    B. Thế chấp\
+    C. Đặt cọc\
+    D. Cầm giữ
+
+**Ghi chú đối chiếu:** Ký cược theo tình huống đặc trưng bảo đảm trả lại sách thuê; danh sách A–D review thiếu phương án này.
+
+A cầm cố phải giao tài sản làm bảo đảm nghĩa vụ khác; B thế chấp không giao tài sản; C đặt cọc có phạm vi chung nhưng không phải phương án đặc trưng khi hỏi trả tài sản thuê động sản; D cầm giữ là quyền giữ đối tượng đang chiếm giữ hợp pháp khi nghĩa vụ đến hạn không được thực hiện. Không ép chọn C vì thiếu ký cược.
+
+</details>
+
+<details>
+<summary>rv-271 · Review liên quan</summary>
+
+17. **Cầm cố có thể được áp dụng để bảo đảm giao kết hợp đồng – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Slide trực tiếp xác định đặt cọc bảo đảm giao kết; không chứng minh lệnh cấm tuyệt đối mọi cầm cố cho mọi nghĩa vụ liên quan trước hợp đồng.
+
+Cầm cố bảo đảm thực hiện nghĩa vụ theo điều kiện BLDS. Câu gốc thiếu cấu trúc nghĩa vụ cụ thể; bài luyện hỏi biện pháp đặc trưng bảo đảm giao kết là đặt cọc, không chấm một lệnh cấm rộng không có căn cứ.
+
+</details>
+
+<details>
+<summary>rv-285 · Review liên quan</summary>
+
+31. **Biện pháp nào bảo đảm việc giao kết hợp đồng?**
+
+**Ghi chú đối chiếu:** B. Đặt cọc ở bản có A–D.
+
+Đặt cọc có thể bảo đảm giao kết hoặc thực hiện. Thế chấp bảo đảm nghĩa vụ, ký quỹ qua tài khoản phong tỏa, ký cược đặc trưng thuê động sản/hoàn trả.
+
+</details>
+
+<details>
+<summary>rv-375 · Review liên quan</summary>
+
+1. **Biện pháp nào bảo đảm việc giao kết hợp đồng?**\
+   A. Thế chấp\
+   B. Đặt cọc\
+   C. Ký quỹ\
+   D. Ký cược
+
+**Ghi chú đối chiếu:** B. Đặt cọc ở bản có A–D.
+
+Đặt cọc có thể bảo đảm giao kết hoặc thực hiện. Thế chấp bảo đảm nghĩa vụ, ký quỹ qua tài khoản phong tỏa, ký cược đặc trưng thuê động sản/hoàn trả.
+
+</details>
+
+<details>
+<summary>rv-384 · Review liên quan</summary>
+
+10. **A muốn thuê sách. Hiệu sách yêu cầu A đưa một khoản tiền bằng giá bìa sách để bảo đảm sách không bị hỏng và được trả đúng hạn. Hỏi đây là biện pháp bảo đảm nào?**\
+    A. Cầm cố\
+    B. Thế chấp\
+    C. Đặt cọc\
+    D. Cầm giữ
+
+**Ghi chú đối chiếu:** Ký cược theo tình huống đặc trưng bảo đảm trả lại sách thuê; danh sách A–D review thiếu phương án này.
+
+A cầm cố phải giao tài sản làm bảo đảm nghĩa vụ khác; B thế chấp không giao tài sản; C đặt cọc có phạm vi chung nhưng không phải phương án đặc trưng khi hỏi trả tài sản thuê động sản; D cầm giữ là quyền giữ đối tượng đang chiếm giữ hợp pháp khi nghĩa vụ đến hạn không được thực hiện. Không ép chọn C vì thiếu ký cược.
+
+</details>
+
+<details>
+<summary>rv-401 · Review liên quan</summary>
+
+8) **Sinh viên A có nhu cầu thuê sách. Chủ tiệm sách yêu cầu A phải để lại một khoản tiền bằng giá bìa của quyển sách để bảo đảm A sẽ trả sách đúng hạn và sách không bị hư hại, rách nát. Đây là biện pháp bảo đảm thực hiện hợp đồng nào?**
+
+**Ghi chú đối chiếu:** Ký cược.
+
+Thuê sách là thuê động sản; mục đích bảo đảm trả sách đúng hạn/nguyên vẹn. Khác câu 184 có lựa chọn thiếu ký cược.
+
+</details>
+
+### Câu 221 · Nhận biết · Có trong slide
 
 Đặt cọc có thể bảo đảm giai đoạn nào?
 
@@ -13643,7 +15951,7 @@ Cầm cố bảo đảm thực hiện nghĩa vụ theo điều kiện BLDS. Câu
 
 </details>
 
-### Câu 199 · Thông hiểu · Có trong slide
+### Câu 222 · Thông hiểu · Có trong slide
 
 Bảo lưu quyền sở hữu chỉ áp dụng mua bán hàng hóa thương mại, không áp dụng mua bán tài sản khác.
 
@@ -13715,7 +16023,7 @@ B. Sai
 
 </details>
 
-### Câu 200 · Thông hiểu · Bổ sung từ leak/review
+### Câu 223 · Thông hiểu · Bổ sung từ leak/review
 
 Các bên có thể dùng nhiều biện pháp bảo đảm hợp pháp cho cùng một nghĩa vụ, nếu đáp ứng điều kiện riêng của từng biện pháp.
 
@@ -13791,7 +16099,7 @@ Không phải mọi biện pháp đều thích hợp mọi hợp đồng; ký c�
 
 ## 9. Thực hiện, vi phạm và vô hiệu hợp đồng
 
-### Câu 201 · Vận dụng · Có trong slide
+### Câu 224 · Vận dụng · Có trong slide
 
 Hợp đồng có hình thức bắt buộc theo luật. Hai bên sửa nội dung. Nguyên tắc hình thức sửa đổi?
 
@@ -13857,7 +16165,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 202 · Vận dụng · Có trong slide
+### Câu 225 · Vận dụng · Có trong slide
 
 Giá nguyên liệu tăng, bên bán tự nâng giá hợp đồng mà không có căn cứ thỏa thuận hoặc luật. Đánh giá?
 
@@ -13923,7 +16231,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 203 · Thông hiểu · Có trong slide
+### Câu 226 · Thông hiểu · Có trong slide
 
 Một bên chết có tự làm mọi hợp đồng của họ chấm dứt?
 
@@ -13989,7 +16297,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 204 · Thông hiểu · Có trong slide
+### Câu 227 · Thông hiểu · Có trong slide
 
 Hai bên thỏa thuận giao hàng trễ hơn 10 ngày là điều kiện hủy bỏ hợp đồng. Bên bán vi phạm đúng điều kiện này. Bên mua có căn cứ nào để xử lý?
 
@@ -14055,7 +16363,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 205 · Thông hiểu · Có trong slide
+### Câu 228 · Thông hiểu · Có trong slide
 
 Việc các bên hoàn thành đầy đủ hợp đồng thuộc trường hợp pháp lý nào?
 
@@ -14121,7 +16429,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 206 · Vận dụng · Có trong slide
+### Câu 229 · Vận dụng · Có trong slide
 
 Bên mua yêu cầu 100 triệu thiệt hại nhưng không chứng minh tổn thất hoặc quan hệ nhân quả. Điểm cần bổ sung?
 
@@ -14187,7 +16495,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 207 · Thông hiểu · Có trong slide
+### Câu 230 · Thông hiểu · Có trong slide
 
 Nhóm nào gồm bốn căn cứ miễn trách nhiệm do vi phạm hợp đồng?
 
@@ -14253,7 +16561,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 208 · Thông hiểu · Có trong slide
+### Câu 231 · Thông hiểu · Có trong slide
 
 Vi phạm xảy ra do thực hiện quyết định của cơ quan quản lý có thẩm quyền. Cần thêm điều kiện nào để xem xét căn cứ miễn trách nhiệm này?
 
@@ -14319,7 +16627,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 209 · Nhận biết · Có trong slide
+### Câu 232 · Nhận biết · Có trong slide
 
 Trần lãi thỏa thuận vay dân sự thông thường theo Điều 468, không có luật khác là?
 
@@ -14385,7 +16693,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 210 · Vận dụng · Có trong slide
+### Câu 233 · Vận dụng · Có trong slide
 
 Vay dân sự 1 tỷ, lãi hợp lệ 12%/năm, trong 6 tháng; tính đơn giản, chưa quá hạn. Lãi là bao nhiêu?
 
@@ -14451,7 +16759,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 211 · Nhận biết · Có trong slide
+### Câu 234 · Nhận biết · Có trong slide
 
 Có thỏa thuận trả lãi nhưng không xác định rõ lãi suất, có tranh chấp; mức giới hạn hiện là 20%/năm. Mức theo Điều 468 là?
 
@@ -14517,7 +16825,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 212 · Vận dụng · Có trong slide
+### Câu 235 · Vận dụng · Có trong slide
 
 Nợ gốc quá hạn 100 triệu của vay có lãi 12%/năm, chậm trả 1 năm, không thỏa thuận khác. Lãi trên gốc quá hạn theo quy tắc 150% là?
 
@@ -14583,7 +16891,7 @@ Hình thức là điều kiện khi luật yêu cầu; còn cơ chế công nh�
 
 </details>
 
-### Câu 213 · Vận dụng · Có trong slide
+### Câu 236 · Vận dụng · Có trong slide
 
 Ngay khi giao kết, đối tượng hợp đồng không thể thực hiện được. Cần xét căn cứ nào?
 
@@ -14667,7 +16975,7 @@ Mệnh đề đầu về không làm phát sinh quyền/nghĩa vụ từ giao k�
 
 </details>
 
-### Câu 214 · Thông hiểu · Có trong slide
+### Câu 237 · Thông hiểu · Có trong slide
 
 Hợp đồng được xác lập một cách giả tạo thuộc nhóm căn cứ pháp lý nào?
 
@@ -14751,7 +17059,7 @@ Mệnh đề đầu về không làm phát sinh quyền/nghĩa vụ từ giao k�
 
 </details>
 
-### Câu 215 · Thông hiểu · Có trong slide
+### Câu 238 · Thông hiểu · Có trong slide
 
 Một bên giao kết hợp đồng do bị lừa dối. Cần xem xét căn cứ nào về hiệu lực hợp đồng?
 
@@ -14835,7 +17143,7 @@ Mệnh đề đầu về không làm phát sinh quyền/nghĩa vụ từ giao k�
 
 </details>
 
-### Câu 216 · Thông hiểu · Có trong slide
+### Câu 239 · Thông hiểu · Có trong slide
 
 Chỉ một phần nội dung hợp đồng không được công nhận giá trị pháp lý. Dạng vô hiệu này được gọi là gì?
 
@@ -14919,7 +17227,7 @@ Mệnh đề đầu về không làm phát sinh quyền/nghĩa vụ từ giao k�
 
 </details>
 
-### Câu 217 · Vận dụng · Có trong slide
+### Câu 240 · Vận dụng · Có trong slide
 
 Bên ngay tình đã thu hoa lợi, lợi tức từ tài sản trong giao dịch sau đó bị vô hiệu. Nghĩa vụ đối với hoa lợi, lợi tức đã thu được xác định như thế nào?
 
@@ -15003,7 +17311,7 @@ Mệnh đề đầu về không làm phát sinh quyền/nghĩa vụ từ giao k�
 
 </details>
 
-### Câu 218 · Thông hiểu · Có trong slide
+### Câu 241 · Thông hiểu · Có trong slide
 
 Trong vô hiệu, bồi thường thiệt hại có tự chia đều cho mọi bên bất kể lỗi?
 
@@ -15087,7 +17395,7 @@ Mệnh đề đầu về không làm phát sinh quyền/nghĩa vụ từ giao k�
 
 </details>
 
-### Câu 219 · Thông hiểu · Có trong slide
+### Câu 242 · Thông hiểu · Có trong slide
 
 Hợp đồng thương mại thông thường thuộc giới hạn 8% mà thỏa thuận phạt 12% thì bên bị vi phạm đương nhiên thu đủ 12%.
 
@@ -15168,7 +17476,7 @@ Review chưa nêu rõ luật áp dụng. Cần xác định thương mại và n
 
 </details>
 
-### Câu 220 · Thông hiểu · Bổ sung từ leak/review
+### Câu 243 · Thông hiểu · Bổ sung từ leak/review
 
 Buộc thực hiện đúng hợp đồng chỉ áp dụng khi bên vi phạm giao hàng chậm, không áp dụng hàng sai chất lượng.
 
@@ -15216,7 +17524,7 @@ Sai chất lượng, thiếu số lượng và vi phạm nghĩa vụ khác cũng
 
 </details>
 
-### Câu 221 · Thông hiểu · Có trong slide
+### Câu 244 · Thông hiểu · Có trong slide
 
 Hợp đồng thương mại áp dụng giới hạn phạt 8%, có giá trị 2 tỷ đồng; phần nghĩa vụ vi phạm trị giá 350 triệu đồng. Mức phạt tối đa là bao nhiêu?
 
@@ -15259,7 +17567,7 @@ Nguyên văn chỉ “8% giá trị” thiếu mẫu số; không học thành 8
 
 </details>
 
-### Câu 222 · Vận dụng · Có trong slide
+### Câu 245 · Vận dụng · Có trong slide
 
 Bên bán vi phạm hợp đồng có thỏa thuận phạt hợp lệ nhưng bên mua không có thiệt hại thực tế. Chỉ theo các căn cứ trong slide, nhận định nào đúng?
 
@@ -15335,7 +17643,7 @@ Phạt cần vi phạm và thỏa thuận, không phải chứng minh thiệt h�
 
 </details>
 
-### Câu 223 · Nhận biết · Có trong slide
+### Câu 246 · Nhận biết · Có trong slide
 
 Trần phạt LTM thông thường tính trên cơ sở nào?
 
@@ -15378,7 +17686,7 @@ Nguyên văn chỉ “8% giá trị” thiếu mẫu số; không học thành 8
 
 </details>
 
-### Câu 224 · Thông hiểu · Có trong slide
+### Câu 247 · Thông hiểu · Có trong slide
 
 Phạt vi phạm có bắt buộc chứng minh thiệt hại thực tế giống bồi thường?
 
@@ -15443,7 +17751,7 @@ Phạt cần vi phạm và thỏa thuận, không phải chứng minh thiệt h�
 
 </details>
 
-### Câu 225 · Vận dụng · Có trong slide
+### Câu 248 · Vận dụng · Có trong slide
 
 Đối tượng hợp đồng không còn nên hợp đồng không thể thực hiện được. Theo bài giảng, bên nào nói đúng?
 
@@ -15486,7 +17794,7 @@ Nhưng vẫn có nghĩa vụ hoàn trả và bồi thường do vô hiệu khi c
 
 </details>
 
-### Câu 226 · Vận dụng · Có trong slide
+### Câu 249 · Vận dụng · Có trong slide
 
 Sau khi giao dịch bị xác định vô hiệu, một bên không thể hoàn trả tài sản đã nhận bằng hiện vật. Nghĩa vụ hoàn trả xác định thế nào?
 
@@ -15529,7 +17837,7 @@ Nhưng vẫn có nghĩa vụ hoàn trả và bồi thường do vô hiệu khi c
 
 </details>
 
-### Câu 227 · Thông hiểu · Có trong slide
+### Câu 250 · Thông hiểu · Có trong slide
 
 Hai bên thống nhất kết thúc một hợp đồng còn hiệu lực dù chưa thực hiện hết. Đây thuộc căn cứ chấm dứt nào?
 
@@ -15594,7 +17902,7 @@ Chiều ngược “mọi thỏa thuận đều hợp đồng” sai.
 
 </details>
 
-### Câu 228 · Thông hiểu · Có trong slide
+### Câu 251 · Thông hiểu · Có trong slide
 
 Hậu quả cơ bản của giao dịch vô hiệu là gì?
 
@@ -15637,7 +17945,7 @@ Nhưng vẫn có nghĩa vụ hoàn trả và bồi thường do vô hiệu khi c
 
 </details>
 
-### Câu 229 · Thông hiểu · Bổ sung từ leak/review
+### Câu 252 · Thông hiểu · Bổ sung từ leak/review
 
 Hợp đồng tặng cho không có điều kiện, bên nhận không phải thực hiện nghĩa vụ đối ứng, là ví dụ hợp đồng đơn vụ.
 
@@ -15682,7 +17990,7 @@ A lao động và B mua bán thường song vụ. D không nhớ, không tự ch
 
 ## 10. Tổ chức lại và giải thể
 
-### Câu 230 · Vận dụng · Có trong slide
+### Câu 253 · Vận dụng · Có trong slide
 
 Sau quyết định giải thể, doanh nghiệp muốn vay thêm để mở dây chuyền mới, không phục vụ giải thể. Nhận định?
 
@@ -15726,7 +18034,7 @@ Review gợi ý “Thành viên hợp danh” phản ánh luật cũ. Chương 4
 
 </details>
 
-### Câu 231 · Vận dụng · Có trong slide
+### Câu 254 · Vận dụng · Có trong slide
 
 Sau quyết định giải thể, công ty bán hàng tồn để trả nợ nhưng không tẩu tán hoặc bán giả tạo. Phải phân biệt với hành vi nào?
 
@@ -15774,7 +18082,7 @@ Review gợi ý “Thành viên hợp danh” phản ánh luật cũ. Chương 4
 
 </details>
 
-### Câu 232 · Vận dụng · Có trong slide
+### Câu 255 · Vận dụng · Có trong slide
 
 B sáp nhập vào A. Kết quả về tồn tại công ty nào đúng?
 
@@ -15817,7 +18125,7 @@ TNHH, CTCP, hợp danh là công ty; DNTN không phải công ty. Nếu đề đ
 
 </details>
 
-### Câu 233 · Thông hiểu · Có trong slide
+### Câu 256 · Thông hiểu · Có trong slide
 
 Doanh nghiệp tư nhân có thể chuyển đổi sang những loại hình công ty nào?
 
@@ -15860,7 +18168,7 @@ TNHH, CTCP, hợp danh là công ty; DNTN không phải công ty. Nếu đề đ
 
 </details>
 
-### Câu 234 · Vận dụng · Có trong slide
+### Câu 257 · Vận dụng · Có trong slide
 
 A và B hợp nhất thành C theo luật. Công ty nào tiếp tục và tiếp nhận nghĩa vụ?
 
@@ -15903,7 +18211,7 @@ TNHH, CTCP, hợp danh là công ty; DNTN không phải công ty. Nếu đề đ
 
 </details>
 
-### Câu 235 · Thông hiểu · Bổ sung từ leak/review
+### Câu 258 · Thông hiểu · Bổ sung từ leak/review
 
 Hai doanh nghiệp tư nhân được trực tiếp hợp nhất theo thủ tục hợp nhất công ty để thành TNHH hai thành viên.
 
@@ -15966,7 +18274,7 @@ Có thể xét chuyển đổi từng DNTN khi đủ điều kiện rồi thực
 
 </details>
 
-### Câu 236 · Vận dụng · Có trong slide
+### Câu 259 · Vận dụng · Có trong slide
 
 Công ty tách cho rằng nợ cũ chỉ thuộc công ty mới do hai bên tự thỏa thuận, chủ nợ chưa đồng ý. Cần xem xét gì?
 
@@ -16020,7 +18328,7 @@ Tách không làm A chấm dứt như chia. Không chỉ B và C; cần cả A. 
 
 </details>
 
-### Câu 237 · Thông hiểu · Bổ sung từ leak/review
+### Câu 260 · Thông hiểu · Bổ sung từ leak/review
 
 Cổ phần phổ thông không được chuyển đổi thành cổ phần ưu đãi.
 
@@ -16068,7 +18376,7 @@ Chỉnh thuật ngữ trong lời giải: cổ phần khác cổ phiếu. Chiề
 
 </details>
 
-### Câu 238 · Thông hiểu · Bổ sung từ leak/review
+### Câu 261 · Thông hiểu · Bổ sung từ leak/review
 
 Chủ tịch TNHH một thành viên do CTCP B sở hữu có thể tự quyết giải thể chỉ vì giữ chức Chủ tịch, không cần thẩm quyền của chủ sở hữu.
 
@@ -16122,7 +18430,7 @@ Phải xét ủy quyền/quyền được giao hợp lệ và điều lệ. Nế
 
 </details>
 
-### Câu 239 · Thông hiểu · Có trong slide
+### Câu 262 · Thông hiểu · Có trong slide
 
 Bị thu hồi đăng ký có làm doanh nghiệp được giải thể bỏ qua điều kiện trả nợ?
 
@@ -16169,7 +18477,7 @@ Có một quyết định giải thể chưa tự đủ hoàn tất xóa đăng 
 
 </details>
 
-### Câu 240 · Vận dụng · Có trong slide
+### Câu 263 · Vận dụng · Có trong slide
 
 A thuê sách, giao tiền bằng giá bìa cho hiệu sách nhằm bảo đảm trả sách đúng hạn và nguyên vẹn. Biện pháp phù hợp nhất là gì?
 
@@ -16269,7 +18577,7 @@ Thuê sách là thuê động sản; mục đích bảo đảm trả sách đún
 
 </details>
 
-### Câu 241 · Thông hiểu · Có trong slide
+### Câu 264 · Thông hiểu · Có trong slide
 
 Khi xem xét hạn chế cán bộ, công chức, viên chức thành lập, quản lý doanh nghiệp hoặc góp vốn, nhận định nào đúng nếu có ngoại lệ theo pháp luật về khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số?
 
@@ -16330,7 +18638,7 @@ B hợp danh có vai trò quản lý không được theo quy tắc thông thư�
 
 </details>
 
-### Câu 242 · Thông hiểu · Có trong slide
+### Câu 265 · Thông hiểu · Có trong slide
 
 Chia và tách TNHH hoặc CTCP khác nhau căn bản thế nào?
 
@@ -16379,7 +18687,7 @@ A và B không loại trừ nhau nên nếu đề một lựa chọn thì không
 
 </details>
 
-### Câu 243 · Thông hiểu · Có trong slide
+### Câu 266 · Thông hiểu · Có trong slide
 
 Sau quyết định giải thể có được ký hợp đồng mới trong mọi trường hợp không?
 
@@ -16425,7 +18733,7 @@ A tẩu tán bị cấm; B ký mới nói chung không đủ điều kiện ngo�
 
 </details>
 
-### Câu 244 · Nhận biết · Có trong slide
+### Câu 267 · Nhận biết · Có trong slide
 
 Thứ tự ưu tiên thanh toán các khoản nợ khi giải thể doanh nghiệp là gì?
 
@@ -16468,7 +18776,7 @@ D. Nợ lao động; nợ thuế; các khoản nợ khác
 
 </details>
 
-### Câu 245 · Vận dụng · Có trong slide
+### Câu 268 · Vận dụng · Có trong slide
 
 Khi giải thể, DN có nợ quyền lợi người lao động, nợ thuế và nợ mua nguyên liệu. Nhóm nợ mua nguyên liệu đứng ở đâu trong thứ tự nêu ở slide?
 
@@ -16511,7 +18819,7 @@ D. Không bao giờ phải trả
 
 </details>
 
-### Câu 246 · Vận dụng · Có trong slide
+### Câu 269 · Vận dụng · Có trong slide
 
 Công ty cổ phần chỉ còn 2 cổ đông suốt 7 tháng liên tục, trong khi số tối thiểu là 3, và không chuyển đổi loại hình. Cần xem xét căn cứ nào?
 
@@ -16556,7 +18864,7 @@ TNHH hai thành viên và hợp danh có tối thiểu 2 theo cấu trúc khác 
 
 ## 11. Thủ tục phục hồi
 
-### Câu 247 · Nhận biết · Bổ sung từ leak/review
+### Câu 270 · Nhận biết · Bổ sung từ leak/review
 
 Theo Luật Phục hồi, phá sản 2025 trong bài giảng, Hội đồng thành viên công ty hợp danh có nghĩa vụ yêu cầu phá sản khi công ty mất khả năng thanh toán.
 
@@ -16600,7 +18908,7 @@ Review gợi ý “Thành viên hợp danh” phản ánh luật cũ. Chương 4
 
 </details>
 
-### Câu 248 · Thông hiểu · Có trong slide
+### Câu 271 · Thông hiểu · Có trong slide
 
 Một người đủ năng lực hành vi và đạo đức tốt nhưng chưa có chứng chỉ vẫn đương nhiên đủ điều kiện hành nghề Quản tài viên.
 
@@ -16655,7 +18963,7 @@ Review đầu chỉ “hợp danh” là một đáp án trong lựa chọn; kh�
 
 </details>
 
-### Câu 249 · Vận dụng · Có trong slide
+### Câu 272 · Vận dụng · Có trong slide
 
 Một DNTN muốn hành nghề quản lý, thanh lý tài sản. Chủ doanh nghiệp có chứng chỉ Quản tài viên nhưng thuê một người không phải chủ làm Giám đốc. Điều kiện nhân sự được slide nêu đã đầy đủ chưa?
 
@@ -16718,7 +19026,7 @@ Review đầu chỉ “hợp danh” là một đáp án trong lựa chọn; kh�
 
 </details>
 
-### Câu 250 · Nhận biết · Có trong slide
+### Câu 273 · Nhận biết · Có trong slide
 
 Phục hồi theo định nghĩa Luật Phục hồi, phá sản 142/2025 cần gắn với điều kiện nào ngoài cải thiện khả năng thanh toán?
 
@@ -16776,7 +19084,7 @@ Khoản lợi tức trái phiếu đến hạn là nghĩa vụ thanh toán cần
 
 </details>
 
-### Câu 251 · Nhận biết · Có trong slide
+### Câu 274 · Nhận biết · Có trong slide
 
 Pháp luật phá sản điều chỉnh hai nhóm quan hệ nào được bài giảng nêu?
 
@@ -16869,7 +19177,225 @@ Các phương án còn lại thiếu nên chưa chọn một đáp án hoàn ch�
 
 </details>
 
-### Câu 252 · Nhận biết · Có trong slide
+### Câu 275 · Vận dụng · Có trong slide
+
+Trong thủ tục phục hồi độc lập, chủ nợ tham gia biểu quyết sửa phương án có tổng số nợ 8 tỷ; số nợ tán thành là 5,2 tỷ. Ở một thủ tục phá sản khác, tổng nợ không có bảo đảm là 10 tỷ, số nợ không bảo đảm tán thành nghị quyết là 6,4 tỷ; Hội nghị hợp lệ và các điều kiện khác đáp ứng. Chỉ xét ngưỡng biểu quyết, kết quả nào đúng?
+
+A. Phương án sửa của phục hồi đạt đúng 65%; nghị quyết phá sản chưa đạt vì chỉ 64%
+
+B. Cả hai đạt vì đều có hơn một nửa số nợ tán thành
+
+C. Cả hai chưa đạt vì phải trên 65%, bằng 65% chưa đủ
+
+D. Nghị quyết phá sản đạt nếu lấy 6,4 tỷ chia cho mẫu số 8 tỷ của vụ phục hồi
+
+**Đáp án:** Phương án sửa của phục hồi đạt đúng 65%; nghị quyết phá sản chưa đạt vì chỉ 64%
+
+**Phân tích:** Bước 1: đặt hai vụ vào hai dòng, giữ riêng mẫu số. Bước 2: tính 65% và 64%. Bước 3: đọc “từ” là bao gồm bằng. Đề chỉ hỏi ngưỡng; đạt ngưỡng chưa tự thay bước công nhận trong phục hồi.
+
+**Bẫy:** Không lấy mẫu số “nợ tham gia biểu quyết” của phục hồi áp máy móc cho tỷ lệ nghị quyết phá sản.
+
+**Lý thuyết:** Sửa phương án trong phục hồi: từ 65% tổng số nợ của chủ nợ tham gia biểu quyết tán thành, sau đó có bước công nhận. Trong phá sản, slide nêu từ 65% tổng số nợ không có bảo đảm tán thành nghị quyết.
+
+**Phương án sửa của phục hồi đạt đúng 65%; nghị quyết phá sản chưa đạt vì chỉ 64% — Đúng:** 5,2/8 = 65%, đạt “từ 65%”; 6,4/10 = 64%, chưa đạt. Hai thủ tục có mẫu số được bài giảng mô tả riêng.
+
+**Cả hai đạt vì đều có hơn một nửa số nợ tán thành — Sai:** Ngưỡng đang học là từ 65%, không phải đa số đơn giản trên 50%.
+
+**Cả hai chưa đạt vì phải trên 65%, bằng 65% chưa đủ — Sai:** Từ 65% bao gồm bằng 65%; không phải trên 65%.
+
+**Nghị quyết phá sản đạt nếu lấy 6,4 tỷ chia cho mẫu số 8 tỷ của vụ phục hồi — Sai:** Không thể dùng mẫu số của vụ khác hoặc của cơ chế khác.
+
+**Chương 4, slide 52 · Nội dung trên slide**
+
+> Điều kiện thông qua Nghị quyết của Hội nghị chủ nợ: Khi có số chủ nợ đại diện cho từ 65% tổng số nợ của chủ nợ tham gia biểu quyết tán thành
+
+**Chương 4, slide 52 · Ghi chú PowerPoint**
+
+> Lưu ý: Hội nghị chủ nợ biểu quyết thông qua phương án chưa có nghĩa là phương án đương nhiên có hiệu lực. Nghị quyết thông qua phương án chỉ có hiệu lực khi được Thẩm phán công nhận. Phục hồi là một cơ chế quyết định tập thể của các chủ nợ chứ không phải sự ưu ái đơn phương của Nhà nước dành cho doanh nghiệp mắc nợ.
+
+**Chương 4, slide 54 · Nội dung trên slide**
+
+> Bước 3: Thực hiện phương án phục hồi hoạt động kinh doanh Báo cáo định kỳ 3 tháng/ lần; Có thể sửa đổi, bổ sung phương án phục hồi hoạt động kinh doanh theo quy định
+
+**Chương 4, slide 54 · Ghi chú PowerPoint**
+
+> Điều 36 Nghị quyết về việc sửa đổi, bổ sung phương án phục hồi hoạt động kinh doanh được thông qua khi có số chủ nợ đại diện cho từ 65% tổng số nợ của chủ nợ tham gia biểu quyết tán thành. 3. Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản gửi văn bản đề nghị Thẩm phán ra quyết định công nhận nghị quyết về việc sửa đổi, bổ sung phương án phục hồi hoạt động kinh doanh. Quyết định công nhận được gửi cho doanh nghiệp, hợp tác xã, chủ nợ và Quản tài viên trong thời hạn 03 ngày làm việc kể từ ngày ra quyết định.
+
+**Chương 4, slide 72 · Nội dung trên slide**
+
+> Hội nghị chủ nợ Người có quyền tham gia HNCN: giống Thủ tục Phục hồi; Người có nghĩa vụ tham gia HNCN: + Người nộp đơn y/c áp dụng thủ tục phá sản, chủ DN hoặc người đại diện hợp pháp + Quản tài viên, DN quản lý, thanh lý tài sản Điều kiện thông qua Nghị quyết của HNCN: số chủ nợ đại diện cho từ 65% tổng số nợ không có bảo đảm trở lên biểu quyết tán thành.
+
+**Chương 4, slide 72 · Ghi chú PowerPoint**
+
+> y/c sv nhắc lại
+
+**Chương 4, slide 75 · Nội dung trên slide**
+
+> Hội nghị chủ nợ Điều kiện thông qua Nghị quyết của HNCN: số chủ nợ đại diện cho từ 65% tổng số nợ không có bảo đảm trở lên biểu quyết tán thành.
+
+**Chương 4, slide 75 · Ghi chú PowerPoint**
+
+> y/c sv nhắc lại
+
+<details>
+<summary>rv-048 · Review liên quan</summary>
+
+24. **Hội nghị chủ nợ hợp lệ khi nào?**
+
+**Ghi chú đối chiếu:** Không dùng gợi ý 51% nợ không bảo đảm làm điều kiện chung của Hội nghị theo bài giảng luật 2025.
+
+51% tổng nợ không bảo đảm là mốc dễ gắn điều kiện hợp lệ của Luật Phá sản 2014, hoặc ngưỡng nghị quyết phá sản rút gọn trong luật mới (cách tính riêng). Điều 61 luật 2025 dùng 65% cho thông qua nghị quyết phá sản thông thường; phục hồi Điều 33 dùng 65% nợ người tham gia biểu quyết. Không biến tỷ lệ thông qua thành một ngưỡng “hợp lệ” giả.
+
+</details>
+
+<details>
+<summary>rv-128 · Review liên quan</summary>
+
+17. Trong quá trình phục hồi, nếu doanh nghiệp có thay đổi phương án phục hồi thì không cần phải báo lại với chủ nợ (Đúng/Sai).
+
+**Ghi chú đối chiếu:** Sai. Không được tự sửa phương án mà bỏ thủ tục với chủ nợ/Tòa án.
+
+Phải tuân thủ cơ chế sửa đổi, thông qua và công nhận, báo cáo giám sát theo luật; không chỉ thông báo một chiều là xong.
+
+</details>
+
+<details>
+<summary>rv-159 · Review liên quan</summary>
+
+3) **Hội nghị chủ nợ hợp pháp khi nào?**\
+   &#x20;  Ghi chú trong nguồn: **51% tổng nợ không bảo đảm.**
+
+**Ghi chú đối chiếu:** Không dùng gợi ý 51% nợ không bảo đảm làm điều kiện chung của Hội nghị theo bài giảng luật 2025.
+
+51% tổng nợ không bảo đảm là mốc dễ gắn điều kiện hợp lệ của Luật Phá sản 2014, hoặc ngưỡng nghị quyết phá sản rút gọn trong luật mới (cách tính riêng). Điều 61 luật 2025 dùng 65% cho thông qua nghị quyết phá sản thông thường; phục hồi Điều 33 dùng 65% nợ người tham gia biểu quyết. Không biến tỷ lệ thông qua thành một ngưỡng “hợp lệ” giả.
+
+</details>
+
+<details>
+<summary>rv-167 · Review liên quan</summary>
+
+5. Phương án phục hồi hoạt động kinh doanh được thông qua khi đạt tỷ lệ biểu quyết như thế nào? (Trắc nghiệm)
+
+**Ghi chú đối chiếu:** Thông thường: chủ nợ đại diện từ 65% tổng số nợ của các chủ nợ tham gia biểu quyết tán thành.
+
+Phục hồi rút gọn có mốc 51% với mẫu số tương ứng. Không trộn 65% nợ không bảo đảm của nghị quyết phá sản thông thường.
+
+</details>
+
+<details>
+<summary>rv-229 · Review liên quan</summary>
+
+19. **Trong quá trình phục hồi, nếu doanh nghiệp có thay đổi phương án phục hồi thì không cần phải báo lại với chủ nợ – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Sai. Không được tự sửa phương án mà bỏ thủ tục với chủ nợ/Tòa án.
+
+Phải tuân thủ cơ chế sửa đổi, thông qua và công nhận, báo cáo giám sát theo luật; không chỉ thông báo một chiều là xong.
+
+</details>
+
+<details>
+<summary>rv-397 · Review liên quan</summary>
+
+4) **Trong thủ tục phục hồi, nghị quyết của Hội nghị chủ nợ về phương án phục hồi được thông qua khi nào?**\
+   *Đáp án gợi ý trong nguồn: Từ 65% tổng số nợ của các chủ nợ tham gia biểu quyết.*
+
+**Ghi chú đối chiếu:** Thông thường: chủ nợ đại diện từ 65% tổng số nợ của các chủ nợ tham gia biểu quyết tán thành.
+
+Phục hồi rút gọn có mốc 51% với mẫu số tương ứng. Không trộn 65% nợ không bảo đảm của nghị quyết phá sản thông thường.
+
+</details>
+
+### Câu 276 · Vận dụng · Có trong slide
+
+Trong Hội nghị chủ nợ của thủ tục phục hồi, năm chủ nợ tham gia biểu quyết có số nợ lần lượt 5, 2, 1, 1 và 1 tỷ đồng. Chủ nợ 5 tỷ và chủ nợ 2 tỷ tán thành; ba người còn lại phản đối. Hội nghị đáp ứng các điều kiện khác, nhưng Thẩm phán chưa công nhận nghị quyết. Kết luận nào đúng?
+
+A. Không đạt vì chỉ 2/5 chủ nợ tán thành
+
+B. Đã có hiệu lực ngay vì đạt 70% theo số nợ
+
+C. Đạt vì có một chủ nợ nắm 50%, không cần xét tổng số nợ tán thành
+
+D. Đạt ngưỡng tán thành 70% theo số nợ nhưng nghị quyết chưa có hiệu lực khi chưa được Thẩm phán công nhận
+
+**Đáp án:** Đạt ngưỡng tán thành 70% theo số nợ nhưng nghị quyết chưa có hiệu lực khi chưa được Thẩm phán công nhận
+
+**Phân tích:** Bước 1: cộng mẫu số 10 tỷ. Bước 2: cộng tử số 7 tỷ, chia được 70%. Bước 3: kiểm tra bước công nhận riêng; không kết luận đủ hiệu lực chỉ từ tỷ lệ.
+
+**Bẫy:** Đừng đếm đầu người; đừng gộp thông qua và công nhận thành cùng một thời điểm.
+
+**Lý thuyết:** Trong phục hồi: nghị quyết được thông qua với số chủ nợ đại diện từ 65% tổng số nợ của chủ nợ tham gia biểu quyết tán thành. Nghị quyết thông qua phương án chỉ có hiệu lực khi được Thẩm phán công nhận.
+
+**Không đạt vì chỉ 2/5 chủ nợ tán thành — Sai:** Đề dùng tỷ lệ giá trị nợ, không dùng tỷ lệ số người.
+
+**Đã có hiệu lực ngay vì đạt 70% theo số nợ — Sai:** Đạt ngưỡng biểu quyết và có hiệu lực nghị quyết là hai bước khác nhau.
+
+**Đạt vì có một chủ nợ nắm 50%, không cần xét tổng số nợ tán thành — Sai:** 50% của một chủ nợ chưa đạt 65%; phải cộng nợ của tất cả người tán thành.
+
+**Đạt ngưỡng tán thành 70% theo số nợ nhưng nghị quyết chưa có hiệu lực khi chưa được Thẩm phán công nhận — Đúng:** Tổng nợ tham gia biểu quyết là 10 tỷ; tán thành 7 tỷ, đạt từ 65%. Ghi chú slide yêu cầu Thẩm phán công nhận để có hiệu lực.
+
+**Chương 4, slide 52 · Nội dung trên slide**
+
+> Điều kiện thông qua Nghị quyết của Hội nghị chủ nợ: Khi có số chủ nợ đại diện cho từ 65% tổng số nợ của chủ nợ tham gia biểu quyết tán thành
+
+**Chương 4, slide 52 · Ghi chú PowerPoint**
+
+> Lưu ý: Hội nghị chủ nợ biểu quyết thông qua phương án chưa có nghĩa là phương án đương nhiên có hiệu lực. Nghị quyết thông qua phương án chỉ có hiệu lực khi được Thẩm phán công nhận. Phục hồi là một cơ chế quyết định tập thể của các chủ nợ chứ không phải sự ưu ái đơn phương của Nhà nước dành cho doanh nghiệp mắc nợ.
+
+**Chương 4, slide 53 · Nội dung trên slide**
+
+> Bước : Tổ chức Hội nghị chủ nợ Nghị quyết của Hội nghị chủ nợ có một trong các kết luận sau: Thông qua phương án phục hồi hoạt động kinh doanh; Đề nghị đình chỉ thủ tục phục hồi; Đề nghị áp dụng thủ tục phá sản trong trường hợp doanh nghiệp, hợp tác xã mất khả năng thanh toán và phải có nội dung về nghĩa vụ tạm ứng chi phí phá sản; Các nội dung khác
+
+**Chương 4, slide 53 · Ghi chú PowerPoint**
+
+> Khaonr 7 Điều 33 Nội dung khác: k2 Điều 33 Thẩm phán còn có thể triệu tập Hội nghị chủ nợ để xem xét, quyết định nội dung sau đây: a) Chuyển nhượng đồng bộ tài sản, chuyển nhượng một phần hoặc toàn bộ mảng kinh doanh, hoạt động kinh doanh; chuyển nhượng một phần hoặc toàn bộ doanh nghiệp, hợp tác xã; b) Đề xuất xử lý nghĩa vụ về tài sản của doanh nghiệp, hợp tác xã trong trường hợp bị tạm đình chỉ, tạm dừng theo quy định tại Điều 27 của Luật này; c) Các vấn đề khác có liên quan. Lưu ý: Hội nghị chủ nợ biểu quyết thông qua phương án chưa có nghĩa là phương án đương nhiên có hiệu lực. Nghị quyết thông qua phương án chỉ có hiệu lực khi được Thẩm phán công nhận. Phục hồi là một cơ chế quyết định tập thể của các chủ nợ chứ không phải sự ưu ái đơn phương của Nhà nước dành cho doanh nghiệp mắc nợ.
+
+<details>
+<summary>rv-048 · Review liên quan</summary>
+
+24. **Hội nghị chủ nợ hợp lệ khi nào?**
+
+**Ghi chú đối chiếu:** Không dùng gợi ý 51% nợ không bảo đảm làm điều kiện chung của Hội nghị theo bài giảng luật 2025.
+
+51% tổng nợ không bảo đảm là mốc dễ gắn điều kiện hợp lệ của Luật Phá sản 2014, hoặc ngưỡng nghị quyết phá sản rút gọn trong luật mới (cách tính riêng). Điều 61 luật 2025 dùng 65% cho thông qua nghị quyết phá sản thông thường; phục hồi Điều 33 dùng 65% nợ người tham gia biểu quyết. Không biến tỷ lệ thông qua thành một ngưỡng “hợp lệ” giả.
+
+</details>
+
+<details>
+<summary>rv-159 · Review liên quan</summary>
+
+3) **Hội nghị chủ nợ hợp pháp khi nào?**\
+   &#x20;  Ghi chú trong nguồn: **51% tổng nợ không bảo đảm.**
+
+**Ghi chú đối chiếu:** Không dùng gợi ý 51% nợ không bảo đảm làm điều kiện chung của Hội nghị theo bài giảng luật 2025.
+
+51% tổng nợ không bảo đảm là mốc dễ gắn điều kiện hợp lệ của Luật Phá sản 2014, hoặc ngưỡng nghị quyết phá sản rút gọn trong luật mới (cách tính riêng). Điều 61 luật 2025 dùng 65% cho thông qua nghị quyết phá sản thông thường; phục hồi Điều 33 dùng 65% nợ người tham gia biểu quyết. Không biến tỷ lệ thông qua thành một ngưỡng “hợp lệ” giả.
+
+</details>
+
+<details>
+<summary>rv-167 · Review liên quan</summary>
+
+5. Phương án phục hồi hoạt động kinh doanh được thông qua khi đạt tỷ lệ biểu quyết như thế nào? (Trắc nghiệm)
+
+**Ghi chú đối chiếu:** Thông thường: chủ nợ đại diện từ 65% tổng số nợ của các chủ nợ tham gia biểu quyết tán thành.
+
+Phục hồi rút gọn có mốc 51% với mẫu số tương ứng. Không trộn 65% nợ không bảo đảm của nghị quyết phá sản thông thường.
+
+</details>
+
+<details>
+<summary>rv-397 · Review liên quan</summary>
+
+4) **Trong thủ tục phục hồi, nghị quyết của Hội nghị chủ nợ về phương án phục hồi được thông qua khi nào?**\
+   *Đáp án gợi ý trong nguồn: Từ 65% tổng số nợ của các chủ nợ tham gia biểu quyết.*
+
+**Ghi chú đối chiếu:** Thông thường: chủ nợ đại diện từ 65% tổng số nợ của các chủ nợ tham gia biểu quyết tán thành.
+
+Phục hồi rút gọn có mốc 51% với mẫu số tương ứng. Không trộn 65% nợ không bảo đảm của nghị quyết phá sản thông thường.
+
+</details>
+
+### Câu 277 · Nhận biết · Có trong slide
 
 CTCP có nguy cơ mất khả năng thanh toán, còn khả năng phục hồi. Cơ quan nào của công ty có quyền yêu cầu áp dụng thủ tục phục hồi?
 
@@ -16942,7 +19468,7 @@ D. Mọi khách hàng của công ty
 
 </details>
 
-### Câu 253 · Vận dụng · Bổ sung từ leak/review
+### Câu 278 · Vận dụng · Bổ sung từ leak/review
 
 Ngân hàng cho vay 5 tỷ đồng, khoản vay được bảo đảm bằng tài sản có giá trị 3 tỷ đồng. Ngân hàng là chủ nợ gì?
 
@@ -17026,7 +19552,7 @@ Không phải tự “tài sản có bảo đảm một phần” là một lo�
 
 </details>
 
-### Câu 254 · Thông hiểu · Bổ sung từ leak/review
+### Câu 279 · Thông hiểu · Bổ sung từ leak/review
 
 Luật Phục hồi, phá sản 2025 hoàn toàn không áp dụng phá sản tổ chức tín dụng.
 
@@ -17198,7 +19724,7 @@ Không ép một đáp án đúng khi các lựa chọn thiếu đối tượng 
 
 </details>
 
-### Câu 255 · Thông hiểu · Có trong slide
+### Câu 280 · Thông hiểu · Có trong slide
 
 Tạo cơ hội phục hồi hoặc rút lui hợp pháp khỏi thị trường thể hiện pháp luật phá sản bảo vệ chủ thể nào?
 
@@ -17263,7 +19789,7 @@ D. Chỉ doanh nghiệp cạnh tranh
 
 </details>
 
-### Câu 256 · Thông hiểu · Có trong slide
+### Câu 281 · Thông hiểu · Có trong slide
 
 Doanh nghiệp đã mất khả năng thanh toán vẫn có thể yêu cầu thủ tục phục hồi khi còn khả năng phục hồi và thuộc phạm vi áp dụng.
 
@@ -17332,7 +19858,7 @@ B. Sai
 
 </details>
 
-### Câu 257 · Nhận biết · Có trong slide
+### Câu 282 · Nhận biết · Có trong slide
 
 Sau khi Tòa án thụ lý đơn yêu cầu phục hồi, thời hạn hoàn thiện phương án phục hồi là bao lâu?
 
@@ -17387,7 +19913,7 @@ Phục hồi có quyền, phá sản có trường hợp nghĩa vụ; đơn th�
 
 </details>
 
-### Câu 258 · Nhận biết · Có trong slide
+### Câu 283 · Nhận biết · Có trong slide
 
 Chủ thể nào trong các lựa chọn có quyền yêu cầu áp dụng thủ tục phục hồi?
 
@@ -17442,7 +19968,69 @@ Phục hồi có quyền, phá sản có trường hợp nghĩa vụ; đơn th�
 
 </details>
 
-### Câu 259 · Thông hiểu · Bổ sung từ leak/review
+### Câu 284 · Vận dụng · Có trong slide
+
+Sau quyết định mở thủ tục phá sản, nhà cung cấp đang có khoản nợ không bảo đảm phát sinh trước đó yêu cầu doanh nghiệp lập thế chấp bằng kho hàng thuộc sở hữu doanh nghiệp để biến nợ cũ thành nợ có bảo đảm, nhằm được ưu tiên hơn các chủ nợ khác. Không có ngoại lệ hoặc cơ chế được phép riêng nào. Doanh nghiệp nên xử lý thế nào?
+
+A. Bắt buộc giao kho ngay để thanh toán mọi nợ cũ không bảo đảm
+
+B. Không thực hiện việc chuyển nợ cũ không bảo đảm thành nợ có bảo đảm bằng tài sản doanh nghiệp trong tình huống này
+
+C. Được thực hiện nếu chủ nợ hứa không kiện
+
+D. Được thực hiện vì mở thủ tục phá sản không liên quan hoạt động tài sản
+
+**Đáp án:** Không thực hiện việc chuyển nợ cũ không bảo đảm thành nợ có bảo đảm bằng tài sản doanh nghiệp trong tình huống này
+
+**Phân tích:** Xác định đủ ba dấu hiệu: sau quyết định mở → nợ cũ không bảo đảm → dùng tài sản doanh nghiệp để nâng hạng. Đây là vấn đề bảo vệ khối tài sản, không chỉ là hai bên tự do thỏa thuận hợp đồng.
+
+**Bẫy:** Đừng suy kinh doanh tiếp tục bình thường nghĩa là được ký mọi giao dịch tài sản.
+
+**Lý thuyết:** Sau mở thủ tục phá sản, DN/HTX tiếp tục kinh doanh dưới giám sát; bị cấm các hành vi làm tổn hại khối tài sản và thứ tự chủ nợ, gồm nâng nợ không bảo đảm thành có bảo đảm bằng tài sản mình.
+
+**Bắt buộc giao kho ngay để thanh toán mọi nợ cũ không bảo đảm — Sai:** Không có quy tắc ưu tiên thanh toán tùy ý mọi nợ cũ không bảo đảm bằng kho tài sản.
+
+**Không thực hiện việc chuyển nợ cũ không bảo đảm thành nợ có bảo đảm bằng tài sản doanh nghiệp trong tình huống này — Đúng:** Slide cấm chuyển khoản nợ không bảo đảm thành có bảo đảm hoặc có bảo đảm một phần bằng tài sản DN/HTX sau quyết định mở thủ tục.
+
+**Được thực hiện nếu chủ nợ hứa không kiện — Sai:** Cam kết không kiện không tạo ngoại lệ cho hành vi bị cấm.
+
+**Được thực hiện vì mở thủ tục phá sản không liên quan hoạt động tài sản — Sai:** Hoạt động kinh doanh tiếp tục nhưng phải giám sát và tuân thủ các cấm tài sản.
+
+**Chương 4, slide 68 · Nội dung trên slide**
+
+> Bước 2: Mở thủ tục PS Kể từ sau khi có quyết định mở thủ tục phá sản, các hoạt động kinh doanh của doanh nghiệp, hợp tác xã tiến hành bình thường nhưng phải chịu sự giám sát.
+
+**Chương 4, slide 69 · Nội dung trên slide**
+
+> Bước 2: Mở thủ tục PS Hoạt động của DN, HTX bị cấm sau khi có quyết định mở thủ tục PS: Cất giấu, tẩu tán, tặng cho tài sản; Từ bỏ quyền đòi nợ Thanh toán khoản nợ không có bảo đảm, trừ khoản nợ không có bảo đảm phát sinh sau khi mở thủ tục phá sản và trả lương cho người lao động trong DN, HTX; Chuyển khoản nợ không có bảo đảm thành nợ có bảo đảm hoặc có bảo đảm một phần bằng tài sản của doanh nghiệp, hợp tác xã; Phân chia lợi nhuận, phân phối thu nhập
+
+**Chương 4, slide 69 · Ghi chú PowerPoint**
+
+> Khoản 2 Điều 42 Giống Phục hồi
+
+<details>
+<summary>rv-112 · Review liên quan</summary>
+
+1. Khoản nợ không được bảo đảm bằng tài sản của doanh nghiệp nhưng được bảo đảm bằng tài sản của người thứ 3 vẫn là khoản nợ không được bảo đảm. Đúng/Sai.
+
+**Ghi chú đối chiếu:** Sai nếu là bảo đảm bằng tài sản người thứ ba hợp pháp.
+
+Không có tài sản doanh nghiệp không đồng nghĩa không bảo đảm; phân biệt chỉ lời bảo lãnh với tài sản được dùng bảo đảm.
+
+</details>
+
+<details>
+<summary>rv-392 · Review liên quan</summary>
+
+3. **Sau khi Tòa án thụ lý đơn yêu cầu phục hồi, doanh nghiệp bị nghiêm cấm thực hiện việc tặng cho tài sản hoặc phân chia lợi nhuận – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Tặng cho bị cấm; phân chia lợi nhuận thuộc hạn chế nhưng có ngoại lệ được ghi trong notes theo luật/Thẩm phán.
+
+Nếu mệnh đề hiểu cấm tuyệt đối mọi trường hợp cả hai thì không đầy đủ. Nếu hỏi danh mục hành vi cấm theo slide rút gọn thì hướng đúng; phải giữ chú thích ngoại lệ để hiểu luật.
+
+</details>
+
+### Câu 285 · Thông hiểu · Bổ sung từ leak/review
 
 Khoản nợ được bảo đảm hợp pháp bằng tài sản người thứ ba vẫn luôn là nợ không có bảo đảm.
 
@@ -17477,7 +20065,7 @@ Không có tài sản doanh nghiệp không đồng nghĩa không bảo đảm; 
 
 </details>
 
-### Câu 260 · Vận dụng · Có trong slide
+### Câu 286 · Vận dụng · Có trong slide
 
 DN có nhiều nhà xưởng giá trị lớn nhưng không huy động được tiền, khoản nợ đến hạn không được trả đã quá 6 tháng. Chưa có quyết định tuyên bố phá sản. Cách phân tích nào đúng?
 
@@ -17543,7 +20131,7 @@ D. Tài sản lớn làm công ty được tự tuyên bố phá sản
 
 </details>
 
-### Câu 261 · Thông hiểu · Có trong slide
+### Câu 287 · Thông hiểu · Có trong slide
 
 Chuẩn bị Hội nghị chủ nợ trong phục hồi chỉ cần hoàn thiện danh sách nợ, không cần bảo vệ doanh nghiệp và tài sản. Nhận định phù hợp là gì?
 
@@ -17656,7 +20244,7 @@ Nếu mệnh đề hiểu cấm tuyệt đối mọi trường hợp cả hai th
 
 </details>
 
-### Câu 262 · Thông hiểu · Có trong slide
+### Câu 288 · Thông hiểu · Có trong slide
 
 Một phương án phục hồi chỉ nêu “sẽ cố gắng kinh doanh có lãi”, không nêu nguồn tiền hoặc lịch thanh toán. Điểm thiếu trọng tâm là gì?
 
@@ -17758,7 +20346,7 @@ Hồ sơ yêu cầu phục hồi phải có phương án và tài liệu; sau th
 
 </details>
 
-### Câu 263 · Nhận biết · Có trong slide
+### Câu 289 · Nhận biết · Có trong slide
 
 Hồ sơ yêu cầu phục hồi có cần phương án ngay khi nộp theo Luật Phục hồi, phá sản 142/2025?
 
@@ -17856,7 +20444,78 @@ Hồ sơ yêu cầu phục hồi phải có phương án và tài liệu; sau th
 
 </details>
 
-### Câu 264 · Vận dụng · Có trong slide
+### Câu 290 · Vận dụng · Có trong slide
+
+Danh sách chủ nợ trong thủ tục phục hồi có ngân hàng A. A không đến dự nhưng gửi ý kiến bằng văn bản cho Thẩm phán trước ngày Hội nghị. Người lao động ủy quyền hợp lệ bằng văn bản cho đại diện của mình dự vì doanh nghiệp nợ lương. Một khách hàng không có tên trong danh sách, không đại diện cho ai, cũng muốn được coi là chủ nợ dự họp chỉ vì thường mua hàng. Kết luận nào có căn cứ?
+
+A. Người lao động không thể cử đại diện trong mọi trường hợp
+
+B. A được coi như tham gia và biểu quyết; đại diện được ủy quyền của người lao động có quyền tham gia; khách hàng chưa đủ căn cứ từ dữ kiện
+
+C. Chỉ người có mặt trực tiếp mới được tham gia nên loại A
+
+D. Khách hàng thường xuyên đương nhiên có quyền biểu quyết như chủ nợ
+
+**Đáp án:** A được coi như tham gia và biểu quyết; đại diện được ủy quyền của người lao động có quyền tham gia; khách hàng chưa đủ căn cứ từ dữ kiện
+
+**Phân tích:** Xét từng người theo một căn cứ tư cách, rồi mới xét hình thức tham gia. Không bắt tất cả phải có mặt và không mở quyền cho mọi người có quan hệ thương mại với doanh nghiệp.
+
+**Bẫy:** Có quan hệ với doanh nghiệp khác với có quyền tham gia Hội nghị chủ nợ.
+
+**Lý thuyết:** Chủ nợ có tên trong danh sách có quyền tham gia; có thể ủy quyền hoặc gửi ý kiến văn bản trước Hội nghị. Đại diện người lao động được ủy quyền có quyền, nghĩa vụ như chủ nợ trong trường hợp được nêu.
+
+**Người lao động không thể cử đại diện trong mọi trường hợp — Sai:** Slide nêu đại diện cho người lao động, công đoàn, tổ chức người lao động được ủy quyền.
+
+**A được coi như tham gia và biểu quyết; đại diện được ủy quyền của người lao động có quyền tham gia; khách hàng chưa đủ căn cứ từ dữ kiện — Đúng:** A đáp ứng cơ chế gửi ý kiến trước Hội nghị trong ghi chú; người lao động có đại diện được ủy quyền; khách hàng không có tư cách được đề xác định.
+
+**Chỉ người có mặt trực tiếp mới được tham gia nên loại A — Sai:** Ghi chú cho phép ủy quyền hoặc gửi ý kiến đúng thời điểm.
+
+**Khách hàng thường xuyên đương nhiên có quyền biểu quyết như chủ nợ — Sai:** Quan hệ mua hàng không tự làm khách thành chủ nợ có tên trong danh sách hoặc đại diện hợp lệ.
+
+**Chương 4, slide 50 · Nội dung trên slide**
+
+> Bước 2: Tổ chức Hội nghị chủ nợ Người có quyền tham gia Hội nghị chủ nợ: Chủ nợ có tên trong danh sách chủ nợ; Đại diện cho người lao động, công đoàn, tổ chức của người lao động tại doanh nghiệp được người lao động ủy quyền.
+
+**Chương 4, slide 50 · Ghi chú PowerPoint**
+
+> Khoản 3 Điều 33 Chủ nợ có thể ủy quyền bằng văn bản cho người khác tham gia Hội nghị chủ nợ. Chủ nợ không tham gia Hội nghị chủ nợ nhưng có ý kiến bằng văn bản gửi cho Thẩm phán trước ngày tổ chức Hội nghị chủ nợ thì coi như tham gia và biểu quyết tại Hội nghị chủ nợ; Trường hợp này đại diện cho người lao động, công đoàn, tổ chức của người lao động tại doanh nghiệp có quyền, nghĩa vụ như chủ nợ.
+
+<details>
+<summary>rv-127 · Review liên quan</summary>
+
+16. Công ty A đang rơi vào tình trạng chuẩn bị phá sản. Công ty cổ phần MyĐinh cho Công ty A vay 6 tỷ, được cam kết trả = 8 tỷ. Ngân hàng thương mại C cho Công ty A vay 20 tỷ, Công ty A cam kết trả 12 tỷ. Công ty nào đó cho A vay 1 tỷ không được Công ty A đảm bảo bằng cái gì cả. Hỏi ai có quyền tham gia Hội nghị chủ nợ?
+
+**Ghi chú đối chiếu:** Các chủ nợ có tên trong danh sách theo luật, gồm có bảo đảm, một phần hoặc không bảo đảm đều có quyền tham gia; còn đại diện NLĐ theo điều kiện.
+
+“Cam kết trả 8 tỷ/12 tỷ” không cho biết giá trị tài sản bảo đảm. Không lấy số cam kết trả làm tài sản bảo đảm để phân loại. Cần danh sách chủ nợ và quan hệ thật, không suy ba loại chủ nợ từ dữ liệu này.
+
+</details>
+
+<details>
+<summary>rv-228 · Review liên quan</summary>
+
+18. **Công ty A đang rơi vào tình trạng chuẩn bị phá sản. Công ty cổ phần Mỹ Đình cho Công ty A vay 6 tỷ đồng, được cam kết trả 8 tỷ đồng. Ngân hàng thương mại C cho Công ty A vay 20 tỷ đồng, Công ty A cam kết trả 12 tỷ đồng. Một công ty khác cho Công ty A vay 1 tỷ đồng nhưng không được Công ty A bảo đảm bằng tài sản gì. Hỏi ai có quyền tham gia Hội nghị chủ nợ?**
+
+**Ghi chú đối chiếu:** Các chủ nợ có tên trong danh sách theo luật, gồm có bảo đảm, một phần hoặc không bảo đảm đều có quyền tham gia; còn đại diện NLĐ theo điều kiện.
+
+“Cam kết trả 8 tỷ/12 tỷ” không cho biết giá trị tài sản bảo đảm. Không lấy số cam kết trả làm tài sản bảo đảm để phân loại. Cần danh sách chủ nợ và quan hệ thật, không suy ba loại chủ nợ từ dữ liệu này.
+
+</details>
+
+<details>
+<summary>rv-322 · Review liên quan</summary>
+
+15. **Thành phần nào có quyền tham gia Hội nghị chủ nợ?**\
+    A. Đại diện cho người lao động...\
+    *Các phương án còn lại bị thiếu.*
+
+**Ghi chú đối chiếu:** Đại diện NLĐ theo điều kiện và các chủ nợ có trong danh sách là nhóm có quyền dự.
+
+Các phương án còn lại thiếu nên chưa chọn một đáp án hoàn chỉnh đề gốc.
+
+</details>
+
+### Câu 291 · Vận dụng · Có trong slide
 
 Trong thủ tục phục hồi, chủ nợ không trực tiếp dự Hội nghị nhưng gửi ý kiến bằng văn bản cho Thẩm phán trước ngày tổ chức. Ghi chú slide coi việc này thế nào?
 
@@ -17927,7 +20586,7 @@ Các phương án còn lại thiếu nên chưa chọn một đáp án hoàn ch�
 
 </details>
 
-### Câu 265 · Nhận biết · Có trong slide
+### Câu 292 · Nhận biết · Có trong slide
 
 Nhóm nào có nghĩa vụ tham gia Hội nghị chủ nợ trong phục hồi được bài giảng nêu?
 
@@ -17998,7 +20657,7 @@ Các phương án còn lại thiếu nên chưa chọn một đáp án hoàn ch�
 
 </details>
 
-### Câu 266 · Thông hiểu · Bổ sung từ leak/review
+### Câu 293 · Thông hiểu · Bổ sung từ leak/review
 
 Doanh nghiệp có thể tự sửa phương án phục hồi đã được công nhận mà không cần sự đồng ý theo thủ tục của chủ nợ.
 
@@ -18068,7 +20727,7 @@ Phải tuân thủ cơ chế sửa đổi, thông qua và công nhận, báo cá
 
 </details>
 
-### Câu 267 · Nhận biết · Có trong slide
+### Câu 294 · Nhận biết · Có trong slide
 
 Nghị quyết phục hồi rút gọn dùng tỷ lệ nào?
 
@@ -18122,7 +20781,7 @@ Không có ưu tiên “không phải trả nợ” hoặc đứng trước ngư
 
 </details>
 
-### Câu 268 · Thông hiểu · Bổ sung từ leak/review
+### Câu 295 · Thông hiểu · Bổ sung từ leak/review
 
 Luật Phá sản 2014 áp dụng thủ tục phá sản cho hộ kinh doanh như doanh nghiệp.
 
@@ -18155,7 +20814,7 @@ Phạm vi doanh nghiệp/HTX khác phạm vi toàn bộ chủ thể kinh doanh.
 
 </details>
 
-### Câu 269 · Thông hiểu · Bổ sung từ leak/review
+### Câu 296 · Thông hiểu · Bổ sung từ leak/review
 
 Chỉ mới nợ lương quá 3 tháng đã đủ điều kiện thời gian để người lao động yêu cầu phá sản theo mốc trong Luật 142/2025.
 
@@ -18198,7 +20857,7 @@ Nếu đề hỏi luật 2014 thì phải đổi nhãn phiên bản. Không bỏ
 
 </details>
 
-### Câu 270 · Nhận biết · Có trong slide
+### Câu 297 · Nhận biết · Có trong slide
 
 Phương án phục hồi được thông qua có hiệu lực theo cơ chế nào?
 
@@ -18257,7 +20916,7 @@ Phục hồi rút gọn có mốc 51% với mẫu số tương ứng. Không tr�
 
 </details>
 
-### Câu 271 · Nhận biết · Có trong slide
+### Câu 298 · Nhận biết · Có trong slide
 
 Nhịp báo cáo định kỳ thực hiện phương án phục hồi theo luật là?
 
@@ -18312,7 +20971,7 @@ Phục hồi rút gọn có mốc 51% với mẫu số tương ứng. Không tr�
 
 </details>
 
-### Câu 272 · Vận dụng · Có trong slide
+### Câu 299 · Vận dụng · Có trong slide
 
 Tòa đình chỉ thủ tục phục hồi vì doanh nghiệp không thực hiện phương án. Có được suy “đình chỉ luôn là phục hồi thành công” không?
 
@@ -18371,7 +21030,7 @@ Phục hồi rút gọn có mốc 51% với mẫu số tương ứng. Không tr�
 
 </details>
 
-### Câu 273 · Nhận biết · Có trong slide
+### Câu 300 · Nhận biết · Có trong slide
 
 Nghị quyết phục hồi thông thường dùng ngưỡng và mẫu số nào?
 
@@ -18426,7 +21085,101 @@ Phục hồi rút gọn có mốc 51% với mẫu số tương ứng. Không tr�
 
 </details>
 
-### Câu 274 · Thông hiểu · Có trong slide
+### Câu 301 · Vận dụng · Có trong slide
+
+Ba tháng trước quyết định mở thủ tục phá sản, doanh nghiệp bán một máy có giá thị trường 1 tỷ với giá 600 triệu, đồng thời mua một lô hàng có giá thị trường 800 triệu với giá 1,2 tỷ. Giả định giá thị trường tại nơi và thời điểm giao dịch đã được xác định, không thuộc ngoại lệ luật định. Giao dịch nào thuộc dấu hiệu chuyển nhượng không theo giá thị trường cần xem xét vô hiệu?
+
+A. Chỉ bán thấp hơn giá thị trường
+
+B. Chỉ mua cao hơn giá thị trường
+
+C. Không giao dịch nào vì đều có hợp đồng và hóa đơn
+
+D. Cả giao dịch bán thấp hơn và mua cao hơn giá thị trường
+
+**Đáp án:** Cả giao dịch bán thấp hơn và mua cao hơn giá thị trường
+
+**Phân tích:** Vẽ mũi tên tiền – tài sản: bán rẻ làm giảm tiền thu; mua đắt làm tăng tiền chi. Xác định vai trò mỗi giao dịch, rồi so đúng hướng với giá thị trường và mốc thời gian.
+
+**Bẫy:** Không dùng một chiều “giá thấp” cho mọi giao dịch của doanh nghiệp.
+
+**Lý thuyết:** Chuyển nhượng không theo giá thị trường trong ghi chú là bán thấp hơn khi DN/HTX là bên chuyển nhượng hoặc mua cao hơn khi là bên nhận chuyển nhượng, tại nơi và thời điểm giao dịch.
+
+**Chỉ bán thấp hơn giá thị trường — Sai:** Bỏ mất vế doanh nghiệp là bên nhận chuyển nhượng mua giá cao.
+
+**Chỉ mua cao hơn giá thị trường — Sai:** Bỏ mất vế doanh nghiệp là bên chuyển nhượng bán giá thấp.
+
+**Không giao dịch nào vì đều có hợp đồng và hóa đơn — Sai:** Có giấy tờ không tự loại việc giao dịch có nội dung bất lợi về giá trong nhóm luật định.
+
+**Cả giao dịch bán thấp hơn và mua cao hơn giá thị trường — Đúng:** Ghi chú xác định hai chiều: doanh nghiệp là bên chuyển nhượng thì giá thấp hơn; là bên nhận chuyển nhượng thì giá cao hơn. Cả hai nằm trong thời gian đang xét.
+
+**Chương 4, slide 70 · Nội dung trên slide**
+
+> Giao dịch bị coi là vô hiệu Giao dịch của DN, HTX được thực hiện trong thời gian 06 tháng trước ngày Tòa án ra quyết định mở thủ tục phá sản bị coi là vô hiệu nếu thuộc một trong các trường hợp sau đây: - Giao dịch liên quan đến chuyển nhượng tài sản không theo giá thị trường; - Chuyển khoản nợ không có bảo đảm thành nợ có bảo đảm hoặc có bảo đảm một phần bằng tài sản của doanh nghiệp, hợp tác xã; - Thanh toán hoặc bù trừ có lợi cho một chủ nợ đối với khoản nợ chưa đến hạn hoặc với số tiền lớn hơn khoản nợ đến hạn, trừ trường hợp pháp luật có quy định khác;
+
+**Chương 4, slide 70 · Ghi chú PowerPoint**
+
+> Điều 49 Giao dịch liên quan đến chuyển nhượng tài sản không theo giá thị trường quy định tại điểm a khoản 1 Điều 49 của Luật Phục hồi, phá sản là giao dịch thấp hơn giá thị trường đối với trường hợp doanh nghiệp, hợp tác xã là bên chuyển nhượng hoặc cao hơn giá thị trường đối với trường hợp doanh nghiệp, hợp tác xã là bên nhận chuyển nhượng tại nơi có tài sản và tại thời điểm giao dịch. 1. Việc thanh toán hoặc bù trừ trên cơ sở hợp đồng phái sinh lãi suất có điều khoản về thanh toán ròng được thực hiện trong thời gian 06 tháng trước ngày Tòa án ra quyết định mở thủ tục phá sản không bị coi là vô hiệu.
+
+<details>
+<summary>rv-173 · Review liên quan</summary>
+
+11. Giao dịch tặng cho tài sản được thực hiện trong vòng 6 tháng trước khi mở thủ tục phá sản có bị vô hiệu hay không? (Đúng/Sai)
+
+**Ghi chú đối chiếu:** Giao dịch tặng cho trong khoảng luật định thuộc nhóm phải xem xét vô hiệu, không tự tuyên mọi giao dịch vô hiệu không có ngoại lệ.
+
+Slide 71 có ghi chú điều kiện/ngoại lệ. Cần đúng giao dịch do doanh nghiệp mất khả năng thanh toán thực hiện và mốc tính lùi từ quyết định mở thủ tục, không tự từ lúc nộp đơn.
+
+</details>
+
+### Câu 302 · Vận dụng · Có trong slide
+
+Bốn tháng trước quyết định mở thủ tục phá sản, công ty thực hiện một hoạt động từ thiện đúng quy định pháp luật. Một chủ nợ cho rằng: “Cứ tặng tài sản trong 6 tháng trước mở thủ tục là tất cả đều bị coi vô hiệu”. Cách đánh giá nào phù hợp?
+
+A. Mọi giao dịch trong 6 tháng trước mở thủ tục đều vô hiệu
+
+B. Chỉ khi công ty có lãi mới được xét ngoại lệ từ thiện
+
+C. Không thể kết luận vô hiệu tự động; ghi chú nêu ngoại lệ cho hoạt động từ thiện đúng pháp luật
+
+D. Nhận định đúng tuyệt đối vì thời gian 4 tháng đủ để bỏ qua mục đích và ngoại lệ
+
+**Đáp án:** Không thể kết luận vô hiệu tự động; ghi chú nêu ngoại lệ cho hoạt động từ thiện đúng pháp luật
+
+**Phân tích:** Bước 1: thấy 4 tháng nằm trong 6 tháng. Bước 2: nhận diện loại tặng cho. Bước 3: không dừng ở quy tắc chung; kiểm tra điều kiện “từ thiện đúng quy định” khớp ngoại lệ.
+
+**Bẫy:** Câu review thường chỉ ghi quy tắc chung; khi đề thêm ngoại lệ thì đáp án phải thay đổi.
+
+**Lý thuyết:** Giao dịch tặng cho trong 6 tháng trước mở thủ tục thuộc nhóm xem xét vô hiệu; phải đọc cùng các ngoại lệ trong ghi chú: khuyến mại, tặng thưởng người lao động đúng luật, hoạt động từ thiện đúng luật và giao dịch được Hội nghị công nhận theo điều kiện nêu.
+
+**Mọi giao dịch trong 6 tháng trước mở thủ tục đều vô hiệu — Sai:** Chỉ giao dịch thuộc các nhóm luật định và điều kiện liên quan mới bị xem xét, không phải mọi giao dịch.
+
+**Chỉ khi công ty có lãi mới được xét ngoại lệ từ thiện — Sai:** Ghi chú không đặt điều kiện có lãi như phương án nêu.
+
+**Không thể kết luận vô hiệu tự động; ghi chú nêu ngoại lệ cho hoạt động từ thiện đúng pháp luật — Đúng:** Tặng cho là nhóm cần xem xét, nhưng ghi chú nêu hoạt động từ thiện đúng luật thuộc ngoại lệ không bị coi vô hiệu trong phạm vi được quy định.
+
+**Nhận định đúng tuyệt đối vì thời gian 4 tháng đủ để bỏ qua mục đích và ngoại lệ — Sai:** Dữ kiện đúng pháp luật phải được đối chiếu với ngoại lệ, không xóa vì mốc thời gian.
+
+**Chương 4, slide 71 · Nội dung trên slide**
+
+> Giao dịch bị coi là vô hiệu Giao dịch của DN, HTX được thực hiện trong thời gian 06 tháng trước ngày Tòa án ra quyết định mở thủ tục phá sản bị coi là vô hiệu nếu thuộc một trong các trường hợp sau đây: - Tặng cho tài sản; - Giao dịch không nhằm mục đích tìm kiếm lợi nhuận của doanh nghiệp, hợp tác xã; - Giao dịch khác nhằm mục đích tẩu tán tài sản của doanh nghiệp, hợp tác xã.
+
+**Chương 4, slide 71 · Ghi chú PowerPoint**
+
+> Điều 49 Giao dịch khác nhằm mục đích tẩu tán tài sản của doanh nghiệp, hợp tác xã quy định tại điểm e khoản 1 Điều 49 của Luật Phục hồi, phá sản là giao dịch cố ý chuyển dịch, che giấu, tiêu hủy tài sản, không thừa nhận quyền sở hữu hoặc xác lập các giao dịch giả tạo nhằm trốn tránh thực hiện nghĩa vụ trả nợ của doanh nghiệp, hợp tác xã. Giao dịch của doanh nghiệp, hợp tác xã quy định tại khoản 1 Điều này được thực hiện với những người liên quan trong thời gian 18 tháng trước ngày Tòa án ra quyết định mở thủ tục phá sản thì bị coi là vô hiệu. Giao dịch của doanh nghiệp, hợp tác xã quy định tại các điểm a, b, c, d và đ khoản 1 Điều 49 của Luật Phục hồi, phá sản được thực hiện trong thời gian 06 tháng trước ngày Tòa án ra quyết định mở thủ tục phá sản không bị coi là vô hiệu nếu thuộc một trong các trường hợp sau đây: a) Khuyến mại theo quy định của pháp luật về thương mại, tặng thưởng cho người lao động theo quy định của pháp luật về lao động; b) Hoạt động từ thiện của doanh nghiệp, hợp tác xã theo đúng quy định của pháp luật; c) Giao dịch được Hội nghị chủ nợ công nhận là để bảo toàn, tối ưu giá trị tài sản của doanh nghiệp, hợp tác xã hoặc không có mục đích tẩu tán tài sản của doanh nghiệp, hợp tác xã. 3. Những người liên quan quy định tại khoản 2 Điều 49 của Luật Phục hồi, phá sản được xác định như sau: a) Vợ, chồng, bố đẻ, mẹ đẻ, bố nuôi, mẹ nuôi, bố chồng, mẹ chồng, bố vợ, mẹ vợ, con đẻ, con nuôi, con rể, con dâu, anh ruột, chị ruột, em ruột, anh rể, em rể, chị dâu, em dâu, anh ruột của vợ, anh ruột của chồng, chị ruột của vợ, chị ruột của chồng, em ruột của vợ, em ruột của chồng, ông nội, bà nội, ông ngoại, bà ngoại, cụ nội, cụ ngoại, bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột, cháu ruột của những người thuộc các trường hợp sau đây: a1) Người quản lý công ty, người đại diện theo pháp luật, Kiểm soát viên, thành viên và cổ đông sở hữu phần vốn góp hay cổ phần chi phối của doanh nghiệp đối với doanh nghiệp; a2) Chủ tịch Hội đồng quản trị, thành viên Hội đồng quản trị, Giám đốc, Tổng giám đốc, người đại diện theo pháp luật, Kiểm soát viên, thành viên Ban kiểm soát, thành viên của hợp tác xã đối với hợp tác xã; b) Người có liên quan khác của doanh nghiệp theo quy định của Luật Doanh nghiệp đối với doanh nghiệp; c) Doanh nghiệp do hợp tác xã thành lập; thành viên chính thức, thành viên liên kết góp vốn của hợp tác xã; người quản lý, người đại diện theo pháp luật, kiểm soát viên của hợp tác xã đối với hợp tác xã; d) Cá nhân là người đại diện theo ủy quyền của hợp tác xã, tổ chức hướng dẫn tại điểm c khoản này đối với hợp tác xã; đ) Doanh nghiệp trong đó hợp tác xã có sở hữu vốn góp, cổ phần đến mức chi phối việc ra quyết định của doanh nghiệp đó đối với hợp tác xã; e) Người liên quan khác đối với doanh nghiệp, hợp tác xã trong trường hợp pháp luật có quy định.
+
+<details>
+<summary>rv-173 · Review liên quan</summary>
+
+11. Giao dịch tặng cho tài sản được thực hiện trong vòng 6 tháng trước khi mở thủ tục phá sản có bị vô hiệu hay không? (Đúng/Sai)
+
+**Ghi chú đối chiếu:** Giao dịch tặng cho trong khoảng luật định thuộc nhóm phải xem xét vô hiệu, không tự tuyên mọi giao dịch vô hiệu không có ngoại lệ.
+
+Slide 71 có ghi chú điều kiện/ngoại lệ. Cần đúng giao dịch do doanh nghiệp mất khả năng thanh toán thực hiện và mốc tính lùi từ quyết định mở thủ tục, không tự từ lúc nộp đơn.
+
+</details>
+
+### Câu 303 · Thông hiểu · Có trong slide
 
 DNTN bị loại khỏi phạm vi áp dụng phá sản chỉ vì không có tư cách pháp nhân.
 
@@ -18514,7 +21267,7 @@ DNTN không pháp nhân nhưng vẫn là doanh nghiệp; khác HKD.
 
 </details>
 
-### Câu 275 · Nhận biết · Có trong slide
+### Câu 304 · Nhận biết · Có trong slide
 
 Ngưỡng cổ đông hoặc nhóm cổ đông phổ thông có quyền yêu cầu phá sản theo Luật Phục hồi, phá sản 142/2025, nếu điều lệ không hạ ngưỡng?
 
@@ -18575,7 +21328,7 @@ A loại tất cả có bảo đảm là sai; B không cần doanh nghiệp đ�
 
 </details>
 
-### Câu 276 · Nhận biết · Có trong slide
+### Câu 305 · Nhận biết · Có trong slide
 
 Nếu Hội nghị không xác định thời hạn thực hiện phương án phục hồi, giới hạn nào áp dụng?
 
@@ -18633,7 +21386,7 @@ Không điền 6/12/24 tháng vì không có điều kiện cho mốc đó.
 
 </details>
 
-### Câu 277 · Vận dụng · Có trong slide
+### Câu 306 · Vận dụng · Có trong slide
 
 Công ty dự kiến không thanh toán được nợ sẽ đến hạn trong 5 tháng. Có cần chờ quá hạn mới xét phục hồi?
 
@@ -18680,7 +21433,7 @@ B dùng 3 tháng là mốc cũ. C nợ quá 3 chưa phản ánh định nghĩa l
 
 </details>
 
-### Câu 278 · Thông hiểu · Có trong slide
+### Câu 307 · Thông hiểu · Có trong slide
 
 Sau thụ lý phục hồi, doanh nghiệp được tự do tặng tài sản và chia lợi nhuận cho chủ sở hữu để giảm tài sản.
 
@@ -18721,7 +21474,7 @@ Nếu mệnh đề hiểu cấm tuyệt đối mọi trường hợp cả hai th
 
 ## 12. Phá sản và phân chia tài sản
 
-### Câu 279 · Thông hiểu · Có trong slide
+### Câu 308 · Thông hiểu · Có trong slide
 
 Hai nhóm điều kiện nào phải đồng thời có để áp dụng thủ tục phá sản tổ chức tín dụng?
 
@@ -18765,7 +21518,7 @@ Review gợi ý “Thành viên hợp danh” phản ánh luật cũ. Chương 4
 
 </details>
 
-### Câu 280 · Thông hiểu · Có trong slide
+### Câu 309 · Thông hiểu · Có trong slide
 
 Thời hạn quyết định tuyên bố tổ chức tín dụng phá sản, tính từ khi lập xong danh sách chủ nợ, người mắc nợ và bảng kê tài sản, là bao lâu?
 
@@ -18809,7 +21562,7 @@ Review gợi ý “Thành viên hợp danh” phản ánh luật cũ. Chương 4
 
 </details>
 
-### Câu 281 · Nhận biết · Có trong slide
+### Câu 310 · Nhận biết · Có trong slide
 
 Quản tài viên có chức năng trọng tâm nào?
 
@@ -18868,7 +21621,7 @@ Review đầu chỉ “hợp danh” là một đáp án trong lựa chọn; kh�
 
 </details>
 
-### Câu 282 · Nhận biết · Có trong slide
+### Câu 311 · Nhận biết · Có trong slide
 
 Nếu đáp ứng các điều kiện chung, nhóm người nào có thể được xét cấp chứng chỉ hành nghề Quản tài viên?
 
@@ -18923,7 +21676,7 @@ Review đầu chỉ “hợp danh” là một đáp án trong lựa chọn; kh�
 
 </details>
 
-### Câu 283 · Nhận biết · Có trong slide
+### Câu 312 · Nhận biết · Có trong slide
 
 Công ty hợp danh muốn hành nghề quản lý, thanh lý tài sản phải đáp ứng đồng thời những điều kiện nhân sự nào?
 
@@ -18978,7 +21731,7 @@ Review đầu chỉ “hợp danh” là một đáp án trong lựa chọn; kh�
 
 </details>
 
-### Câu 284 · Nhận biết · Có trong slide
+### Câu 313 · Nhận biết · Có trong slide
 
 Theo Luật 142/2025, mất khả năng thanh toán được xác định thế nào?
 
@@ -19032,7 +21785,7 @@ Khoản lợi tức trái phiếu đến hạn là nghĩa vụ thanh toán cần
 
 </details>
 
-### Câu 285 · Nhận biết · Có trong slide
+### Câu 314 · Nhận biết · Có trong slide
 
 Nghị quyết Hội nghị chủ nợ phá sản thông thường dùng tỷ lệ nào?
 
@@ -19091,7 +21844,150 @@ D. Từ 65% số người dự, bất kể nợ
 
 </details>
 
-### Câu 286 · Vận dụng · Có trong slide
+### Câu 315 · Vận dụng · Có trong slide
+
+Sau khi xử lý riêng tài sản bảo đảm, khối tài sản phân chia của doanh nghiệp phá sản còn 2 tỷ. Chi phí phá sản là 100 triệu; nợ lương 500 triệu; bảo hiểm 200 triệu; trợ cấp thôi việc 100 triệu; nợ phục hồi 400 triệu; nghĩa vụ tài chính Nhà nước 100 triệu. Còn chủ nợ U có nợ không bảo đảm 400 triệu và ngân hàng V có phần nợ 200 triệu chưa được trả do tài sản bảo đảm thiếu. Không có nợ khác. Phần thiếu của V nhận bao nhiêu từ khối tài sản này?
+
+A. 200 triệu đồng
+
+B. 400 triệu đồng
+
+C. 100 triệu đồng
+
+D. Không nhận gì vì V từng có tài sản bảo đảm
+
+**Đáp án:** 200 triệu đồng
+
+**Phân tích:** Bước 1: không đưa tài sản bảo đảm đã xử lý riêng vào lần tính này. Bước 2: trừ tuần tự 100 + 500 + 200 + 100 + 400 + 100 = 1.400 triệu. Bước 3: so 600 còn lại với 400 + 200. Đủ nên không giảm tỷ lệ.
+
+**Bẫy:** Chủ nợ có bảo đảm một phần không mất quyền với phần thiếu; không đếm lại tài sản đã xử lý riêng.
+
+**Lý thuyết:** Sau các nhóm ưu tiên, phần nợ có bảo đảm chưa thanh toán do giá trị bảo đảm không đủ cùng thứ tự với nợ không có bảo đảm. Các đối tượng cùng thứ tự chia theo tỷ lệ nếu khối tài sản không đủ.
+
+**200 triệu đồng — Đúng:** Các nhóm trước cộng 1,4 tỷ, còn 600 triệu. U 400 và phần thiếu V 200 cùng thứ tự, tổng đúng 600, nên phần thiếu V được thanh toán đủ 200.
+
+**400 triệu đồng — Sai:** V chỉ còn phần thiếu 200 trong khối đang phân chia, không có căn cứ nhận 400.
+
+**100 triệu đồng — Sai:** Chỉ chia theo tỷ lệ khi tài sản còn lại không đủ; ở đây đủ cả 600 triệu.
+
+**Không nhận gì vì V từng có tài sản bảo đảm — Sai:** Slide xếp phần nợ có bảo đảm còn thiếu cùng thứ tự với nợ không bảo đảm; không loại V.
+
+**Chương 4, slide 79 · Nội dung trên slide**
+
+> Bước 5. Thi hành quyết định tuyên bố phá sản Thứ tự phân chia tài sản - Chi phí phá sản; - Khoản nợ lương; - Khoản nợ bảo hiểm xã hội bắt buộc, bảo hiểm thất nghiệp, bảo hiểm y tế, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; - Trợ cấp thôi việc và các quyền lợi khác của người lao động theo thỏa ước lao động tập thể, hợp đồng lao động;
+
+**Chương 4, slide 79 · Ghi chú PowerPoint**
+
+> Điều 46
+
+**Chương 4, slide 80 · Nội dung trên slide**
+
+> Thứ tự phân chia tài sản - Khoản nợ phát sinh nhằm mục đích phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã; - Nghĩa vụ tài chính đối với Nhà nước; Khoản nợ không có bảo đảm phải trả cho chủ nợ trong danh sách chủ nợ; khoản nợ có bảo đảm chưa được thanh toán do giá trị tài sản bảo đảm không đủ thanh toán nợ. Lưu ý: Trường hợp tài sản của DN, HTX không đủ để thanh toán thì từng đối tượng cùng một thứ tự ưu tiên được thanh toàn theo tỷ lệ phần trăm tương ứng với số nợ
+
+**Chương 4, slide 80 · Ghi chú PowerPoint**
+
+> Điều 46
+
+<details>
+<summary>rv-068 · Review liên quan</summary>
+
+9. **Ngân hàng cho công ty vay 5 tỷ đồng, được bảo đảm bằng tài sản của công ty trị giá 3 tỷ đồng → ngân hàng là chủ nợ gì?**
+
+**Ghi chú đối chiếu:** Chủ nợ có bảo đảm một phần.
+
+5 tỷ nợ > 3 tỷ tài sản bảo đảm; phần thiếu 2 tỷ không tự làm cả 5 tỷ trở thành không có bảo đảm.
+
+</details>
+
+<details>
+<summary>rv-083 · Review liên quan</summary>
+
+9. **Ngân hàng cho công ty vay 5 tỷ đồng, được bảo đảm bằng tài sản của công ty trị giá 3 tỷ đồng → là chủ nợ gì?**
+
+**Ghi chú đối chiếu:** Chủ nợ có bảo đảm một phần.
+
+5 tỷ nợ > 3 tỷ tài sản bảo đảm; phần thiếu 2 tỷ không tự làm cả 5 tỷ trở thành không có bảo đảm.
+
+</details>
+
+<details>
+<summary>rv-105 · Review liên quan</summary>
+
+6. Khi thực hiện phương án phục hồi kinh doanh, công ty E vay 500 triệu mua nguyên liệu công ty B. Hỏi có phải thanh toán khoản nợ này trước các khoản nợ không bảo đảm trước khi mở thủ tục phục hồi hay không?
+
+**Ghi chú đối chiếu:** Nợ phát sinh phục vụ phục hồi được ưu tiên trước nhóm nợ không bảo đảm cũ theo thứ tự; không trước mọi khoản nợ cũ.
+
+Vẫn xếp sau chi phí phá sản và quyền lợi người lao động, và bảo đảm bằng tài sản còn xử lý theo quy tắc riêng. Phải có dữ kiện đúng là khoản vay phục vụ phục hồi theo thủ tục, không chỉ tự gọi “để cứu công ty”.
+
+</details>
+
+<details>
+<summary>rv-129 · Review liên quan</summary>
+
+18. A mượn E 500 triệu để phục hồi công ty. Nhưng công ty bị phá sản, vậy khoản 500 triệu đấy được trả trước các khoản nợ phát sinh trước khi mở thủ tục phá sản (Đúng/Sai).
+
+**Ghi chú đối chiếu:** Nợ phát sinh phục vụ phục hồi được ưu tiên trước nhóm nợ không bảo đảm cũ theo thứ tự; không trước mọi khoản nợ cũ.
+
+Vẫn xếp sau chi phí phá sản và quyền lợi người lao động, và bảo đảm bằng tài sản còn xử lý theo quy tắc riêng. Phải có dữ kiện đúng là khoản vay phục vụ phục hồi theo thủ tục, không chỉ tự gọi “để cứu công ty”.
+
+</details>
+
+<details>
+<summary>rv-133 · Review liên quan</summary>
+
+22. Công ty Hoàng Hà nợ 1 tỷ 2. Trả nợ cho người lao động hết 400 triệu. Còn 2 khoản nợ 300 và 700 triệu. Hỏi khoản nợ 300 triệu được nhận bao nhiêu tiền?
+
+**Ghi chú đối chiếu:** Chưa thể tính tiền thực nhận từ nguyên văn chỉ cho tổng nợ 1,2 tỷ.
+
+Nếu GIẢ ĐỊNH tài sản phân chia 1,2 tỷ, trả NLĐ 0,4 tỷ và không còn thứ tự trước, hai nợ 0,3 và 0,7 cùng thứ tự thì 0,8×0,3/1=0,24 tỷ. Bài luyện nêu rõ giả định; tuyệt đối không đổi “nợ” thành “tài sản” trong trích dẫn review.
+
+</details>
+
+<details>
+<summary>rv-204 · Review liên quan</summary>
+
+9. **Ngân hàng cho công ty vay 5 tỷ đồng, được bảo đảm bằng tài sản của công ty trị giá 3 tỷ đồng. Ngân hàng là chủ nợ gì?**
+
+**Ghi chú đối chiếu:** Chủ nợ có bảo đảm một phần.
+
+5 tỷ nợ > 3 tỷ tài sản bảo đảm; phần thiếu 2 tỷ không tự làm cả 5 tỷ trở thành không có bảo đảm.
+
+</details>
+
+<details>
+<summary>rv-230 · Review liên quan</summary>
+
+20. **A mượn E 500 triệu đồng để phục hồi công ty. Nhưng công ty bị phá sản. Khoản 500 triệu đồng này được thanh toán trước các khoản nợ phát sinh trước khi mở thủ tục phá sản – đúng hay sai?**
+
+**Ghi chú đối chiếu:** Nợ phát sinh phục vụ phục hồi được ưu tiên trước nhóm nợ không bảo đảm cũ theo thứ tự; không trước mọi khoản nợ cũ.
+
+Vẫn xếp sau chi phí phá sản và quyền lợi người lao động, và bảo đảm bằng tài sản còn xử lý theo quy tắc riêng. Phải có dữ kiện đúng là khoản vay phục vụ phục hồi theo thủ tục, không chỉ tự gọi “để cứu công ty”.
+
+</details>
+
+<details>
+<summary>rv-234 · Review liên quan</summary>
+
+24. **Công ty Hoàng Hà nợ 1,2 tỷ đồng. Sau khi thanh toán nợ cho người lao động hết 400 triệu đồng, còn hai khoản nợ là 300 triệu đồng và 700 triệu đồng. Hỏi khoản nợ 300 triệu đồng được nhận bao nhiêu tiền?**
+
+**Ghi chú đối chiếu:** Chưa thể tính tiền thực nhận từ nguyên văn chỉ cho tổng nợ 1,2 tỷ.
+
+Nếu GIẢ ĐỊNH tài sản phân chia 1,2 tỷ, trả NLĐ 0,4 tỷ và không còn thứ tự trước, hai nợ 0,3 và 0,7 cùng thứ tự thì 0,8×0,3/1=0,24 tỷ. Bài luyện nêu rõ giả định; tuyệt đối không đổi “nợ” thành “tài sản” trong trích dẫn review.
+
+</details>
+
+<details>
+<summary>rv-276 · Review liên quan</summary>
+
+22. **Tài sản có bảo đảm một phần là gì?**
+
+**Ghi chú đối chiếu:** Khoản nợ có giá trị tài sản bảo đảm nhỏ hơn khoản nợ là bảo đảm một phần.
+
+Không phải tự “tài sản có bảo đảm một phần” là một loại tài sản. Phân loại khoản nợ/chủ nợ theo mức bao phủ.
+
+</details>
+
+### Câu 316 · Vận dụng · Có trong slide
 
 Khối phân chia còn 900 triệu; chi phí 100, lương 500, bảo hiểm 400; chưa xét các thứ tự sau. Bảo hiểm nhận bao nhiêu?
 
@@ -19160,7 +22056,7 @@ Vẫn xếp sau chi phí phá sản và quyền lợi người lao động, và 
 
 </details>
 
-### Câu 287 · Thông hiểu · Có trong slide
+### Câu 317 · Thông hiểu · Có trong slide
 
 Nợ phát sinh trong thủ tục phục hồi đứng ở đâu trong thứ tự thông thường?
 
@@ -19225,7 +22121,7 @@ Vẫn xếp sau chi phí phá sản và quyền lợi người lao động, và 
 
 </details>
 
-### Câu 288 · Vận dụng · Có trong slide
+### Câu 318 · Vận dụng · Có trong slide
 
 Nợ đến hạn không được trả đã 7 tháng, chưa có quyết định Tòa tuyên bố phá sản. Cách gọi chính xác?
 
@@ -19283,7 +22179,7 @@ D. Đã hoàn tất phục hồi
 
 </details>
 
-### Câu 289 · Thông hiểu · Có trong slide
+### Câu 319 · Thông hiểu · Có trong slide
 
 Nhóm người nào có quyền tham gia Hội nghị chủ nợ trong thủ tục phá sản?
 
@@ -19354,7 +22250,7 @@ Các phương án còn lại thiếu nên chưa chọn một đáp án hoàn ch�
 
 </details>
 
-### Câu 290 · Vận dụng · Có trong slide
+### Câu 320 · Vận dụng · Có trong slide
 
 Khối tài sản phân chia là 1,2 tỷ đồng; chi phí đã xử lý riêng, trả người lao động 400 triệu. Chỉ còn hai chủ nợ cùng thứ tự 300 và 700 triệu. Chủ nợ 300 triệu nhận bao nhiêu?
 
@@ -19420,7 +22316,7 @@ Nếu GIẢ ĐỊNH tài sản phân chia 1,2 tỷ, trả NLĐ 0,4 tỷ và khô
 
 </details>
 
-### Câu 291 · Thông hiểu · Có trong slide
+### Câu 321 · Thông hiểu · Có trong slide
 
 Nghị quyết Hội nghị chủ nợ trong trường hợp phá sản rút gọn áp dụng tỷ lệ biểu quyết thấp hơn phải đạt ngưỡng nào và tính trên cơ sở nào?
 
@@ -19474,7 +22370,7 @@ Không có ưu tiên “không phải trả nợ” hoặc đứng trước ngư
 
 </details>
 
-### Câu 292 · Nhận biết · Có trong slide
+### Câu 322 · Nhận biết · Có trong slide
 
 Một căn cứ rút gọn theo số chủ nợ và nợ gốc cần điều kiện nào?
 
@@ -19532,7 +22428,7 @@ Không có ưu tiên “không phải trả nợ” hoặc đứng trước ngư
 
 </details>
 
-### Câu 293 · Nhận biết · Có trong slide
+### Câu 323 · Nhận biết · Có trong slide
 
 Ai giải quyết đề nghị xem xét lại quyết định tuyên bố phá sản của TAND khu vực theo thẩm quyền?
 
@@ -19610,7 +22506,7 @@ Không ép chọn cấp tỉnh/thành phố chỉ vì là cấp Tòa duy nhất 
 
 </details>
 
-### Câu 294 · Nhận biết · Có trong slide
+### Câu 324 · Nhận biết · Có trong slide
 
 Tòa án giải quyết yêu cầu phục hồi, phá sản thông thường theo lãnh thổ là?
 
@@ -19688,7 +22584,7 @@ Không ép chọn cấp tỉnh/thành phố chỉ vì là cấp Tòa duy nhất 
 
 </details>
 
-### Câu 295 · Vận dụng · Có trong slide
+### Câu 325 · Vận dụng · Có trong slide
 
 Doanh nghiệp tặng cho tài sản 4 tháng trước quyết định mở thủ tục phá sản. Giao dịch này có thuộc nhóm cần xem xét vô hiệu không?
 
@@ -19735,7 +22631,7 @@ Slide 71 có ghi chú điều kiện/ngoại lệ. Cần đúng giao dịch do d
 
 </details>
 
-### Câu 296 · Nhận biết · Có trong slide
+### Câu 326 · Nhận biết · Có trong slide
 
 Thứ tự đúng sau chi phí trong phá sản thông thường theo Luật Phục hồi, phá sản 142/2025?
 
@@ -19779,7 +22675,7 @@ Giữ note review “Chi phí phá sản → nợ lương → ...”; dấu ... 
 
 </details>
 
-### Câu 297 · Nhận biết · Có trong slide
+### Câu 327 · Nhận biết · Có trong slide
 
 Khoản nào đứng đầu thứ tự phân chia tài sản trong thủ tục phá sản thông thường?
 
@@ -19822,7 +22718,7 @@ Nợ có bảo đảm xử lý từ tài sản bảo đảm theo quy tắc riên
 
 </details>
 
-### Câu 298 · Nhận biết · Có trong slide
+### Câu 328 · Nhận biết · Có trong slide
 
 Cơ quan bảo hiểm xã hội có quyền nộp đơn yêu cầu phá sản khi việc đôn đốc khoản chậm, trốn đóng đáp ứng điều kiện nào?
 
@@ -19883,7 +22779,7 @@ A loại tất cả có bảo đảm là sai; B không cần doanh nghiệp đ�
 
 </details>
 
-### Câu 299 · Nhận biết · Có trong slide
+### Câu 329 · Nhận biết · Có trong slide
 
 Nhóm thành viên TNHH hai thành viên có quyền yêu cầu phá sản theo ngưỡng luật, nếu điều lệ không hạ ngưỡng?
 
@@ -19944,7 +22840,7 @@ A loại tất cả có bảo đảm là sai; B không cần doanh nghiệp đ�
 
 </details>
 
-### Câu 300 · Thông hiểu · Có trong slide
+### Câu 330 · Thông hiểu · Có trong slide
 
 Doanh nghiệp nhận thông báo Tòa thụ lý đơn. Có nghĩa đã bị tuyên bố phá sản?
 
@@ -20009,7 +22905,7 @@ A loại tất cả có bảo đảm là sai; B không cần doanh nghiệp đ�
 
 </details>
 
-### Câu 301 · Nhận biết · Có trong slide
+### Câu 331 · Nhận biết · Có trong slide
 
 Nhóm chủ nợ nào có quyền nộp đơn yêu cầu phá sản khi đáp ứng điều kiện về khoản nợ?
 
@@ -20072,7 +22968,7 @@ A loại tất cả có bảo đảm là sai; B không cần doanh nghiệp đ�
 
 ## 13. Giải quyết tranh chấp — bổ sung từ review
 
-### Câu 302 · Vận dụng · Bổ sung từ leak/review
+### Câu 332 · Vận dụng · Bổ sung từ leak/review
 
 Hai doanh nghiệp tự trao đổi email, thống nhất bồi thường, không có người trung gian hoặc cơ quan ra phán quyết. Đây là phương thức gì?
 
@@ -20194,7 +23090,7 @@ Hai bên tự email thỏa thuận, không trung gian hoặc cơ quan ra quyết
 
 </details>
 
-### Câu 303 · Thông hiểu · Bổ sung từ leak/review
+### Câu 333 · Thông hiểu · Bổ sung từ leak/review
 
 Trung tâm trọng tài là cơ quan hành chính nhà nước, nhân danh quyền lực nhà nước để xét xử.
 
@@ -20253,7 +23149,7 @@ Trọng tài thương mại cũng là tên phương thức giải quyết; Trung
 
 </details>
 
-### Câu 304 · Nhận biết · Bổ sung từ leak/review
+### Câu 334 · Nhận biết · Bổ sung từ leak/review
 
 Đương sự có mặt khi tuyên án sơ thẩm có thời hạn kháng cáo thông thường 15 ngày kể từ ngày tuyên án.
 
@@ -20311,7 +23207,7 @@ Review câu 22 chỉ đúng theo cách hỏi rút gọn với người có mặt
 
 </details>
 
-### Câu 305 · Thông hiểu · Bổ sung từ leak/review
+### Câu 335 · Thông hiểu · Bổ sung từ leak/review
 
 Người thứ ba giúp các bên đạt thỏa thuận, không áp đặt phán quyết giải quyết tranh chấp. Phương thức này là gì?
 
@@ -20416,7 +23312,7 @@ Chỉ “xuất hiện người thứ ba” không duy nhất. Bài luyện thê
 
 </details>
 
-### Câu 306 · Thông hiểu · Bổ sung từ leak/review
+### Câu 336 · Thông hiểu · Bổ sung từ leak/review
 
 Thỏa thuận trọng tài bắt buộc là văn bản riêng, không thể là điều khoản trong hợp đồng.
 
@@ -20462,7 +23358,7 @@ B. Sai
 
 </details>
 
-### Câu 307 · Nhận biết · Bổ sung từ leak/review
+### Câu 337 · Nhận biết · Bổ sung từ leak/review
 
 Trung tâm trọng tài có tư cách pháp nhân, con dấu và tài khoản riêng.
 
@@ -20512,7 +23408,7 @@ Dòng cuối trang ghi:
 
 </details>
 
-### Câu 308 · Nhận biết · Bổ sung từ leak/review
+### Câu 338 · Nhận biết · Bổ sung từ leak/review
 
 Bản án phúc thẩm có hiệu lực pháp luật kể từ ngày tuyên án.
 
@@ -20562,7 +23458,7 @@ Vẫn có thủ tục giám đốc thẩm/tái thẩm nếu có kháng nghị đ
 
 </details>
 
-### Câu 309 · Thông hiểu · Bổ sung từ leak/review
+### Câu 339 · Thông hiểu · Bổ sung từ leak/review
 
 Giám đốc thẩm là việc đương sự tự kháng cáo bản án đã có hiệu lực để mở thêm một cấp xét xử thông thường.
 
@@ -20608,7 +23504,7 @@ Câu “do đâu” thiếu tiêu chí: cơ quan, chủ thể kháng nghị hay 
 
 </details>
 
-### Câu 310 · Nhận biết · Bổ sung từ leak/review
+### Câu 340 · Nhận biết · Bổ sung từ leak/review
 
 Phán quyết trọng tài có tính chung thẩm.
 
@@ -20670,7 +23566,7 @@ Không có kháng cáo thông thường; vẫn có thể yêu cầu hủy theo c
 
 </details>
 
-### Câu 311 · Thông hiểu · Bổ sung từ leak/review
+### Câu 341 · Thông hiểu · Bổ sung từ leak/review
 
 Khi đã giải quyết bằng trọng tài, các bên vẫn có quyền thương lượng hoặc thỏa thuận giải quyết tranh chấp.
 
@@ -20739,7 +23635,7 @@ Giữ phần thiếu; bài luyện hỏi quyền thương lượng cụ thể, k
 
 </details>
 
-### Câu 312 · Thông hiểu · Bổ sung từ leak/review
+### Câu 342 · Thông hiểu · Bổ sung từ leak/review
 
 Trường hợp nào có thể là căn cứ yêu cầu hủy phán quyết trọng tài?
 
@@ -20799,7 +23695,7 @@ Cải cách cấp Tòa không có nghĩa mọi yêu cầu hủy trọng tài chu
 
 </details>
 
-### Câu 313 · Nhận biết · Bổ sung từ leak/review
+### Câu 343 · Nhận biết · Bổ sung từ leak/review
 
 Trừ luật chuyên ngành quy định khác, thời hiệu khởi kiện theo thủ tục trọng tài kể từ khi quyền, lợi ích hợp pháp bị xâm phạm là bao lâu?
 
@@ -20855,7 +23751,7 @@ Câu review dùng “thời điểm” nhưng nhắm “thời hiệu”, thiế
 
 </details>
 
-### Câu 314 · Thông hiểu · Bổ sung từ leak/review
+### Câu 344 · Thông hiểu · Bổ sung từ leak/review
 
 Hòa giải luôn là thủ tục bắt buộc phải thành công trước khi Hội đồng trọng tài được ra phán quyết.
 
@@ -20895,7 +23791,7 @@ Các bên có quyền yêu cầu hòa giải theo Điều 9; không áp nguyên 
 
 </details>
 
-### Câu 315 · Thông hiểu · Bổ sung từ leak/review
+### Câu 345 · Thông hiểu · Bổ sung từ leak/review
 
 Khi tổ chức là một bên chấm dứt, phá sản, giải thể hoặc tổ chức lại, thỏa thuận trọng tài vẫn có hiệu lực với tổ chức tiếp nhận quyền, nghĩa vụ, trừ thỏa thuận khác.
 
@@ -20930,7 +23826,7 @@ B. Sai
 
 </details>
 
-### Câu 316 · Vận dụng · Bổ sung từ leak/review
+### Câu 346 · Vận dụng · Bổ sung từ leak/review
 
 Hai thương nhân có tranh chấp mua bán, có thỏa thuận trọng tài hợp lệ thực hiện được. Kết luận nào phù hợp về cơ quan giải quyết?
 
@@ -20981,7 +23877,7 @@ Trọng tài cần thỏa thuận hợp lệ và phạm vi luật; Tòa án là 
 
 </details>
 
-### Câu 317 · Thông hiểu · Bổ sung từ leak/review
+### Câu 347 · Thông hiểu · Bổ sung từ leak/review
 
 Thương lượng giữa các bên vẫn bắt buộc tiến hành ngay cả khi một bên từ chối.
 
@@ -21040,7 +23936,7 @@ Tòa không phải tổ chức thương lượng thay bên từ chối; không c
 
 ## 14. Pháp luật tài chính — bổ sung từ review
 
-### Câu 318 · Thông hiểu · Bổ sung từ leak/review
+### Câu 348 · Thông hiểu · Bổ sung từ leak/review
 
 Pháp luật tài chính chỉ dùng phương pháp mệnh lệnh, kể cả quan hệ tài chính tư giữa các bên bình đẳng.
 
@@ -21089,7 +23985,7 @@ B. Sai
 
 </details>
 
-### Câu 319 · Nhận biết · Bổ sung từ leak/review
+### Câu 349 · Nhận biết · Bổ sung từ leak/review
 
 Pháp luật ngân sách nhà nước tập trung điều chỉnh nhóm quan hệ nào?
 
@@ -21150,7 +24046,7 @@ D. Mọi giao dịch bất kể tài chính
 
 </details>
 
-### Câu 320 · Nhận biết · Bổ sung từ leak/review
+### Câu 350 · Nhận biết · Bổ sung từ leak/review
 
 Luật Ngân sách nhà nước số 89/2025/QH15 được Quốc hội ban hành năm 2025.
 
@@ -21184,7 +24080,7 @@ Luật 89/2025 ban hành 25/6/2025, hiệu lực năm ngân sách 2026. Tệp đ
 
 </details>
 
-### Câu 321 · Thông hiểu · Bổ sung từ leak/review
+### Câu 351 · Thông hiểu · Bổ sung từ leak/review
 
 Tính đa dạng, lợi ích đan xen và sự khan hiếm của nguồn lực tài chính là lý do cần quản lý tài chính bằng pháp luật.
 
@@ -21228,7 +24124,7 @@ B. Sai
 
 </details>
 
-### Câu 322 · Nhận biết · Bổ sung từ leak/review
+### Câu 352 · Nhận biết · Bổ sung từ leak/review
 
 Đối tượng điều chỉnh cơ bản của pháp luật tài chính là gì?
 

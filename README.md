@@ -33,9 +33,10 @@ Với Auto Deploy đang bật, commit mới trên `main` sẽ tự triển khai.
 
 ## Ngân hàng ôn theo review — cập nhật 08/10/2026
 
-- [Ôn theo review](review.html): 322 câu duy nhất, chia 14 chủ đề; lý thuyết, phân biệt, vận dụng và tình huống.
-- Gộp 411 mục nguồn thành 176 bài luyện giữ lại; thêm 86 bài từ ngân hàng theo slide và 60 câu mới biên soạn. Không tạo bài luyện riêng khi review nhắc lại cùng câu; các câu cùng chủ đề chỉ giữ riêng khi kiểm tra điều kiện, ngoại lệ hoặc thao tác khác nhau.
-- 256 câu có căn cứ slide; 66 câu có dùng nguồn bổ sung từ leak/review, tài liệu ôn tập và/hoặc luật kiểm chứng. Có nhãn riêng và bộ lọc nguồn.
+- [Ôn theo review](review.html): 352 câu duy nhất, chia 14 chủ đề; lý thuyết, phân biệt, vận dụng và tình huống.
+- Gộp 411 mục nguồn thành 176 bài luyện giữ lại; thêm 86 bài từ ngân hàng theo slide và 90 câu mới biên soạn, gồm 30 tình huống mới. Không tạo bài luyện riêng khi review nhắc lại cùng câu; các câu cùng chủ đề chỉ giữ riêng khi kiểm tra điều kiện, ngoại lệ hoặc thao tác khác nhau.
+- 285 câu có căn cứ slide; 67 câu có dùng nguồn bổ sung từ leak/review, tài liệu ôn tập và/hoặc luật kiểm chứng. Có nhãn riêng và bộ lọc nguồn.
+- [Làm riêng 30 tình huống thực tế mới](review.html?set=case30): 8 doanh nghiệp, 6 hợp tác xã, 9 hợp đồng và bảo đảm, 7 phục hồi/phá sản. Cả 30 có căn cứ trực tiếp trong nội dung/ghi chú slide; tình huống tự biên soạn theo các trọng tâm review. Mỗi câu có 4 lựa chọn, phân tích theo bước, giải thích từng lựa chọn và bẫy. Tải [30 tình huống và cách xử lý](30-tinh-huong-thuc-te-va-loi-giai.md).
 - Giải thích từng lựa chọn, phân tích đề, bẫy, lý thuyết và trích nội dung/ghi chú slide. Các mục review gốc liên quan nằm trong phần lời giải, gồm đáp án gợi ý và ghi chú mâu thuẫn/thiếu dữ kiện.
 - [411 mục review nguyên văn](review-nguyen-van.md) giữ nguyên thứ tự nguồn, gồm câu lặp; bản nguồn không phải danh sách bài luyện.
 - Bộ lọc mức độ nhận biết, thông hiểu, vận dụng; câu sai, chưa làm, đánh dấu và tìm kiếm.
@@ -45,30 +46,9 @@ Với Auto Deploy đang bật, commit mới trên `main` sẽ tự triển khai.
 
 ## 10 đề ôn tập theo review — 40 câu / 30 phút
 
-- [Làm đề](review-exams.html): ghép lại từ ngân hàng 322 câu mới; dùng 290 câu khác nhau trong 400 lượt câu. Không lặp trong cùng đề; có thể lặp giữa các đề.
+- [Làm đề](review-exams.html): bộ 10 đề hiện tại được ghép từ ngân hàng 322 câu trước khi bổ sung 30 tình huống, dùng 290 câu khác nhau trong 400 lượt câu. Giữ nguyên câu và phiên làm đề đang lưu; 30 tình huống mới học riêng bằng liên kết bên trên. Không lặp trong cùng đề; có thể lặp giữa các đề.
 - Mỗi đề: 14 nhận biết, 16 thông hiểu, 10 vận dụng; 24 câu 4 lựa chọn, 16 câu đúng/sai. Mỗi đề cân đối 7 nhóm chủ đề, gồm cả kiến thức bổ sung theo leak/review.
 - Đồng hồ 30 phút tiếp tục khi tải lại/rời trang; tự nộp hết giờ, xác nhận nộp sớm, khóa đáp án sau nộp và cho làm lại.
 - Sau nộp: số đúng/sai/bỏ trống, điểm, kết quả theo mức độ; đầy đủ phân tích, lý thuyết, bẫy và nguồn như ngân hàng mới.
-- Kết quả bộ đề cũ vẫn lưu riêng; mã phiên bản mới bảo đảm không áp đáp án cũ vào đề đã thay câu.
-- Tải [10 đề và lời giải](review-exams-solutions.md), [dữ liệu bộ đề](review-exams-data.json).
-
-## Ngân hàng ôn theo review — cập nhật 08/10/2026
-
-- [Ôn theo review](review.html): 322 câu duy nhất, chia 14 chủ đề; lý thuyết, phân biệt, vận dụng và tình huống.
-- Gộp 411 mục nguồn thành 176 bài luyện giữ lại; thêm 86 bài từ ngân hàng theo slide và 60 câu mới biên soạn. Không tạo bài luyện riêng khi review nhắc lại cùng câu; các câu cùng chủ đề chỉ giữ riêng khi kiểm tra điều kiện, ngoại lệ hoặc thao tác khác nhau.
-- 255 câu có căn cứ slide; 67 câu có dùng nguồn bổ sung từ leak/review, tài liệu ôn tập và/hoặc luật kiểm chứng. Có nhãn riêng và bộ lọc nguồn.
-- Giải thích từng lựa chọn, phân tích đề, bẫy, lý thuyết và trích nội dung/ghi chú slide. Các mục review gốc liên quan nằm trong phần lời giải, gồm đáp án gợi ý và ghi chú mâu thuẫn/thiếu dữ kiện.
-- [411 mục review nguyên văn](review-nguyen-van.md) giữ nguyên thứ tự nguồn, gồm câu lặp; bản nguồn không phải danh sách bài luyện.
-- Bộ lọc mức độ nhận biết, thông hiểu, vận dụng; câu sai, chưa làm, đánh dấu và tìm kiếm.
-- Bài luyện giữ nguyên được chuyển tiến độ từ bản 411 mục. Dữ liệu bản cũ vẫn lưu. Tên người học chỉ phân tách lưu trên trình duyệt, không đồng bộ thiết bị.
-- Tải [ngân hàng và toàn bộ lời giải](review-va-loi-giai.md), [đối chiếu và nguồn](doi-chieu-review.md).
-- Bộ 470 câu theo chương/4 đề tổng hợp trước đó giữ nguyên.
-
-## 10 đề ôn tập theo review — 40 câu / 30 phút
-
-- [Làm đề](review-exams.html): ghép lại từ ngân hàng 322 câu mới; dùng 290 câu khác nhau trong 400 lượt câu. Không lặp trong cùng đề; có thể lặp giữa các đề.
-- Mỗi đề: 14 nhận biết, 16 thông hiểu, 10 vận dụng; 24 câu 4 lựa chọn, 16 câu đúng/sai. Mỗi đề cân đối 7 nhóm chủ đề, gồm cả kiến thức bổ sung theo leak/review.
-- Đồng hồ 30 phút tiếp tục khi tải lại/rời trang; tự nộp hết giờ, xác nhận nộp sớm, khóa đáp án sau nộp và cho làm lại.
-- Sau nộp: số đúng/sai/bỏ trống, điểm, kết quả theo mức độ; đầy đủ phân tích, lý thuyết, bẫy và nguồn như ngân hàng mới.
-- Kết quả bộ đề cũ vẫn lưu riêng; mã phiên bản mới bảo đảm không áp đáp án cũ vào đề đã thay câu.
+- Tiến độ ngân hàng 322 câu được giữ khi thêm 30 tình huống nhờ mã câu ổn định; dữ liệu 10 đề không thay đổi.
 - Tải [10 đề và lời giải](review-exams-solutions.md), [dữ liệu bộ đề](review-exams-data.json).

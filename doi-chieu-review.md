@@ -3,14 +3,15 @@
 Ngân hàng đã gộp bài luyện trùng: mỗi câu xuất hiện một lần, chia theo trọng tâm review. Câu mở rộng có căn cứ từ nội dung và ghi chú slide. Kiến thức có trong leak/review nhưng chưa có trực tiếp trong slide vẫn được giữ với nhãn “Bổ sung từ leak/review”; tài liệu ôn tập và luật dùng kiểm chứng được ghi riêng. Nguyên văn 411 mục review và thứ tự gốc được giữ trong bản nguồn, không biến các mục lặp thành bài luyện lặp. Các bài cùng chủ đề chỉ giữ riêng khi kiểm tra điều kiện, ngoại lệ hoặc thao tác khác nhau.
 
 {
-  "items": 322,
+  "items": 352,
   "groups": 14,
   "retained": 176,
   "additionalSlide": 86,
-  "newSlide": 60,
-  "slide": 255,
+  "newSlide": 90,
+  "slide": 285,
   "supplemental": 67,
-  "legacySourceItems": 411
+  "legacySourceItems": 411,
+  "realCases": 30
 }
 
 ## Nhóm kiến thức ngoài slide vẫn giữ để phòng thi
@@ -31,123 +32,123 @@ Ngân hàng đã gộp bài luyện trùng: mỗi câu xuất hiện một lần
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 34, 35
 - Câu 44: TNHH một thành viên luôn không phải thành lập Ban kiểm soát, bất kể chủ sở hữu.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 79 khoản 2
-- Câu 57: Một thành viên hợp danh và một thành viên góp vốn có thể cùng thành lập TNHH hai thành viên kinh doanh khác ngành, nếu không có hạn chế riêng khác.
+- Câu 61: Một thành viên hợp danh và một thành viên góp vốn có thể cùng thành lập TNHH hai thành viên kinh doanh khác ngành, nếu không có hạn chế riêng khác.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 180
-- Câu 58: Trong TNHH một thành viên do tổ chức sở hữu, thành viên HĐTV có thể được bổ nhiệm kiêm Giám đốc/Tổng giám đốc khi đủ điều kiện.
+- Câu 62: Trong TNHH một thành viên do tổ chức sở hữu, thành viên HĐTV có thể được bổ nhiệm kiêm Giám đốc/Tổng giám đốc khi đủ điều kiện.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 82
-- Câu 63: TNHH một thành viên do tổ chức sở hữu chọn HĐTV, bổ nhiệm Tùng làm Chủ tịch HĐTV và Phương làm Giám đốc. Điều lệ không quy định người đại diện. Ai là đại diện theo luật?
+- Câu 68: TNHH một thành viên do tổ chức sở hữu chọn HĐTV, bổ nhiệm Tùng làm Chủ tịch HĐTV và Phương làm Giám đốc. Điều lệ không quy định người đại diện. Ai là đại diện theo luật?
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 79 khoản 3
-- Câu 67: TNHH hai thành viên: cuộc họp lần đầu không đủ điều kiện, điều lệ không quy định khác. Quy tắc triệu tập lần hai là gì?
+- Câu 72: TNHH hai thành viên: cuộc họp lần đầu không đủ điều kiện, điều lệ không quy định khác. Quy tắc triệu tập lần hai là gì?
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 58
-- Câu 79: Số lượng thành viên Hội đồng quản trị CTCP nằm trong khoảng nào theo Luật Doanh nghiệp 2020?
+- Câu 84: Số lượng thành viên Hội đồng quản trị CTCP nằm trong khoảng nào theo Luật Doanh nghiệp 2020?
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 154 khoản 1
-- Câu 83: Mọi cổ đông bất kỳ đều có quyền mua và sở hữu cổ phần ưu đãi biểu quyết.
+- Câu 89: Mọi cổ đông bất kỳ đều có quyền mua và sở hữu cổ phần ưu đãi biểu quyết.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 116 khoản 1
-- Câu 94: Đại hội đồng cổ đông gồm tất cả cổ đông, không phân biệt loại cổ phần và quyền biểu quyết.
+- Câu 101: Đại hội đồng cổ đông gồm tất cả cổ đông, không phân biệt loại cổ phần và quyền biểu quyết.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 138 khoản 1
-- Câu 97: Luật buộc mọi thành viên HĐQT, Giám đốc và Kiểm soát viên phải là cổ đông của CTCP.
+- Câu 104: Luật buộc mọi thành viên HĐQT, Giám đốc và Kiểm soát viên phải là cổ đông của CTCP.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 155, 162, 169
-- Câu 98: Nhóm 5 cổ đông sáng lập đăng ký CTCP có 5 triệu cổ phần phổ thông và 2 triệu cổ phần ưu đãi được chào bán khi đăng ký. Nhóm phải cùng đăng ký mua tối thiểu bao nhiêu cổ phần phổ thông?
+- Câu 105: Nhóm 5 cổ đông sáng lập đăng ký CTCP có 5 triệu cổ phần phổ thông và 2 triệu cổ phần ưu đãi được chào bán khi đăng ký. Nhóm phải cùng đăng ký mua tối thiểu bao nhiêu cổ phần phổ thông?
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 120 khoản 2
-- Câu 100: Cơ quan quyết định cao nhất của CTCP là cơ quan nào?
+- Câu 108: Cơ quan quyết định cao nhất của CTCP là cơ quan nào?
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 138 khoản 1
-- Câu 101: Theo quyền thông thường, cổ đông nắm loại cổ phần nào được dự họp và biểu quyết tại Đại hội đồng cổ đông?
+- Câu 109: Theo quyền thông thường, cổ đông nắm loại cổ phần nào được dự họp và biểu quyết tại Đại hội đồng cổ đông?
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 115, 116, 117, 118 và 148 khoản 6
-- Câu 102: Cổ đông sở hữu ưu đãi biểu quyết được tự do chuyển nhượng loại cổ phần đó như cổ phần phổ thông.
+- Câu 110: Cổ đông sở hữu ưu đãi biểu quyết được tự do chuyển nhượng loại cổ phần đó như cổ phần phổ thông.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 116 khoản 3
-- Câu 104: Ai điều hành công việc kinh doanh hằng ngày của CTCP?
+- Câu 112: Ai điều hành công việc kinh doanh hằng ngày của CTCP?
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 162
-- Câu 108: Thành viên hợp danh muốn chuyển phần vốn của mình cho người khác. Yêu cầu nào đúng?
+- Câu 116: Thành viên hợp danh muốn chuyển phần vốn của mình cho người khác. Yêu cầu nào đúng?
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 185 về chấm dứt tư cách thành viên hợp danh
-- Câu 111: Thành viên hợp danh không được đồng thời làm chủ doanh nghiệp tư nhân.
+- Câu 119: Thành viên hợp danh không được đồng thời làm chủ doanh nghiệp tư nhân.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 180 khoản 1
-- Câu 113: Mọi thành viên công ty hợp danh đều bắt buộc là cá nhân.
+- Câu 121: Mọi thành viên công ty hợp danh đều bắt buộc là cá nhân.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 177 khoản 1
-- Câu 116: Thành viên hợp danh có thể là thành viên hợp danh công ty khác nếu được sự nhất trí của các thành viên hợp danh còn lại.
+- Câu 124: Thành viên hợp danh có thể là thành viên hợp danh công ty khác nếu được sự nhất trí của các thành viên hợp danh còn lại.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 180 khoản 1
-- Câu 126: HTX có bao nhiêu thành viên chính thức trở lên có thể tổ chức đại hội đại biểu theo Luật HTX 2023?
+- Câu 134: HTX có bao nhiêu thành viên chính thức trở lên có thể tổ chức đại hội đại biểu theo Luật HTX 2023?
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Hợp tác xã 2023 · Điều 57 khoản 2
-- Câu 141: Thành viên liên kết góp vốn đương nhiên có quyền biểu quyết tại Đại hội thành viên như thành viên chính thức.
+- Câu 154: Thành viên liên kết góp vốn đương nhiên có quyền biểu quyết tại Đại hội thành viên như thành viên chính thức.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Hợp tác xã 2023 · Điều 57 khoản 2
-- Câu 154: Thành viên chính thức của liên hiệp HTX là chủ thể nào?
+- Câu 168: Thành viên chính thức của liên hiệp HTX là chủ thể nào?
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Hợp tác xã 2023 · Điều 34
-- Câu 176: Hợp đồng phụ bắt buộc luôn được giao kết sau hợp đồng chính.
+- Câu 190: Hợp đồng phụ bắt buộc luôn được giao kết sau hợp đồng chính.
   - Nguồn: Bổ sung từ văn bản chính thức · Bộ luật Dân sự 2015 · Điều 402, 407
-- Câu 183: Nhận định nào phù hợp về tài sản bảo đảm?
+- Câu 198: Nhận định nào phù hợp về tài sản bảo đảm?
   - Nguồn: Bổ sung từ văn bản chính thức · Bộ luật Dân sự 2015 · Điều 105, 295, 296
-- Câu 188: Trong thế chấp theo BLDS 2015, bên nhận thế chấp luôn trực tiếp giữ tài sản bảo đảm.
+- Câu 205: Trong thế chấp theo BLDS 2015, bên nhận thế chấp luôn trực tiếp giữ tài sản bảo đảm.
   - Nguồn: Bổ sung từ văn bản chính thức · Bộ luật Dân sự 2015 · Điều 317 khoản 1, 2
-- Câu 189: Một tài sản có thể bảo đảm nhiều nghĩa vụ nếu đáp ứng điều kiện và thông báo theo pháp luật.
+- Câu 206: Một tài sản có thể bảo đảm nhiều nghĩa vụ nếu đáp ứng điều kiện và thông báo theo pháp luật.
   - Nguồn: Bổ sung từ văn bản chính thức · Bộ luật Dân sự 2015 · Điều 296
-- Câu 190: Trong cầm cố theo định nghĩa BLDS, bên cầm cố vẫn trực tiếp giữ tài sản để bảo đảm cho bên nhận cầm cố.
+- Câu 208: Trong cầm cố theo định nghĩa BLDS, bên cầm cố vẫn trực tiếp giữ tài sản để bảo đảm cho bên nhận cầm cố.
   - Nguồn: Bổ sung từ văn bản chính thức · Bộ luật Dân sự 2015 · Điều 309, 313
-- Câu 200: Các bên có thể dùng nhiều biện pháp bảo đảm hợp pháp cho cùng một nghĩa vụ, nếu đáp ứng điều kiện riêng của từng biện pháp.
+- Câu 223: Các bên có thể dùng nhiều biện pháp bảo đảm hợp pháp cho cùng một nghĩa vụ, nếu đáp ứng điều kiện riêng của từng biện pháp.
   - Nguồn: Bổ sung từ leak/review · Nhận định về phối hợp nhiều biện pháp bảo đảm; slide liệt kê các biện pháp nhưng không trình bày trực tiếp quy tắc phối hợp
-- Câu 220: Buộc thực hiện đúng hợp đồng chỉ áp dụng khi bên vi phạm giao hàng chậm, không áp dụng hàng sai chất lượng.
+- Câu 243: Buộc thực hiện đúng hợp đồng chỉ áp dụng khi bên vi phạm giao hàng chậm, không áp dụng hàng sai chất lượng.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Thương mại 2005 · Điều 297
-- Câu 229: Hợp đồng tặng cho không có điều kiện, bên nhận không phải thực hiện nghĩa vụ đối ứng, là ví dụ hợp đồng đơn vụ.
+- Câu 252: Hợp đồng tặng cho không có điều kiện, bên nhận không phải thực hiện nghĩa vụ đối ứng, là ví dụ hợp đồng đơn vụ.
   - Nguồn: Bổ sung từ văn bản chính thức · Bộ luật Dân sự 2015 · Điều 402, 457, 462
-- Câu 235: Hai doanh nghiệp tư nhân được trực tiếp hợp nhất theo thủ tục hợp nhất công ty để thành TNHH hai thành viên.
+- Câu 258: Hai doanh nghiệp tư nhân được trực tiếp hợp nhất theo thủ tục hợp nhất công ty để thành TNHH hai thành viên.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 200 và 205
-- Câu 237: Cổ phần phổ thông không được chuyển đổi thành cổ phần ưu đãi.
+- Câu 260: Cổ phần phổ thông không được chuyển đổi thành cổ phần ưu đãi.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 114 khoản 5
-- Câu 238: Chủ tịch TNHH một thành viên do CTCP B sở hữu có thể tự quyết giải thể chỉ vì giữ chức Chủ tịch, không cần thẩm quyền của chủ sở hữu.
+- Câu 261: Chủ tịch TNHH một thành viên do CTCP B sở hữu có thể tự quyết giải thể chỉ vì giữ chức Chủ tịch, không cần thẩm quyền của chủ sở hữu.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 76, 81; Bổ sung từ văn bản chính thức · Luật Doanh nghiệp 2020 (đọc cùng sửa đổi liên quan) · Điều 76, quyền chủ sở hữu TNHH một thành viên
-- Câu 247: Theo Luật Phục hồi, phá sản 2025 trong bài giảng, Hội đồng thành viên công ty hợp danh có nghĩa vụ yêu cầu phá sản khi công ty mất khả năng thanh toán.
+- Câu 270: Theo Luật Phục hồi, phá sản 2025 trong bài giảng, Hội đồng thành viên công ty hợp danh có nghĩa vụ yêu cầu phá sản khi công ty mất khả năng thanh toán.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Phục hồi, phá sản 2025 · Điều 38
-- Câu 253: Ngân hàng cho vay 5 tỷ đồng, khoản vay được bảo đảm bằng tài sản có giá trị 3 tỷ đồng. Ngân hàng là chủ nợ gì?
+- Câu 278: Ngân hàng cho vay 5 tỷ đồng, khoản vay được bảo đảm bằng tài sản có giá trị 3 tỷ đồng. Ngân hàng là chủ nợ gì?
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Phục hồi, phá sản 2025 · Điều 5
-- Câu 254: Luật Phục hồi, phá sản 2025 hoàn toàn không áp dụng phá sản tổ chức tín dụng.
+- Câu 279: Luật Phục hồi, phá sản 2025 hoàn toàn không áp dụng phá sản tổ chức tín dụng.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Phục hồi, phá sản 2025 · Điều 2
-- Câu 259: Khoản nợ được bảo đảm hợp pháp bằng tài sản người thứ ba vẫn luôn là nợ không có bảo đảm.
+- Câu 285: Khoản nợ được bảo đảm hợp pháp bằng tài sản người thứ ba vẫn luôn là nợ không có bảo đảm.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Phục hồi, phá sản 2025 · Điều 5
-- Câu 266: Doanh nghiệp có thể tự sửa phương án phục hồi đã được công nhận mà không cần sự đồng ý theo thủ tục của chủ nợ.
+- Câu 293: Doanh nghiệp có thể tự sửa phương án phục hồi đã được công nhận mà không cần sự đồng ý theo thủ tục của chủ nợ.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Phục hồi, phá sản 2025 · Điều 36
-- Câu 268: Luật Phá sản 2014 áp dụng thủ tục phá sản cho hộ kinh doanh như doanh nghiệp.
+- Câu 295: Luật Phá sản 2014 áp dụng thủ tục phá sản cho hộ kinh doanh như doanh nghiệp.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Phá sản 2014 · Điều 2
-- Câu 269: Chỉ mới nợ lương quá 3 tháng đã đủ điều kiện thời gian để người lao động yêu cầu phá sản theo mốc trong Luật 142/2025.
+- Câu 296: Chỉ mới nợ lương quá 3 tháng đã đủ điều kiện thời gian để người lao động yêu cầu phá sản theo mốc trong Luật 142/2025.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Phục hồi, phá sản 2025 · Điều 38
-- Câu 302: Hai doanh nghiệp tự trao đổi email, thống nhất bồi thường, không có người trung gian hoặc cơ quan ra phán quyết. Đây là phương thức gì?
+- Câu 332: Hai doanh nghiệp tự trao đổi email, thống nhất bồi thường, không có người trung gian hoặc cơ quan ra phán quyết. Đây là phương thức gì?
   - Nguồn: Tài liệu ôn tập, dòng 1800–1823 (theo bản văn bản đã trích)
-- Câu 303: Trung tâm trọng tài là cơ quan hành chính nhà nước, nhân danh quyền lực nhà nước để xét xử.
+- Câu 333: Trung tâm trọng tài là cơ quan hành chính nhà nước, nhân danh quyền lực nhà nước để xét xử.
   - Nguồn: Tài liệu ôn tập, dòng 1825–1844 (theo bản văn bản đã trích); Bổ sung từ văn bản chính thức · Luật Trọng tài thương mại 2010 · Điều 27
-- Câu 304: Đương sự có mặt khi tuyên án sơ thẩm có thời hạn kháng cáo thông thường 15 ngày kể từ ngày tuyên án.
+- Câu 334: Đương sự có mặt khi tuyên án sơ thẩm có thời hạn kháng cáo thông thường 15 ngày kể từ ngày tuyên án.
   - Nguồn: Tài liệu ôn tập, dòng 2068–2077 (theo bản văn bản đã trích); Bổ sung từ văn bản chính thức · Bộ luật Tố tụng dân sự (hợp nhất 2025) · Điều 273
-- Câu 305: Người thứ ba giúp các bên đạt thỏa thuận, không áp đặt phán quyết giải quyết tranh chấp. Phương thức này là gì?
+- Câu 335: Người thứ ba giúp các bên đạt thỏa thuận, không áp đặt phán quyết giải quyết tranh chấp. Phương thức này là gì?
   - Nguồn: Tài liệu ôn tập, dòng 1800–1823 (theo bản văn bản đã trích); Bổ sung từ văn bản chính thức · Bộ luật Tố tụng dân sự (hợp nhất 2025) · Điều 416–419 về công nhận kết quả hòa giải thành ngoài Tòa án
-- Câu 306: Thỏa thuận trọng tài bắt buộc là văn bản riêng, không thể là điều khoản trong hợp đồng.
+- Câu 336: Thỏa thuận trọng tài bắt buộc là văn bản riêng, không thể là điều khoản trong hợp đồng.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Trọng tài thương mại 2010 · Điều 16
-- Câu 307: Trung tâm trọng tài có tư cách pháp nhân, con dấu và tài khoản riêng.
+- Câu 337: Trung tâm trọng tài có tư cách pháp nhân, con dấu và tài khoản riêng.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Trọng tài thương mại 2010 · Điều 27
-- Câu 308: Bản án phúc thẩm có hiệu lực pháp luật kể từ ngày tuyên án.
+- Câu 338: Bản án phúc thẩm có hiệu lực pháp luật kể từ ngày tuyên án.
   - Nguồn: Tài liệu ôn tập, dòng 2073–2084 (theo bản văn bản đã trích); Bổ sung từ văn bản chính thức · Bộ luật Tố tụng dân sự (hợp nhất 2025) · Điều 313 khoản 6
-- Câu 309: Giám đốc thẩm là việc đương sự tự kháng cáo bản án đã có hiệu lực để mở thêm một cấp xét xử thông thường.
+- Câu 339: Giám đốc thẩm là việc đương sự tự kháng cáo bản án đã có hiệu lực để mở thêm một cấp xét xử thông thường.
   - Nguồn: Tài liệu ôn tập, dòng 2073–2084 (theo bản văn bản đã trích)
-- Câu 310: Phán quyết trọng tài có tính chung thẩm.
+- Câu 340: Phán quyết trọng tài có tính chung thẩm.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Trọng tài thương mại 2010 · Điều 4; Bổ sung từ văn bản chính thức · Luật Trọng tài thương mại 2010 · Điều 68
-- Câu 311: Khi đã giải quyết bằng trọng tài, các bên vẫn có quyền thương lượng hoặc thỏa thuận giải quyết tranh chấp.
+- Câu 341: Khi đã giải quyết bằng trọng tài, các bên vẫn có quyền thương lượng hoặc thỏa thuận giải quyết tranh chấp.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Trọng tài thương mại 2010 · Điều 9
-- Câu 312: Trường hợp nào có thể là căn cứ yêu cầu hủy phán quyết trọng tài?
+- Câu 342: Trường hợp nào có thể là căn cứ yêu cầu hủy phán quyết trọng tài?
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Trọng tài thương mại 2010 · Điều 68; Bổ sung từ văn bản chính thức · Luật Trọng tài thương mại 2010 · Điều 71
-- Câu 313: Trừ luật chuyên ngành quy định khác, thời hiệu khởi kiện theo thủ tục trọng tài kể từ khi quyền, lợi ích hợp pháp bị xâm phạm là bao lâu?
+- Câu 343: Trừ luật chuyên ngành quy định khác, thời hiệu khởi kiện theo thủ tục trọng tài kể từ khi quyền, lợi ích hợp pháp bị xâm phạm là bao lâu?
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Trọng tài thương mại 2010 · Điều 33; Bổ sung từ văn bản chính thức · Bộ luật Dân sự 2015 · Điều 429
-- Câu 314: Hòa giải luôn là thủ tục bắt buộc phải thành công trước khi Hội đồng trọng tài được ra phán quyết.
+- Câu 344: Hòa giải luôn là thủ tục bắt buộc phải thành công trước khi Hội đồng trọng tài được ra phán quyết.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Trọng tài thương mại 2010 · Điều 9; Tài liệu ôn tập, dòng 2124–2125 (theo bản văn bản đã trích)
-- Câu 315: Khi tổ chức là một bên chấm dứt, phá sản, giải thể hoặc tổ chức lại, thỏa thuận trọng tài vẫn có hiệu lực với tổ chức tiếp nhận quyền, nghĩa vụ, trừ thỏa thuận khác.
+- Câu 345: Khi tổ chức là một bên chấm dứt, phá sản, giải thể hoặc tổ chức lại, thỏa thuận trọng tài vẫn có hiệu lực với tổ chức tiếp nhận quyền, nghĩa vụ, trừ thỏa thuận khác.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Trọng tài thương mại 2010 · Điều 5
-- Câu 316: Hai thương nhân có tranh chấp mua bán, có thỏa thuận trọng tài hợp lệ thực hiện được. Kết luận nào phù hợp về cơ quan giải quyết?
+- Câu 346: Hai thương nhân có tranh chấp mua bán, có thỏa thuận trọng tài hợp lệ thực hiện được. Kết luận nào phù hợp về cơ quan giải quyết?
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Trọng tài thương mại 2010 · Điều 2; Bổ sung từ văn bản chính thức · Luật Trọng tài thương mại 2010 · Điều 5; Bổ sung từ văn bản chính thức · Luật Trọng tài thương mại 2010 · Điều 6
-- Câu 317: Thương lượng giữa các bên vẫn bắt buộc tiến hành ngay cả khi một bên từ chối.
+- Câu 347: Thương lượng giữa các bên vẫn bắt buộc tiến hành ngay cả khi một bên từ chối.
   - Nguồn: Tài liệu ôn tập, dòng 1806–1823 (theo bản văn bản đã trích)
-- Câu 318: Pháp luật tài chính chỉ dùng phương pháp mệnh lệnh, kể cả quan hệ tài chính tư giữa các bên bình đẳng.
+- Câu 348: Pháp luật tài chính chỉ dùng phương pháp mệnh lệnh, kể cả quan hệ tài chính tư giữa các bên bình đẳng.
   - Nguồn: Tài liệu ôn tập, dòng 2195–2197 (theo bản văn bản đã trích)
-- Câu 319: Pháp luật ngân sách nhà nước tập trung điều chỉnh nhóm quan hệ nào?
+- Câu 349: Pháp luật ngân sách nhà nước tập trung điều chỉnh nhóm quan hệ nào?
   - Nguồn: Tài liệu ôn tập, dòng 2135–2141 (theo bản văn bản đã trích); Tài liệu ôn tập, dòng 2175–2182 (theo bản văn bản đã trích)
-- Câu 320: Luật Ngân sách nhà nước số 89/2025/QH15 được Quốc hội ban hành năm 2025.
+- Câu 350: Luật Ngân sách nhà nước số 89/2025/QH15 được Quốc hội ban hành năm 2025.
   - Nguồn: Bổ sung từ văn bản chính thức · Luật Ngân sách nhà nước 2025 · Thông tin ban hành và Điều 77
-- Câu 321: Tính đa dạng, lợi ích đan xen và sự khan hiếm của nguồn lực tài chính là lý do cần quản lý tài chính bằng pháp luật.
+- Câu 351: Tính đa dạng, lợi ích đan xen và sự khan hiếm của nguồn lực tài chính là lý do cần quản lý tài chính bằng pháp luật.
   - Nguồn: Tài liệu ôn tập, dòng 2145–2154 (theo bản văn bản đã trích)
-- Câu 322: Đối tượng điều chỉnh cơ bản của pháp luật tài chính là gì?
+- Câu 352: Đối tượng điều chỉnh cơ bản của pháp luật tài chính là gì?
   - Nguồn: Tài liệu ôn tập, dòng 2135–2141 (theo bản văn bản đã trích)
 
 ## Mục review gốc có điểm cần chú ý
