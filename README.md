@@ -42,3 +42,13 @@ Với Auto Deploy đang bật, commit mới trên `main` sẽ tự triển khai.
 - Ngân hàng 470 câu, tiến độ và nội dung bộ ôn cũ giữ nguyên; trang chính bổ sung liên kết đến trang review.
 
 Tải [review nguyên văn](review-nguyen-van.md), [bài luyện và lời giải](review-va-loi-giai.md), [đối chiếu các điểm cần chú ý](doi-chieu-review.md).
+
+## 10 đề ôn tập theo review — 40 câu / 30 phút
+
+- [Làm đề theo review](review-exams.html): 10 đề dạng cuộn, 40 câu mỗi đề, thời gian 30 phút.
+- Mỗi đề: 14 nhận biết, 16 thông hiểu, 10 vận dụng; 24 câu 4 lựa chọn và 16 câu đúng/sai; đủ 7 nhóm chủ đề.
+- Giữ nguyên câu hỏi, lựa chọn, lời giải từ 177 bài luyện theo review. Không lặp câu trong cùng đề; có câu lặp giữa các đề. Giữ mọi mục review gốc liên quan, câu lặp, ghi chú và đối chiếu nguồn.
+- Đồng hồ dùng thời điểm hết hạn, tiếp tục khi tải lại/rời trang và tự nộp khi hết 30 phút. Có xác nhận nộp sớm, tiếp tục bài đang làm, làm lại với đồng hồ mới.
+- Lời giải hiện sau khi nộp. Điểm, số đúng/sai/bỏ trống và kết quả theo 3 mức độ; phân tích từng lựa chọn, lý thuyết, bẫy, review nguyên văn và căn cứ.
+- Bài làm và thời gian lưu riêng theo tên trên trình duyệt; không phải tài khoản đăng nhập, không đồng bộ thiết bị. Tiến độ các phần trước vẫn giữ nguyên.
+- Tải [10 đề và toàn bộ lời giải](review-exams-solutions.md), [dữ liệu bộ đề](review-exams-data.json).
