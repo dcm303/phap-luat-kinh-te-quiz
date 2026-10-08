@@ -44,11 +44,12 @@ Với Auto Deploy đang bật, commit mới trên `main` sẽ tự triển khai.
 - Tải [ngân hàng và toàn bộ lời giải](review-va-loi-giai.md), [đối chiếu và nguồn](doi-chieu-review.md).
 - Bộ 470 câu theo chương/4 đề tổng hợp trước đó giữ nguyên.
 
-## 10 đề ôn tập theo review — 40 câu / 30 phút
+## 11 đề ôn tập theo review — 40 câu / 30 phút
 
-- [Làm đề](review-exams.html): bộ 10 đề hiện tại được ghép từ ngân hàng 322 câu trước khi bổ sung 30 tình huống, dùng 290 câu khác nhau trong 400 lượt câu. Giữ nguyên câu và phiên làm đề đang lưu; 30 tình huống mới học riêng bằng liên kết bên trên. Không lặp trong cùng đề; có thể lặp giữa các đề.
-- Mỗi đề: 14 nhận biết, 16 thông hiểu, 10 vận dụng; 24 câu 4 lựa chọn, 16 câu đúng/sai. Mỗi đề cân đối 7 nhóm chủ đề, gồm cả kiến thức bổ sung theo leak/review.
+- [Đề 11 — Đề ôn tập riêng](review-exams.html?exam=11): 40 câu / 30 phút, không có câu hợp tác xã; phần 7 câu được bù sang doanh nghiệp, hợp đồng và phục hồi/phá sản. Phân bố 13 doanh nghiệp, 11 hợp đồng/bảo đảm, 9 phục hồi/phá sản, 3 tranh chấp, 3 tổng quan, 1 tài chính. Có 9 tình huống mới lấy từ nhóm 30 câu thực tế. Tải [đề 11 và toàn bộ lời giải](de-11-on-tap-rieng-va-loi-giai.md).
+- [Làm đề](review-exams.html): giữ nguyên bộ 10 đề trước và thêm đề 11. Bộ 10 đề trước dùng 290 câu khác nhau trong 400 lượt câu; phiên làm đề đang lưu được giữ khi thêm đề mới. Không lặp trong cùng đề; có thể lặp giữa các đề.
+- Mỗi đề: 14 nhận biết, 16 thông hiểu, 10 vận dụng; 24 câu 4 lựa chọn, 16 câu đúng/sai. Đề 1–10 có cả hợp tác xã; đề 11 ôn riêng các nội dung còn thi theo yêu cầu người học.
 - Đồng hồ 30 phút tiếp tục khi tải lại/rời trang; tự nộp hết giờ, xác nhận nộp sớm, khóa đáp án sau nộp và cho làm lại.
 - Sau nộp: số đúng/sai/bỏ trống, điểm, kết quả theo mức độ; đầy đủ phân tích, lý thuyết, bẫy và nguồn như ngân hàng mới.
-- Tiến độ ngân hàng 322 câu được giữ khi thêm 30 tình huống nhờ mã câu ổn định; dữ liệu 10 đề không thay đổi.
-- Tải [10 đề và lời giải](review-exams-solutions.md), [dữ liệu bộ đề](review-exams-data.json).
+- Tiến độ ngân hàng 322 câu được giữ khi thêm 30 tình huống nhờ mã câu ổn định; câu và đáp án của 10 đề trước không thay đổi, tiến độ được chuyển khi thêm đề 11.
+- Tải [11 đề và lời giải](review-exams-solutions.md), [dữ liệu bộ đề](review-exams-data.json).

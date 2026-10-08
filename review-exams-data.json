@@ -1,7 +1,7 @@
 {
-  "version": "review-exams-2026-10-08-v2-unique",
+  "version": "review-exams-2026-10-08-v3-exam11",
   "title": "Đề ôn tập theo review",
-  "sourceVersion": "2026-10-08-review-v2-unique",
+  "sourceVersion": "2026-10-08-review-v3-cases",
   "policy": "Ngân hàng đã gộp bài luyện trùng: mỗi câu xuất hiện một lần, chia theo trọng tâm review. Câu mở rộng có căn cứ từ nội dung và ghi chú slide. Kiến thức có trong leak/review nhưng chưa có trực tiếp trong slide vẫn được giữ với nhãn “Bổ sung từ leak/review”; tài liệu ôn tập và luật dùng kiểm chứng được ghi riêng. Nguyên văn 411 mục review và thứ tự gốc được giữ trong bản nguồn, không biến các mục lặp thành bài luyện lặp. Các bài cùng chủ đề chỉ giữ riêng khi kiểm tra điều kiện, ngoại lệ hoặc thao tác khác nhau.",
   "levelNames": {
     "NB": "Nhận biết",
@@ -30258,6 +30258,1071 @@
           "extra": false
         }
       ]
+    },
+    {
+      "id": "uq-case30-penalty-breached-portion",
+      "key": "case30-penalty-breached-portion",
+      "domain": "HD",
+      "level": "VD",
+      "levelReason": "Áp dụng kiến thức vào tình huống, thời điểm hoặc dữ kiện tài chính.",
+      "format": "mcq",
+      "scope": "slide",
+      "quiz": {
+        "topicName": "Hợp đồng và biện pháp bảo đảm",
+        "stem": "Hai thương nhân ký hợp đồng mua bán hàng hóa thông thường trị giá 1 tỷ đồng, có điều khoản phạt 12% giá trị phần nghĩa vụ bị vi phạm. Bên bán chỉ vi phạm phần giao hàng trị giá 250 triệu; phần còn lại đã thực hiện đúng. Không thuộc trường hợp có mức phạt chuyên ngành khác và không có căn cứ miễn trách nhiệm. Mức phạt tối đa có thể yêu cầu cho vi phạm này là bao nhiêu?",
+        "choices": [
+          "30 triệu đồng",
+          "80 triệu đồng",
+          "120 triệu đồng",
+          "20 triệu đồng"
+        ],
+        "correct": 3,
+        "why": [
+          "30 triệu là 12% × 250 triệu, giữ nguyên tỷ lệ vượt giới hạn.",
+          "80 triệu là 8% toàn bộ hợp đồng 1 tỷ, dùng sai cơ sở tính.",
+          "120 triệu vừa dùng tỷ lệ 12% vừa dùng toàn bộ giá trị hợp đồng.",
+          "8% × 250 triệu = 20 triệu. Dùng giá trị phần nghĩa vụ bị vi phạm và giới hạn mức phạt của hợp đồng thương mại thông thường."
+        ],
+        "theory": "Với tình huống hợp đồng thương mại thông thường này, mức phạt không quá 8% giá trị phần nghĩa vụ hợp đồng bị vi phạm. Phạt đòi hỏi có thỏa thuận và vi phạm; khác căn cứ bồi thường thiệt hại.",
+        "focus": "Bước 1: xác định phần thực sự vi phạm là 250 triệu. Bước 2: thay mức 12% vượt giới hạn bằng mức tối đa 8% để xác định giới hạn yêu cầu. Bước 3: tính 0,08 × 250. Không suy rằng cả hợp đồng tự vô hiệu chỉ vì điều khoản mức phạt vượt giới hạn.",
+        "trap": "Hai bẫy độc lập: sai tỷ lệ và sai mẫu giá trị. Không áp trần thương mại này cho mọi hợp đồng dân sự.",
+        "evidence": [
+          {
+            "type": "slide",
+            "chapter": 5,
+            "slide": 24,
+            "part": "Nội dung trên slide",
+            "quote": "* Phạt vi phạm + Khái niệm: Phạt vi phạm là sự thoả thuận giữa các bên trong HĐ, theo đó bên vi phạm nghĩa vụ phảI nộp một khoản tiền cho bên bị vi phạm. + Căn cứ áp dụng: Có hành vi vi phạm HĐ; Có thoả thuận trong hợp đồng về việc áp dụng chế tài phạt vi phạm. + Mức phạt: Do các bên thoả thuận nhưng không được quá 8% giá trị phần hợp đồng bị vi phạm. * Bồi thường thiệt hại + Khái niệm: BTTH là việc bên VP bồi thường những tổn thất vật chất do hành vi VP hợp đồng gây ra cho bên bị VP. + Căn cứ áp dụng: Có hành vi VP; Có thiệt hại thực tế xẩy ra; Có mối quan hệ nhân quả giữa hành vi VP và thiệt hại thực tế. + Mức bồi thường: Do các bên thoả thuận, nếu không thoả thuận phải BTTH toàn bộ thiệt hại. => Các bên có thể thoả thuận về nộp tiền phạt vi phạm và BTTH."
+          }
+        ],
+        "kind": "Tình huống thực tế",
+        "id": "uq-case30-penalty-breached-portion"
+      },
+      "origins": [
+        {
+          "id": "rv-107",
+          "sequence": 107,
+          "sourceNumber": 1,
+          "group": 10,
+          "groupTitle": "Review tiếp theo — lượt 10",
+          "raw": "1) Thỏa thuận mức phạt vi phạm theo hợp đồng là 12%. Nếu công ty vi phạm hợp đồng thì:\n   - A. Phạt vi phạm hợp đồng nhưng không quá % quy định.\n   - B. Chỉ phạt mức 12%.\n   - C. Hợp đồng bị vô hiệu.\n   - D...",
+          "status": "conditional",
+          "answer": "A. Chỉ phạt trong giới hạn luật định nếu là hợp đồng thương mại thông thường chịu trần 8%.",
+          "detail": "B vượt trần; C vô hiệu toàn bộ là suy diễn; D không rõ nên không tự bổ sung như nguyên bản. Nếu hợp đồng dân sự/luật chuyên ngành khác thì không áp trần 8% chỉ vì có “công ty”.",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Phạt vi phạm hợp đồng nhưng không quá % quy định."
+            },
+            {
+              "letter": "B",
+              "text": "Chỉ phạt mức 12%."
+            },
+            {
+              "letter": "C",
+              "text": "Hợp đồng bị vô hiệu."
+            },
+            {
+              "letter": "D",
+              "text": ".."
+            }
+          ],
+          "extra": false
+        },
+        {
+          "id": "rv-123",
+          "sequence": 123,
+          "sourceNumber": 12,
+          "group": 11,
+          "groupTitle": "Review tiếp theo — lượt 11",
+          "raw": "12. A và B ký hợp đồng, nếu bên kia vi phạm thì phạt 12% giá trị nghĩa vụ hợp đồng. B vi phạm, A yêu cầu phạt như trong hợp đồng đã thỏa thuận. Vậy nhận định đúng là?",
+          "status": "conditional",
+          "answer": "Phạt trong giới hạn 8% phần nghĩa vụ vi phạm nếu thuộc LTM thông thường; không tự thu đủ 12%.",
+          "detail": "Review chưa nêu rõ luật áp dụng. Cần xác định thương mại và ngoại lệ chuyên ngành trước tỷ lệ.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-142",
+          "sequence": 142,
+          "sourceNumber": 4,
+          "group": 12,
+          "groupTitle": "Review tiếp theo — lượt 12",
+          "raw": "4. **Phạt vi phạm không quá 8% giá trị.**",
+          "status": "conditional",
+          "answer": "Thông thường không quá 8% giá trị phần nghĩa vụ bị vi phạm, nếu thuộc LTM và không ngoại lệ.",
+          "detail": "Nguyên văn chỉ “8% giá trị” thiếu mẫu số; không học thành 8% toàn bộ hợp đồng.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-221",
+          "sequence": 221,
+          "sourceNumber": 11,
+          "group": 20,
+          "groupTitle": "Review tiếp theo — lượt 20",
+          "raw": "11. **A và B ký hợp đồng, nếu một bên vi phạm thì bị phạt 12% giá trị nghĩa vụ hợp đồng. B vi phạm, A yêu cầu phạt theo mức đã thỏa thuận trong hợp đồng. Nhận định đúng là?**",
+          "status": "conditional",
+          "answer": "Phạt trong giới hạn 8% phần nghĩa vụ vi phạm nếu thuộc LTM thông thường; không tự thu đủ 12%.",
+          "detail": "Review chưa nêu rõ luật áp dụng. Cần xác định thương mại và ngoại lệ chuyên ngành trước tỷ lệ.",
+          "options": [],
+          "extra": false
+        }
+      ]
+    },
+    {
+      "id": "uq-case30-causal-damages",
+      "key": "case30-causal-damages",
+      "domain": "HD",
+      "level": "VD",
+      "levelReason": "Áp dụng kiến thức vào tình huống, thời điểm hoặc dữ kiện tài chính.",
+      "format": "mcq",
+      "scope": "slide",
+      "quiz": {
+        "topicName": "Hợp đồng và biện pháp bảo đảm",
+        "stem": "Bên bán giao nguyên liệu chậm, không có căn cứ miễn trách nhiệm. Bên mua chứng minh đã chi thêm 18 triệu thuê máy để xử lý trực tiếp việc giao chậm; đồng thời yêu cầu 12 triệu là chi phí sửa mái kho do một trận mưa không liên quan đến vi phạm. Hợp đồng không có thỏa thuận phạt. Giả định 18 triệu là tổn thất vật chất thực tế có quan hệ nhân quả đầy đủ, yêu cầu nào có căn cứ theo dữ kiện?",
+        "choices": [
+          "Bồi thường 18 triệu; không tính 12 triệu và không tự đặt tiền phạt",
+          "Bồi thường đủ 30 triệu vì mọi khoản chi cùng thời gian đều được tính",
+          "Phạt 8% dù hợp đồng không thỏa thuận phạt",
+          "Không bồi thường vì không có điều khoản phạt"
+        ],
+        "correct": 0,
+        "why": [
+          "18 triệu đủ vi phạm – thiệt hại thực tế – nhân quả. Khoản 12 triệu thiếu nhân quả; phạt thiếu thỏa thuận.",
+          "Cùng thời gian không chứng minh quan hệ nhân quả.",
+          "Trần 8% không tự làm phát sinh chế tài phạt khi không có thỏa thuận.",
+          "Bồi thường và phạt có căn cứ khác nhau; thiếu thỏa thuận phạt không tự loại bồi thường."
+        ],
+        "theory": "Bồi thường cần hành vi vi phạm, thiệt hại thực tế và quan hệ nhân quả. Phạt vi phạm cần có thỏa thuận và vi phạm; không đồng nhất hai chế tài.",
+        "focus": "Lập từng dòng chi phí, kiểm tra ba điều kiện bồi thường. Dòng 18 triệu đủ, dòng 12 triệu thiếu liên hệ với vi phạm. Sau đó kiểm tra riêng điều khoản phạt, không cộng theo cảm tính.",
+        "trap": "Không nhầm mọi chi phí phát sinh sau vi phạm với thiệt hại do vi phạm.",
+        "evidence": [
+          {
+            "type": "slide",
+            "chapter": 5,
+            "slide": 24,
+            "part": "Nội dung trên slide",
+            "quote": "* Phạt vi phạm + Khái niệm: Phạt vi phạm là sự thoả thuận giữa các bên trong HĐ, theo đó bên vi phạm nghĩa vụ phảI nộp một khoản tiền cho bên bị vi phạm. + Căn cứ áp dụng: Có hành vi vi phạm HĐ; Có thoả thuận trong hợp đồng về việc áp dụng chế tài phạt vi phạm. + Mức phạt: Do các bên thoả thuận nhưng không được quá 8% giá trị phần hợp đồng bị vi phạm. * Bồi thường thiệt hại + Khái niệm: BTTH là việc bên VP bồi thường những tổn thất vật chất do hành vi VP hợp đồng gây ra cho bên bị VP. + Căn cứ áp dụng: Có hành vi VP; Có thiệt hại thực tế xẩy ra; Có mối quan hệ nhân quả giữa hành vi VP và thiệt hại thực tế. + Mức bồi thường: Do các bên thoả thuận, nếu không thoả thuận phải BTTH toàn bộ thiệt hại. => Các bên có thể thoả thuận về nộp tiền phạt vi phạm và BTTH."
+          }
+        ],
+        "kind": "Tình huống thực tế",
+        "id": "uq-case30-causal-damages"
+      },
+      "origins": [
+        {
+          "id": "rv-157",
+          "sequence": 157,
+          "sourceNumber": 1,
+          "group": 15,
+          "groupTitle": "Review tiếp theo — lượt 15",
+          "raw": "1) **Công ty A ký hợp đồng mua bán hàng hóa với Công ty B để mua một số lượng hàng hóa. Hạn giao là ngày 18/9/2023. Đến ngày 26/9/2023, Công ty B mới giao hết hàng hóa cho Công ty A. Trong lúc lắp đặt phát hiện 20 máy bị hỏng, không chạy được. Giả sử không phát sinh thiệt hại nào khác, Công ty B có trách nhiệm pháp lý nào liên quan đến việc thực hiện hợp đồng?**",
+          "status": "conditional",
+          "answer": "Xem xét buộc thực hiện đúng hợp đồng: sửa chữa/thay thế 20 máy hỏng; phạt chỉ nếu có thỏa thuận, bồi thường cần thiệt hại thực tế và nhân quả.",
+          "detail": "Giao muộn 8 ngày là vi phạm thời hạn, 20 máy hỏng là vi phạm chất lượng. “Không thiệt hại khác” không xóa nghĩa vụ khắc phục; không tự suy có phạt hoặc mọi thiệt hại bằng 0 nếu bản thân hàng hỏng gây tổn thất chưa được xử lý.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-187",
+          "sequence": 187,
+          "sourceNumber": 13,
+          "group": 17,
+          "groupTitle": "Review tiếp theo — lượt 17",
+          "raw": "13. **Phạt vi phạm chỉ xem xét thiệt hại của bên bị vi phạm mà không xem xét bên vi phạm – đúng hay sai?**",
+          "status": "matched",
+          "answer": "Sai nếu lấy thiệt hại là điều kiện bắt buộc/phạm vi duy nhất của phạt vi phạm.",
+          "detail": "Phạt cần vi phạm và thỏa thuận, không phải chứng minh thiệt hại giống bồi thường. Không đồng nhất trách nhiệm bồi thường với phạt.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-252",
+          "sequence": 252,
+          "sourceNumber": 13,
+          "group": 21,
+          "groupTitle": "Review tiếp theo — lượt 21",
+          "raw": "13. **Phạt vi phạm chỉ xem xét thiệt hại của bên bị vi phạm mà không xem xét bên vi phạm – đúng hay sai?**",
+          "status": "matched",
+          "answer": "Sai nếu lấy thiệt hại là điều kiện bắt buộc/phạm vi duy nhất của phạt vi phạm.",
+          "detail": "Phạt cần vi phạm và thỏa thuận, không phải chứng minh thiệt hại giống bồi thường. Không đồng nhất trách nhiệm bồi thường với phạt.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-387",
+          "sequence": 387,
+          "sourceNumber": 13,
+          "group": 28,
+          "groupTitle": "Review tiếp theo — lượt 28",
+          "raw": "13. **Phạt vi phạm chỉ xem xét thiệt hại của bên bị vi phạm mà không xem xét bên vi phạm – đúng hay sai?**",
+          "status": "matched",
+          "answer": "Sai nếu lấy thiệt hại là điều kiện bắt buộc/phạm vi duy nhất của phạt vi phạm.",
+          "detail": "Phạt cần vi phạm và thỏa thuận, không phải chứng minh thiệt hại giống bồi thường. Không đồng nhất trách nhiệm bồi thường với phạt.",
+          "options": [],
+          "extra": false
+        }
+      ]
+    },
+    {
+      "id": "uq-case30-buyback-board-authority",
+      "key": "case30-buyback-board-authority",
+      "domain": "DN",
+      "level": "VD",
+      "levelReason": "Áp dụng kiến thức vào tình huống, thời điểm hoặc dữ kiện tài chính.",
+      "format": "mcq",
+      "scope": "slide",
+      "quiz": {
+        "topicName": "Doanh nghiệp",
+        "stem": "Một công ty cổ phần có 1 triệu cổ phần phổ thông đã bán. Trong 12 tháng đang xét, công ty chưa mua lại cổ phần nào. Hội đồng quản trị muốn tự quyết định mua lại 150.000 cổ phần phổ thông; giả định công ty đủ điều kiện thanh toán. Chỉ xét thẩm quyền quyết định, phương án nào đúng?",
+        "choices": [
+          "HĐQT tự quyết định vì 150.000 chưa vượt 30% tổng cổ phần phổ thông",
+          "Giám đốc tự quyết định mọi giao dịch mua lại",
+          "Không cơ quan nào được quyết định mua lại quá 10%",
+          "Trường hợp này thuộc thẩm quyền quyết định của Đại hội đồng cổ đông"
+        ],
+        "correct": 3,
+        "why": [
+          "30% là trần mua lại cổ phần phổ thông của công ty theo quy tắc đang nêu, không phải giới hạn thẩm quyền riêng của HĐQT.",
+          "Không có quy tắc giao cho giám đốc tự quyết định mọi mua lại cổ phần.",
+          "Vượt 10% của HĐQT không đồng nghĩa bị cấm tuyệt đối; chuyển sang thẩm quyền ĐHĐCĐ khi đủ điều kiện.",
+          "150.000/1.000.000 = 15%, vượt giới hạn HĐQT tự quyết định không quá 10% từng loại trong 12 tháng; trường hợp khác do ĐHĐCĐ quyết định."
+        ],
+        "theory": "Công ty có quyền mua lại không quá 30% tổng cổ phần phổ thông đã bán. HĐQT quyết định mua lại không quá 10% tổng cổ phần từng loại đã bán trong 12 tháng; trường hợp khác do ĐHĐCĐ quyết định.",
+        "focus": "Bước 1: tính 15%. Bước 2: tách hai câu hỏi: công ty có được mua không và ai được quyết định. Bước 3: so 15% với trần thẩm quyền 10%, không chỉ với trần 30%.",
+        "trap": "Có đủ tiền chưa đủ để HĐQT có thẩm quyền quyết định.",
+        "evidence": [
+          {
+            "type": "slide",
+            "chapter": 2,
+            "slide": 65,
+            "part": "Nội dung trên slide",
+            "quote": "- Mua lại cổ phần theo quyết định của công ty Công ty có quyền mua lại không quá 30% tổng số cổ phần phổ thông đã bán, một phần hoặc toàn bộ cổ phần ưu đãi cổ tức đã bán theo quy định sau đây: Hội đồng quản trị có quyền quyết định mua lại không quá 10% tổng số cổ phần của từng loại đã bán trong thời hạn 12 tháng. Trường hợp khác, việc mua lại cổ phần do Đại hội đồng cổ đông quyết định; Hội đồng quản trị quyết định giá mua lại cổ phần."
+          }
+        ],
+        "kind": "Tình huống thực tế",
+        "id": "uq-case30-buyback-board-authority"
+      },
+      "origins": [
+        {
+          "id": "rv-281",
+          "sequence": 281,
+          "sourceNumber": 27,
+          "group": 22,
+          "groupTitle": "Nhóm 1",
+          "raw": "27. **Ai có quyền quyết định cao nhất trong công ty cổ phần?**\\\n    *Ghi chú trong nguồn:* **Hội đồng quản trị.**",
+          "status": "conflict",
+          "answer": "Đại hội đồng cổ đông là cơ quan quyết định cao nhất, không phải HĐQT.",
+          "detail": "Giữ nguyên note review “Hội đồng quản trị” nhưng đánh dấu mâu thuẫn. HĐQT có quyền quản lý và quyền yêu cầu phục hồi không làm thành cao nhất.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-365",
+          "sequence": 365,
+          "sourceNumber": 6,
+          "group": 27,
+          "groupTitle": "Review bổ sung",
+          "raw": "6. **Ông Hải là một trong các thành viên của Công ty trách nhiệm hữu hạn hai thành viên trở lên Hải Hà, có yêu cầu công ty mua lại phần vốn góp của mình với giá thỏa thuận là 5 tỷ đồng. Tuy nhiên, toàn bộ tài sản còn lại của công ty chỉ có giá trị khoảng 10 tỷ đồng. Ngoài ra, công ty còn nợ BIDV 7 tỷ đồng. Do đó, ông Hải được:**\\\n   A. Công ty Hải Hà thanh toán đủ 5 tỷ đồng ngay lập tức.\\\n   B. Công ty Hải Hà thanh toán đầy đủ 5 tỷ đồng nhưng phải đợi các thành viên góp thêm vốn.\\\n   C. Công ty Hải Hà thanh toán 3 tỷ đồng vì công ty phải trả khoản nợ 7 tỷ đồng.\\\n   D. Chuyển nhượng tự do phần vốn góp của mình cho người khác, kể cả người không phải là thành viên công ty.",
+          "status": "matched",
+          "answer": "D. Được chuyển nhượng theo trường hợp công ty không thanh toán được mua lại hợp lệ.",
+          "detail": "Mua 5 tỷ từ tài sản 10 tỷ chỉ còn 5, không đủ trả nợ 7; điều kiện mua lại không đạt. A thanh toán ngay sai. B không có quyền buộc chờ góp vốn vô hạn. C không tự chia trả 3 tỷ một phần rồi coi mua lại xong.",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Công ty Hải Hà thanh toán đủ 5 tỷ đồng ngay lập tức."
+            },
+            {
+              "letter": "B",
+              "text": "Công ty Hải Hà thanh toán đầy đủ 5 tỷ đồng nhưng phải đợi các thành viên góp thêm vốn."
+            },
+            {
+              "letter": "C",
+              "text": "Công ty Hải Hà thanh toán 3 tỷ đồng vì công ty phải trả khoản nợ 7 tỷ đồng."
+            },
+            {
+              "letter": "D",
+              "text": "Chuyển nhượng tự do phần vốn góp của mình cho người khác, kể cả người không phải là thành viên công ty."
+            }
+          ],
+          "extra": false
+        }
+      ]
+    },
+    {
+      "id": "uq-case30-weighted-recovery-vote",
+      "key": "case30-weighted-recovery-vote",
+      "domain": "PH",
+      "level": "VD",
+      "levelReason": "Áp dụng kiến thức vào tình huống, thời điểm hoặc dữ kiện tài chính.",
+      "format": "mcq",
+      "scope": "slide",
+      "quiz": {
+        "topicName": "Phục hồi và phá sản",
+        "stem": "Trong Hội nghị chủ nợ của thủ tục phục hồi, năm chủ nợ tham gia biểu quyết có số nợ lần lượt 5, 2, 1, 1 và 1 tỷ đồng. Chủ nợ 5 tỷ và chủ nợ 2 tỷ tán thành; ba người còn lại phản đối. Hội nghị đáp ứng các điều kiện khác, nhưng Thẩm phán chưa công nhận nghị quyết. Kết luận nào đúng?",
+        "choices": [
+          "Không đạt vì chỉ 2/5 chủ nợ tán thành",
+          "Đã có hiệu lực ngay vì đạt 70% theo số nợ",
+          "Đạt vì có một chủ nợ nắm 50%, không cần xét tổng số nợ tán thành",
+          "Đạt ngưỡng tán thành 70% theo số nợ nhưng nghị quyết chưa có hiệu lực khi chưa được Thẩm phán công nhận"
+        ],
+        "correct": 3,
+        "why": [
+          "Đề dùng tỷ lệ giá trị nợ, không dùng tỷ lệ số người.",
+          "Đạt ngưỡng biểu quyết và có hiệu lực nghị quyết là hai bước khác nhau.",
+          "50% của một chủ nợ chưa đạt 65%; phải cộng nợ của tất cả người tán thành.",
+          "Tổng nợ tham gia biểu quyết là 10 tỷ; tán thành 7 tỷ, đạt từ 65%. Ghi chú slide yêu cầu Thẩm phán công nhận để có hiệu lực."
+        ],
+        "theory": "Trong phục hồi: nghị quyết được thông qua với số chủ nợ đại diện từ 65% tổng số nợ của chủ nợ tham gia biểu quyết tán thành. Nghị quyết thông qua phương án chỉ có hiệu lực khi được Thẩm phán công nhận.",
+        "focus": "Bước 1: cộng mẫu số 10 tỷ. Bước 2: cộng tử số 7 tỷ, chia được 70%. Bước 3: kiểm tra bước công nhận riêng; không kết luận đủ hiệu lực chỉ từ tỷ lệ.",
+        "trap": "Đừng đếm đầu người; đừng gộp thông qua và công nhận thành cùng một thời điểm.",
+        "evidence": [
+          {
+            "type": "slide",
+            "chapter": 4,
+            "slide": 52,
+            "part": "Nội dung trên slide",
+            "quote": "Điều kiện thông qua Nghị quyết của Hội nghị chủ nợ: Khi có số chủ nợ đại diện cho từ 65% tổng số nợ của chủ nợ tham gia biểu quyết tán thành"
+          },
+          {
+            "type": "slide",
+            "chapter": 4,
+            "slide": 52,
+            "part": "Ghi chú PowerPoint",
+            "quote": "Lưu ý: Hội nghị chủ nợ biểu quyết thông qua phương án chưa có nghĩa là phương án đương nhiên có hiệu lực. Nghị quyết thông qua phương án chỉ có hiệu lực khi được Thẩm phán công nhận. Phục hồi là một cơ chế quyết định tập thể của các chủ nợ chứ không phải sự ưu ái đơn phương của Nhà nước dành cho doanh nghiệp mắc nợ."
+          },
+          {
+            "type": "slide",
+            "chapter": 4,
+            "slide": 53,
+            "part": "Nội dung trên slide",
+            "quote": "Bước : Tổ chức Hội nghị chủ nợ Nghị quyết của Hội nghị chủ nợ có một trong các kết luận sau: Thông qua phương án phục hồi hoạt động kinh doanh; Đề nghị đình chỉ thủ tục phục hồi; Đề nghị áp dụng thủ tục phá sản trong trường hợp doanh nghiệp, hợp tác xã mất khả năng thanh toán và phải có nội dung về nghĩa vụ tạm ứng chi phí phá sản; Các nội dung khác"
+          },
+          {
+            "type": "slide",
+            "chapter": 4,
+            "slide": 53,
+            "part": "Ghi chú PowerPoint",
+            "quote": "Khaonr 7 Điều 33 Nội dung khác: k2 Điều 33 Thẩm phán còn có thể triệu tập Hội nghị chủ nợ để xem xét, quyết định nội dung sau đây: a) Chuyển nhượng đồng bộ tài sản, chuyển nhượng một phần hoặc toàn bộ mảng kinh doanh, hoạt động kinh doanh; chuyển nhượng một phần hoặc toàn bộ doanh nghiệp, hợp tác xã; b) Đề xuất xử lý nghĩa vụ về tài sản của doanh nghiệp, hợp tác xã trong trường hợp bị tạm đình chỉ, tạm dừng theo quy định tại Điều 27 của Luật này; c) Các vấn đề khác có liên quan. Lưu ý: Hội nghị chủ nợ biểu quyết thông qua phương án chưa có nghĩa là phương án đương nhiên có hiệu lực. Nghị quyết thông qua phương án chỉ có hiệu lực khi được Thẩm phán công nhận. Phục hồi là một cơ chế quyết định tập thể của các chủ nợ chứ không phải sự ưu ái đơn phương của Nhà nước dành cho doanh nghiệp mắc nợ."
+          }
+        ],
+        "kind": "Tình huống thực tế",
+        "id": "uq-case30-weighted-recovery-vote"
+      },
+      "origins": [
+        {
+          "id": "rv-048",
+          "sequence": 48,
+          "sourceNumber": 24,
+          "group": 4,
+          "groupTitle": "IV. Trang câu hỏi tiếp theo — Câu 18 đến 35",
+          "raw": "24. **Hội nghị chủ nợ hợp lệ khi nào?**",
+          "status": "conflict",
+          "answer": "Không dùng gợi ý 51% nợ không bảo đảm làm điều kiện chung của Hội nghị theo bài giảng luật 2025.",
+          "detail": "51% tổng nợ không bảo đảm là mốc dễ gắn điều kiện hợp lệ của Luật Phá sản 2014, hoặc ngưỡng nghị quyết phá sản rút gọn trong luật mới (cách tính riêng). Điều 61 luật 2025 dùng 65% cho thông qua nghị quyết phá sản thông thường; phục hồi Điều 33 dùng 65% nợ người tham gia biểu quyết. Không biến tỷ lệ thông qua thành một ngưỡng “hợp lệ” giả.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-159",
+          "sequence": 159,
+          "sourceNumber": 3,
+          "group": 15,
+          "groupTitle": "Review tiếp theo — lượt 15",
+          "raw": "3) **Hội nghị chủ nợ hợp pháp khi nào?**\\\n   &#x20;  Ghi chú trong nguồn: **51% tổng nợ không bảo đảm.**",
+          "status": "conflict",
+          "answer": "Không dùng gợi ý 51% nợ không bảo đảm làm điều kiện chung của Hội nghị theo bài giảng luật 2025.",
+          "detail": "51% tổng nợ không bảo đảm là mốc dễ gắn điều kiện hợp lệ của Luật Phá sản 2014, hoặc ngưỡng nghị quyết phá sản rút gọn trong luật mới (cách tính riêng). Điều 61 luật 2025 dùng 65% cho thông qua nghị quyết phá sản thông thường; phục hồi Điều 33 dùng 65% nợ người tham gia biểu quyết. Không biến tỷ lệ thông qua thành một ngưỡng “hợp lệ” giả.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-167",
+          "sequence": 167,
+          "sourceNumber": 5,
+          "group": 16,
+          "groupTitle": "Review tiếp theo — lượt 16",
+          "raw": "5. Phương án phục hồi hoạt động kinh doanh được thông qua khi đạt tỷ lệ biểu quyết như thế nào? (Trắc nghiệm)",
+          "status": "matched",
+          "answer": "Thông thường: chủ nợ đại diện từ 65% tổng số nợ của các chủ nợ tham gia biểu quyết tán thành.",
+          "detail": "Phục hồi rút gọn có mốc 51% với mẫu số tương ứng. Không trộn 65% nợ không bảo đảm của nghị quyết phá sản thông thường.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-397",
+          "sequence": 397,
+          "sourceNumber": 4,
+          "group": 30,
+          "groupTitle": "Review tiếp theo — lượt 30",
+          "raw": "4) **Trong thủ tục phục hồi, nghị quyết của Hội nghị chủ nợ về phương án phục hồi được thông qua khi nào?**\\\n   *Đáp án gợi ý trong nguồn: Từ 65% tổng số nợ của các chủ nợ tham gia biểu quyết.*",
+          "status": "matched",
+          "answer": "Thông thường: chủ nợ đại diện từ 65% tổng số nợ của các chủ nợ tham gia biểu quyết tán thành.",
+          "detail": "Phục hồi rút gọn có mốc 51% với mẫu số tương ứng. Không trộn 65% nợ không bảo đảm của nghị quyết phá sản thông thường.",
+          "options": [],
+          "extra": false
+        }
+      ]
+    },
+    {
+      "id": "uq-case30-no-upgrade-old-unsecured",
+      "key": "case30-no-upgrade-old-unsecured",
+      "domain": "PH",
+      "level": "VD",
+      "levelReason": "Áp dụng kiến thức vào tình huống, thời điểm hoặc dữ kiện tài chính.",
+      "format": "mcq",
+      "scope": "slide",
+      "quiz": {
+        "topicName": "Phục hồi và phá sản",
+        "stem": "Sau quyết định mở thủ tục phá sản, nhà cung cấp đang có khoản nợ không bảo đảm phát sinh trước đó yêu cầu doanh nghiệp lập thế chấp bằng kho hàng thuộc sở hữu doanh nghiệp để biến nợ cũ thành nợ có bảo đảm, nhằm được ưu tiên hơn các chủ nợ khác. Không có ngoại lệ hoặc cơ chế được phép riêng nào. Doanh nghiệp nên xử lý thế nào?",
+        "choices": [
+          "Bắt buộc giao kho ngay để thanh toán mọi nợ cũ không bảo đảm",
+          "Không thực hiện việc chuyển nợ cũ không bảo đảm thành nợ có bảo đảm bằng tài sản doanh nghiệp trong tình huống này",
+          "Được thực hiện nếu chủ nợ hứa không kiện",
+          "Được thực hiện vì mở thủ tục phá sản không liên quan hoạt động tài sản"
+        ],
+        "correct": 1,
+        "why": [
+          "Không có quy tắc ưu tiên thanh toán tùy ý mọi nợ cũ không bảo đảm bằng kho tài sản.",
+          "Slide cấm chuyển khoản nợ không bảo đảm thành có bảo đảm hoặc có bảo đảm một phần bằng tài sản DN/HTX sau quyết định mở thủ tục.",
+          "Cam kết không kiện không tạo ngoại lệ cho hành vi bị cấm.",
+          "Hoạt động kinh doanh tiếp tục nhưng phải giám sát và tuân thủ các cấm tài sản."
+        ],
+        "theory": "Sau mở thủ tục phá sản, DN/HTX tiếp tục kinh doanh dưới giám sát; bị cấm các hành vi làm tổn hại khối tài sản và thứ tự chủ nợ, gồm nâng nợ không bảo đảm thành có bảo đảm bằng tài sản mình.",
+        "focus": "Xác định đủ ba dấu hiệu: sau quyết định mở → nợ cũ không bảo đảm → dùng tài sản doanh nghiệp để nâng hạng. Đây là vấn đề bảo vệ khối tài sản, không chỉ là hai bên tự do thỏa thuận hợp đồng.",
+        "trap": "Đừng suy kinh doanh tiếp tục bình thường nghĩa là được ký mọi giao dịch tài sản.",
+        "evidence": [
+          {
+            "type": "slide",
+            "chapter": 4,
+            "slide": 68,
+            "part": "Nội dung trên slide",
+            "quote": "Bước 2: Mở thủ tục PS Kể từ sau khi có quyết định mở thủ tục phá sản, các hoạt động kinh doanh của doanh nghiệp, hợp tác xã tiến hành bình thường nhưng phải chịu sự giám sát."
+          },
+          {
+            "type": "slide",
+            "chapter": 4,
+            "slide": 69,
+            "part": "Nội dung trên slide",
+            "quote": "Bước 2: Mở thủ tục PS Hoạt động của DN, HTX bị cấm sau khi có quyết định mở thủ tục PS: Cất giấu, tẩu tán, tặng cho tài sản; Từ bỏ quyền đòi nợ Thanh toán khoản nợ không có bảo đảm, trừ khoản nợ không có bảo đảm phát sinh sau khi mở thủ tục phá sản và trả lương cho người lao động trong DN, HTX; Chuyển khoản nợ không có bảo đảm thành nợ có bảo đảm hoặc có bảo đảm một phần bằng tài sản của doanh nghiệp, hợp tác xã; Phân chia lợi nhuận, phân phối thu nhập"
+          },
+          {
+            "type": "slide",
+            "chapter": 4,
+            "slide": 69,
+            "part": "Ghi chú PowerPoint",
+            "quote": "Khoản 2 Điều 42 Giống Phục hồi"
+          }
+        ],
+        "kind": "Tình huống thực tế",
+        "id": "uq-case30-no-upgrade-old-unsecured"
+      },
+      "origins": [
+        {
+          "id": "rv-112",
+          "sequence": 112,
+          "sourceNumber": 1,
+          "group": 11,
+          "groupTitle": "Review tiếp theo — lượt 11",
+          "raw": "1. Khoản nợ không được bảo đảm bằng tài sản của doanh nghiệp nhưng được bảo đảm bằng tài sản của người thứ 3 vẫn là khoản nợ không được bảo đảm. Đúng/Sai.",
+          "status": "matched",
+          "answer": "Sai nếu là bảo đảm bằng tài sản người thứ ba hợp pháp.",
+          "detail": "Không có tài sản doanh nghiệp không đồng nghĩa không bảo đảm; phân biệt chỉ lời bảo lãnh với tài sản được dùng bảo đảm.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-392",
+          "sequence": 392,
+          "sourceNumber": 3,
+          "group": 29,
+          "groupTitle": "PHẦN 1: ĐÚNG / SAI",
+          "raw": "3. **Sau khi Tòa án thụ lý đơn yêu cầu phục hồi, doanh nghiệp bị nghiêm cấm thực hiện việc tặng cho tài sản hoặc phân chia lợi nhuận – đúng hay sai?**",
+          "status": "conditional",
+          "answer": "Tặng cho bị cấm; phân chia lợi nhuận thuộc hạn chế nhưng có ngoại lệ được ghi trong notes theo luật/Thẩm phán.",
+          "detail": "Nếu mệnh đề hiểu cấm tuyệt đối mọi trường hợp cả hai thì không đầy đủ. Nếu hỏi danh mục hành vi cấm theo slide rút gọn thì hướng đúng; phải giữ chú thích ngoại lệ để hiểu luật.",
+          "options": [],
+          "extra": false
+        }
+      ]
+    },
+    {
+      "id": "uq-case30-guarantee-versus-escrow",
+      "key": "case30-guarantee-versus-escrow",
+      "domain": "HD",
+      "level": "VD",
+      "levelReason": "Áp dụng kiến thức vào tình huống, thời điểm hoặc dữ kiện tài chính.",
+      "format": "mcq",
+      "scope": "slide",
+      "quiz": {
+        "topicName": "Hợp đồng và biện pháp bảo đảm",
+        "stem": "Trong hợp đồng mua nguyên liệu, công ty mẹ cam kết với bên bán sẽ trả thay cho công ty con nếu đến hạn công ty con không trả. Ở hợp đồng khác, công ty con gửi tiền của mình vào tài khoản phong tỏa tại ngân hàng để bảo đảm thanh toán. Hai cơ chế tương ứng là gì?",
+        "choices": [
+          "Bảo lãnh – ký quỹ",
+          "Tín chấp – ký cược",
+          "Ký quỹ – bảo lãnh",
+          "Thế chấp – đặt cọc"
+        ],
+        "correct": 0,
+        "why": [
+          "Cam kết của bên thứ ba thực hiện nghĩa vụ thay là bảo lãnh; gửi tài sản vào tài khoản phong tỏa tại tổ chức tín dụng là ký quỹ.",
+          "Công ty mẹ không phải tổ chức chính trị – xã hội ở cơ sở tín chấp cho người nghèo; hợp đồng sau không nhằm trả lại động sản thuê.",
+          "Đảo ngược dấu hiệu cam kết trả thay và tài khoản phong tỏa.",
+          "Đề không mô tả dùng tài sản sở hữu để thế chấp hoặc giao tài sản đặt cọc trực tiếp cho bên bán."
+        ],
+        "theory": "Bảo lãnh dựa vào cam kết thực hiện thay của người thứ ba khi bên được bảo lãnh không thực hiện đúng nghĩa vụ đến hạn. Ký quỹ dựa vào tài sản gửi trong tài khoản phong tỏa tại tổ chức tín dụng.",
+        "focus": "Hỏi ở giao dịch thứ nhất: ai có nghĩa vụ trả thay? Hỏi giao dịch thứ hai: tiền đang nằm ở đâu và dưới cơ chế nào? Không gộp mọi sự có mặt của bên thứ ba thành một biện pháp.",
+        "trap": "Ngân hàng giữ tiền và công ty mẹ hứa trả thay đều là bên thứ ba nhưng vai trò pháp lý khác nhau.",
+        "evidence": [
+          {
+            "type": "slide",
+            "chapter": 5,
+            "slide": 16,
+            "part": "Nội dung trên slide",
+            "quote": "Bảo lãnh: là việc người thứ ba (sau đây gọi là bên bảo lãnh) cam kết với bên có quyền (sau đây gọi là bên nhận bảo lãnh) sẽ thực hiện nghĩa vụ thay cho bên có nghĩa vụ (sau đây gọi là bên được bảo lãnh), nếu khi đến thời hạn thực hiện nghĩa vụ mà bên được bảo lãnh không thực hiện hoặc thực hiện không đúng nghĩa vụ."
+          },
+          {
+            "type": "slide",
+            "chapter": 5,
+            "slide": 18,
+            "part": "Nội dung trên slide",
+            "quote": "Ký quỹ: là việc bên có nghĩa vụ gửi một khoản tiền hoặc kim khí quý, đá quý hoặc giấy tờ có giá vào tài khoản phong tỏa tại một tổ chức tín dụng để bảo đảm việc thực hiện nghĩa vụ. Bảo lưu quyền sở hữu: Trong hợp đồng mua bán, quyền sở hữu tài sản có thể được bên bán bảo lưu cho đến khi nghĩa vụ thanh toán được thực hiện đầy đủ. Bảo lưu quyền sở hữu phải được lập thành văn bản riêng hoặc được ghi trong hợp đồng mua bán."
+          }
+        ],
+        "kind": "Tình huống thực tế",
+        "id": "uq-case30-guarantee-versus-escrow"
+      },
+      "origins": [
+        {
+          "id": "rv-051",
+          "sequence": 51,
+          "sourceNumber": 27,
+          "group": 4,
+          "groupTitle": "IV. Trang câu hỏi tiếp theo — Câu 18 đến 35",
+          "raw": "27. **Biện pháp không được bảo đảm bằng tài sản.**",
+          "status": "conditional",
+          "answer": "Tín chấp dựa uy tín tổ chức chính trị–xã hội ở cơ sở; bảo lãnh không bắt buộc phải giao tài sản.",
+          "detail": "Không có phương án nên chưa biết đề muốn một hay nhiều biện pháp. “Không bảo đảm bằng tài sản” có thể cần phân biệt tín chấp/bảo lãnh, không kết luận chỉ một tên trong mọi trường hợp.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-111",
+          "sequence": 111,
+          "sourceNumber": 5,
+          "group": 10,
+          "groupTitle": "Review tiếp theo — lượt 10",
+          "raw": "5) Để bảo đảm nghĩa vụ thanh toán theo hợp đồng mua bán hàng hóa, Công ty chuyển 3 tỷ vào tài khoản phong tỏa được mở tại Ngân hàng...? Đặt cọc / Ký quỹ / Ký cược / Bảo lãnh.",
+          "status": "matched",
+          "answer": "Ký quỹ.",
+          "detail": "3 tỷ được gửi vào tài khoản phong tỏa tại tổ chức tín dụng để bảo đảm nghĩa vụ; không phải giao trực tiếp cho đối tác như đặt cọc/ký cược.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-399",
+          "sequence": 399,
+          "sourceNumber": 6,
+          "group": 30,
+          "groupTitle": "Review tiếp theo — lượt 30",
+          "raw": "6) **Biện pháp nào là biện pháp bảo đảm có tài sản do bên thứ ba nắm giữ, bảo quản?**\\\n   *Đáp án gợi ý trong nguồn: Ký quỹ.*",
+          "status": "conditional",
+          "answer": "Ký quỹ khi tài sản gửi tài khoản phong tỏa tại ngân hàng; chỉ “người thứ ba giữ” chưa duy nhất.",
+          "detail": "Thế chấp cũng có thể thỏa thuận người thứ ba giữ theo Điều 317. Note review ký quỹ là hướng đúng nếu có cơ chế tài khoản phong tỏa; bài luyện thêm rõ cơ chế.",
+          "options": [],
+          "extra": false
+        }
+      ]
+    },
+    {
+      "id": "uq-case30-independent-rounding",
+      "key": "case30-independent-rounding",
+      "domain": "DN",
+      "level": "VD",
+      "levelReason": "Áp dụng kiến thức vào tình huống, thời điểm hoặc dữ kiện tài chính.",
+      "format": "mcq",
+      "scope": "slide",
+      "quiz": {
+        "topicName": "Doanh nghiệp",
+        "stem": "Công ty cổ phần lựa chọn mô hình thứ hai. Hội đồng quản trị có 7 người, trong đó 1 thành viên độc lập, và đã có Ủy ban kiểm toán. Công ty dự định thay một thành viên hiện tại bằng thành viên độc lập đủ điều kiện, giữ tổng số 7 người. Cách xử lý này có đáp ứng tỷ lệ tối thiểu không?",
+        "choices": [
+          "Có; cần ít nhất 2 người độc lập trong tổng số 7 người",
+          "Không; một người độc lập đã đủ nên không cần thay",
+          "Không; bắt buộc cả 7 người đều độc lập",
+          "Không; Ủy ban kiểm toán thay thế hoàn toàn yêu cầu về thành viên độc lập"
+        ],
+        "correct": 0,
+        "why": [
+          "20% × 7 = 1,4 nên số nguyên tối thiểu là 2. Sau thay thế, 2/7 khoảng 28,57%, đạt ngưỡng; Ủy ban kiểm toán vẫn được duy trì.",
+          "1/7 khoảng 14,29%, chưa đạt 20%.",
+          "Slide chỉ yêu cầu ít nhất 20%, không phải 100%.",
+          "Hai điều kiện tồn tại đồng thời; có Ủy ban kiểm toán không miễn điều kiện tỷ lệ."
+        ],
+        "theory": "Mô hình thứ hai yêu cầu ít nhất 20% thành viên HĐQT là thành viên độc lập và có Ủy ban kiểm toán trực thuộc HĐQT.",
+        "focus": "Bước 1: tính 20% của tổng số thành viên. Bước 2: vì số người là số nguyên, lấy số nguyên đủ đạt tỷ lệ. Bước 3: kiểm tra đề nói thay người hay thêm người; ở đây tổng vẫn là 7.",
+        "trap": "Không làm tròn 1,4 xuống 1; nếu đề là thêm người thì phải tính lại mẫu số.",
+        "evidence": [
+          {
+            "type": "slide",
+            "chapter": 2,
+            "slide": 53,
+            "part": "Nội dung trên slide",
+            "quote": "MÔ HÌNH TỔ CHỨC QUẢN LÝ THỨ HAI CỦA CÔNG TY CỔ PHẦN ĐẠI HỘI ĐỒNG CỔ ĐÔNG HỘI ĐỒNG QUẢN TRỊ Có ít nhất 20% số thành viên HĐQT phải là thành viên độc lập và có Ủy ban kiểm toán trực thuộc HĐQT GĐ/TGĐ Các thành viên độc lập thực hiện chức năng giám sát và tổ chức thực hiện kiểm soát đối với việc quản lý điều hành công ty"
+          }
+        ],
+        "kind": "Tình huống thực tế",
+        "id": "uq-case30-independent-rounding"
+      },
+      "origins": [
+        {
+          "id": "rv-005",
+          "sequence": 5,
+          "sourceNumber": 5,
+          "group": 1,
+          "groupTitle": "I. Trang ghi đáp án — Câu 1 đến 20",
+          "raw": "5. **Số thành viên trong Hội đồng quản trị công ty cổ phần.**\\\n   → **Từ 3 đến 11 thành viên.**",
+          "status": "supplement",
+          "answer": "Từ 3 đến 11 thành viên.",
+          "detail": "Đúng theo Điều 154 Luật Doanh nghiệp 2020. Ngưỡng này cần bổ sung từ văn bản chính thức; không gán cho một slide không có con số.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-032",
+          "sequence": 32,
+          "sourceNumber": 8,
+          "group": 3,
+          "groupTitle": "III. Trang câu hỏi — Câu 1 đến 17",
+          "raw": "8. **Số thành viên trong Hội đồng quản trị công ty cổ phần?**",
+          "status": "supplement",
+          "answer": "Từ 3 đến 11 thành viên.",
+          "detail": "Đúng theo Điều 154 Luật Doanh nghiệp 2020. Ngưỡng này cần bổ sung từ văn bản chính thức; không gán cho một slide không có con số.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-065",
+          "sequence": 65,
+          "sourceNumber": 6,
+          "group": 5,
+          "groupTitle": "Review tiếp theo — lượt 5",
+          "raw": "6. **Công ty cổ phần HĐ có tổng 30 cổ đông, cổ đông nhà nước sở hữu 55% tổng số cổ phần có quyền biểu quyết. Công ty cổ phần lựa chọn mô hình cơ cấu tổ chức quản lý nào?**",
+          "status": "conditional",
+          "answer": "Có thể chọn một trong hai mô hình; nếu mô hình thứ nhất phải có BKS, nếu mô hình thứ hai phải có ≥20% HĐQT độc lập và Ủy ban kiểm toán.",
+          "detail": "30 cổ đông không thuộc ngoại lệ dưới 11. Sở hữu 55% nhà nước còn cần xem luật đặc thù, nhưng không tự loại mô hình Ủy ban kiểm toán theo quy tắc slide. Bản “55% tổng cổ phần” khác “có quyền biểu quyết”; giữ nguyên từng bản.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-080",
+          "sequence": 80,
+          "sourceNumber": 6,
+          "group": 6,
+          "groupTitle": "Review tiếp theo — lượt 6",
+          "raw": "6. **Công ty cổ phần hoạt động có tổng 30 cổ đông, cổ đông nhà nước nắm giữ 55% tổng số cổ phần công ty. Công ty cổ phần lựa chọn mô hình cơ cấu tổ chức quản lý nào?**",
+          "status": "conditional",
+          "answer": "Có thể chọn một trong hai mô hình; nếu mô hình thứ nhất phải có BKS, nếu mô hình thứ hai phải có ≥20% HĐQT độc lập và Ủy ban kiểm toán.",
+          "detail": "30 cổ đông không thuộc ngoại lệ dưới 11. Sở hữu 55% nhà nước còn cần xem luật đặc thù, nhưng không tự loại mô hình Ủy ban kiểm toán theo quy tắc slide. Bản “55% tổng cổ phần” khác “có quyền biểu quyết”; giữ nguyên từng bản.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-162",
+          "sequence": 162,
+          "sourceNumber": 6,
+          "group": 15,
+          "groupTitle": "Review tiếp theo — lượt 15",
+          "raw": "6) **Hội đồng quản trị công ty cổ phần có bao nhiêu thành viên?**",
+          "status": "supplement",
+          "answer": "Từ 3 đến 11 thành viên.",
+          "detail": "Đúng theo Điều 154 Luật Doanh nghiệp 2020. Ngưỡng này cần bổ sung từ văn bản chính thức; không gán cho một slide không có con số.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-201",
+          "sequence": 201,
+          "sourceNumber": 6,
+          "group": 19,
+          "groupTitle": "Review tiếp theo — lượt 19",
+          "raw": "6. **Công ty cổ phần hoạt động có tổng 30 cổ đông, cổ đông nhà nước nắm giữ 55% tổng số cổ phần công ty. Công ty cổ phần lựa chọn mô hình cơ cấu tổ chức quản lý nào?**",
+          "status": "conditional",
+          "answer": "Có thể chọn một trong hai mô hình; nếu mô hình thứ nhất phải có BKS, nếu mô hình thứ hai phải có ≥20% HĐQT độc lập và Ủy ban kiểm toán.",
+          "detail": "30 cổ đông không thuộc ngoại lệ dưới 11. Sở hữu 55% nhà nước còn cần xem luật đặc thù, nhưng không tự loại mô hình Ủy ban kiểm toán theo quy tắc slide. Bản “55% tổng cổ phần” khác “có quyền biểu quyết”; giữ nguyên từng bản.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-371",
+          "sequence": 371,
+          "sourceNumber": 12,
+          "group": 27,
+          "groupTitle": "Review bổ sung",
+          "raw": "12. **Công ty cổ phần X lựa chọn mô hình quản trị không có Ban kiểm soát. Điều kiện bắt buộc đối với Hội đồng quản trị của công ty này là gì?**\\\n    A. Phải có ít nhất 50% số thành viên Hội đồng quản trị là thành viên độc lập.\\\n    B. Phải có ít nhất 20% số thành viên Hội đồng quản trị là thành viên độc lập và có Ủy ban kiểm toán.\\\n    C. Chủ tịch Hội đồng quản trị phải kiêm Giám đốc công ty.\\\n    D. Tất cả thành viên Hội đồng quản trị đều phải là cổ đông sáng lập.",
+          "status": "conditional",
+          "answer": "B nếu CTCP chọn mô hình có Ủy ban kiểm toán theo điểm b khoản 1 Điều 137.",
+          "detail": "Mô hình đó ít nhất 20% HĐQT độc lập và Ủy ban kiểm toán. Nhưng CTCP chọn mô hình thứ nhất đủ ngoại lệ dưới 11/ tổ chức dưới 50% cũng có thể không BKS, nên chỉ “không BKS” chưa hoàn toàn duy nhất điều kiện B. A 50% không đúng ngưỡng; C kiêm nhiệm không bắt buộc; D mọi thành viên sáng lập không bắt buộc.",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Phải có ít nhất 50% số thành viên Hội đồng quản trị là thành viên độc lập."
+            },
+            {
+              "letter": "B",
+              "text": "Phải có ít nhất 20% số thành viên Hội đồng quản trị là thành viên độc lập và có Ủy ban kiểm toán."
+            },
+            {
+              "letter": "C",
+              "text": "Chủ tịch Hội đồng quản trị phải kiêm Giám đốc công ty."
+            },
+            {
+              "letter": "D",
+              "text": "Tất cả thành viên Hội đồng quản trị đều phải là cổ đông sáng lập."
+            }
+          ],
+          "extra": false
+        }
+      ]
+    },
+    {
+      "id": "uq-case30-distribution-partial-creditor",
+      "key": "case30-distribution-partial-creditor",
+      "domain": "PH",
+      "level": "VD",
+      "levelReason": "Áp dụng kiến thức vào tình huống, thời điểm hoặc dữ kiện tài chính.",
+      "format": "mcq",
+      "scope": "slide",
+      "quiz": {
+        "topicName": "Phục hồi và phá sản",
+        "stem": "Sau khi xử lý riêng tài sản bảo đảm, khối tài sản phân chia của doanh nghiệp phá sản còn 2 tỷ. Chi phí phá sản là 100 triệu; nợ lương 500 triệu; bảo hiểm 200 triệu; trợ cấp thôi việc 100 triệu; nợ phục hồi 400 triệu; nghĩa vụ tài chính Nhà nước 100 triệu. Còn chủ nợ U có nợ không bảo đảm 400 triệu và ngân hàng V có phần nợ 200 triệu chưa được trả do tài sản bảo đảm thiếu. Không có nợ khác. Phần thiếu của V nhận bao nhiêu từ khối tài sản này?",
+        "choices": [
+          "200 triệu đồng",
+          "400 triệu đồng",
+          "100 triệu đồng",
+          "Không nhận gì vì V từng có tài sản bảo đảm"
+        ],
+        "correct": 0,
+        "why": [
+          "Các nhóm trước cộng 1,4 tỷ, còn 600 triệu. U 400 và phần thiếu V 200 cùng thứ tự, tổng đúng 600, nên phần thiếu V được thanh toán đủ 200.",
+          "V chỉ còn phần thiếu 200 trong khối đang phân chia, không có căn cứ nhận 400.",
+          "Chỉ chia theo tỷ lệ khi tài sản còn lại không đủ; ở đây đủ cả 600 triệu.",
+          "Slide xếp phần nợ có bảo đảm còn thiếu cùng thứ tự với nợ không bảo đảm; không loại V."
+        ],
+        "theory": "Sau các nhóm ưu tiên, phần nợ có bảo đảm chưa thanh toán do giá trị bảo đảm không đủ cùng thứ tự với nợ không có bảo đảm. Các đối tượng cùng thứ tự chia theo tỷ lệ nếu khối tài sản không đủ.",
+        "focus": "Bước 1: không đưa tài sản bảo đảm đã xử lý riêng vào lần tính này. Bước 2: trừ tuần tự 100 + 500 + 200 + 100 + 400 + 100 = 1.400 triệu. Bước 3: so 600 còn lại với 400 + 200. Đủ nên không giảm tỷ lệ.",
+        "trap": "Chủ nợ có bảo đảm một phần không mất quyền với phần thiếu; không đếm lại tài sản đã xử lý riêng.",
+        "evidence": [
+          {
+            "type": "slide",
+            "chapter": 4,
+            "slide": 79,
+            "part": "Nội dung trên slide",
+            "quote": "Bước 5. Thi hành quyết định tuyên bố phá sản Thứ tự phân chia tài sản - Chi phí phá sản; - Khoản nợ lương; - Khoản nợ bảo hiểm xã hội bắt buộc, bảo hiểm thất nghiệp, bảo hiểm y tế, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; - Trợ cấp thôi việc và các quyền lợi khác của người lao động theo thỏa ước lao động tập thể, hợp đồng lao động;"
+          },
+          {
+            "type": "slide",
+            "chapter": 4,
+            "slide": 79,
+            "part": "Ghi chú PowerPoint",
+            "quote": "Điều 46"
+          },
+          {
+            "type": "slide",
+            "chapter": 4,
+            "slide": 80,
+            "part": "Nội dung trên slide",
+            "quote": "Thứ tự phân chia tài sản - Khoản nợ phát sinh nhằm mục đích phục hồi hoạt động kinh doanh của doanh nghiệp, hợp tác xã; - Nghĩa vụ tài chính đối với Nhà nước; Khoản nợ không có bảo đảm phải trả cho chủ nợ trong danh sách chủ nợ; khoản nợ có bảo đảm chưa được thanh toán do giá trị tài sản bảo đảm không đủ thanh toán nợ. Lưu ý: Trường hợp tài sản của DN, HTX không đủ để thanh toán thì từng đối tượng cùng một thứ tự ưu tiên được thanh toàn theo tỷ lệ phần trăm tương ứng với số nợ"
+          },
+          {
+            "type": "slide",
+            "chapter": 4,
+            "slide": 80,
+            "part": "Ghi chú PowerPoint",
+            "quote": "Điều 46"
+          }
+        ],
+        "kind": "Tình huống thực tế",
+        "id": "uq-case30-distribution-partial-creditor"
+      },
+      "origins": [
+        {
+          "id": "rv-068",
+          "sequence": 68,
+          "sourceNumber": 9,
+          "group": 5,
+          "groupTitle": "Review tiếp theo — lượt 5",
+          "raw": "9. **Ngân hàng cho công ty vay 5 tỷ đồng, được bảo đảm bằng tài sản của công ty trị giá 3 tỷ đồng → ngân hàng là chủ nợ gì?**",
+          "status": "matched",
+          "answer": "Chủ nợ có bảo đảm một phần.",
+          "detail": "5 tỷ nợ > 3 tỷ tài sản bảo đảm; phần thiếu 2 tỷ không tự làm cả 5 tỷ trở thành không có bảo đảm.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-083",
+          "sequence": 83,
+          "sourceNumber": 9,
+          "group": 6,
+          "groupTitle": "Review tiếp theo — lượt 6",
+          "raw": "9. **Ngân hàng cho công ty vay 5 tỷ đồng, được bảo đảm bằng tài sản của công ty trị giá 3 tỷ đồng → là chủ nợ gì?**",
+          "status": "matched",
+          "answer": "Chủ nợ có bảo đảm một phần.",
+          "detail": "5 tỷ nợ > 3 tỷ tài sản bảo đảm; phần thiếu 2 tỷ không tự làm cả 5 tỷ trở thành không có bảo đảm.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-105",
+          "sequence": 105,
+          "sourceNumber": 6,
+          "group": 9,
+          "groupTitle": "Review tiếp theo — lượt 9",
+          "raw": "6. Khi thực hiện phương án phục hồi kinh doanh, công ty E vay 500 triệu mua nguyên liệu công ty B. Hỏi có phải thanh toán khoản nợ này trước các khoản nợ không bảo đảm trước khi mở thủ tục phục hồi hay không?",
+          "status": "conditional",
+          "answer": "Nợ phát sinh phục vụ phục hồi được ưu tiên trước nhóm nợ không bảo đảm cũ theo thứ tự; không trước mọi khoản nợ cũ.",
+          "detail": "Vẫn xếp sau chi phí phá sản và quyền lợi người lao động, và bảo đảm bằng tài sản còn xử lý theo quy tắc riêng. Phải có dữ kiện đúng là khoản vay phục vụ phục hồi theo thủ tục, không chỉ tự gọi “để cứu công ty”.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-129",
+          "sequence": 129,
+          "sourceNumber": 18,
+          "group": 11,
+          "groupTitle": "Review tiếp theo — lượt 11",
+          "raw": "18. A mượn E 500 triệu để phục hồi công ty. Nhưng công ty bị phá sản, vậy khoản 500 triệu đấy được trả trước các khoản nợ phát sinh trước khi mở thủ tục phá sản (Đúng/Sai).",
+          "status": "conditional",
+          "answer": "Nợ phát sinh phục vụ phục hồi được ưu tiên trước nhóm nợ không bảo đảm cũ theo thứ tự; không trước mọi khoản nợ cũ.",
+          "detail": "Vẫn xếp sau chi phí phá sản và quyền lợi người lao động, và bảo đảm bằng tài sản còn xử lý theo quy tắc riêng. Phải có dữ kiện đúng là khoản vay phục vụ phục hồi theo thủ tục, không chỉ tự gọi “để cứu công ty”.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-133",
+          "sequence": 133,
+          "sourceNumber": 22,
+          "group": 11,
+          "groupTitle": "Review tiếp theo — lượt 11",
+          "raw": "22. Công ty Hoàng Hà nợ 1 tỷ 2. Trả nợ cho người lao động hết 400 triệu. Còn 2 khoản nợ 300 và 700 triệu. Hỏi khoản nợ 300 triệu được nhận bao nhiêu tiền?",
+          "status": "incomplete",
+          "answer": "Chưa thể tính tiền thực nhận từ nguyên văn chỉ cho tổng nợ 1,2 tỷ.",
+          "detail": "Nếu GIẢ ĐỊNH tài sản phân chia 1,2 tỷ, trả NLĐ 0,4 tỷ và không còn thứ tự trước, hai nợ 0,3 và 0,7 cùng thứ tự thì 0,8×0,3/1=0,24 tỷ. Bài luyện nêu rõ giả định; tuyệt đối không đổi “nợ” thành “tài sản” trong trích dẫn review.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-204",
+          "sequence": 204,
+          "sourceNumber": 9,
+          "group": 19,
+          "groupTitle": "Review tiếp theo — lượt 19",
+          "raw": "9. **Ngân hàng cho công ty vay 5 tỷ đồng, được bảo đảm bằng tài sản của công ty trị giá 3 tỷ đồng. Ngân hàng là chủ nợ gì?**",
+          "status": "matched",
+          "answer": "Chủ nợ có bảo đảm một phần.",
+          "detail": "5 tỷ nợ > 3 tỷ tài sản bảo đảm; phần thiếu 2 tỷ không tự làm cả 5 tỷ trở thành không có bảo đảm.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-230",
+          "sequence": 230,
+          "sourceNumber": 20,
+          "group": 20,
+          "groupTitle": "Review tiếp theo — lượt 20",
+          "raw": "20. **A mượn E 500 triệu đồng để phục hồi công ty. Nhưng công ty bị phá sản. Khoản 500 triệu đồng này được thanh toán trước các khoản nợ phát sinh trước khi mở thủ tục phá sản – đúng hay sai?**",
+          "status": "conditional",
+          "answer": "Nợ phát sinh phục vụ phục hồi được ưu tiên trước nhóm nợ không bảo đảm cũ theo thứ tự; không trước mọi khoản nợ cũ.",
+          "detail": "Vẫn xếp sau chi phí phá sản và quyền lợi người lao động, và bảo đảm bằng tài sản còn xử lý theo quy tắc riêng. Phải có dữ kiện đúng là khoản vay phục vụ phục hồi theo thủ tục, không chỉ tự gọi “để cứu công ty”.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-234",
+          "sequence": 234,
+          "sourceNumber": 24,
+          "group": 20,
+          "groupTitle": "Review tiếp theo — lượt 20",
+          "raw": "24. **Công ty Hoàng Hà nợ 1,2 tỷ đồng. Sau khi thanh toán nợ cho người lao động hết 400 triệu đồng, còn hai khoản nợ là 300 triệu đồng và 700 triệu đồng. Hỏi khoản nợ 300 triệu đồng được nhận bao nhiêu tiền?**",
+          "status": "incomplete",
+          "answer": "Chưa thể tính tiền thực nhận từ nguyên văn chỉ cho tổng nợ 1,2 tỷ.",
+          "detail": "Nếu GIẢ ĐỊNH tài sản phân chia 1,2 tỷ, trả NLĐ 0,4 tỷ và không còn thứ tự trước, hai nợ 0,3 và 0,7 cùng thứ tự thì 0,8×0,3/1=0,24 tỷ. Bài luyện nêu rõ giả định; tuyệt đối không đổi “nợ” thành “tài sản” trong trích dẫn review.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-276",
+          "sequence": 276,
+          "sourceNumber": 22,
+          "group": 22,
+          "groupTitle": "Nhóm 1",
+          "raw": "22. **Tài sản có bảo đảm một phần là gì?**",
+          "status": "matched",
+          "answer": "Khoản nợ có giá trị tài sản bảo đảm nhỏ hơn khoản nợ là bảo đảm một phần.",
+          "detail": "Không phải tự “tài sản có bảo đảm một phần” là một loại tài sản. Phân loại khoản nợ/chủ nợ theo mức bao phủ.",
+          "options": [],
+          "extra": false
+        }
+      ]
+    },
+    {
+      "id": "uq-case30-two-debts-timeline",
+      "key": "case30-two-debts-timeline",
+      "domain": "DN",
+      "level": "VD",
+      "levelReason": "Áp dụng kiến thức vào tình huống, thời điểm hoặc dữ kiện tài chính.",
+      "format": "mcq",
+      "scope": "slide",
+      "quiz": {
+        "topicName": "Doanh nghiệp",
+        "stem": "An cam kết góp 4 tỷ đồng vào công ty TNHH hai thành viên nhưng đến hạn chỉ góp 1,5 tỷ. Công ty đăng ký điều chỉnh vốn và tỷ lệ phần vốn góp ngày 20/4. Khoản nợ X phát sinh ngày 12/4; khoản nợ Y phát sinh ngày 25/4. Không có bảo lãnh hoặc vi phạm riêng khác. Cách xác định căn cứ trách nhiệm của An đối với hai khoản nợ nào phù hợp?",
+        "choices": [
+          "X theo phần vốn cam kết; Y theo phần vốn đã góp sau điều chỉnh",
+          "Cả X và Y đều chỉ theo 1,5 tỷ đã góp",
+          "Cả X và Y đều luôn theo 4 tỷ cam kết",
+          "An phải tự trả toàn bộ hai khoản nợ bằng mọi tài sản riêng"
+        ],
+        "correct": 0,
+        "why": [
+          "X phát sinh trước ngày đăng ký thay đổi nên áp dụng trách nhiệm gắn với cam kết; Y phát sinh sau khi đã điều chỉnh thì áp dụng chế độ trách nhiệm hữu hạn theo phần đã góp.",
+          "Bỏ qua quy tắc bảo vệ chủ nợ đối với nghĩa vụ phát sinh trước ngày đăng ký điều chỉnh.",
+          "Kéo dài trách nhiệm theo cam kết sang cả nghĩa vụ mới sau khi đã điều chỉnh, dù đề không có căn cứ trách nhiệm riêng khác.",
+          "Nhầm công ty TNHH với chế độ trách nhiệm vô hạn của chủ DNTN hoặc thành viên hợp danh."
+        ],
+        "theory": "Trong hạn góp vốn, quyền và nghĩa vụ gắn với tỷ lệ cam kết. Sau hạn, người góp thiếu có quyền theo phần thực góp nhưng còn chịu trách nhiệm gắn với cam kết đối với nghĩa vụ phát sinh trước ngày đăng ký thay đổi vốn và tỷ lệ góp vốn.",
+        "focus": "Bước 1: vẽ ba mốc: hết hạn góp → 12/4 → đăng ký 20/4 → 25/4. Bước 2: đặt từng khoản nợ trước hay sau ngày đăng ký điều chỉnh. Bước 3: tách quyền thành viên theo thực góp khỏi trách nhiệm với nợ cũ. Đề hỏi căn cứ và phạm vi, không đủ dữ kiện để tính một khoản tiền An phải trực tiếp trả.",
+        "trap": "Không lấy ngày chủ nợ đòi tiền hoặc ngày đến hạn trả nợ thay cho ngày nghĩa vụ phát sinh; không mặc định An phải trả đúng 4 tỷ cho X.",
+        "evidence": [
+          {
+            "type": "slide",
+            "chapter": 2,
+            "slide": 26,
+            "part": "Nội dung trên slide",
+            "quote": "* Vốn điều lệ - Vốn điều lệ của CTTNHH hai thành viên trở lên khi đăng ký thành lập DN là tổng giá trị phần vốn góp của các thành viên cam kết góp và ghi trong Điều lệ công ty. - Thành viên phải góp vốn cho công ty đủ và đúng loại tài sản đã cam kết khi đăng ký thành lập doanh nghiệp trong thời hạn 90 ngày kể từ ngày được cấp Giấy CNĐKDN, không kể thời gian vận chuyển, nhập khẩu tài sản góp vốn, thực hiện thủ tục hành chính để chuyển quyền sở hữu tài sản. Trong thời hạn này, thành viên có các quyền và nghĩa vụ tương ứng với tỷ lệ phần vốn góp đã cam kết. Thành viên công ty chỉ được góp vốn cho công ty bằng loại tài sản khác với tài sản đã cam kết nếu được sự tán thành của trên 50% số thành viên còn lại."
+          },
+          {
+            "type": "slide",
+            "chapter": 2,
+            "slide": 27,
+            "part": "Nội dung trên slide",
+            "quote": "- Sau thời hạn quy định mà vẫn có thành viên chưa góp vốn hoặc chưa góp đủ phần vốn góp đã cam kết thì được xử lý như sau: + Thành viên chưa góp vốn theo cam kết đương nhiên không còn là thành viên của công ty; + Thành viên chưa góp đủ phần vốn góp đã cam kết có các quyền tương ứng với phần vốn góp đã góp; Các thành viên chưa góp vốn hoặc chưa góp đủ số vốn đã cam kết phải chịu trách nhiệm tương ứng với tỷ lệ phần vốn góp đã cam kết đối với các nghĩa vụ tài chính của công ty phát sinh trong thời gian trước ngày công ty đăng ký thay đổi vốn điều lệ và tỷ lệ phần vốn góp của thành viên."
+          },
+          {
+            "type": "slide",
+            "chapter": 2,
+            "slide": 28,
+            "part": "Nội dung trên slide",
+            "quote": "- Đối với công ty: Trường hợp có thành viên chưa góp vốn hoặc chưa góp đủ số vốn đã cam kết: + Công ty phải đăng ký thay đổi vốn điều lệ, tỷ lệ phần vốn góp của các thành viên bằng số vốn đã góp trong thời hạn 30 ngày kể từ ngày cuối cùng phải góp đủ phần vốn góp theo quy định. + Phần vốn góp chưa góp của các thành viên được chào bán theo nghị quyết, quyết định của Hội đồng thành viên."
+          }
+        ],
+        "kind": "Tình huống thực tế",
+        "id": "uq-case30-two-debts-timeline"
+      },
+      "origins": [
+        {
+          "id": "rv-063",
+          "sequence": 63,
+          "sourceNumber": 4,
+          "group": 5,
+          "groupTitle": "Review tiếp theo — lượt 5",
+          "raw": "4. **Trong thời hạn góp vốn, khoản nợ phát sinh từ hoạt động kinh doanh cần thanh toán thì phạm vi nghĩa vụ thanh toán của công ty trách nhiệm hữu hạn hai thành viên được xác định theo phần vốn nào?**",
+          "status": "matched",
+          "answer": "Phần vốn đã cam kết góp trong thời hạn góp vốn theo quy định.",
+          "detail": "Phân biệt quyền/ nghĩa vụ trong hạn với quyền theo thực góp khi hết hạn; nợ phát sinh trước đăng ký điều chỉnh còn xét vốn cam kết.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-078",
+          "sequence": 78,
+          "sourceNumber": 4,
+          "group": 6,
+          "groupTitle": "Review tiếp theo — lượt 6",
+          "raw": "4. **Trong thời hạn góp vốn, khoản nợ phát sinh từ hoạt động kinh doanh cần thanh toán thì phạm vi nghĩa vụ thanh toán của công ty trách nhiệm hữu hạn hai thành viên được xác định theo phần vốn nào?**",
+          "status": "matched",
+          "answer": "Phần vốn đã cam kết góp trong thời hạn góp vốn theo quy định.",
+          "detail": "Phân biệt quyền/ nghĩa vụ trong hạn với quyền theo thực góp khi hết hạn; nợ phát sinh trước đăng ký điều chỉnh còn xét vốn cam kết.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-116",
+          "sequence": 116,
+          "sourceNumber": 5,
+          "group": 11,
+          "groupTitle": "Review tiếp theo — lượt 11",
+          "raw": "5. Ông D cam kết góp 10 tỷ vào công ty. Thời hạn góp là 15/3/2020 nhưng sau đó ông D chỉ góp được 2 tỷ và công ty đã giảm Vốn điều lệ rồi. 30/6/2020 công ty mắc nợ. Hỏi quyền và nghĩa vụ của ông D trong phạm vi bao nhiêu?",
+          "status": "conditional",
+          "answer": "2 tỷ nếu là thành viên TNHH hai thành viên, vốn đã đăng ký điều chỉnh trước khoản nợ mới và không có vi phạm riêng.",
+          "detail": "Review chỉ ghi “công ty”, không nêu loại hình hoặc ngày đăng ký cụ thể. Khoản nợ sau điều chỉnh theo vốn thực góp khác khoản nợ trước điều chỉnh vẫn xét cam kết 10 tỷ. Bài luyện nêu rõ giả định TNHH hai thành viên.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-179",
+          "sequence": 179,
+          "sourceNumber": 5,
+          "group": 17,
+          "groupTitle": "Review tiếp theo — lượt 17",
+          "raw": "5. **Ông A cam kết góp vốn 3,3 tỷ đồng, thời hạn góp vốn đến ngày 15/3/2022. Đến hạn nhưng ông A mới góp được 2 tỷ đồng. Ngày 10/4/2022, công ty đăng ký điều chỉnh vốn điều lệ. Có một khoản nợ phát sinh ngày 30/3/2022. Hỏi ông A phải chịu trách nhiệm trong phạm vi số vốn bao nhiêu?**",
+          "status": "conditional",
+          "answer": "3,3 tỷ theo phần cam kết nếu là thành viên TNHH hai thành viên và khoản nợ phát sinh trước đăng ký điều chỉnh 10/4.",
+          "detail": "30/3 nằm sau hạn góp 15/3 nhưng trước điều chỉnh 10/4. Đây chính là bẫy: không chỉ xét thực góp 2 tỷ. Review không nói loại công ty rõ; bài luyện thêm TNHH hai thành viên.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-199",
+          "sequence": 199,
+          "sourceNumber": 4,
+          "group": 19,
+          "groupTitle": "Review tiếp theo — lượt 19",
+          "raw": "4. **Trong thời hạn góp vốn, khoản nợ phát sinh từ hoạt động kinh doanh cần thanh toán thì phạm vi nghĩa vụ thanh toán của công ty trách nhiệm hữu hạn hai thành viên được xác định theo phần vốn nào?**",
+          "status": "matched",
+          "answer": "Phần vốn đã cam kết góp trong thời hạn góp vốn theo quy định.",
+          "detail": "Phân biệt quyền/ nghĩa vụ trong hạn với quyền theo thực góp khi hết hạn; nợ phát sinh trước đăng ký điều chỉnh còn xét vốn cam kết.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-214",
+          "sequence": 214,
+          "sourceNumber": 4,
+          "group": 20,
+          "groupTitle": "Review tiếp theo — lượt 20",
+          "raw": "4. **Ông D cam kết góp 10 tỷ đồng vào công ty. Thời hạn góp vốn là ngày 15/3/2020 nhưng sau đó ông D chỉ góp được 2 tỷ đồng và công ty đã giảm vốn điều lệ. Ngày 30/6/2020, công ty phát sinh khoản nợ. Hỏi quyền và nghĩa vụ của ông D được xác định trong phạm vi bao nhiêu?**",
+          "status": "conditional",
+          "answer": "2 tỷ nếu là thành viên TNHH hai thành viên, vốn đã đăng ký điều chỉnh trước khoản nợ mới và không có vi phạm riêng.",
+          "detail": "Review chỉ ghi “công ty”, không nêu loại hình hoặc ngày đăng ký cụ thể. Khoản nợ sau điều chỉnh theo vốn thực góp khác khoản nợ trước điều chỉnh vẫn xét cam kết 10 tỷ. Bài luyện nêu rõ giả định TNHH hai thành viên.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-244",
+          "sequence": 244,
+          "sourceNumber": 5,
+          "group": 21,
+          "groupTitle": "Review tiếp theo — lượt 21",
+          "raw": "5. **Ông A cam kết góp vốn 3,3 tỷ đồng, thời hạn góp vốn đến ngày 15/3/2022. Đến hạn nhưng ông A mới góp được 2 tỷ đồng. Ngày 10/4/2022, công ty đăng ký điều chỉnh vốn điều lệ. Có một khoản nợ phát sinh ngày 30/3/2022. Hỏi ông A phải chịu trách nhiệm trong phạm vi số vốn bao nhiêu?**",
+          "status": "conditional",
+          "answer": "3,3 tỷ theo phần cam kết nếu là thành viên TNHH hai thành viên và khoản nợ phát sinh trước đăng ký điều chỉnh 10/4.",
+          "detail": "30/3 nằm sau hạn góp 15/3 nhưng trước điều chỉnh 10/4. Đây chính là bẫy: không chỉ xét thực góp 2 tỷ. Review không nói loại công ty rõ; bài luyện thêm TNHH hai thành viên.",
+          "options": [],
+          "extra": false
+        },
+        {
+          "id": "rv-379",
+          "sequence": 379,
+          "sourceNumber": 5,
+          "group": 28,
+          "groupTitle": "Review tiếp theo — lượt 28",
+          "raw": "5. **Ông A cam kết góp vốn 3,3 tỷ đồng, thời hạn góp vốn đến ngày 15/3/2022. Đến hạn nhưng ông A mới góp được 2 tỷ đồng. Ngày 10/4/2022, công ty đăng ký điều chỉnh vốn điều lệ. Có một khoản nợ phát sinh ngày 30/3/2022. Hỏi ông A phải chịu trách nhiệm trong phạm vi số vốn bao nhiêu?**",
+          "status": "conditional",
+          "answer": "3,3 tỷ theo phần cam kết nếu là thành viên TNHH hai thành viên và khoản nợ phát sinh trước đăng ký điều chỉnh 10/4.",
+          "detail": "30/3 nằm sau hạn góp 15/3 nhưng trước điều chỉnh 10/4. Đây chính là bẫy: không chỉ xét thực góp 2 tỷ. Review không nói loại công ty rõ; bài luyện thêm TNHH hai thành viên.",
+          "options": [],
+          "extra": false
+        }
+      ]
     }
   ],
   "exams": [
@@ -30916,6 +31981,72 @@
         "HTX": 7,
         "HD": 9,
         "PH": 7,
+        "TT": 3,
+        "TQ": 3,
+        "TC": 1
+      }
+    },
+    {
+      "id": "review-exam-11",
+      "number": 11,
+      "title": "Đề 11 — Đề ôn tập riêng",
+      "durationSeconds": 1800,
+      "description": "Không có câu về hợp tác xã. Phần câu được bù sang doanh nghiệp, hợp đồng và phục hồi/phá sản.",
+      "questions": [
+        "uq-twoMembers",
+        "uq-case30-penalty-breached-portion",
+        "uq-court",
+        "uq-boardCount",
+        "uq-negotiate",
+        "uq-formation",
+        "uq-contrib90",
+        "uq-foreignElement",
+        "uq-salesParty",
+        "uq-case30-causal-damages",
+        "uq-case30-buyback-board-authority",
+        "uq-case30-weighted-recovery-vote",
+        "uq-oneCapital",
+        "uq-recoveryAlreadyInsolvent",
+        "uq-allShareholders",
+        "uq-businessDefinition",
+        "uq-financeWhy",
+        "uq-arbNegotiate",
+        "uq-case30-no-upgrade-old-unsecured",
+        "uq-specialLaw",
+        "uq-privateScope",
+        "uq-case30-guarantee-versus-escrow",
+        "uq-insolvent",
+        "uq-shareAttend",
+        "uq-case30-independent-rounding",
+        "uq-validity",
+        "uq-case30-distribution-partial-creditor",
+        "uq-creditorApply",
+        "uq-case30-two-debts-timeline",
+        "uq-escrow",
+        "uq-giftUnilateral",
+        "uq-modifyRecovery",
+        "uq-HDliability",
+        "uq-highest",
+        "uq-rv-074-extra-2",
+        "uq-boardDirector",
+        "uq-arbFinal",
+        "uq-deposit",
+        "uq-mortgageAlwaysHold",
+        "uq-forcePerform"
+      ],
+      "levels": {
+        "NB": 14,
+        "TH": 16,
+        "VD": 10
+      },
+      "formats": {
+        "mcq": 24,
+        "tf": 16
+      },
+      "domains": {
+        "DN": 13,
+        "HD": 11,
+        "PH": 9,
         "TT": 3,
         "TQ": 3,
         "TC": 1
