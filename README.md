@@ -77,3 +77,11 @@ Với Auto Deploy đang bật, commit mới trên `main` sẽ tự triển khai.
 - Khi xếp lại đề, lựa chọn và dấu đánh dấu của bố cục cũ chuyển theo mã câu; đề mới chưa nộp và không giới hạn giờ. Bản tiến độ cũ giữ nguyên, có nút xuất sao lưu.
 - Tiến độ, dấu đánh dấu, đồng hồ và kết quả lưu bằng khóa riêng; xuất/nhập JSON để chuyển thiết bị. Đồng hồ tiếp tục khi tải lại; tự nộp hết giờ nếu chọn chế độ 45 phút.
 - KaTeX và font được lưu tại `nguyen-ly-thong-ke/vendor/katex/`, kèm giấy phép MIT; không dùng CDN. Giữ dịch vụ/cấu hình hiện có, chỉ đẩy GitHub.
+
+
+## Nguyên lý thống kê — Câu dễ ra
+
+- [Câu dễ ra](nguyen-ly-thong-ke/cau-de-ra.html): toàn bộ 55 câu/mảnh từ file ưu tiên, đúng thứ tự, kể cả câu thiếu/lỗi và bản lặp. Không thêm câu tự sinh.
+- 34 câu có lựa chọn để chấm; 21 mục còn lại vẫn hiện nguyên văn và có nút mở phân tích/giả thiết, không ép đáp án hoặc tính điểm.
+- Chọn đáp án rồi xem kết quả từng câu, hoặc nộp tất cả để mở đầy đủ lời giải, công thức, phân tích lựa chọn, bẫy và trang slide. Tiến độ riêng, có xuất/nhập JSON.
+- [File nguồn nguyên văn](nguyen-ly-thong-ke/priority-nguon-nguyen-van.txt) được sao chép nguyên trạng.
