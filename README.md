@@ -53,3 +53,14 @@ Với Auto Deploy đang bật, commit mới trên `main` sẽ tự triển khai.
 - Sau nộp: số đúng/sai/bỏ trống, điểm, kết quả theo mức độ; đầy đủ phân tích, lý thuyết, bẫy và nguồn như ngân hàng mới.
 - Tiến độ ngân hàng 322 câu được giữ khi thêm 30 tình huống nhờ mã câu ổn định; câu và đáp án của 10 đề trước không thay đổi, tiến độ được chuyển khi thêm đề 11.
 - Tải [11 đề và lời giải](review-exams-solutions.md), [dữ liệu bộ đề](review-exams-data.json).
+
+
+## Nguyên lý thống kê — 8 chương
+
+- [Trang môn học](nguyen-ly-thong-ke/index.html), [luyện tập](nguyen-ly-thong-ke/luyen-tap.html), [lý thuyết tổng hợp](nguyen-ly-thong-ke/ly-thuyet.html).
+- 337 câu chính / 532 ý trả lời, giữ nguyên đề bằng ảnh từ tài liệu ôn tập và xếp theo chương, số câu. Ghép lại các đoạn bị tách và ghi chú những chỗ thiếu hoặc mâu thuẫn.
+- Chọn đáp án, bấm **Xem kết quả** để đọc lời giải, phân tích từng lựa chọn, công thức và bẫy. Mở được đúng trang slide gốc ngay trong trang học.
+- Quy đổi chương sách 1–4 sang slide 1–4; sách 5–8 sang slide 6–9.
+- Ba vị trí thiếu trong PDF: chương 4 câu 27–28, chương 5 câu 6. Câu có dữ kiện/lựa chọn không khớp được ghi chú và không chấm đoán.
+- Tiến độ lưu riêng trên từng trình duyệt, có xuất/nhập JSON. Khi chuyển từ tệp ngoại tuyến hoặc địa chỉ LAN, xuất tiến độ ở trang cũ rồi nhập ở trang mới.
+- Ảnh nguồn dùng chung và tải khi cần; toàn bộ phần thống kê khoảng 67 MB. Không cần cài thư viện hoặc thêm dịch vụ. Giữ cấu hình Render hiện có: nhánh `main`, publish directory `.`.
