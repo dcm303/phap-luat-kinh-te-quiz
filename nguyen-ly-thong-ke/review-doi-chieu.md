@@ -6,33 +6,37 @@ Nguồn: bản chép người dùng gửi; SHA-256 df01482d285f7061d5bfad081146b
 
 7 đề ×20 câu, 6–7 lý thuyết. Tối thiểu ceil(47/7)=7 đề. Tổng 140 câu; 140−89=51 câu tự sinh, đều là tính toán. Không lặp câu giữa các đề.
 
-## Đề 01: 7 lý thuyết + 13 tính toán; 13 nguồn + 7 tự sinh
+Đề 1–3 thuần leak: mỗi đề 7 lý thuyết +13 bài tính nguồn; không có câu tự sinh. Đề 4–7 dùng các câu nguồn còn lại và câu tự sinh. Có 42 bài tính nguồn; mỗi đề cần ít nhất 13, nên tối đa 3 đề thuần leak không lặp.
 
-R002, R004, R005, R006, R009, R011, R012, R001, R024, R054, R088, R118, R136, G003, G010, G017, G024, G031, G038, G045
+Phân loại 161 mục: 89 đủ điều kiện chấm; 28 thiếu/cắt/phục dựng; 9 công thức hoặc dữ kiện chưa chắc chắn; 11 lỗi kết quả/lựa chọn/đơn vị; 9 bản lặp hoặc mảnh đã ghép; 15 sai môn. Các mục giữ riêng vẫn có phân tích nếu thuộc thống kê, không bị xóa.
 
-## Đề 02: 7 lý thuyết + 13 tính toán; 13 nguồn + 7 tự sinh
+## Đề 01: 7 lý thuyết + 13 tính toán; 20 nguồn + 0 tự sinh
 
-R018, R019, R020, R025, R026, R033, R034, R003, R032, R056, R089, R119, R138, G004, G011, G018, G025, G032, G039, G046
+R002, R004, R005, R006, R009, R011, R012, R001, R015, R023, R036, R049, R056, R078, R088, R101, R114, R126, R132, R138
 
-## Đề 03: 7 lý thuyết + 13 tính toán; 13 nguồn + 7 tự sinh
+## Đề 02: 7 lý thuyết + 13 tính toán; 20 nguồn + 0 tự sinh
 
-R035, R041, R051, R052, R053, R057, R059, R014, R036, R058, R098, R126, R139, G005, G012, G019, G026, G033, G040, G047
+R018, R019, R020, R025, R026, R033, R034, R003, R017, R024, R045, R050, R058, R083, R089, R102, R118, R129, R135, R139
 
-## Đề 04: 7 lý thuyết + 13 tính toán; 13 nguồn + 7 tự sinh
+## Đề 03: 7 lý thuyết + 13 tính toán; 20 nguồn + 0 tự sinh
 
-R065, R066, R067, R068, R073, R075, R076, R015, R045, R060, R101, R129, R141, G006, G013, G020, G027, G034, G041, G048
+R035, R041, R051, R052, R053, R057, R059, R014, R022, R032, R048, R054, R060, R085, R098, R106, R119, R131, R136, R141
 
-## Đề 05: 7 lý thuyết + 13 tính toán; 13 nguồn + 7 tự sinh
+## Đề 04: 7 lý thuyết + 13 tính toán; 8 nguồn + 12 tự sinh
 
-R079, R082, R084, R087, R091, R092, R094, R017, R048, R078, R102, R131, R142, G007, G014, G021, G028, G035, G042, G049
+R065, R066, R067, R068, R073, R075, R076, R142, G001, G005, G009, G013, G017, G021, G025, G029, G033, G037, G041, G045
 
-## Đề 06: 6 lý thuyết + 14 tính toán; 12 nguồn + 8 tự sinh
+## Đề 05: 7 lý thuyết + 13 tính toán; 8 nguồn + 12 tự sinh
 
-R107, R117, R120, R121, R122, R123, R022, R049, R083, R106, R132, R143, G001, G008, G015, G022, G029, G036, G043, G050
+R079, R082, R084, R087, R091, R092, R094, R143, G002, G006, G010, G014, G018, G022, G026, G030, G034, G038, G042, G046
 
-## Đề 07: 6 lý thuyết + 14 tính toán; 12 nguồn + 8 tự sinh
+## Đề 06: 6 lý thuyết + 14 tính toán; 7 nguồn + 13 tự sinh
 
-R124, R127, R133, R137, R140, R144, R023, R050, R085, R114, R135, R145, G002, G009, G016, G023, G030, G037, G044, G051
+R107, R117, R120, R121, R122, R123, R145, G003, G007, G011, G015, G019, G023, G027, G031, G035, G039, G043, G047, G049
+
+## Đề 07: 6 lý thuyết + 14 tính toán; 6 nguồn + 14 tự sinh
+
+R124, R127, R133, R137, R140, R144, G004, G008, G012, G016, G020, G024, G028, G032, G036, G040, G044, G048, G050, G051
 
 ## Các câu/mảnh nguồn
 

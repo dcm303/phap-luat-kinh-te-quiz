@@ -4,7 +4,7 @@
 Câu tự sinh được đánh dấu; câu nguồn giữ theo bản chép, không xác nhận nguyên văn ảnh chưa cung cấp.
 
 
-# Đề 01
+# Đề 01 — THUẦN LEAK, KHÔNG TỰ SINH
 
 
 ## Câu 1 — R002 — NGUỒN
@@ -337,108 +337,300 @@ Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác
 Slide: 4:37, 4:38, 4:39
 
 
-## Câu 9 — R024 — NGUỒN
+## Câu 9 — R015 — NGUỒN
 
-## Ảnh 4 – Câu 3
-
-**Câu 3: Dựa vào nguồn tài liệu sau tính toán và chọn đáp số đúng.**
-
-Có tài liệu tại doanh nghiệp công nghiệp M như bảng dưới đây:
-
-| Phân xưởng | Kỳ gốc | | Kỳ báo cáo | |
-|---|---|---|---|---|
-| | Năng suất lao động một công nhân (trđ) | Số lượng công nhân (người) | Năng suất lao động một công nhân (trđ) | Số lượng công nhân (người) |
-| A | 120 | 400 | 140 | 450 |
-| B | 100 | 200 | 120 | 250 |
-
-Năng suất bình quân (NSBQ) toàn doanh nghiệp kỳ gốc và kỳ báo cáo lần lượt là:
-
-*(Kết quả các phép tính được làm tròn đến 4 chữ số thập phân)*
-
-- A. 113,3333 trđ; 132,8571 trđ
-- B. 117,3333 trđ; 132,5718 trđ
-- C. 115,3333 trđ; 123,8571 trđ
-- D. 111,3333 trđ; 132,8571 trđ
-
-
-### 113,3333 trđ/người; 132,8571 trđ/người
-
-Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
-
-$$\bar x=\frac{\sum x_if_i}{\sum f_i}$$
-
-1. Kỳ gốc: Q₀=120×400+100×200=68.000 trđ; T₀=600.
-
-2. W̄₀=68.000/600=113,333333… →113,3333.
-
-3. Kỳ báo cáo: Q₁=140×450+120×250=93.000 trđ; T₁=700.
-
-4. W̄₁=93.000/700=132,857142… →132,8571.
-
-- A: Đúng: 113,3333 trđ/người; 132,8571 trđ/người; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- B: Không đúng: phương án ghi “117,3333 trđ; 132,5718 trđ”, trong khi phép tính theo dữ kiện cho 113,3333 trđ/người; 132,8571 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Không đúng: phương án ghi “115,3333 trđ; 123,8571 trđ”, trong khi phép tính theo dữ kiện cho 113,3333 trđ/người; 132,8571 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Không đúng: phương án ghi “111,3333 trđ; 132,8571 trđ”, trong khi phép tính theo dữ kiện cho 113,3333 trđ/người; 132,8571 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+### **Phần 8 (Ảnh 5)** 
+ 
+**Câu 17:** Có tài liệu về tiền lương của công nhân ở doanh nghiệp M vào tháng 6/2019 như sau: 
+ 
+| Mức lương (nghìn đồng/người) | Số công nhân (người) | 
+| :--- | :---: | 
+| 3560 – 4000 | 60 | 
+| 4000 – 4580 | 75 | 
+| 4580 – 5500 | 152 | 
+| 5500 – 6000 | 63 | 
+| 6000 – 6800 | 45 | 
+| 6800 – 8000 | 22 | 
+ 
+Số trung vị về mức lương của công nhân tháng 6/2019 tại doanh nghiệp M là: 
+*(Kết quả được làm tròn đến phần nguyên, theo quy ước làm tròn toán học)* 
+ 
+**Các phương án:** 
+*   A. 5076 (ng.đồng/người) 
+*   B. 5132 (ng.đồng/người) 
+*   C. 5085 (ng.đồng/người) 
+*   D. 5025 (ng.đồng/người)
 
 
-Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Không lấy (120+100)/2 hoặc dùng công nhân kỳ gốc để tính kỳ báo cáo.
+### 5.025 nghìn đồng/người
 
-Slide: 4:37, 4:38, 4:39
+Trung vị chia số đơn vị thành hai nửa. Với bảng khoảng, tìm tổ có tần số tích lũy lần đầu đạt/vượt N/2, sau đó nội suy đều trong tổ đó. L là cận dưới tổ trung vị, h là độ rộng, F là tần số tích lũy trước tổ, f là tần số của tổ. Đây là ước lượng từ bảng phân tổ, không phải mức chính xác của từng cá nhân.
+
+$$Me=L+h\frac{N/2-F}{f}$$
+
+1. N=60+75+152+63+45+22=417; N/2=208,5.
+
+2. Tần số tích lũy hai tổ đầu =135; sau tổ 4.580–5.500 là 287, nên trung vị nằm tổ này.
+
+3. L=4.580; h=920; F=135; f=152.
+
+4. Me=4.580+920×(208,5−135)/152=5.024,868421… →5.025.
+
+- A: Không đúng: phương án ghi “5076 (ng.đồng/người)”, trong khi phép tính theo dữ kiện cho 5.025 nghìn đồng/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- B: Không đúng: phương án ghi “5132 (ng.đồng/người)”, trong khi phép tính theo dữ kiện cho 5.025 nghìn đồng/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- C: Không đúng: phương án ghi “5085 (ng.đồng/người)”, trong khi phép tính theo dữ kiện cho 5.025 nghìn đồng/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Đúng: 5.025 nghìn đồng/người; khớp sau khi áp dụng quy tắc làm tròn của đề.
 
 
-## Câu 10 — R054 — NGUỒN
+Bẫy: Tổ trung vị dựa tần số tích lũy, không chọn tổ rộng nhất hoặc tần số lớn nhất.; Dùng độ rộng của chính tổ trung vị, không dùng độ rộng của tổ khác.
+
+Slide: 4:61, 4:62, 4:63
+
+
+## Câu 10 — R023 — NGUỒN
+
+## Ảnh 3
+
+Có tài liệu về lao động và kết quả sản xuất ở 1 DN công nghiệp có tài liệu như sau.
+
+Về kết quả sản xuất:
+- Giá trị sản xuất (GTSX) năm 2015 là 250 (tỷ đồng)
+- Tốc độ tăng GTSX bình quân hàng năm kể từ năm 2015 – 2021 là 8%
+
+Biết rằng số công nhân viên trong danh sách bình quân năm 21 là 990 công nhân và tăng 10% so với năm 2015
+
+*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)*
+
+**Giá trị sản xuất toàn doanh nghiệp năm 2021 là:**
+
+- <a>386,72 tỷ đồng</a>
+- <b>396,72 tỷ đồng</b>
+- 406,72 tỷ đồng
+- 416,72 tỷ đồng
+
+
+### 396,72 tỷ đồng
+
+Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
+
+$$Q_{2021}=Q_{2015}(1+\bar a)^6$$
+
+1. 2015 đến 2021 có 2021−2015=6 khoảng tăng.
+
+2. Tốc độ phát triển bình quân =1+8%=1,08.
+
+3. Q₂₀₂₁=250×1,08⁶=396,718580736 →396,72 tỷ đồng.
+
+- A: Không đúng: phương án ghi “386,72 tỷ đồng”, trong khi phép tính theo dữ kiện cho 396,72 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- B: Đúng: 396,72 tỷ đồng; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- C: Không đúng: phương án ghi “406,72 tỷ đồng”, trong khi phép tính theo dữ kiện cho 396,72 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Không đúng: phương án ghi “416,72 tỷ đồng”, trong khi phép tính theo dữ kiện cho 396,72 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+
+Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.; Số công nhân 990 và tăng 10% không cần dùng để tính trực tiếp GTSX này.
+
+Slide: 7:24, 7:27
+
+
+## Câu 11 — R036 — NGUỒN
 
 ### Hình 4
-**Tính toán và lựa chọn đáp án đúng:**
-Có tài liệu về tình hình nhập và xuất hàng hóa tại kho của một công ty thương mại X trong tháng 2 năm 2022 như sau:
--Tồn kho đầu tháng: 250 tỷ đồng
--Ngày 04: xuất kho 40 tỷ đồng
--Ngày 08: nhập kho 50 tỷ đồng
--Ngày 15: xuất kho 35 tỷ đồng
--Ngày 18: nhập kho 20 tỷ đồng
--Ngày 26: xuất kho 30 tỷ đồng
-Từ đó đến cuối tháng, tình hình nhập và xuất tại kho không có gì thay đổi.
-( Kết quả tính toán làm tròn đến số thập phân thứ 2 đằng sau dấu phẩy)
-Giá trị hàng hóa tồn kho bình quân một ngày trong tháng 02/2022 của công ty thương mại X là:
+**Câu 21: Có tài liệu về tình hình nhập và xuất hàng hóa tại kho của một công ty thương mại X trong tháng 10 năm 2021 như sau:**
+*   Tồn kho đầu tháng: 30 tỷ
+*   Ngày 3/10: xuất kho 3,5 tỷ
+*   Ngày 7/10: nhập kho 3,2 tỷ
+*   Ngày 12/10: xuất kho 5,3 tỷ
+*   Ngày 18/10: nhập kho 9,2 tỷ
+*   Ngày 26/10: xuất kho 6,25 tỷ
+*   Từ đó đến cuối tháng, hàng hóa tồn kho không thay đổi
 
-*   228,93 tỷ đồng
-*   238,93 tỷ đồng
-*   248,93 tỷ đồng
-*   258,93 tỷ đồng
+Giá trị hàng hóa tồn kho bình quân một ngày trong tháng 10/2021 của công ty thương mại X là:
+A. 28,8323
+B. 28,7223
+C. 28,9323
+D. 28,6323
 
 
-### 238,93 tỷ đồng
+### 28,8323 tỷ đồng
 
 Số công nhân/tồn kho tại một ngày là mức thời điểm. Nếu biết mức giữ nguyên trong từng đoạn, bình quân theo số ngày tồn tại: yᵢ là mức của đoạn, tᵢ là số ngày. Nếu chỉ biết đầu/cuối tháng, giả định biến động đều đặn, lấy nửa tổng hai đầu tháng rồi gia quyền độ dài tháng.
 
 $$\bar y=\frac{\sum y_it_i}{\sum t_i};\qquad \bar y_{\text{tháng}}=\frac{y_{\text{đầu}}+y_{\text{cuối}}}{2}$$
 
-1. Tháng 2/2022 có 28 ngày.
+1. Các đoạn: 1–2/10:30 (2 ngày); 3–6:26,5 (4); 7–11:29,7 (5); 12–17:24,4 (6); 18–25:33,6 (8); 26–31:27,35 (6).
 
-2. Các mức tồn: ngày 1–3:250 (3 ngày); 4–7:210 (4); 8–14:260 (7); 15–17:225 (3); 18–25:245 (8); 26–28:215 (3).
+2. Tổng ngày =2+4+5+6+8+6=31.
 
-3. Tổng tồn×ngày =250×3+210×4+260×7+225×3+245×8+215×3=6.690.
+3. Tổng tồn kho×ngày =30×2+26,5×4+29,7×5+24,4×6+33,6×8+27,35×6=893,8.
 
-4. Bình quân =6.690/28=238,928571… →238,93.
+4. Bình quân =893,8/31=28,832258… →28,8323.
 
-- A: Không đúng: phương án ghi “228,93 tỷ đồng”, trong khi phép tính theo dữ kiện cho 238,93 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- A: Đúng: 28,8323 tỷ đồng; khớp sau khi áp dụng quy tắc làm tròn của đề.
 
-- B: Đúng: 238,93 tỷ đồng; khớp sau khi áp dụng quy tắc làm tròn của đề.
+- B: Không đúng: phương án ghi “28,7223”, trong khi phép tính theo dữ kiện cho 28,8323 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- C: Không đúng: phương án ghi “248,93 tỷ đồng”, trong khi phép tính theo dữ kiện cho 238,93 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- C: Không đúng: phương án ghi “28,9323”, trong khi phép tính theo dữ kiện cho 28,8323 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- D: Không đúng: phương án ghi “258,93 tỷ đồng”, trong khi phép tính theo dữ kiện cho 238,93 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- D: Không đúng: phương án ghi “28,6323”, trong khi phép tính theo dữ kiện cho 28,8323 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
 
-Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trước ngày biến động.; Dãy thời điểm không cộng trực tiếp để lấy quy mô quý.
+Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trước ngày biến động.; Dãy thời điểm không cộng trực tiếp để lấy quy mô quý.; Nhập cộng vào tồn, xuất trừ khỏi tồn; không gia quyền trực tiếp các mức nhập/xuất.
 
 Slide: 7:13, 7:15, 7:16
 
 
-## Câu 11 — R088 — NGUỒN
+## Câu 12 — R049 — NGUỒN
+
+## **Câu 8:** Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:
+
+Có tài liệu về tình hình sản xuất (1 loại sản phẩm) của tập đoàn X kỳ báo cáo như sau:
+
+| Doanh nghiệp | Số công nhân (người) | Năng suất lao động (sp/người) | Giá thành đơn vị sản phẩm (ngđ/sp) | Mức lương tháng (ngđ/ng) |
+|---|---|---|---|---|
+| A | 150 | 250 | 285 | 5600 |
+| B | 200 | 300 | 275 | 5680 |
+| C | 350 | 280 | 280 | 5650 |
+
+Giá thành đơn vị sản phẩm bình quân của tập đoàn X là:
+*(Kết quả được làm tròn đến chữ số thập phân thứ nhất, theo quy ước làm tròn số toán học)*
+
+A. 279,4 (ngđ/sp)
+B. 276,2 (ngđ/sp)
+C. 277,3 (ngđ/sp)
+D. 280,5 (ngđ/sp)
+
+
+### 279,4 ngđ/sản phẩm
+
+Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
+
+$$\bar x=\frac{\sum x_if_i}{\sum f_i}$$
+
+1. Sản lượng: qA=150×250=37.500; qB=200×300=60.000; qC=350×280=98.000.
+
+2. Tổng q=195.500 sản phẩm.
+
+3. Tổng giá thành =285×37.500+275×60.000+280×98.000=54.628.500 ngđ.
+
+4. z̄=54.628.500/195.500=279,424552… →279,4.
+
+- A: Đúng: 279,4 ngđ/sản phẩm; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- B: Không đúng: phương án ghi “276,2 (ngđ/sp)”, trong khi phép tính theo dữ kiện cho 279,4 ngđ/sản phẩm. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- C: Không đúng: phương án ghi “277,3 (ngđ/sp)”, trong khi phép tính theo dữ kiện cho 279,4 ngđ/sản phẩm. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Không đúng: phương án ghi “280,5 (ngđ/sp)”, trong khi phép tính theo dữ kiện cho 279,4 ngđ/sản phẩm. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+
+Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Giá thành bình quân cần quyền số sản lượng; số công nhân chỉ dùng để suy sản lượng.; Mức lương không tham gia câu này.
+
+Slide: 4:37, 4:38, 4:39
+
+
+## Câu 13 — R056 — NGUỒN
+
+Theo số liệu công bố của Tổng cục Thống kê về tốc độ tăng trưởng GDP hàng năm so với nâm liên trước của Việt Nam trong giai đoạn 2020-2024 như sau:
+
+Tốc độ tăng trưởng GDP năm 2020 là 2,91%
+
+Tốc độ tăng trưởng GDP năm 2021 là 2,58%
+
+Tốc độ tăng trưởng GDP năm 2022 là 8,02%
+
+Tốc độ tăng trưởng GDP năm 2023 là 5,05%
+
+Tốc độ tăng trưởng GDP năm 2024 là 7,09%
+
+Tốc độ tăng GDP bình quân giai đoạn 2020-2024 là:
+
+
+
+5,53%
+
+6,42%
+
+5,11%
+
+6,45%
+
+
+### 5,11%
+
+Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
+
+$$\bar t=\sqrt[k]{\prod_{i=1}^kt_i};\qquad \bar a=(\bar t-1)100\%$$
+
+1. Có 5 tốc độ tăng hằng năm được nêu, gồm năm 2020 so 2019; vì thế có 5 nhân tử.
+
+2. Đổi sang phát triển: 1,0291;1,0258;1,0802;1,0505;1,0709.
+
+3. Tích =1,2828309260…; căn bậc 5 =1,0510754303…
+
+4. Tăng bình quân =(1,0510754303−1)×100=5,107543…% →5,11%.
+
+- A: Không đúng: phương án ghi “5,53%”, trong khi phép tính theo dữ kiện cho 5,11%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- B: Không đúng: phương án ghi “6,42%”, trong khi phép tính theo dữ kiện cho 5,11%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- C: Đúng: 5,11%; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- D: Không đúng: phương án ghi “6,45%”, trong khi phép tính theo dữ kiện cho 5,11%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+
+Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.; Sử dụng đúng các số liệu đề cho, không tự thay bằng số công bố cập nhật.; Nếu chỉ đo từ mức GDP năm 2020 đến 2024 thì là câu khác và dùng 4 tốc độ 2021–2024.
+
+Slide: 7:24, 7:27
+
+
+## Câu 14 — R078 — NGUỒN
+
+**Câu 1:**
+\<Q>Có tài liệu thực tế so với kế hoạch tại một doanh nghiệp như sau:
+Thời gian hao phí để sản xuất ra một đơn vị sản phẩm hoàn thành vượt mức kế hoạch đề ra 12%, (quyền số được cố định kỳ thực hiện) làm doanh nghiệp tiết kiệm được 420 giờ
+Số lượng sản phẩm sản xuất vượt kế hoạch 20% (quyền số được cố định kỳ kế hoạch)
+Tổng thời gian sản xuất sản phẩm của toàn doanh nghiệp thực tế so với kế hoạch thay đổi bao nhiêu khi số lượng sản phẩm của doanh nghiệp thay đổi?
+*(Kết quả tính toán làm tròn đến số thập phân thứ hai sau dấu phẩy)*
+(Chỉ chọn 1 đáp án)
+- A. Tăng 20 %
+- B. tăng 12%
+- C. Tăng 14%
+- D. giảm 20%
+
+
+### tổng thời gian tăng 20% do sản lượng
+
+Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
+
+$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
+
+1. Câu hỏi là thay đổi tổng thời gian do số lượng sản phẩm, không hỏi biến động chung hai nhân tố.
+
+2. I_q=1,20 đã cho; với quyền số hao phí kỳ kế hoạch, tác động tương đối của sản lượng là tăng 20%.
+
+3. Nếu cần kiểm tra tuyệt đối: giảm 12% tiết kiệm 420 →T₀₁=420/0,12=3.500; T₀=3.500/1,20=2.916,6667; ΔT(q)=583,3333 giờ.
+
+- A: Đúng: tổng thời gian tăng 20% do sản lượng; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- B: 12% là mức giảm hao phí một sản phẩm, không phải ảnh hưởng số lượng.
+
+- C: 14% không được suy ra từ chỉ số sản lượng 1,20.
+
+- D: Sản lượng vượt 20% nên tác động làm tăng, không giảm tổng thời gian.
+
+
+Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Tổng thời gian thực tế so kế hoạch chung là 0,88×1,20=1,056, tức tăng 5,6%; đó không phải đại lượng câu hỏi.
+
+Slide: 8:71, 8:72, 8:73, 8:74, 8:51
+
+
+## Câu 15 — R088 — NGUỒN
 
 **Câu 17:** 
 Năm nay doanh nghiệp A hoàn thành vượt mức kế hoạch về chỉ tiêu giá thành là 10% và so với năm trước giá thành của doanh nghiệp hạ 10%. Số tương đối nhiệm vụ kế hoạch về giá thành của doanh nghiệp là: 
@@ -476,246 +668,43 @@ Bẫy: Giá thành hoàn thành vượt mức nghĩa giảm so kế hoạch.; N�
 Slide: 4:21, 4:22, 4:23
 
 
-## Câu 12 — R118 — NGUỒN
+## Câu 16 — R101 — NGUỒN
 
-## Câu 19:
-**Dựa vào nguồn tài liệu sau, tính toán và chọn đáp số đúng?**
-Tài liệu về kết quả kinh doanh của một doanh nghiệp X thu thập được như sau:
+**Câu 15:**
+Từ nguồn tài liệu sau, tính toán và chọn đáp số đúng?
+Có tài liệu về Doanh thu của một doanh nghiệp như sau:
 
-| Sản phẩm | Tỷ trọng về doanh thu kỳ báo cáo (%) d₁ | Tỷ lệ % giảm giá bán kỳ báo cáo so với kỳ gốc |
-|---|---|---|
-| A | 36 | 4 |
-| B | 40 | 2 |
-| C | 24 | 5 |
+| Năm | n-5 | n-4 | n-3 | n-2 | n-1 | n |
+|---|---|---|---|---|---|---|
+| Doanh thu (tỷ đồng) | 200 | 250 | 280 | 300 | 320 | 350 |
 
-*(Biết thêm rằng, doanh thu của doanh nghiệp ở kỳ báo cáo là 180 tỷ đồng và tăng 25% so với kỳ gốc)*
-Lượng hàng hóa tiêu thụ kỳ báo cáo so với kỳ gốc có sự thay đổi là:
-*(Kết quả các phép tính được làm tròn đến 3 chữ số thập phân; các công thức chỉ số được viết theo cách chọn quyền số thông thường)*
-*(Chỉ chọn 1 đáp án)*
-- A. Tăng 29,5%
-- B. Tăng 25,9%
-- C. Giảm 3,5%
-- D. Giảm 4,4%"
+Dự báo Doanh thu của doanh nghiệp năm (n+2) bằng lượng tăng (giảm) tuyệt đối bình quân là:
+(Chỉ chọn 1 đáp án)
+- A. 410 tỷ đồng
+- B. 430 tỷ đồng
+- C. 440 tỷ đồng
+- D. 420 tỷ đồng
 
 
-### lượng tiêu thụ tăng khoảng 29,5%
-
-Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
-
-$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
-
-1. Chỉ số giá cá thể: 0,96;0,98;0,95.
-
-2. Theo cơ cấu doanh thu mới, M₀₁/M₁=0,36/0,96+0,40/0,98+0,24/0,95=1,035794844…
-
-3. I_M=1,25; Iq=1,25×1,035794844=1,294743555…; tăng 29,4743555…%.
-
-4. Các lựa chọn được ghi 1 chữ số: 29,5%. Nếu làm tròn từng chỉ số ở 3 chữ số: Ip≈0,965; Iq≈1,295 cũng cho 29,5%. Nêu cả kết quả chưa làm tròn để bạn đối chiếu.
-
-- A: Đúng: lượng tiêu thụ tăng khoảng 29,5%; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- B: Không đúng: phương án ghi “Tăng 25,9%”, trong khi phép tính theo dữ kiện cho lượng tiêu thụ tăng khoảng 29,5%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Không đúng: phương án ghi “Giảm 3,5%”, trong khi phép tính theo dữ kiện cho lượng tiêu thụ tăng khoảng 29,5%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Không đúng: phương án ghi “Giảm 4,4%”, trong khi phép tính theo dữ kiện cho lượng tiêu thụ tăng khoảng 29,5%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Giá giảm nhưng doanh thu tăng 25% nên lượng cần tăng mạnh hơn 25%.; Câu được ghép C/D từ mảnh có dữ kiện và A/B trùng khớp; không suy ra lựa chọn mới.
-
-Slide: 8:71, 8:72, 8:73, 8:74, 8:51
-
-
-## Câu 13 — R136 — NGUỒN
-
-## CÂU HỎI 18
-
-Dựa vào nguồn tài liệu sau, tính toán và chọn đáp số đúng?
-
-Có tài liệu của một hợp tác xã nông nghiệp như sau:
-
-
-| Tên sản phẩm | Tốc độ tăng (giảm) kỳ báo cáo so với kỳ gốc (%) – Diện tích | Tốc độ tăng (giảm) kỳ báo cáo so với kỳ gốc (%) – Tổng sản lượng | Tổng sản lượng kỳ gốc (tấn) |
-
-|---|---|---|---|
-
-| - Lúa | +10 | +8 | 8.000 |
-
-| - Màu (đã được quy ra lúa) | +15 | +20 | 20.000 |
-
-
-Chỉ số chung về tổng sản lượng lúa và màu kỳ báo cáo so với kỳ gốc là:
-
-*( Kết quả các phép tính được làm tròn đến 4 chữ số thập phân )*
-
-- A ○ 1,1675 lần
-
-- B ○ 1,1567 lần
-
-- C ○ 1,1765 lần
-
-- D ○ 1,1657 lần
-
-
-### 1,1657 lần
-
-Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
-
-$$I_Q=\frac{\sum i_{Qi}Q_{0i}}{\sum Q_{0i}}$$
-
-1. Tổng lượng gốc =8.000+20.000=28.000 tấn quy ra lúa.
-
-2. Tổng lượng mới =8.000×1,08+20.000×1,20=8.640+24.000=32.640.
-
-3. Chỉ số tổng sản lượng =32.640/28.000=1,165714… →1,1657.
-
-- A: Không đúng: phương án ghi “1,1675 lần”, trong khi phép tính theo dữ kiện cho 1,1657 lần. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Không đúng: phương án ghi “1,1567 lần”, trong khi phép tính theo dữ kiện cho 1,1657 lần. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Không đúng: phương án ghi “1,1765 lần”, trong khi phép tính theo dữ kiện cho 1,1657 lần. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Đúng: 1,1657 lần; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-
-Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Màu đã quy ra lúa nên cộng được sản lượng.; Diện tích tăng 10%,15% không cần cho câu hỏi tổng sản lượng; dùng nếu phân tích năng suất thu hoạch.
-
-Slide: 4:37, 4:38, 4:39
-
-
-## Câu 14 — G003 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Một doanh nghiệp có ba tổ công nhân A, B, C. Năng suất lao động lần lượt là 46, 62, 70 sản phẩm/người; số công nhân tương ứng là 35, 46, 43 người. Năng suất lao động bình quân một công nhân là bao nhiêu? Làm tròn 3 chữ số thập phân.
-A. 62,066 sản phẩm/người
-B. 63,874 sản phẩm/người
-C. 60,258 sản phẩm/người
-D. 67,490 sản phẩm/người
-
-
-### 60,258 sản phẩm/người
-
-Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
-
-$$\bar x=\frac{\sum x_if_i}{\sum f_i}$$
-
-1. Quyền số là số công nhân: f=(35;46;43).
-
-2. Tổng sản phẩm = 46×35+62×46+70×43=7472.
-
-3. Tổng công nhân =124; bình quân =7472/124=60,258065 →60,258.
-
-- A: Sai: 62,066 sản phẩm/người không khớp 60,258 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- B: Sai: 63,874 sản phẩm/người không khớp 60,258 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- C: Đúng: khớp kết quả 60,258 sản phẩm/người.
-
-- D: Sai: 67,490 sản phẩm/người không khớp 60,258 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-
-Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.
-
-Slide: 4:37, 4:38, 4:39
-
-
-## Câu 15 — G010 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Số sản phẩm loại I của phân xưởng A là 1040 chiếc, chiếm 80% tổng sản phẩm A; của B là 1800 chiếc, chiếm 90% tổng sản phẩm B. Hai phân xưởng cùng sản xuất một loại sản phẩm. Tổng sản lượng là bao nhiêu? Làm tròn phần nguyên.
-A. 3.399 chiếc
-B. 3.300 chiếc
-C. 3.597 chiếc
-D. 3.696 chiếc
-
-
-### 3.300 chiếc
-
-Khi biết tổng lượng biến Mᵢ và mức xᵢ, khôi phục số đơn vị fᵢ=Mᵢ/xᵢ. Do đó bình quân bằng tổng M chia tổng M/x; đây là bình quân điều hòa gia quyền. Nếu biết tỷ trọng M thì dùng dᵢ thay Mᵢ vì cùng một hệ số tổng sẽ triệt tiêu.
-
-$$q=q_{I,A}/d_{I,A}+q_{I,B}/d_{I,B}$$
-
-1. Tổng sản phẩm A =1040/0,80=1300.
-
-2. Tổng sản phẩm B =1800/0,90=2000.
-
-3. Tổng =1300+2000=3300 chiếc.
-
-- A: Sai: 3.399 chiếc không khớp 3.300 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- B: Đúng: khớp kết quả 3.300 chiếc.
-
-- C: Sai: 3.597 chiếc không khớp 3.300 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- D: Sai: 3.696 chiếc không khớp 3.300 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-
-Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng.; Đổi đơn vị nhất quán trước khi suy ra số sản phẩm.; Không cộng riêng số loại I rồi coi đó là toàn bộ sản lượng.
-
-Slide: 4:26, 4:42
-
-
-## Câu 16 — G017 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Doanh thu có ba tốc độ phát triển liên hoàn là 104%, 108%, 112%. Tốc độ tăng bình quân trong ba khoảng thời gian là bao nhiêu? Làm tròn 3 chữ số thập phân.
-A. 7,951 %
-B. 8,429 %
-C. 8,668 %
-D. 8,907 %
-
-
-### 7,951%
-
-Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
-
-$$\bar t=\sqrt[k]{\prod_{i=1}^kt_i};\qquad \bar a=(\bar t-1)100\%$$
-
-1. Đổi về lần: 1,04; 1,08; 1,12.
-
-2. Tích =1,25798400; căn bậc 3 =1,07950595.
-
-3. Trừ 1 và nhân 100: tăng 7,950595% →7,951%.
-
-- A: Đúng: khớp kết quả 7,951%.
-
-- B: Sai: 8,429 % không khớp 7,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- C: Sai: 8,668 % không khớp 7,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- D: Sai: 8,907 % không khớp 7,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-
-Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.
-
-Slide: 7:24, 7:27
-
-
-## Câu 17 — G024 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Doanh thu của năm năm liên tiếp lần lượt là 130, 155, 175, 205, 230 tỷ đồng. Dự báo doanh thu sau năm cuối 4 năm bằng lượng tăng tuyệt đối bình quân. Làm tròn 2 chữ số thập phân.
-A. 339,90 tỷ đồng
-B. 349,80 tỷ đồng
-C. 359,70 tỷ đồng
-D. 330,00 tỷ đồng
-
-
-### 330,00 tỷ đồng
+### 410 tỷ đồng
 
 Dự báo từ lượng tăng tuyệt đối bình quân giả định xu hướng cộng một lượng ổn định mỗi kỳ. y₁ và yₙ là mức đầu/cuối; n là số mức quá khứ; L là số kỳ dự báo sau kỳ cuối. Tính lượng tăng bình quân rồi cộng L lần vào mức cuối.
 
 $$\bar\delta=\frac{y_n-y_1}{n-1},\qquad \hat y_{n+L}=y_n+L\bar\delta$$
 
-1. 5 mức quá khứ tạo 4 khoảng; δ̄=(230−130)/4=25,00 tỷ/năm.
+1. 6 mức doanh thu từ n−5 đến n →5 khoảng.
 
-2. Chân trời dự báo L=4.
+2. δ̄=(350−200)/5=30.
 
-3. Dự báo =230+4×25,00=330,00 tỷ đồng.
+3. n+2: 350+30×2=410.
 
-- A: Sai: 339,90 tỷ đồng không khớp 330,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Đúng: 410 tỷ đồng; khớp sau khi áp dụng quy tắc làm tròn của đề.
 
-- B: Sai: 349,80 tỷ đồng không khớp 330,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Không đúng: phương án ghi “430 tỷ đồng”, trong khi phép tính theo dữ kiện cho 410 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- C: Sai: 359,70 tỷ đồng không khớp 330,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Không đúng: phương án ghi “440 tỷ đồng”, trong khi phép tính theo dữ kiện cho 410 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- D: Đúng: khớp kết quả 330,00 tỷ đồng.
+- D: Không đúng: phương án ghi “420 tỷ đồng”, trong khi phép tính theo dữ kiện cho 410 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
 
 Bẫy: Dự báo n+2 dùng L=2, không lấy căn hay bình quân phần trăm.; Mẫu số quá khứ n−1, không cộng thêm số kỳ tương lai.
@@ -723,112 +712,232 @@ Bẫy: Dự báo n+2 dùng L=2, không lấy căn hay bình quân phần trăm.;
 Slide: 7:21, 9:9, 9:10
 
 
-## Câu 18 — G031 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 17 — R114 — NGUỒN
 
-Tháng có 30 ngày. Số công nhân giữ nguyên: ngày 1–10 là 440 người, ngày 11–22 là 470 người, ngày 23–30 là 460 người. Số công nhân bình quân một ngày là bao nhiêu? Làm tròn 3 chữ số thập phân.
-A. 471,053 người
-B. 484,773 người
-C. 457,333 người
-D. 512,213 người
+## Câu 7:
+**Từ nguồn tài liệu sau, tính toán và chọn đáp số đúng?**
+Có tài liệu dưới đây về doanh nghiệp M như sau:
+
+| Chỉ tiêu | Tháng 1 | Tháng 2 | Tháng 3 | Tháng 4 |
+|---|---|---|---|---|
+| Giá trị sản xuất thực tế (tỷđồng) | 40 | 42 | 42,8 | - |
+| Số công nhân có ở ngày đầu tháng (người) | 300 | 304 | 304 | 308 |
+| Tỷ lệ hoàn thành kế hoạch về giá trị sản xuất (%) | 102 | 105 | 108 | - |
+
+Năng suất lao động bình quân trong quý I (NSBQ quí) là:
+*(Kết quả tính được làm tròn đến 4 chữ số thập phân; các công thức chỉ số được viết theo cách chọn quyền số thông thường)*
+*(Chỉ chọn 1 đáp án)*
+- A. 0,4102 tỷ đồng
+- B. 0,4105 tỷ đồng
+- C. 0,4106 tỷ đồng
+- D. 0,4150 tỷ đồng
 
 
-### 457,333 người
+### 0,4105 tỷ đồng/người/quý
 
 Số công nhân/tồn kho tại một ngày là mức thời điểm. Nếu biết mức giữ nguyên trong từng đoạn, bình quân theo số ngày tồn tại: yᵢ là mức của đoạn, tᵢ là số ngày. Nếu chỉ biết đầu/cuối tháng, giả định biến động đều đặn, lấy nửa tổng hai đầu tháng rồi gia quyền độ dài tháng.
 
-$$\bar y=\frac{\sum y_it_i}{\sum t_i};\qquad \bar y_{\text{tháng}}=\frac{y_{\text{đầu}}+y_{\text{cuối}}}{2}$$
+$$\bar W_{\text{quý}}=\frac{Q_1+Q_2+Q_3}{\bar T_{\text{quý}}}$$
 
-1. Số ngày tương ứng 10,12,8; tổng 30 ngày.
+1. Bình quân công nhân từng tháng: (300+304)/2=302; (304+304)/2=304; (304+308)/2=306.
 
-2. Tổng người×ngày =440×10+470×12+460×8=13720.
+2. Bình quân quý =(302×31+304×28+306×31)/90=304; tháng 2 có 29 ngày cũng cho 304 do hai tháng biên đối xứng.
 
-3. Chia 30 được 457,333333 →457,333 người.
+3. Tổng GTSX quý =40+42+42,8=124,8 tỷ.
 
-- A: Sai: 471,053 người không khớp 457,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+4. W̄quý=124,8/304=0,4105263158… →0,4105.
 
-- B: Sai: 484,773 người không khớp 457,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Không đúng: phương án ghi “0,4102 tỷ đồng”, trong khi phép tính theo dữ kiện cho 0,4105 tỷ đồng/người/quý. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- C: Đúng: khớp kết quả 457,333 người.
+- B: Đúng: 0,4105 tỷ đồng/người/quý; khớp sau khi áp dụng quy tắc làm tròn của đề.
 
-- D: Sai: 512,213 người không khớp 457,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Không đúng: phương án ghi “0,4106 tỷ đồng”, trong khi phép tính theo dữ kiện cho 0,4105 tỷ đồng/người/quý. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Không đúng: phương án ghi “0,4150 tỷ đồng”, trong khi phép tính theo dữ kiện cho 0,4105 tỷ đồng/người/quý. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
 
-Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trước ngày biến động.; Dãy thời điểm không cộng trực tiếp để lấy quy mô quý.
+Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trước ngày biến động.; Dãy thời điểm không cộng trực tiếp để lấy quy mô quý.; Không làm tròn quá sớm thành 0,4106.; Tỷ lệ kế hoạch không dùng cho năng suất thực tế.
 
 Slide: 7:13, 7:15, 7:16
 
 
-## Câu 19 — G038 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 18 — R126 — NGUỒN
 
-Tổng chi phí kỳ gốc là 1250 triệu đồng. Kỳ báo cáo tổng chi phí bằng 110% kỳ gốc; sản lượng tăng 16%. Theo thay thế liên hoàn với giá thành kỳ gốc làm quyền số của sản lượng, sản lượng làm tổng chi phí thay đổi bao nhiêu? Làm tròn 2 chữ số thập phân.
-A. 206,00 triệu đồng tăng
-B. 200,00 triệu đồng tăng
-C. 218,00 triệu đồng tăng
-D. 224,00 triệu đồng tăng
+**Câu 14:**
+Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:
+Có số liệu của một doanh nghiệp phản ánh số lượng sản phẩm sản xuất tác động đến giá thành đơn vị sản phẩm X tháng 10 năm 2025 như sau:
 
+| Số lượng sản phẩm sản xuất (1000 sản phẩm) | Giá thành đơn vị sản phẩm X (nghìn đồng) |
+|---|---|
+| 50 | 60 |
+| 53 | 58 |
+| 60 | 55 |
+| 68 | 51 |
+| 73 | 48 |
+| 78 | 44 |
+| 84 | 40 |
+| 90 | 38 |
 
-### 200,00 triệu đồng tăng
-
-Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
-
-$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
-
-1. Giữ giá thành gốc, C₀₁=C₀Iq=1250×1,16=1.450,00.
-
-2. ΔC(q)=C₀₁−C₀=1.450,00−1250=200,00 triệu đồng.
-
-3. Tổng chi phí mới =1.375,00; số này không dùng thay C₀₁ khi tính riêng sản lượng.
-
-- A: Sai: 206,00 triệu đồng tăng không khớp 200,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- B: Đúng: khớp kết quả 200,00 triệu đồng tăng.
-
-- C: Sai: 218,00 triệu đồng tăng không khớp 200,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- D: Sai: 224,00 triệu đồng tăng không khớp 200,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+Theo mô hình hồi quy tương quan tuyến tính đơn phản ánh mối liên hệ giữa hai tiêu thức trên, khi số lượng sản phẩm tăng lên 1000 sản phẩm thì giá thành đơn vị sản phẩm X giảm đi trung bình bao nhiêu?
+*(Kết quả tính làm tròn đến số thập phân thứ 3 theo nguyên tắc toán học thông thường)*
+(Chỉ chọn 1 đáp án)
+- A. 0,989 nghìn đồng
+- B. 1,252 nghìn đồng
+- C. 0,565 nghìn đồng
+- D. 0,232 nghìn đồng
 
 
-Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.
+### giảm 0,565 nghìn đồng khi sản lượng tăng 1.000 sản phẩm
 
-Slide: 8:71, 8:72, 8:73, 8:74, 8:51
+Hồi quy tuyến tính đơn ŷ=a+bx theo bình phương bé nhất: x là nguyên nhân, y là kết quả. b đo mức thay đổi y trung bình khi x tăng một đơn vị; a là mức nền dự đoán tại x=0. Tính tổng x,y,x²,xy để có b rồi a; dấu b cho chiều hướng liên hệ.
 
+$$b=\frac{n\sum xy-\sum x\sum y}{n\sum x^2-(\sum x)^2},\quad a=\bar y-b\bar x,\quad \hat y=a+bx$$
 
-## Câu 20 — G045 — TỰ SINH ĐỂ ĐỦ ĐỀ
+1. x là số nghìn sản phẩm, y là giá thành nghìn đồng.
 
-Lương tháng kế hoạch là 6,0 triệu đồng/người, thực tế 7,5 triệu đồng/người. Số công nhân kế hoạch 100, thực tế 115. Mức lương một người làm tổng quỹ lương tăng bao nhiêu theo thay thế liên hoàn? Làm tròn 2 chữ số thập phân.
-A. 172,50 triệu đồng
-B. 182,86 triệu đồng
-C. 188,04 triệu đồng
-D. 193,22 triệu đồng
+2. n=8; Σx=556; Σy=394; Σx²=40.102; Σxy=26.558.
 
+3. b=(8×26.558−556×394)/(8×40.102−556²)=−0,565068493…; a=88,522260…
 
-### 172,50 triệu đồng
+4. x tăng 1 tức tăng 1.000 sản phẩm, y giảm trung bình 
 
-Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
+5. b
 
-$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
+6. =0,565 nghìn đồng.
 
-1. Giữ số công nhân thực tế 115: ΔM(x)=(x₁−x₀)T₁.
+- A: Không đúng: phương án ghi “0,989 nghìn đồng”, trong khi phép tính theo dữ kiện cho giảm 0,565 nghìn đồng khi sản lượng tăng 1.000 sản phẩm. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-2. ΔM(x)=(7,5−6,0)×115=172,50 triệu đồng.
+- B: Không đúng: phương án ghi “1,252 nghìn đồng”, trong khi phép tính theo dữ kiện cho giảm 0,565 nghìn đồng khi sản lượng tăng 1.000 sản phẩm. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-3. Số công nhân thay đổi có tác động riêng (T₁−T₀)x₀=90,00, không cộng vào đáp án riêng mức lương.
+- C: Đúng: giảm 0,565 nghìn đồng khi sản lượng tăng 1.000 sản phẩm; khớp sau khi áp dụng quy tắc làm tròn của đề.
 
-- A: Đúng: khớp kết quả 172,50 triệu đồng.
-
-- B: Sai: 182,86 triệu đồng không khớp 172,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- C: Sai: 188,04 triệu đồng không khớp 172,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- D: Sai: 193,22 triệu đồng không khớp 172,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- D: Không đúng: phương án ghi “0,232 nghìn đồng”, trong khi phép tính theo dữ kiện cho giảm 0,565 nghìn đồng khi sản lượng tăng 1.000 sản phẩm. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
 
-Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.
+Bẫy: Kiểm tra đơn vị một đơn vị x: 1 trong cột “1000 sản phẩm” nghĩa là 1000 sản phẩm.; Hệ số âm cho giảm; khi hỏi giảm bao nhiêu, báo độ lớn dương và nêu dấu hệ số.; Hệ số b âm; đáp án nêu mức giảm nên dùng độ lớn dương.; Không nhân b thêm 1.000 vì x đã đo theo nghìn sản phẩm.
 
-Slide: 8:71, 8:72, 8:73, 8:74, 8:51
+Slide: 6:14, 6:15, 6:18
 
 
-# Đề 02
+## Câu 19 — R132 — NGUỒN
+
+## CÂU HỎI 8
+
+Dựa vào tài liệu sau, tính toán và chọn đáp án đúng:
+
+Có tài liệu về kết quả sản xuất sản phẩm X của Doanh nghiệp M trong năm báo cáo như sau:
+
+
+| Phân xưởng | Số sản phẩm loại I (chiếc) | Tỷ lệ sản phẩm loại I trong tổng sản phẩm (%) |
+
+|---|---|---|
+
+| A | 125.488 | 88 |
+
+| B | 200.260 | 95 |
+
+| C | 156.793 | 91 |
+
+
+Tổng số sản phẩm X được sản xuất của doanh nghiệp M là:
+
+- A ○ 525.700 (chiếc)
+
+- B ○ 530.860 (chiếc)
+
+- C ○ 515.300 (chiếc)
+
+- D ○ 519.700 (chiếc)
+
+
+### 525.700 chiếc
+
+Tỷ lệ loại I là phần loại I chia tổng số sản phẩm. Khi biết tử số và tỷ lệ, tổng số sản phẩm bằng số loại I chia tỷ lệ theo lần. Tính từng phân xưởng rồi cộng vì cùng sản phẩm X.
+
+$$q_i=\frac{q_{I,i}}{d_{I,i}},\qquad q=\sum_iq_i$$
+
+1. Mỗi phân xưởng: sản phẩm loại I =tỷ lệ loại I×tổng sản phẩm.
+
+2. qA=125.488/0,88=142.600; qB=200.260/0,95=210.800; qC=156.793/0,91=172.300.
+
+3. Tổng q=142.600+210.800+172.300=525.700 chiếc.
+
+- A: Đúng: 525.700 chiếc; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- B: Không đúng: phương án ghi “530.860 (chiếc)”, trong khi phép tính theo dữ kiện cho 525.700 chiếc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- C: Không đúng: phương án ghi “515.300 (chiếc)”, trong khi phép tính theo dữ kiện cho 525.700 chiếc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Không đúng: phương án ghi “519.700 (chiếc)”, trong khi phép tính theo dữ kiện cho 525.700 chiếc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+
+Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng.; Đổi đơn vị nhất quán trước khi suy ra số sản phẩm.; Không cộng 125.488+200.260+156.793 rồi gọi là tổng sản phẩm: đó chỉ là tổng loại I.; Không nhân số loại I với tỷ lệ vì cần tìm mẫu số.
+
+Slide: 4:26, 4:42
+
+
+## Câu 20 — R138 — NGUỒN
+
+## CÂU HỎI (không rõ số – phần tiêu đề bị cắt trong ảnh)
+
+Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:
+
+Có tài liệu về tiền lương và lao động tại 1 doanh nghiệp như sau:
+
+
+| Phân Xưởng | Mức lương 1 công nhân (triệu đồng/người) – Kỳ gốc | Mức lương 1 công nhân (triệu đồng/người) – Kỳ báo cáo | Số công nhân (người) – Kỳ gốc | Số công nhân (người) – Kỳ báo cáo |
+
+|---|---|---|---|---|
+
+| A | 10 | 11 | 40 | 80 |
+
+| B | 11,5 | 13 | 60 | 50 |
+
+
+Kết cấu công nhân có sự thay đổi giữa 2 kỳ làm cho tổng quỹ lương của doanh nghiệp thay đổi là:
+
+*(Kết quả được làm tròn 3 chữ số phần thập phân theo quy tắc toán học thông thường)*
+
+- A ○ giảm 2,7%
+
+- B ○ giảm 3,9%
+
+- C ○ giảm 2,1%
+
+- D ○ giảm 3,4%
+
+
+### quỹ lương giảm 3,853% do kết cấu, tương ứng 3,9% theo lựa chọn
+
+Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
+
+$$\Delta M(d)=(\bar x_{01}-\bar x_0)T_1,\quad a_{M(d)}=\frac{\Delta M(d)}{M_0}100\%$$
+
+1. Lương bình quân gốc =(10×40+11,5×60)/100=10,9 triệu đồng/người.
+
+2. Giả định lương từng tổ giữ ở gốc, cơ cấu mới: x̄₀₁=(10×80+11,5×50)/130=10,576923.
+
+3. Ảnh hưởng kết cấu tới tổng quỹ lương: ΔM(d)=(10,576923−10,9)×130=−42 triệu đồng.
+
+4. Quỹ lương gốc M₀=10×40+11,5×60=1.090 triệu; tỷ lệ tác động =(−42/1.090)×100=−3,853211…% →−3,853%.
+
+5. Các lựa chọn chỉ ghi một chữ số nên mức này tương ứng giảm 3,9%, B. Đây là tỷ lệ chênh lệch tổng quỹ lương do kết cấu so quỹ gốc; không phải riêng chỉ số kết cấu bình quân.
+
+- A: Không đúng: phương án ghi “giảm 2,7%”, trong khi phép tính theo dữ kiện cho quỹ lương giảm 3,853% do kết cấu, tương ứng 3,9% theo lựa chọn. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- B: Đúng: quỹ lương giảm 3,853% do kết cấu, tương ứng 3,9% theo lựa chọn; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- C: Không đúng: phương án ghi “giảm 2,1%”, trong khi phép tính theo dữ kiện cho quỹ lương giảm 3,853% do kết cấu, tương ứng 3,9% theo lựa chọn. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Không đúng: phương án ghi “giảm 3,4%”, trong khi phép tính theo dữ kiện cho quỹ lương giảm 3,853% do kết cấu, tương ứng 3,9% theo lựa chọn. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+
+Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Id−1=(10,576923/10,9−1)×100=−2,964% là tác động lên bình quân, khác tỷ lệ tác động lên tổng quỹ lương.; Nguồn yêu cầu ba chữ số nhưng các lựa chọn một chữ số; lời giải ghi cả giá trị đầy đủ và lựa chọn làm tròn.
+
+Slide: 8:87, 8:97, 8:98
+
+
+# Đề 02 — THUẦN LEAK, KHÔNG TỰ SINH
 
 
 ## Câu 1 — R018 — NGUỒN
@@ -1159,108 +1268,309 @@ Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác
 Slide: 4:37, 4:38, 4:39
 
 
-## Câu 9 — R032 — NGUỒN
+## Câu 9 — R017 — NGUỒN
 
-### Hình 2
-**Câu 5: Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:**
-Có tài liệu về sản lượng ở Tổng công ty M (gồm 3 doanh nghiệp cùng sản xuất 1 loại sp (Đvt: 1000 sản phẩm)
+### Hình 2 (Câu hỏi về số công nhân bình quân)
 
-| Tên doanh nghiệp | Năm 2019 (Thực tế) | Năm 2020 (Kế hoạch) | Năm 2020 (Thực tế) |
-| :--- | :---: | :---: | :---: |
-| A | 50500 | 53500 | 54800 |
-| B | 68000 | 70800 | 75000 |
-| C | 72600 | 74500 | 76000 |
+**Đề bài:**
+Tình hình sản xuất của một doanh nghiệp trong 3 tháng đầu năm năm 2022 như sau:
 
-Số tương đối nhiệm vụ kế hoạch về sản lượng của tổng công ty năm 2020:
-*(Kết quả được làm tròn đến chữ số thập phân thứ nhất, theo quy tắc làm tròn số toán học)*
-A. 104,0 %
-B. 106,4 %
-C. 103,5%
-D. 105,9%
+**Bảng số liệu:**
+
+| Chỉ tiêu | Tháng 1 | Tháng 2 | Tháng 3 |
+| :--- | :--- | :--- | :--- |
+| Giá trị sản xuất thực tế (tỷ đồng) | 120 | 125 | 118 |
+| Tỷ lệ % hoàn thành kế hoạch giá trị sản xuất (%) | 105 | 108 | 110 |
+| Số công nhân đầu tháng (người) | 500 | 520 | 530 |
+
+**Biết rằng:** Số công nhân ngày 1 tháng 4 năm 2022 là 540 người.
+(Kết quả tính toán làm tròn đến số thập phân thứ 2 đằng sau dấu phẩy)
+
+**Câu hỏi:**
+Số công nhân bình quân 1 ngày trong quý I của doanh nghiệp là:
+
+**Các phương án:**
+*   543 người
+*   533 người
+*   523 người
+*   513 người
 
 
-### 104,0%
+### 523 người
+
+Số công nhân/tồn kho tại một ngày là mức thời điểm. Nếu biết mức giữ nguyên trong từng đoạn, bình quân theo số ngày tồn tại: yᵢ là mức của đoạn, tᵢ là số ngày. Nếu chỉ biết đầu/cuối tháng, giả định biến động đều đặn, lấy nửa tổng hai đầu tháng rồi gia quyền độ dài tháng.
+
+$$\bar y=\frac{\sum y_it_i}{\sum t_i};\qquad \bar y_{\text{tháng}}=\frac{y_{\text{đầu}}+y_{\text{cuối}}}{2}$$
+
+1. Tháng 1,2,3 năm 2022 lần lượt có 31,28,31 ngày.
+
+2. Bình quân công nhân từng tháng: (500+520)/2=510; (520+530)/2=525; (530+540)/2=535.
+
+3. Bình quân quý theo ngày =(510×31+525×28+535×31)/90=47.095/90=523,277778 người.
+
+4. Làm tròn số người theo các lựa chọn: 523 người.
+
+- A: Không đúng: phương án ghi “543 người”, trong khi phép tính theo dữ kiện cho 523 người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- B: Không đúng: phương án ghi “533 người”, trong khi phép tính theo dữ kiện cho 523 người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- C: Đúng: 523 người; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- D: Không đúng: phương án ghi “513 người”, trong khi phép tính theo dữ kiện cho 523 người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+
+Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trước ngày biến động.; Dãy thời điểm không cộng trực tiếp để lấy quy mô quý.; Công thức cách đều coi ba tháng bằng nhau cho 523,333…; tháng thực tế không đều cho 523,278. Hai cách cùng chọn 523 khi làm tròn phần nguyên; lời giải dùng số ngày thực tế.
+
+Slide: 7:13, 7:15, 7:16
+
+
+## Câu 10 — R024 — NGUỒN
+
+## Ảnh 4 – Câu 3
+
+**Câu 3: Dựa vào nguồn tài liệu sau tính toán và chọn đáp số đúng.**
+
+Có tài liệu tại doanh nghiệp công nghiệp M như bảng dưới đây:
+
+| Phân xưởng | Kỳ gốc | | Kỳ báo cáo | |
+|---|---|---|---|---|
+| | Năng suất lao động một công nhân (trđ) | Số lượng công nhân (người) | Năng suất lao động một công nhân (trđ) | Số lượng công nhân (người) |
+| A | 120 | 400 | 140 | 450 |
+| B | 100 | 200 | 120 | 250 |
+
+Năng suất bình quân (NSBQ) toàn doanh nghiệp kỳ gốc và kỳ báo cáo lần lượt là:
+
+*(Kết quả các phép tính được làm tròn đến 4 chữ số thập phân)*
+
+- A. 113,3333 trđ; 132,8571 trđ
+- B. 117,3333 trđ; 132,5718 trđ
+- C. 115,3333 trđ; 123,8571 trđ
+- D. 111,3333 trđ; 132,8571 trđ
+
+
+### 113,3333 trđ/người; 132,8571 trđ/người
+
+Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
+
+$$\bar x=\frac{\sum x_if_i}{\sum f_i}$$
+
+1. Kỳ gốc: Q₀=120×400+100×200=68.000 trđ; T₀=600.
+
+2. W̄₀=68.000/600=113,333333… →113,3333.
+
+3. Kỳ báo cáo: Q₁=140×450+120×250=93.000 trđ; T₁=700.
+
+4. W̄₁=93.000/700=132,857142… →132,8571.
+
+- A: Đúng: 113,3333 trđ/người; 132,8571 trđ/người; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- B: Không đúng: phương án ghi “117,3333 trđ; 132,5718 trđ”, trong khi phép tính theo dữ kiện cho 113,3333 trđ/người; 132,8571 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- C: Không đúng: phương án ghi “115,3333 trđ; 123,8571 trđ”, trong khi phép tính theo dữ kiện cho 113,3333 trđ/người; 132,8571 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Không đúng: phương án ghi “111,3333 trđ; 132,8571 trđ”, trong khi phép tính theo dữ kiện cho 113,3333 trđ/người; 132,8571 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+
+Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Không lấy (120+100)/2 hoặc dùng công nhân kỳ gốc để tính kỳ báo cáo.
+
+Slide: 4:37, 4:38, 4:39
+
+
+## Câu 11 — R045 — NGUỒN
+
+## Đề 6 – Tình hình sản xuất quý I/2022
+
+**Tình hình sản xuất của một doanh nghiệp trong 3 tháng đầu năm năm 2022 như sau:**
+
+| Chỉ tiêu | Tháng 1 | Tháng 2 | Tháng 3 |
+|:---|:---:|:---:|:---:|
+| Giá trị sản xuất thực tế (tỷ đồng) | 120 | 125 | 118 |
+| Tỷ lệ % hoàn thành kế hoạch giá trị sản xuất (%) | 105 | 108 | 110 |
+| Số công nhân đầu tháng (người) | 500 | 520 | 530 |
+
+**Biết rằng:** Số công nhân ngày 1 tháng 4 năm 2022 là 540 người.
+*(Kết quả tính toán làm tròn đến số thập phân thứ 2 đằng sau dấu phẩy)*
+
+**Tỷ lệ phần trăm hoàn thành kế hoạch giá trị sản xuất bình quân quý I của doanh nghiệp là:**
+
+- 137,62%
+- 127,62%
+- 117,62%
+- 107,62%
+
+
+### 107,62%
 
 Ba số tương đối kế hoạch liên hệ nhau: tđộngthái=tnhiệmvụ×thoànthành, khi tất cả theo lần. Nhiệm vụ kế hoạch so mức kế hoạch với thực tế kỳ gốc; hoàn thành kế hoạch so thực tế và kế hoạch cùng kỳ. Với toàn công ty phải tính tỷ số tổng trước, không bình quân giản đơn % doanh nghiệp.
 
 $$t_{NVKH}=\frac{y_K}{y_0},\quad t_{HTKH}=\frac{y_1}{y_K},\quad \frac{y_1}{y_0}=t_{NVKH}t_{HTKH}$$
 
-1. Σq₀=50.500+68.000+72.600=191.100 nghìn sản phẩm.
+1. Kế hoạch từng tháng =thực tế/tỷ lệ hoàn thành theo lần.
 
-2. ΣqK=53.500+70.800+74.500=198.800.
+2. QK1=120/1,05=114,285714; QK2=125/1,08=115,740741; QK3=118/1,10=107,272727.
 
-3. tNVKH=198.800/191.100×100=104,029304…% →104,0%.
+3. Tổng thực tế =363; tổng kế hoạch =337,299182 tỷ.
 
-- A: Đúng: 104,0%; khớp sau khi áp dụng quy tắc làm tròn của đề.
+4. HTKH quý =363/337,299182×100=107,619591… →107,62%.
 
-- B: Không đúng: phương án ghi “106,4 %”, trong khi phép tính theo dữ kiện cho 104,0%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- A: Không đúng: phương án ghi “137,62%”, trong khi phép tính theo dữ kiện cho 107,62%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- C: Không đúng: phương án ghi “103,5%”, trong khi phép tính theo dữ kiện cho 104,0%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- B: Không đúng: phương án ghi “127,62%”, trong khi phép tính theo dữ kiện cho 107,62%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- D: Không đúng: phương án ghi “105,9%”, trong khi phép tính theo dữ kiện cho 104,0%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- C: Không đúng: phương án ghi “117,62%”, trong khi phép tính theo dữ kiện cho 107,62%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Đúng: 107,62%; khớp sau khi áp dụng quy tắc làm tròn của đề.
 
 
-Bẫy: Giá thành hoàn thành vượt mức nghĩa giảm so kế hoạch.; Nếu dùng %, đổi về lần hoặc có hệ số 100 đúng chỗ.; Cột thực tế 2020 không tham gia số tương đối nhiệm vụ kế hoạch.; Đây là tăng kế hoạch khoảng 4,0%, không phải tăng 104%.
+Bẫy: Giá thành hoàn thành vượt mức nghĩa giảm so kế hoạch.; Nếu dùng %, đổi về lần hoặc có hệ số 100 đúng chỗ.; Không lấy (105+108+110)/3=107,6667%.; Số công nhân là dữ kiện thừa cho câu hoàn thành kế hoạch GTSX.
 
 Slide: 4:21, 4:22, 4:23
 
 
-## Câu 10 — R056 — NGUỒN
+## Câu 12 — R050 — NGUỒN
 
-Theo số liệu công bố của Tổng cục Thống kê về tốc độ tăng trưởng GDP hàng năm so với nâm liên trước của Việt Nam trong giai đoạn 2020-2024 như sau:
+## **Câu (không rõ số):** (từ ảnh cuối)
 
-Tốc độ tăng trưởng GDP năm 2020 là 2,91%
+Bảng dữ liệu:
 
-Tốc độ tăng trưởng GDP năm 2021 là 2,58%
+| Tên sản phẩm | Tổng thời gian dùng vào SX kỳ nghiên cứu (giờ) | Chỉ số sản lượng (Iq) (lần) | Chỉ số NSLĐ (Iw) (lần) |
+|---|---|---|---|
+| A | 1.000 | 1,1 | 1,3 |
+| B | 1.200 | 1,2 | 1,05 |
 
-Tốc độ tăng trưởng GDP năm 2022 là 8,02%
+*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)*
 
-Tốc độ tăng trưởng GDP năm 2023 là 5,05%
+Năng suất lao động theo giờ toàn doanh nghiệp kỳ nghiên cứu so với kỳ gốc tăng:
 
-Tốc độ tăng trưởng GDP năm 2024 là 7,09%
-
-Tốc độ tăng GDP bình quân giai đoạn 2020-2024 là:
-
-
-
-5,53%
-
-6,42%
-
-5,11%
-
-6,45%
+- a) 16,36%
+- b) 26,36%
+- 36,36%
+- 46,36%
 
 
-### 5,11%
+### tăng 16,36%
 
-Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
+NSLĐ theo giờ là sản lượng trên giờ; hao phí một sản phẩm là nghịch đảo NSLĐ. Với sản phẩm khác loại, chỉ số chung dùng tổng thời gian làm quyền số để đồng nhất hóa, không lấy trung bình giản đơn các chỉ số NSLĐ.
 
-$$\bar t=\sqrt[k]{\prod_{i=1}^kt_i};\qquad \bar a=(\bar t-1)100\%$$
+$$I_w=\frac{\sum t_0q_1}{\sum t_1q_1}=\frac{\sum T_{1i}i_{wi}}{\sum T_{1i}}$$
 
-1. Có 5 tốc độ tăng hằng năm được nêu, gồm năm 2020 so 2019; vì thế có 5 nhân tử.
+1. NSLĐ w=q/T; hao phí t=1/w, nên iₜ=1/iw.
 
-2. Đổi sang phát triển: 1,0291;1,0258;1,0802;1,0505;1,0709.
+2. Tổng thời gian mới T₁=1.000+1.200=2.200.
 
-3. Tích =1,2828309260…; căn bậc 5 =1,0510754303…
+3. Thời gian giả định theo NSLĐ gốc và sản lượng mới T₀₁=ΣT₁ᵢiwᵢ=1.000×1,3+1.200×1,05=2.560.
 
-4. Tăng bình quân =(1,0510754303−1)×100=5,107543…% →5,11%.
+4. Chỉ số NSLĐ chung Iw=T₀₁/T₁=2.560/2.200=1,163636… →1,1636; tăng 16,36%.
 
-- A: Không đúng: phương án ghi “5,53%”, trong khi phép tính theo dữ kiện cho 5,11%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- A: Đúng: tăng 16,36%; khớp sau khi áp dụng quy tắc làm tròn của đề.
 
-- B: Không đúng: phương án ghi “6,42%”, trong khi phép tính theo dữ kiện cho 5,11%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- B: Không đúng: phương án ghi “26,36%”, trong khi phép tính theo dữ kiện cho tăng 16,36%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- C: Đúng: 5,11%; khớp sau khi áp dụng quy tắc làm tròn của đề.
+- C: Không đúng: phương án ghi “36,36%”, trong khi phép tính theo dữ kiện cho tăng 16,36%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- D: Không đúng: phương án ghi “6,45%”, trong khi phép tính theo dữ kiện cho 5,11%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.; Sử dụng đúng các số liệu đề cho, không tự thay bằng số công bố cập nhật.; Nếu chỉ đo từ mức GDP năm 2020 đến 2024 thì là câu khác và dùng 4 tốc độ 2021–2024.
-
-Slide: 7:24, 7:27
+- D: Không đúng: phương án ghi “46,36%”, trong khi phép tính theo dữ kiện cho tăng 16,36%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
 
-## Câu 11 — R089 — NGUỒN
+Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Chỉ số sản lượng 1,1 và 1,2 không cần để tính Iw với quyền số sản lượng kỳ nghiên cứu.
+
+Slide: 8:71, 8:72, 8:73, 8:74, 8:51
+
+
+## Câu 13 — R058 — NGUỒN
+
+Cau 13
+
+Dựa vao ngưon tai liệu sau, tinh toán và chọn đáp sô đưng?
+
+Tại doanh nghiệp X sản xuất 4 mặt hàng A, B, C. D tỏng chi phí sản xuát quý II so sới quý 1 giảm 10% tương ứng với giảm 500 triệud: gì thành đơn vị sản phảm của các loại sản phâm nói chungl tăng 20%*
+
+Khôi lượng sản phâm (KLSP) quý II so vơi quý 1 có sự thay đoi la:
+
+
+
+A. KLSP giảm 25%
+
+ B. KLSP giám 26%
+
+C. KLSP giảm 27%
+
+d KLSP giảm 28%
+
+
+### KLSP giảm 25%
+
+Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
+
+$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
+
+1. Chỉ số tổng chi phí IM=0,90; chỉ số giá thành Iz=1,20.
+
+2. Iq=IM/Iz=0,90/1,20=0,75.
+
+3. (Iq−1)×100=−25%; sản lượng giảm 25%.
+
+- A: Đúng: KLSP giảm 25%; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- B: Không đúng: phương án ghi “KLSP giám 26%”, trong khi phép tính theo dữ kiện cho KLSP giảm 25%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- C: Không đúng: phương án ghi “KLSP giảm 27%”, trong khi phép tính theo dữ kiện cho KLSP giảm 25%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Không đúng: phương án ghi “KLSP giảm 28%”, trong khi phép tính theo dữ kiện cho KLSP giảm 25%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+
+Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Không lấy −10%−20%=−30%; các nhân tố nối bằng phép nhân.; 500 triệu đồng không cần để tính riêng tỷ lệ sản lượng.
+
+Slide: 8:71, 8:72, 8:73, 8:74, 8:51
+
+
+## Câu 14 — R083 — NGUỒN
+
+**Câu 13:** *(phần đầu trang bị cắt, tiếp nối từ cuối trang trước: "Chọn phương án trả lời đúng nhất.")*
+\<Q>Tình hình sản xuất của một doanh nghiệp trong 3 tháng cuối năm N như sau:
+
+| Chỉ tiêu | Tháng 10 | Tháng 11 | Tháng 12 |
+|---|---|---|---|
+| Giá trị sản xuất thực tế (tỷ đồng) | 120 | 125 | 128 |
+| Tỷ lệ % hoàn thành kế hoạch giá trị sản xuất | 105 | 107 | 110 |
+| Số công nhân đầu tháng | 300 | 310 | 296 |
+
+Biết rằng: *Số công nhân cuối quý IV năm N là 304 người.*
+Tính năng suất lao động bình quân 1 công nhân tháng 10 năm N của doanh nghiệp?
+*(Kết quả tính làm tròn đến số thập phân thứ 2 theo nguyên tắc toán học thông thường)*
+(Chỉ chọn 1 đáp án)
+- A. 1,27 tỉ đồng
+- B. 3,23 tỉ đồng
+- C. 2,42 tỉ đồng
+- D. 0,39 tỉ đồng
+
+
+### 0,39 tỷ đồng/người/tháng
+
+Số công nhân/tồn kho tại một ngày là mức thời điểm. Nếu biết mức giữ nguyên trong từng đoạn, bình quân theo số ngày tồn tại: yᵢ là mức của đoạn, tᵢ là số ngày. Nếu chỉ biết đầu/cuối tháng, giả định biến động đều đặn, lấy nửa tổng hai đầu tháng rồi gia quyền độ dài tháng.
+
+$$\bar T_{10}=\frac{T_{1/10}+T_{1/11}}2,\quad \bar W_{10}=\frac{Q_{10}}{\bar T_{10}}$$
+
+1. Công nhân bình quân tháng 10 =(300+310)/2=305 người, theo giả định đều đặn giữa hai đầu tháng.
+
+2. GTSX tháng 10 =120 tỷ đồng.
+
+3. W̄10=120/305=0,393443… →0,39 tỷ đồng/người.
+
+- A: Không đúng: phương án ghi “1,27 tỉ đồng”, trong khi phép tính theo dữ kiện cho 0,39 tỷ đồng/người/tháng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- B: Không đúng: phương án ghi “3,23 tỉ đồng”, trong khi phép tính theo dữ kiện cho 0,39 tỷ đồng/người/tháng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- C: Không đúng: phương án ghi “2,42 tỉ đồng”, trong khi phép tính theo dữ kiện cho 0,39 tỷ đồng/người/tháng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Đúng: 0,39 tỷ đồng/người/tháng; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+
+Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trước ngày biến động.; Dãy thời điểm không cộng trực tiếp để lấy quy mô quý.; Không dùng tổng GTSX quý vì đề hỏi riêng tháng 10.; Tỷ lệ HTKH không dùng vì cần năng suất thực tế.
+
+Slide: 7:13, 7:15, 7:16
+
+
+## Câu 15 — R089 — NGUỒN
 
 **Câu 18:** 
 Có tài liệu về Giá trị sản xuất (GTSX) của một doanh nghiệp như sau: 
@@ -1303,366 +1613,269 @@ Bẫy: Dự báo n+2 dùng L=2, không lấy căn hay bình quân phần trăm.;
 Slide: 7:21, 9:9, 9:10
 
 
-## Câu 12 — R119 — NGUỒN
+## Câu 16 — R102 — NGUỒN
 
-## Câu 20:
-**Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:**
-Có tài liệu thu thập được tại một doanh nghiệp như sau:
-
-| Năng suất lao động (kg/người) | Số công nhân (người) |
-|---|---|
-| Dưới 50 | 40 |
-| 50 - 75 | 80 |
-| 75 - 100 | 200 |
-| 100 - 110 | 350 |
-| 110 - 130 | 120 |
-| 130 - 140 | 150 |
-| Trên 140 | 60 |
-
-Số trung vị về năng suất lao động của công nhân tại doanh nghiệp trên là:
-*(Kết quả các phép tính làm tròn 3 chữ số phần thập phân theo quy tắc toán học thông thường)*
-*(Chỉ chọn 1 đáp án)*
-- A. 105,943 (kg/người)
-- B. 108,413 (kg/người)
-- C. 105,143 (kg/người)
-- D. 108,103 (kg/người)
-
-
-### 105,143 kg/người
-
-Trung vị chia số đơn vị thành hai nửa. Với bảng khoảng, tìm tổ có tần số tích lũy lần đầu đạt/vượt N/2, sau đó nội suy đều trong tổ đó. L là cận dưới tổ trung vị, h là độ rộng, F là tần số tích lũy trước tổ, f là tần số của tổ. Đây là ước lượng từ bảng phân tổ, không phải mức chính xác của từng cá nhân.
-
-$$Me=L+h\frac{N/2-F}{f}$$
-
-1. N=40+80+200+350+120+150+60=1.000; N/2=500.
-
-2. Tần số tích lũy trước tổ 100–110 là 320; sau tổ là 670, nên tổ trung vị 100–110.
-
-3. L=100,h=10,F=320,f=350.
-
-4. Me=100+10×(500−320)/350=105,142857… →105,143.
-
-- A: Không đúng: phương án ghi “105,943 (kg/người)”, trong khi phép tính theo dữ kiện cho 105,143 kg/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Không đúng: phương án ghi “108,413 (kg/người)”, trong khi phép tính theo dữ kiện cho 105,143 kg/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Đúng: 105,143 kg/người; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- D: Không đúng: phương án ghi “108,103 (kg/người)”, trong khi phép tính theo dữ kiện cho 105,143 kg/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Tổ trung vị dựa tần số tích lũy, không chọn tổ rộng nhất hoặc tần số lớn nhất.; Dùng độ rộng của chính tổ trung vị, không dùng độ rộng của tổ khác.
-
-Slide: 4:61, 4:62, 4:63
-
-
-## Câu 13 — R138 — NGUỒN
-
-## CÂU HỎI (không rõ số – phần tiêu đề bị cắt trong ảnh)
-
+**Câu 17:**
 Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:
+Có tài liệu về bậc thợ và tuổi nghề của công nhân trong doanh nghiệp X như sau:
 
-Có tài liệu về tiền lương và lao động tại 1 doanh nghiệp như sau:
+| Tuổi nghề (năm) | Phân tổ công nhân theo bậc thợ 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|---|---|---|---|---|---|---|---|
+| Dưới 5 | 7 | 12 | 30 | 50 | 45 | 20 | 8 |
+| 5 - 10 | 10 | 20 | 80 | 110 | 85 | 60 | 25 |
+| 10 - 25 | 8 | 6 | 85 | 95 | 70 | 65 | 15 |
 
-
-| Phân Xưởng | Mức lương 1 công nhân (triệu đồng/người) – Kỳ gốc | Mức lương 1 công nhân (triệu đồng/người) – Kỳ báo cáo | Số công nhân (người) – Kỳ gốc | Số công nhân (người) – Kỳ báo cáo |
-
-|---|---|---|---|---|
-
-| A | 10 | 11 | 40 | 80 |
-
-| B | 11,5 | 13 | 60 | 50 |
-
-
-Kết cấu công nhân có sự thay đổi giữa 2 kỳ làm cho tổng quỹ lương của doanh nghiệp thay đổi là:
-
-*(Kết quả được làm tròn 3 chữ số phần thập phân theo quy tắc toán học thông thường)*
-
-- A ○ giảm 2,7%
-
-- B ○ giảm 3,9%
-
-- C ○ giảm 2,1%
-
-- D ○ giảm 3,4%
+(Kết quả tính làm tròn đến số thập phân thứ 1 theo nguyên tắc toán học thông thường)
+Bậc thợ trung bình của tất cả công nhân toàn doanh nghiệp là bao nhiêu?
+(Chỉ chọn 1 đáp án)
+- A. 4,3
+- B. 5,4
+- C. 3,8
+- D. 4,9
 
 
-### quỹ lương giảm 3,853% do kết cấu, tương ứng 3,9% theo lựa chọn
-
-Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
-
-$$\Delta M(d)=(\bar x_{01}-\bar x_0)T_1,\quad a_{M(d)}=\frac{\Delta M(d)}{M_0}100\%$$
-
-1. Lương bình quân gốc =(10×40+11,5×60)/100=10,9 triệu đồng/người.
-
-2. Giả định lương từng tổ giữ ở gốc, cơ cấu mới: x̄₀₁=(10×80+11,5×50)/130=10,576923.
-
-3. Ảnh hưởng kết cấu tới tổng quỹ lương: ΔM(d)=(10,576923−10,9)×130=−42 triệu đồng.
-
-4. Quỹ lương gốc M₀=10×40+11,5×60=1.090 triệu; tỷ lệ tác động =(−42/1.090)×100=−3,853211…% →−3,853%.
-
-5. Các lựa chọn chỉ ghi một chữ số nên mức này tương ứng giảm 3,9%, B. Đây là tỷ lệ chênh lệch tổng quỹ lương do kết cấu so quỹ gốc; không phải riêng chỉ số kết cấu bình quân.
-
-- A: Không đúng: phương án ghi “giảm 2,7%”, trong khi phép tính theo dữ kiện cho quỹ lương giảm 3,853% do kết cấu, tương ứng 3,9% theo lựa chọn. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Đúng: quỹ lương giảm 3,853% do kết cấu, tương ứng 3,9% theo lựa chọn; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- C: Không đúng: phương án ghi “giảm 2,1%”, trong khi phép tính theo dữ kiện cho quỹ lương giảm 3,853% do kết cấu, tương ứng 3,9% theo lựa chọn. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Không đúng: phương án ghi “giảm 3,4%”, trong khi phép tính theo dữ kiện cho quỹ lương giảm 3,853% do kết cấu, tương ứng 3,9% theo lựa chọn. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Id−1=(10,576923/10,9−1)×100=−2,964% là tác động lên bình quân, khác tỷ lệ tác động lên tổng quỹ lương.; Nguồn yêu cầu ba chữ số nhưng các lựa chọn một chữ số; lời giải ghi cả giá trị đầy đủ và lựa chọn làm tròn.
-
-Slide: 8:87, 8:97, 8:98
-
-
-## Câu 14 — G004 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Một doanh nghiệp có ba tổ công nhân A, B, C. Năng suất lao động lần lượt là 48, 65, 71 sản phẩm/người; số công nhân tương ứng là 40, 49, 47 người. Năng suất lao động bình quân một công nhân là bao nhiêu? Làm tròn 3 chữ số thập phân.
-A. 63,936 sản phẩm/người
-B. 65,798 sản phẩm/người
-C. 67,660 sản phẩm/người
-D. 62,074 sản phẩm/người
-
-
-### 62,074 sản phẩm/người
+### 4,3 bậc
 
 Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
 
 $$\bar x=\frac{\sum x_if_i}{\sum f_i}$$
 
-1. Quyền số là số công nhân: f=(40;49;47).
+1. Cộng theo cột bậc thợ 1→7: f=(25;38;195;255;200;145;48).
 
-2. Tổng sản phẩm = 48×40+65×49+71×47=8442.
+2. Σf=906 công nhân.
 
-3. Tổng công nhân =136; bình quân =8442/136=62,073529 →62,074.
+3. Σbf=1×25+2×38+3×195+4×255+5×200+6×145+7×48=3.912.
 
-- A: Sai: 63,936 sản phẩm/người không khớp 62,074 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+4. Bậc bình quân =3.912/906=4,317881… →4,3.
 
-- B: Sai: 65,798 sản phẩm/người không khớp 62,074 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Đúng: 4,3 bậc; khớp sau khi áp dụng quy tắc làm tròn của đề.
 
-- C: Sai: 67,660 sản phẩm/người không khớp 62,074 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Không đúng: phương án ghi “5,4”, trong khi phép tính theo dữ kiện cho 4,3 bậc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- D: Đúng: khớp kết quả 62,074 sản phẩm/người.
+- C: Không đúng: phương án ghi “3,8”, trong khi phép tính theo dữ kiện cho 4,3 bậc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Không đúng: phương án ghi “4,9”, trong khi phép tính theo dữ kiện cho 4,3 bậc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
 
-Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.
+Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Cộng theo cột bậc thợ, không bình quân tuổi nghề.; Bậc thợ bình quân có thể là số thập phân; không cần là một bậc nguyên.
 
 Slide: 4:37, 4:38, 4:39
 
 
-## Câu 15 — G011 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Số sản phẩm loại I của phân xưởng A là 1120 chiếc, chiếm 80% tổng sản phẩm A; của B là 1980 chiếc, chiếm 90% tổng sản phẩm B. Hai phân xưởng cùng sản xuất một loại sản phẩm. Tổng sản lượng là bao nhiêu? Làm tròn phần nguyên.
-A. 3.708 chiếc
-B. 3.816 chiếc
-C. 3.600 chiếc
-D. 4.032 chiếc
-
-
-### 3.600 chiếc
-
-Khi biết tổng lượng biến Mᵢ và mức xᵢ, khôi phục số đơn vị fᵢ=Mᵢ/xᵢ. Do đó bình quân bằng tổng M chia tổng M/x; đây là bình quân điều hòa gia quyền. Nếu biết tỷ trọng M thì dùng dᵢ thay Mᵢ vì cùng một hệ số tổng sẽ triệt tiêu.
-
-$$q=q_{I,A}/d_{I,A}+q_{I,B}/d_{I,B}$$
-
-1. Tổng sản phẩm A =1120/0,80=1400.
-
-2. Tổng sản phẩm B =1980/0,90=2200.
-
-3. Tổng =1400+2200=3600 chiếc.
-
-- A: Sai: 3.708 chiếc không khớp 3.600 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- B: Sai: 3.816 chiếc không khớp 3.600 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- C: Đúng: khớp kết quả 3.600 chiếc.
-
-- D: Sai: 4.032 chiếc không khớp 3.600 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-
-Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng.; Đổi đơn vị nhất quán trước khi suy ra số sản phẩm.; Không cộng riêng số loại I rồi coi đó là toàn bộ sản lượng.
-
-Slide: 4:26, 4:42
-
-
-## Câu 16 — G018 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Doanh thu có ba tốc độ phát triển liên hoàn là 105%, 109%, 113%. Tốc độ tăng bình quân trong ba khoảng thời gian là bao nhiêu? Làm tròn 3 chữ số thập phân.
-A. 9,220 %
-B. 8,951 %
-C. 9,758 %
-D. 10,027 %
-
-
-### 8,951%
-
-Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
-
-$$\bar t=\sqrt[k]{\prod_{i=1}^kt_i};\qquad \bar a=(\bar t-1)100\%$$
-
-1. Đổi về lần: 1,05; 1,09; 1,13.
-
-2. Tích =1,29328500; căn bậc 3 =1,08951048.
-
-3. Trừ 1 và nhân 100: tăng 8,951048% →8,951%.
-
-- A: Sai: 9,220 % không khớp 8,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- B: Đúng: khớp kết quả 8,951%.
-
-- C: Sai: 9,758 % không khớp 8,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- D: Sai: 10,027 % không khớp 8,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-
-Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.
-
-Slide: 7:24, 7:27
-
-
-## Câu 17 — G025 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Giá trị sản xuất đầu giai đoạn là 200 tỷ đồng, cuối giai đoạn sau 4 năm là 292,8200 tỷ đồng. Dự báo sau kỳ cuối 2 năm bằng tốc độ phát triển bình quân. Giữ đủ độ chính xác khi tính và làm tròn cuối cùng 3 chữ số thập phân.
-A. 354,312 tỷ đồng
-B. 375,570 tỷ đồng
-C. 386,199 tỷ đồng
-D. 396,828 tỷ đồng
-
-
-### 354,312 tỷ đồng
-
-Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
-
-$$\bar t=(y_n/y_1)^{1/k},\quad \hat y_{n+L}=y_n\bar t^L$$
-
-1. Có 4 khoảng; t̄=(292,8200/200)^(1/4)=1,1.
-
-2. Dự báo sau 2 năm =292,8200×1,1²=354,31220000.
-
-3. Kết quả 354,312 tỷ đồng.
-
-- A: Đúng: khớp kết quả 354,312 tỷ đồng.
-
-- B: Sai: 375,570 tỷ đồng không khớp 354,312 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- C: Sai: 386,199 tỷ đồng không khớp 354,312 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- D: Sai: 396,828 tỷ đồng không khớp 354,312 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-
-Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.
-
-Slide: 7:24, 9:11, 9:12
-
-
-## Câu 18 — G032 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Tháng có 30 ngày. Số công nhân giữ nguyên: ngày 1–10 là 460 người, ngày 11–22 là 490 người, ngày 23–30 là 480 người. Số công nhân bình quân một ngày là bao nhiêu? Làm tròn 3 chữ số thập phân.
-A. 491,653 người
-B. 505,973 người
-C. 520,293 người
-D. 477,333 người
-
-
-### 477,333 người
-
-Số công nhân/tồn kho tại một ngày là mức thời điểm. Nếu biết mức giữ nguyên trong từng đoạn, bình quân theo số ngày tồn tại: yᵢ là mức của đoạn, tᵢ là số ngày. Nếu chỉ biết đầu/cuối tháng, giả định biến động đều đặn, lấy nửa tổng hai đầu tháng rồi gia quyền độ dài tháng.
-
-$$\bar y=\frac{\sum y_it_i}{\sum t_i};\qquad \bar y_{\text{tháng}}=\frac{y_{\text{đầu}}+y_{\text{cuối}}}{2}$$
-
-1. Số ngày tương ứng 10,12,8; tổng 30 ngày.
-
-2. Tổng người×ngày =460×10+490×12+480×8=14320.
-
-3. Chia 30 được 477,333333 →477,333 người.
-
-- A: Sai: 491,653 người không khớp 477,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- B: Sai: 505,973 người không khớp 477,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- C: Sai: 520,293 người không khớp 477,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- D: Đúng: khớp kết quả 477,333 người.
-
-
-Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trước ngày biến động.; Dãy thời điểm không cộng trực tiếp để lấy quy mô quý.
-
-Slide: 7:13, 7:15, 7:16
-
-
-## Câu 19 — G039 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Tổng chi phí kỳ gốc là 1500 triệu đồng. Kỳ báo cáo tổng chi phí bằng 112% kỳ gốc; sản lượng tăng 17%. Theo thay thế liên hoàn với giá thành kỳ gốc làm quyền số của sản lượng, sản lượng làm tổng chi phí thay đổi bao nhiêu? Làm tròn 2 chữ số thập phân.
-A. 262,65 triệu đồng tăng
-B. 270,30 triệu đồng tăng
-C. 255,00 triệu đồng tăng
-D. 285,60 triệu đồng tăng
-
-
-### 255,00 triệu đồng tăng
+## Câu 17 — R118 — NGUỒN
+
+## Câu 19:
+**Dựa vào nguồn tài liệu sau, tính toán và chọn đáp số đúng?**
+Tài liệu về kết quả kinh doanh của một doanh nghiệp X thu thập được như sau:
+
+| Sản phẩm | Tỷ trọng về doanh thu kỳ báo cáo (%) d₁ | Tỷ lệ % giảm giá bán kỳ báo cáo so với kỳ gốc |
+|---|---|---|
+| A | 36 | 4 |
+| B | 40 | 2 |
+| C | 24 | 5 |
+
+*(Biết thêm rằng, doanh thu của doanh nghiệp ở kỳ báo cáo là 180 tỷ đồng và tăng 25% so với kỳ gốc)*
+Lượng hàng hóa tiêu thụ kỳ báo cáo so với kỳ gốc có sự thay đổi là:
+*(Kết quả các phép tính được làm tròn đến 3 chữ số thập phân; các công thức chỉ số được viết theo cách chọn quyền số thông thường)*
+*(Chỉ chọn 1 đáp án)*
+- A. Tăng 29,5%
+- B. Tăng 25,9%
+- C. Giảm 3,5%
+- D. Giảm 4,4%"
+
+
+### lượng tiêu thụ tăng khoảng 29,5%
 
 Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
 
 $$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
 
-1. Giữ giá thành gốc, C₀₁=C₀Iq=1500×1,17=1.755,00.
+1. Chỉ số giá cá thể: 0,96;0,98;0,95.
 
-2. ΔC(q)=C₀₁−C₀=1.755,00−1500=255,00 triệu đồng.
+2. Theo cơ cấu doanh thu mới, M₀₁/M₁=0,36/0,96+0,40/0,98+0,24/0,95=1,035794844…
 
-3. Tổng chi phí mới =1.680,00; số này không dùng thay C₀₁ khi tính riêng sản lượng.
+3. I_M=1,25; Iq=1,25×1,035794844=1,294743555…; tăng 29,4743555…%.
 
-- A: Sai: 262,65 triệu đồng tăng không khớp 255,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+4. Các lựa chọn được ghi 1 chữ số: 29,5%. Nếu làm tròn từng chỉ số ở 3 chữ số: Ip≈0,965; Iq≈1,295 cũng cho 29,5%. Nêu cả kết quả chưa làm tròn để bạn đối chiếu.
 
-- B: Sai: 270,30 triệu đồng tăng không khớp 255,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Đúng: lượng tiêu thụ tăng khoảng 29,5%; khớp sau khi áp dụng quy tắc làm tròn của đề.
 
-- C: Đúng: khớp kết quả 255,00 triệu đồng tăng.
+- B: Không đúng: phương án ghi “Tăng 25,9%”, trong khi phép tính theo dữ kiện cho lượng tiêu thụ tăng khoảng 29,5%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- D: Sai: 285,60 triệu đồng tăng không khớp 255,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Không đúng: phương án ghi “Giảm 3,5%”, trong khi phép tính theo dữ kiện cho lượng tiêu thụ tăng khoảng 29,5%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Không đúng: phương án ghi “Giảm 4,4%”, trong khi phép tính theo dữ kiện cho lượng tiêu thụ tăng khoảng 29,5%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
 
-Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.
+Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Giá giảm nhưng doanh thu tăng 25% nên lượng cần tăng mạnh hơn 25%.; Câu được ghép C/D từ mảnh có dữ kiện và A/B trùng khớp; không suy ra lựa chọn mới.
 
 Slide: 8:71, 8:72, 8:73, 8:74, 8:51
 
 
-## Câu 20 — G046 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 18 — R129 — NGUỒN
 
-Lương tháng kế hoạch là 7,0 triệu đồng/người, thực tế 8,5 triệu đồng/người. Số công nhân kế hoạch 120, thực tế 135. Mức lương một người làm tổng quỹ lương tăng bao nhiêu theo thay thế liên hoàn? Làm tròn 2 chữ số thập phân.
-A. 208,58 triệu đồng
-B. 202,50 triệu đồng
-C. 220,74 triệu đồng
-D. 226,82 triệu đồng
+## CÂU HỎI 1
+
+Dựa vào nguồn tài liệu sau, tính toán và chọn đáp số đúng?
+
+Có Tài liệu về tình hình tiêu thụ sản phẩm của Doanh nghiệp thương mại X trong 2 quý như sau:
 
 
-### 202,50 triệu đồng
+| Tên hàng hóa | Mức tiêu thụ hàng hóa (tỷ đồng) – Quý I | Mức tiêu thụ hàng hóa (tỷ đồng) – Quý II | Tốc độ tăng (giảm) giá bán quý II so với quý I (%) |
+
+|---|---|---|---|
+
+| A | 360 | 400 | -5 |
+
+| B | 390 | 410 | -4 |
+
+
+Lượng hàng hóa tiêu thụ thay đổi khi so sánh quý II với quý I làm mức tiêu thụ hàng hóa thay đổi là:
+
+*( Kết quả các phép tính được làm tròn đến 4 chữ số thập phân )*
+
+- A ○ Tăng 98, 3159 tỷ đồng
+
+- B ○ Tăng 98,1359 tỷ đồng
+
+- C ○ Tăng 98,9513 tỷ đồng
+
+- D ○ Tăng 98,5931 tỷ đồng
+
+
+### tăng 98,1359 tỷ đồng theo quy tắc làm tròn từng phép tính
 
 Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
 
 $$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
 
-1. Giữ số công nhân thực tế 135: ΔM(x)=(x₁−x₀)T₁.
+1. Giá A giảm 5% →ipA=0,95; B giảm 4% →ipB=0,96.
 
-2. ΔM(x)=(8,5−7,0)×135=202,50 triệu đồng.
+2. M₀=360+390=750 tỷ.
 
-3. Số công nhân thay đổi có tác động riêng (T₁−T₀)x₀=105,00, không cộng vào đáp án riêng mức lương.
+3. Quy đổi doanh thu mới về giá gốc: 400/0,95=421,052631… →421,0526; 410/0,96=427,083333… →427,0833.
 
-- A: Sai: 208,58 triệu đồng không khớp 202,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+4. M₀₁=421,0526+427,0833=848,1359; ΔM(q)=848,1359−750=98,1359.
 
-- B: Đúng: khớp kết quả 202,50 triệu đồng.
+5. Nếu giữ đầy đủ đến cuối, kết quả 98,1359649… →98,1360. Đề yêu cầu các phép tính đều làm tròn 4 chữ số nên chọn B và chỉ rõ khác biệt này.
 
-- C: Sai: 220,74 triệu đồng không khớp 202,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Không đúng: phương án ghi “Tăng 98, 3159 tỷ đồng”, trong khi phép tính theo dữ kiện cho tăng 98,1359 tỷ đồng theo quy tắc làm tròn từng phép tính. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- D: Sai: 226,82 triệu đồng không khớp 202,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Đúng: tăng 98,1359 tỷ đồng theo quy tắc làm tròn từng phép tính; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- C: Không đúng: phương án ghi “Tăng 98,9513 tỷ đồng”, trong khi phép tính theo dữ kiện cho tăng 98,1359 tỷ đồng theo quy tắc làm tròn từng phép tính. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Không đúng: phương án ghi “Tăng 98,5931 tỷ đồng”, trong khi phép tính theo dữ kiện cho tăng 98,1359 tỷ đồng theo quy tắc làm tròn từng phép tính. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
 
-Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.
+Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Không lấy doanh thu tăng 810−750=60 làm tác động sản lượng; 60 gồm cả giảm giá.; Các phương án khác đảo vị trí chữ số nên đọc kỹ 1359.
 
 Slide: 8:71, 8:72, 8:73, 8:74, 8:51
 
 
-# Đề 03
+## Câu 19 — R135 — NGUỒN
+
+## CÂU HỎI 17
+
+Tính toán và chọn đáp án đúng:
+
+Tại doanh nghiệp X, thực tế so với kế hoạch, tổng mức tiêu hao nguyên vật liệu M sản xuất cho sản phẩm A tăng 5% tương ứng tăng 1200 kg, mức tiêu hao nguyên vật liệu M cho 1 đơn phẩm A toàn doanh nghiệp không hoàn thành kế hoạch 10% (với khối lượng sản phẩm thực tế làm quyền số)
+
+*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)*
+
+Khối lượng sản phẩm A toàn doanh nghiệp thay đổi làm cho tổng mức tiêu hao nguyên vật liệu cho sản phẩm A kỳ thực hiện so với kỳ kế hoạch giảm:
+
+- A ○ 1.290,91kg
+
+- B ○ 1.390,91kg
+
+- C ○ 1.190,91kg
+
+- D ○ 1.090,91kg
+
+
+### tổng hao phí giảm 1.090,91 kg do sản lượng
+
+Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
+
+$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
+
+1. Tăng 5% tương ứng 1.200 →M₀=1.200/0,05=24.000 kg.
+
+2. M₁=24.000+1.200=25.200 kg.
+
+3. Không hoàn thành hao phí đơn vị 10% →Ix=1,10.
+
+4. M₀₁=M₁/Ix=25.200/1,10=22.909,090909 kg.
+
+5. ΔM(q)=22.909,090909−24.000=−1.090,909091 →giảm 1.090,91 kg.
+
+- A: Không đúng: phương án ghi “1.290,91kg”, trong khi phép tính theo dữ kiện cho tổng hao phí giảm 1.090,91 kg do sản lượng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- B: Không đúng: phương án ghi “1.390,91kg”, trong khi phép tính theo dữ kiện cho tổng hao phí giảm 1.090,91 kg do sản lượng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- C: Không đúng: phương án ghi “1.190,91kg”, trong khi phép tính theo dữ kiện cho tổng hao phí giảm 1.090,91 kg do sản lượng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Đúng: tổng hao phí giảm 1.090,91 kg do sản lượng; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+
+Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Hao phí đơn vị tăng gây lãng phí nhưng sản lượng giảm làm giảm tổng hao phí; hai tác động có thể trái chiều.
+
+Slide: 8:71, 8:72, 8:73, 8:74, 8:51
+
+
+## Câu 20 — R139 — NGUỒN
+
+## Câu hỏi 5
+
+Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:
+
+Có tài liệu thu thập được tại 1 doanh nghiệp sản xuất 1 loại sản phẩm như sau:
+
+| Phân Xưởng | Thời gian hao phí sản xuất 1 đơn vị sản phẩm (giờ/cái) – Kỳ gốc | Thời gian hao phí sản xuất 1 đơn vị sản phẩm (giờ/cái) – Kỳ báo cáo | Số lượng sản phẩm sản xuất (cái) – Kỳ gốc | Số lượng sản phẩm sản xuất (cái) – Kỳ báo cáo |
+|---|---|---|---|---|
+| A | 10 | 8 | 100 | 150 |
+| B | 11 | 9 | 120 | 110 |
+
+Bản thân thời gian hao phí sản xuất 1 đơn vị sản phẩm có sự thay đổi khi so sánh kỳ báo cáo với kỳ gốc làm cho thời gian hao phí bình quân sản xuất 1 đơn vị sản phẩm thay đổi là:
+
+*(Kết quả được làm tròn 3 chữ số phần thập phân theo quy tắc toán học thông thường)*
+
+A. ○ giảm 5 giờ/cái
+B. ○ giảm 4 giờ/cái
+C. ○ giảm 2 giờ/cái
+D. ○ giảm 3 giờ/cái
+
+
+### thời gian bình quân giảm 2 giờ/cái do bản thân hao phí
+
+Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
+
+$$\Delta\bar t(t)=\frac{\sum(t_1-t_0)q_1}{\sum q_1}$$
+
+1. Giữ kết cấu sản lượng kỳ báo cáo: q₁A=150,q₁B=110,Σq₁=260.
+
+2. t̄₁=(8×150+9×110)/260=2.190/260=8,423077.
+
+3. t̄₀₁=(10×150+11×110)/260=2.710/260=10,423077.
+
+4. Δt̄(t)=t̄₁−t̄₀₁=−2 giờ/cái. Có thể thấy cả hai tổ cùng giảm đúng 2 nên bình quân cố định kết cấu cũng giảm 2.
+
+- A: Không đúng: phương án ghi “giảm 5 giờ/cái”, trong khi phép tính theo dữ kiện cho thời gian bình quân giảm 2 giờ/cái do bản thân hao phí. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- B: Không đúng: phương án ghi “giảm 4 giờ/cái”, trong khi phép tính theo dữ kiện cho thời gian bình quân giảm 2 giờ/cái do bản thân hao phí. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- C: Đúng: thời gian bình quân giảm 2 giờ/cái do bản thân hao phí; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- D: Không đúng: phương án ghi “giảm 3 giờ/cái”, trong khi phép tính theo dữ kiện cho thời gian bình quân giảm 2 giờ/cái do bản thân hao phí. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+
+Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Không lấy t̄₁−t̄₀=−2,122378… vì đó gồm cả tác động kết cấu.
+
+Slide: 8:86, 8:89
+
+
+# Đề 03 — THUẦN LEAK, KHÔNG TỰ SINH
 
 
 ## Câu 1 — R035 — NGUỒN
@@ -1983,101 +2196,293 @@ Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trư�
 Slide: 7:13, 7:15, 7:16
 
 
-## Câu 9 — R036 — NGUỒN
+## Câu 9 — R022 — NGUỒN
+
+## Ảnh 2 – Câu 6
+
+**Câu 6: Dựa vào nguồn tài liệu sau, tính toán và chọn đáp số đúng?**
+
+Có tài liệu về tình hình tiền lương của công nhân một doanh nghiệp qua 2 tháng như sau:
+
+| Phân xưởng | Mức lương 1 công nhân (trđ) | | Kết cấu công nhân (%) | |
+|---|---|---|---|---|
+| | Tháng 9 | Tháng 10 | Tháng 9 | Tháng 10 |
+| A | 6 | 7 | 30 | 40 |
+| B | 8 | 8,5 | 50 | 36 |
+| C | 10 | 12 | 20 | 24 |
+
+Tiền lương bình quân một công nhân toàn doanh nghiệp tháng 9, tháng 10 lần lượt là:
+
+*(Kết quả các phép tính được làm tròn đến 4 chữ số thập phân)*
+
+- A. 7,8 trđ/ng; 8,74 trđ/ng
+- B. 8,7 trđ/ng; 8,47 trđ/ng
+- C. 8,7 trđ/ng; 8,74 trđ/ng
+- D. 7,8 trđ/ng; 8,47 trđ/ng
+
+
+### 7,8 trđ/người; 8,74 trđ/người
+
+Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
+
+$$\bar x=\frac{\sum x_if_i}{\sum f_i}$$
+
+1. Tháng 9 dùng kết cấu tháng 9: (6×30+8×50+10×20)/100=7,8.
+
+2. Tháng 10 dùng kết cấu tháng 10: (7×40+8,5×36+12×24)/100=8,74.
+
+3. Viết theo 4 chữ số: 7,8000 và 8,7400.
+
+- A: Đúng: 7,8 trđ/người; 8,74 trđ/người; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- B: Không đúng: phương án ghi “8,7 trđ/ng; 8,47 trđ/ng”, trong khi phép tính theo dữ kiện cho 7,8 trđ/người; 8,74 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- C: Không đúng: phương án ghi “8,7 trđ/ng; 8,74 trđ/ng”, trong khi phép tính theo dữ kiện cho 7,8 trđ/người; 8,74 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Không đúng: phương án ghi “7,8 trđ/ng; 8,47 trđ/ng”, trong khi phép tính theo dữ kiện cho 7,8 trđ/người; 8,74 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+
+Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Các tỷ trọng cộng bằng 100; phải chia 100 khi chưa đổi sang tỷ phần.; Không giữ kết cấu tháng 9 để tính bình quân thực tế tháng 10.
+
+Slide: 4:37, 4:38, 4:39
+
+
+## Câu 10 — R032 — NGUỒN
+
+### Hình 2
+**Câu 5: Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:**
+Có tài liệu về sản lượng ở Tổng công ty M (gồm 3 doanh nghiệp cùng sản xuất 1 loại sp (Đvt: 1000 sản phẩm)
+
+| Tên doanh nghiệp | Năm 2019 (Thực tế) | Năm 2020 (Kế hoạch) | Năm 2020 (Thực tế) |
+| :--- | :---: | :---: | :---: |
+| A | 50500 | 53500 | 54800 |
+| B | 68000 | 70800 | 75000 |
+| C | 72600 | 74500 | 76000 |
+
+Số tương đối nhiệm vụ kế hoạch về sản lượng của tổng công ty năm 2020:
+*(Kết quả được làm tròn đến chữ số thập phân thứ nhất, theo quy tắc làm tròn số toán học)*
+A. 104,0 %
+B. 106,4 %
+C. 103,5%
+D. 105,9%
+
+
+### 104,0%
+
+Ba số tương đối kế hoạch liên hệ nhau: tđộngthái=tnhiệmvụ×thoànthành, khi tất cả theo lần. Nhiệm vụ kế hoạch so mức kế hoạch với thực tế kỳ gốc; hoàn thành kế hoạch so thực tế và kế hoạch cùng kỳ. Với toàn công ty phải tính tỷ số tổng trước, không bình quân giản đơn % doanh nghiệp.
+
+$$t_{NVKH}=\frac{y_K}{y_0},\quad t_{HTKH}=\frac{y_1}{y_K},\quad \frac{y_1}{y_0}=t_{NVKH}t_{HTKH}$$
+
+1. Σq₀=50.500+68.000+72.600=191.100 nghìn sản phẩm.
+
+2. ΣqK=53.500+70.800+74.500=198.800.
+
+3. tNVKH=198.800/191.100×100=104,029304…% →104,0%.
+
+- A: Đúng: 104,0%; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- B: Không đúng: phương án ghi “106,4 %”, trong khi phép tính theo dữ kiện cho 104,0%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- C: Không đúng: phương án ghi “103,5%”, trong khi phép tính theo dữ kiện cho 104,0%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Không đúng: phương án ghi “105,9%”, trong khi phép tính theo dữ kiện cho 104,0%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+
+Bẫy: Giá thành hoàn thành vượt mức nghĩa giảm so kế hoạch.; Nếu dùng %, đổi về lần hoặc có hệ số 100 đúng chỗ.; Cột thực tế 2020 không tham gia số tương đối nhiệm vụ kế hoạch.; Đây là tăng kế hoạch khoảng 4,0%, không phải tăng 104%.
+
+Slide: 4:21, 4:22, 4:23
+
+
+## Câu 11 — R048 — NGUỒN
+
+## **Câu 10:** Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:
+
+Có tài liệu về Giá thành đơn vị sản phẩm và Tổng giá thành của Doanh nghiệp X (sản xuất 1 loại sản phẩm S) như sau:
+
+| Tên phân xưởng | Quý 1/2020 - Tổng giá thành (trđ) | Quý 1/2020 - Giá thành đvsp (ngđ/chiếc) | Quý 2/2020 - Tỷ trọng tổng giá thành (%) | Quý 2/2020 - Giá thành đvsp (ngđ/chiếc) |
+|---|---|---|---|---|
+| A | 2970 | 1100 | 27,8 | 1120 |
+| B | 4725 | 1050 | 40,4 | 1080 |
+| C | 3952 | 1040 | 31,8 | 1060 |
+
+Giá thành đơn vị sản phẩm bình quân của toàn doanh nghiệp trong quý 1/2020 và quý 2/2020 là:
+*(Kết quả được làm tròn đến phần nguyên, theo quy ước làm tròn số toán học)*
+
+A. 1058 (ngđ/c); 1092 (ngđ/c)
+B. 1075 (ngđ/c); 1094 (ngđ/c)
+C. 1059 (ngđ/c); 1084 (ngđ/c)
+D. 1061 (ngđ/c); 1075 (ngđ/c)
+
+
+### 1.059 ngđ/chiếc; 1.084 ngđ/chiếc
+
+Khi biết tổng lượng biến Mᵢ và mức xᵢ, khôi phục số đơn vị fᵢ=Mᵢ/xᵢ. Do đó bình quân bằng tổng M chia tổng M/x; đây là bình quân điều hòa gia quyền. Nếu biết tỷ trọng M thì dùng dᵢ thay Mᵢ vì cùng một hệ số tổng sẽ triệt tiêu.
+
+$$\bar x=\frac{\sum M_i}{\sum(M_i/x_i)}=\frac{\sum d_i}{\sum(d_i/x_i)}$$
+
+1. Quý I: tổng giá thành =2.970+4.725+3.952=11.647 trđ.
+
+2. Đổi trđ→ngđ khi suy sản lượng: qA=2.970.000/1.100=2.700; qB=4.725.000/1.050=4.500; qC=3.952.000/1.040=3.800; tổng 11.000 chiếc.
+
+3. z̄I=11.647.000/11.000=1.058,818182 →1.059 ngđ/chiếc.
+
+4. Quý II dùng tỷ trọng tổng giá thành: z̄II=100/(27,8/1.120+40,4/1.080+31,8/1.060)=1.084,259591 →1.084.
+
+- A: Không đúng: phương án ghi “1058 (ngđ/c); 1092 (ngđ/c)”, trong khi phép tính theo dữ kiện cho 1.059 ngđ/chiếc; 1.084 ngđ/chiếc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- B: Không đúng: phương án ghi “1075 (ngđ/c); 1094 (ngđ/c)”, trong khi phép tính theo dữ kiện cho 1.059 ngđ/chiếc; 1.084 ngđ/chiếc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- C: Đúng: 1.059 ngđ/chiếc; 1.084 ngđ/chiếc; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- D: Không đúng: phương án ghi “1061 (ngđ/c); 1075 (ngđ/c)”, trong khi phép tính theo dữ kiện cho 1.059 ngđ/chiếc; 1.084 ngđ/chiếc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+
+Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng.; Đổi đơn vị nhất quán trước khi suy ra số sản phẩm.
+
+Slide: 4:42, 4:45
+
+
+## Câu 12 — R054 — NGUỒN
 
 ### Hình 4
-**Câu 21: Có tài liệu về tình hình nhập và xuất hàng hóa tại kho của một công ty thương mại X trong tháng 10 năm 2021 như sau:**
-*   Tồn kho đầu tháng: 30 tỷ
-*   Ngày 3/10: xuất kho 3,5 tỷ
-*   Ngày 7/10: nhập kho 3,2 tỷ
-*   Ngày 12/10: xuất kho 5,3 tỷ
-*   Ngày 18/10: nhập kho 9,2 tỷ
-*   Ngày 26/10: xuất kho 6,25 tỷ
-*   Từ đó đến cuối tháng, hàng hóa tồn kho không thay đổi
+**Tính toán và lựa chọn đáp án đúng:**
+Có tài liệu về tình hình nhập và xuất hàng hóa tại kho của một công ty thương mại X trong tháng 2 năm 2022 như sau:
+-Tồn kho đầu tháng: 250 tỷ đồng
+-Ngày 04: xuất kho 40 tỷ đồng
+-Ngày 08: nhập kho 50 tỷ đồng
+-Ngày 15: xuất kho 35 tỷ đồng
+-Ngày 18: nhập kho 20 tỷ đồng
+-Ngày 26: xuất kho 30 tỷ đồng
+Từ đó đến cuối tháng, tình hình nhập và xuất tại kho không có gì thay đổi.
+( Kết quả tính toán làm tròn đến số thập phân thứ 2 đằng sau dấu phẩy)
+Giá trị hàng hóa tồn kho bình quân một ngày trong tháng 02/2022 của công ty thương mại X là:
 
-Giá trị hàng hóa tồn kho bình quân một ngày trong tháng 10/2021 của công ty thương mại X là:
-A. 28,8323
-B. 28,7223
-C. 28,9323
-D. 28,6323
+*   228,93 tỷ đồng
+*   238,93 tỷ đồng
+*   248,93 tỷ đồng
+*   258,93 tỷ đồng
 
 
-### 28,8323 tỷ đồng
+### 238,93 tỷ đồng
 
 Số công nhân/tồn kho tại một ngày là mức thời điểm. Nếu biết mức giữ nguyên trong từng đoạn, bình quân theo số ngày tồn tại: yᵢ là mức của đoạn, tᵢ là số ngày. Nếu chỉ biết đầu/cuối tháng, giả định biến động đều đặn, lấy nửa tổng hai đầu tháng rồi gia quyền độ dài tháng.
 
 $$\bar y=\frac{\sum y_it_i}{\sum t_i};\qquad \bar y_{\text{tháng}}=\frac{y_{\text{đầu}}+y_{\text{cuối}}}{2}$$
 
-1. Các đoạn: 1–2/10:30 (2 ngày); 3–6:26,5 (4); 7–11:29,7 (5); 12–17:24,4 (6); 18–25:33,6 (8); 26–31:27,35 (6).
+1. Tháng 2/2022 có 28 ngày.
 
-2. Tổng ngày =2+4+5+6+8+6=31.
+2. Các mức tồn: ngày 1–3:250 (3 ngày); 4–7:210 (4); 8–14:260 (7); 15–17:225 (3); 18–25:245 (8); 26–28:215 (3).
 
-3. Tổng tồn kho×ngày =30×2+26,5×4+29,7×5+24,4×6+33,6×8+27,35×6=893,8.
+3. Tổng tồn×ngày =250×3+210×4+260×7+225×3+245×8+215×3=6.690.
 
-4. Bình quân =893,8/31=28,832258… →28,8323.
+4. Bình quân =6.690/28=238,928571… →238,93.
 
-- A: Đúng: 28,8323 tỷ đồng; khớp sau khi áp dụng quy tắc làm tròn của đề.
+- A: Không đúng: phương án ghi “228,93 tỷ đồng”, trong khi phép tính theo dữ kiện cho 238,93 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- B: Không đúng: phương án ghi “28,7223”, trong khi phép tính theo dữ kiện cho 28,8323 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- B: Đúng: 238,93 tỷ đồng; khớp sau khi áp dụng quy tắc làm tròn của đề.
 
-- C: Không đúng: phương án ghi “28,9323”, trong khi phép tính theo dữ kiện cho 28,8323 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- C: Không đúng: phương án ghi “248,93 tỷ đồng”, trong khi phép tính theo dữ kiện cho 238,93 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- D: Không đúng: phương án ghi “28,6323”, trong khi phép tính theo dữ kiện cho 28,8323 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- D: Không đúng: phương án ghi “258,93 tỷ đồng”, trong khi phép tính theo dữ kiện cho 238,93 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
 
-Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trước ngày biến động.; Dãy thời điểm không cộng trực tiếp để lấy quy mô quý.; Nhập cộng vào tồn, xuất trừ khỏi tồn; không gia quyền trực tiếp các mức nhập/xuất.
+Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trước ngày biến động.; Dãy thời điểm không cộng trực tiếp để lấy quy mô quý.
 
 Slide: 7:13, 7:15, 7:16
 
 
-## Câu 10 — R058 — NGUỒN
+## Câu 13 — R060 — NGUỒN
 
-Cau 13
+Câu 18 Giá bán vở ô li học sinh của Công ty VPP Hông Hà là 15000 đồng/quyên. Thực hiện chiên dịch khuyen mãi công ty giam giá bán 8% so với giá bán thông thường. Trường Tiếu học Thạch Bàn mua số lượng 10760 cuốn nên được chiết khấu 7,5% so với giá khuyến mại. Do không thanh toán đúng hạn theo hợp đồng nên bị phạt 2% giá khuyến mại. Vậy số tiên 1 quyền vớ Trường học phải thanh toán là bn?
 
-Dựa vao ngưon tai liệu sau, tinh toán và chọn đáp sô đưng?
+A. 12.509 Đồng
 
-Tại doanh nghiệp X sản xuất 4 mặt hàng A, B, C. D tỏng chi phí sản xuát quý II so sới quý 1 giảm 10% tương ứng với giảm 500 triệud: gì thành đơn vị sản phảm của các loại sản phâm nói chungl tăng 20%*
+B. 13.100 Đỗng
 
-Khôi lượng sản phâm (KLSP) quý II so vơi quý 1 có sự thay đoi la:
+c. 13.041 đồng
 
-
-
-A. KLSP giảm 25%
-
- B. KLSP giám 26%
-
-C. KLSP giảm 27%
-
-d KLSP giảm 28%
+D. 14.020 Đồng
 
 
-### KLSP giảm 25%
+### 13.041 đồng/quyển
 
-Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
+Các tỷ lệ cần có đúng căn cứ tính. Giảm 8% áp dụng giá ban đầu; chiết khấu 7,5% và phạt 2% cùng áp dụng giá khuyến mại. Vì cùng căn cứ, hai tỷ lệ sau có thể gộp −7,5%+2%.
 
-$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
+$$p_{KM}=p_0(1-8\%),\quad p_{TT}=p_{KM}(1-7{,}5\%+2\%)$$
 
-1. Chỉ số tổng chi phí IM=0,90; chỉ số giá thành Iz=1,20.
+1. Giá khuyến mại =15.000×(1−0,08)=13.800 đồng.
 
-2. Iq=IM/Iz=0,90/1,20=0,75.
+2. Chiết khấu =13.800×0,075=1.035 đồng.
 
-3. (Iq−1)×100=−25%; sản lượng giảm 25%.
+3. Phạt =13.800×0,02=276 đồng, vì đề ghi 2% giá khuyến mại.
 
-- A: Đúng: KLSP giảm 25%; khớp sau khi áp dụng quy tắc làm tròn của đề.
+4. Giá thanh toán =13.800−1.035+276=13.041 đồng.
 
-- B: Không đúng: phương án ghi “KLSP giám 26%”, trong khi phép tính theo dữ kiện cho KLSP giảm 25%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- A: Không đúng: phương án ghi “12.509 Đồng”, trong khi phép tính theo dữ kiện cho 13.041 đồng/quyển. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- C: Không đúng: phương án ghi “KLSP giảm 27%”, trong khi phép tính theo dữ kiện cho KLSP giảm 25%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- B: Không đúng: phương án ghi “13.100 Đỗng”, trong khi phép tính theo dữ kiện cho 13.041 đồng/quyển. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- D: Không đúng: phương án ghi “KLSP giảm 28%”, trong khi phép tính theo dữ kiện cho KLSP giảm 25%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- C: Đúng: 13.041 đồng/quyển; khớp sau khi áp dụng quy tắc làm tròn của đề.
 
-
-Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Không lấy −10%−20%=−30%; các nhân tố nối bằng phép nhân.; 500 triệu đồng không cần để tính riêng tỷ lệ sản lượng.
-
-Slide: 8:71, 8:72, 8:73, 8:74, 8:51
+- D: Không đúng: phương án ghi “14.020 Đồng”, trong khi phép tính theo dữ kiện cho 13.041 đồng/quyển. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
 
-## Câu 11 — R098 — NGUỒN
+Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Không nhân 0,925×1,02 vì như vậy phạt được tính trên giá đã chiết khấu, khác đề.; 10.760 quyển không cần để tính giá một quyển.
+
+Slide: 4:11, 4:15
+
+
+## Câu 14 — R085 — NGUỒN
+
+**Câu 14:**
+Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:
+Có tài liệu thu thập được tại một doanh nghiệp như sau:
+
+| Năng suất lao động (kg/người) | Số công nhân (người) |
+|---|---|
+| Dưới 50 | 40 |
+| 50 - 75 | 100 |
+| 75 - 100 | 250 |
+| 100 - 110 | 550 |
+| 110 - 130 | 350 |
+| 130 - 140 | 150 |
+| Trên 140 | 60 |
+
+Trị số khoảng cách tổ của tổ cuối cùng được tính theo quy ước là:
+(Chỉ chọn 1 đáp án)
+- A. 25 (kg/người)
+- B. 20 (kg/người)
+- C. 10 (kg/người)
+- D. 15 (kg/người)
+
+
+### 10 kg/người
+
+Tổ mở đầu hoặc cuối không đủ hai giới hạn. Khi tính các đại lượng cần độ rộng hoặc trị số giữa tổ, quy ước lấy độ rộng của tổ mở bằng tổ đứng liền kề. Đây là quy ước tính toán, không khẳng định mọi người thực tế thuộc khoảng giả định.
+
+$$h=x_{\max}-x_{\min},\qquad h_{\text{cuối}}=140-130=10$$
+
+1. Tổ cuối mở “Trên 140” thiếu cận trên.
+
+2. Theo quy ước tổ mở, lấy khoảng cách bằng tổ liền kề: tổ 130–140 có h=140−130=10.
+
+3. Nếu cần đại diện tổ cuối sẽ giả định 140–150, trung điểm 145; câu chỉ hỏi h=10.
+
+- A: Không đúng: phương án ghi “25 (kg/người)”, trong khi phép tính theo dữ kiện cho 10 kg/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- B: Không đúng: phương án ghi “20 (kg/người)”, trong khi phép tính theo dữ kiện cho 10 kg/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- C: Đúng: 10 kg/người; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- D: Không đúng: phương án ghi “15 (kg/người)”, trong khi phép tính theo dữ kiện cho 10 kg/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+
+Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Không lấy 20 từ tổ 110–130 vì đó không phải tổ liền kề cuối.; Số công nhân không quyết định độ rộng tổ mở.
+
+Slide: 3:25, 3:30
+
+
+## Câu 15 — R098 — NGUỒN
 
 **Câu 5:**
 Dựa vào nguồn tài liệu sau, tính toán và chọn đáp án đúng?
@@ -2118,283 +2523,94 @@ Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% 
 Slide: 8:71, 8:72, 8:73, 8:74, 8:51
 
 
-## Câu 12 — R126 — NGUỒN
+## Câu 16 — R106 — NGUỒN
 
-**Câu 14:**
-Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:
-Có số liệu của một doanh nghiệp phản ánh số lượng sản phẩm sản xuất tác động đến giá thành đơn vị sản phẩm X tháng 10 năm 2025 như sau:
+**Câu 6:**
+"Từ nguồn tài liệu sau, tính toán và chọn đáp số đúng?
+Có tài liệu về Doanh thu của một doanh nghiệp như sau:
 
-| Số lượng sản phẩm sản xuất (1000 sản phẩm) | Giá thành đơn vị sản phẩm X (nghìn đồng) |
-|---|---|
-| 50 | 60 |
-| 53 | 58 |
-| 60 | 55 |
-| 68 | 51 |
-| 73 | 48 |
-| 78 | 44 |
-| 84 | 40 |
-| 90 | 38 |
+| Năm | n-5 | n-4 | n-3 | n-2 | n-1 | n |
+|---|---|---|---|---|---|---|
+| Doanh thu (tỷ đồng) | 200 | 250 | 280 | 300 | 320 | 350 |
 
-Theo mô hình hồi quy tương quan tuyến tính đơn phản ánh mối liên hệ giữa hai tiêu thức trên, khi số lượng sản phẩm tăng lên 1000 sản phẩm thì giá thành đơn vị sản phẩm X giảm đi trung bình bao nhiêu?
-*(Kết quả tính làm tròn đến số thập phân thứ 3 theo nguyên tắc toán học thông thường)*
+Dự báo Doanh thu của doanh nghiệp năm (n+3) bằng lượng tăng (giảm) tuyệt đối bình quân là:
 (Chỉ chọn 1 đáp án)
-- A. 0,989 nghìn đồng
-- B. 1,252 nghìn đồng
-- C. 0,565 nghìn đồng
-- D. 0,232 nghìn đồng
+- A. 470 tỷ đồng
+- B. 450 tỷ đồng
+- C. 440 tỷ đồng
+- D. 410 tỷ đồng"
 
 
-### giảm 0,565 nghìn đồng khi sản lượng tăng 1.000 sản phẩm
+### 440 tỷ đồng
 
-Hồi quy tuyến tính đơn ŷ=a+bx theo bình phương bé nhất: x là nguyên nhân, y là kết quả. b đo mức thay đổi y trung bình khi x tăng một đơn vị; a là mức nền dự đoán tại x=0. Tính tổng x,y,x²,xy để có b rồi a; dấu b cho chiều hướng liên hệ.
+Dự báo từ lượng tăng tuyệt đối bình quân giả định xu hướng cộng một lượng ổn định mỗi kỳ. y₁ và yₙ là mức đầu/cuối; n là số mức quá khứ; L là số kỳ dự báo sau kỳ cuối. Tính lượng tăng bình quân rồi cộng L lần vào mức cuối.
 
-$$b=\frac{n\sum xy-\sum x\sum y}{n\sum x^2-(\sum x)^2},\quad a=\bar y-b\bar x,\quad \hat y=a+bx$$
+$$\bar\delta=\frac{y_n-y_1}{n-1},\qquad \hat y_{n+L}=y_n+L\bar\delta$$
 
-1. x là số nghìn sản phẩm, y là giá thành nghìn đồng.
+1. δ̄=(350−200)/(6−1)=30 tỷ/năm.
 
-2. n=8; Σx=556; Σy=394; Σx²=40.102; Σxy=26.558.
+2. n+3 cách kỳ cuối 3 năm: 350+3×30=440.
 
-3. b=(8×26.558−556×394)/(8×40.102−556²)=−0,565068493…; a=88,522260…
+- A: Không đúng: phương án ghi “470 tỷ đồng”, trong khi phép tính theo dữ kiện cho 440 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-4. x tăng 1 tức tăng 1.000 sản phẩm, y giảm trung bình 
+- B: Không đúng: phương án ghi “450 tỷ đồng”, trong khi phép tính theo dữ kiện cho 440 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-5. b
+- C: Đúng: 440 tỷ đồng; khớp sau khi áp dụng quy tắc làm tròn của đề.
 
-6. =0,565 nghìn đồng.
+- D: Không đúng: phương án ghi “410 tỷ đồng”, trong khi phép tính theo dữ kiện cho 440 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- A: Không đúng: phương án ghi “0,989 nghìn đồng”, trong khi phép tính theo dữ kiện cho giảm 0,565 nghìn đồng khi sản lượng tăng 1.000 sản phẩm. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- B: Không đúng: phương án ghi “1,252 nghìn đồng”, trong khi phép tính theo dữ kiện cho giảm 0,565 nghìn đồng khi sản lượng tăng 1.000 sản phẩm. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+Bẫy: Dự báo n+2 dùng L=2, không lấy căn hay bình quân phần trăm.; Mẫu số quá khứ n−1, không cộng thêm số kỳ tương lai.
 
-- C: Đúng: giảm 0,565 nghìn đồng khi sản lượng tăng 1.000 sản phẩm; khớp sau khi áp dụng quy tắc làm tròn của đề.
+Slide: 7:21, 9:9, 9:10
 
-- D: Không đúng: phương án ghi “0,232 nghìn đồng”, trong khi phép tính theo dữ kiện cho giảm 0,565 nghìn đồng khi sản lượng tăng 1.000 sản phẩm. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
+## Câu 17 — R119 — NGUỒN
 
-Bẫy: Kiểm tra đơn vị một đơn vị x: 1 trong cột “1000 sản phẩm” nghĩa là 1000 sản phẩm.; Hệ số âm cho giảm; khi hỏi giảm bao nhiêu, báo độ lớn dương và nêu dấu hệ số.; Hệ số b âm; đáp án nêu mức giảm nên dùng độ lớn dương.; Không nhân b thêm 1.000 vì x đã đo theo nghìn sản phẩm.
+## Câu 20:
+**Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:**
+Có tài liệu thu thập được tại một doanh nghiệp như sau:
 
-Slide: 6:14, 6:15, 6:18
+| Năng suất lao động (kg/người) | Số công nhân (người) |
+|---|---|
+| Dưới 50 | 40 |
+| 50 - 75 | 80 |
+| 75 - 100 | 200 |
+| 100 - 110 | 350 |
+| 110 - 130 | 120 |
+| 130 - 140 | 150 |
+| Trên 140 | 60 |
 
+Số trung vị về năng suất lao động của công nhân tại doanh nghiệp trên là:
+*(Kết quả các phép tính làm tròn 3 chữ số phần thập phân theo quy tắc toán học thông thường)*
+*(Chỉ chọn 1 đáp án)*
+- A. 105,943 (kg/người)
+- B. 108,413 (kg/người)
+- C. 105,143 (kg/người)
+- D. 108,103 (kg/người)
 
-## Câu 13 — R139 — NGUỒN
 
-## Câu hỏi 5
-
-Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:
-
-Có tài liệu thu thập được tại 1 doanh nghiệp sản xuất 1 loại sản phẩm như sau:
-
-| Phân Xưởng | Thời gian hao phí sản xuất 1 đơn vị sản phẩm (giờ/cái) – Kỳ gốc | Thời gian hao phí sản xuất 1 đơn vị sản phẩm (giờ/cái) – Kỳ báo cáo | Số lượng sản phẩm sản xuất (cái) – Kỳ gốc | Số lượng sản phẩm sản xuất (cái) – Kỳ báo cáo |
-|---|---|---|---|---|
-| A | 10 | 8 | 100 | 150 |
-| B | 11 | 9 | 120 | 110 |
-
-Bản thân thời gian hao phí sản xuất 1 đơn vị sản phẩm có sự thay đổi khi so sánh kỳ báo cáo với kỳ gốc làm cho thời gian hao phí bình quân sản xuất 1 đơn vị sản phẩm thay đổi là:
-
-*(Kết quả được làm tròn 3 chữ số phần thập phân theo quy tắc toán học thông thường)*
-
-A. ○ giảm 5 giờ/cái
-B. ○ giảm 4 giờ/cái
-C. ○ giảm 2 giờ/cái
-D. ○ giảm 3 giờ/cái
-
-
-### thời gian bình quân giảm 2 giờ/cái do bản thân hao phí
-
-Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
-
-$$\Delta\bar t(t)=\frac{\sum(t_1-t_0)q_1}{\sum q_1}$$
-
-1. Giữ kết cấu sản lượng kỳ báo cáo: q₁A=150,q₁B=110,Σq₁=260.
-
-2. t̄₁=(8×150+9×110)/260=2.190/260=8,423077.
-
-3. t̄₀₁=(10×150+11×110)/260=2.710/260=10,423077.
-
-4. Δt̄(t)=t̄₁−t̄₀₁=−2 giờ/cái. Có thể thấy cả hai tổ cùng giảm đúng 2 nên bình quân cố định kết cấu cũng giảm 2.
-
-- A: Không đúng: phương án ghi “giảm 5 giờ/cái”, trong khi phép tính theo dữ kiện cho thời gian bình quân giảm 2 giờ/cái do bản thân hao phí. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Không đúng: phương án ghi “giảm 4 giờ/cái”, trong khi phép tính theo dữ kiện cho thời gian bình quân giảm 2 giờ/cái do bản thân hao phí. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Đúng: thời gian bình quân giảm 2 giờ/cái do bản thân hao phí; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- D: Không đúng: phương án ghi “giảm 3 giờ/cái”, trong khi phép tính theo dữ kiện cho thời gian bình quân giảm 2 giờ/cái do bản thân hao phí. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Không lấy t̄₁−t̄₀=−2,122378… vì đó gồm cả tác động kết cấu.
-
-Slide: 8:86, 8:89
-
-
-## Câu 14 — G005 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Hai phân xưởng có mức lương một công nhân là 5 và 8 triệu đồng/người; tổng quỹ lương tương ứng là 150 và 320 triệu đồng. Tính lương bình quân toàn doanh nghiệp, làm tròn 3 chữ số thập phân.
-A. 6,714 triệu đồng/người
-B. 7,116 triệu đồng/người
-C. 7,317 triệu đồng/người
-D. 7,518 triệu đồng/người
-
-
-### 6,714 triệu đồng/người
-
-Khi biết tổng lượng biến Mᵢ và mức xᵢ, khôi phục số đơn vị fᵢ=Mᵢ/xᵢ. Do đó bình quân bằng tổng M chia tổng M/x; đây là bình quân điều hòa gia quyền. Nếu biết tỷ trọng M thì dùng dᵢ thay Mᵢ vì cùng một hệ số tổng sẽ triệt tiêu.
-
-$$\bar x=\frac{\sum M_i}{\sum(M_i/x_i)}=\frac{\sum d_i}{\sum(d_i/x_i)}$$
-
-1. Khôi phục số công nhân: 150/5=30; 320/8=40.
-
-2. Tổng quỹ lương =470; tổng công nhân =70.
-
-3. Bình quân =470/70=6,714286 →6,714.
-
-- A: Đúng: khớp kết quả 6,714 triệu đồng/người.
-
-- B: Sai: 7,116 triệu đồng/người không khớp 6,714 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- C: Sai: 7,317 triệu đồng/người không khớp 6,714 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- D: Sai: 7,518 triệu đồng/người không khớp 6,714 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-
-Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng.; Đổi đơn vị nhất quán trước khi suy ra số sản phẩm.
-
-Slide: 4:42, 4:45
-
-
-## Câu 15 — G012 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Số sản phẩm loại I của phân xưởng A là 1200 chiếc, chiếm 80% tổng sản phẩm A; của B là 2160 chiếc, chiếm 90% tổng sản phẩm B. Hai phân xưởng cùng sản xuất một loại sản phẩm. Tổng sản lượng là bao nhiêu? Làm tròn phần nguyên.
-A. 4.017 chiếc
-B. 4.134 chiếc
-C. 4.251 chiếc
-D. 3.900 chiếc
-
-
-### 3.900 chiếc
-
-Khi biết tổng lượng biến Mᵢ và mức xᵢ, khôi phục số đơn vị fᵢ=Mᵢ/xᵢ. Do đó bình quân bằng tổng M chia tổng M/x; đây là bình quân điều hòa gia quyền. Nếu biết tỷ trọng M thì dùng dᵢ thay Mᵢ vì cùng một hệ số tổng sẽ triệt tiêu.
-
-$$q=q_{I,A}/d_{I,A}+q_{I,B}/d_{I,B}$$
-
-1. Tổng sản phẩm A =1200/0,80=1500.
-
-2. Tổng sản phẩm B =2160/0,90=2400.
-
-3. Tổng =1500+2400=3900 chiếc.
-
-- A: Sai: 4.017 chiếc không khớp 3.900 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- B: Sai: 4.134 chiếc không khớp 3.900 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- C: Sai: 4.251 chiếc không khớp 3.900 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- D: Đúng: khớp kết quả 3.900 chiếc.
-
-
-Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng.; Đổi đơn vị nhất quán trước khi suy ra số sản phẩm.; Không cộng riêng số loại I rồi coi đó là toàn bộ sản lượng.
-
-Slide: 4:26, 4:42
-
-
-## Câu 16 — G019 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Doanh thu có ba tốc độ phát triển liên hoàn là 106%, 110%, 114%. Tốc độ tăng bình quân trong ba khoảng thời gian là bao nhiêu? Làm tròn 3 chữ số thập phân.
-A. 10,250 %
-B. 10,549 %
-C. 9,951 %
-D. 11,147 %
-
-
-### 9,951%
-
-Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
-
-$$\bar t=\sqrt[k]{\prod_{i=1}^kt_i};\qquad \bar a=(\bar t-1)100\%$$
-
-1. Đổi về lần: 1,06; 1,10; 1,14.
-
-2. Tích =1,32924000; căn bậc 3 =1,09951494.
-
-3. Trừ 1 và nhân 100: tăng 9,951494% →9,951%.
-
-- A: Sai: 10,250 % không khớp 9,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- B: Sai: 10,549 % không khớp 9,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- C: Đúng: khớp kết quả 9,951%.
-
-- D: Sai: 11,147 % không khớp 9,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-
-Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.
-
-Slide: 7:24, 7:27
-
-
-## Câu 17 — G026 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Giá trị sản xuất đầu giai đoạn là 240 tỷ đồng, cuối giai đoạn sau 4 năm là 351,3840 tỷ đồng. Dự báo sau kỳ cuối 2 năm bằng tốc độ phát triển bình quân. Giữ đủ độ chính xác khi tính và làm tròn cuối cùng 3 chữ số thập phân.
-A. 437,930 tỷ đồng
-B. 425,175 tỷ đồng
-C. 463,440 tỷ đồng
-D. 476,195 tỷ đồng
-
-
-### 425,175 tỷ đồng
-
-Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
-
-$$\bar t=(y_n/y_1)^{1/k},\quad \hat y_{n+L}=y_n\bar t^L$$
-
-1. Có 4 khoảng; t̄=(351,3840/240)^(1/4)=1,1.
-
-2. Dự báo sau 2 năm =351,3840×1,1²=425,17464000.
-
-3. Kết quả 425,175 tỷ đồng.
-
-- A: Sai: 437,930 tỷ đồng không khớp 425,175 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- B: Đúng: khớp kết quả 425,175 tỷ đồng.
-
-- C: Sai: 463,440 tỷ đồng không khớp 425,175 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- D: Sai: 476,195 tỷ đồng không khớp 425,175 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-
-Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.
-
-Slide: 7:24, 9:11, 9:12
-
-
-## Câu 18 — G033 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Phân tổ năng suất có ba khoảng [50;60), [60;80), [80;90), đơn vị sản phẩm/người. Số công nhân tương ứng 20, 50, 30. Ước lượng trung vị theo bảng phân tổ, làm tròn 3 chữ số thập phân.
-A. 72,000 sản phẩm/người
-B. 76,320 sản phẩm/người
-C. 78,480 sản phẩm/người
-D. 80,640 sản phẩm/người
-
-
-### 72,000 sản phẩm/người
+### 105,143 kg/người
 
 Trung vị chia số đơn vị thành hai nửa. Với bảng khoảng, tìm tổ có tần số tích lũy lần đầu đạt/vượt N/2, sau đó nội suy đều trong tổ đó. L là cận dưới tổ trung vị, h là độ rộng, F là tần số tích lũy trước tổ, f là tần số của tổ. Đây là ước lượng từ bảng phân tổ, không phải mức chính xác của từng cá nhân.
 
 $$Me=L+h\frac{N/2-F}{f}$$
 
-1. N=100; N/2=50; tích lũy 20 rồi 70 nên tổ thứ hai chứa trung vị.
+1. N=40+80+200+350+120+150+60=1.000; N/2=500.
 
-2. L=60; h=20; F=20; f=50.
+2. Tần số tích lũy trước tổ 100–110 là 320; sau tổ là 670, nên tổ trung vị 100–110.
 
-3. Me=60+20×(50−20)/50=72,000.
+3. L=100,h=10,F=320,f=350.
 
-- A: Đúng: khớp kết quả 72,000 sản phẩm/người.
+4. Me=100+10×(500−320)/350=105,142857… →105,143.
 
-- B: Sai: 76,320 sản phẩm/người không khớp 72,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Không đúng: phương án ghi “105,943 (kg/người)”, trong khi phép tính theo dữ kiện cho 105,143 kg/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- C: Sai: 78,480 sản phẩm/người không khớp 72,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Không đúng: phương án ghi “108,413 (kg/người)”, trong khi phép tính theo dữ kiện cho 105,143 kg/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- D: Sai: 80,640 sản phẩm/người không khớp 72,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Đúng: 105,143 kg/người; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- D: Không đúng: phương án ghi “108,103 (kg/người)”, trong khi phép tính theo dữ kiện cho 105,143 kg/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
 
 Bẫy: Tổ trung vị dựa tần số tích lũy, không chọn tổ rộng nhất hoặc tần số lớn nhất.; Dùng độ rộng của chính tổ trung vị, không dùng độ rộng của tổ khác.
@@ -2402,77 +2618,177 @@ Bẫy: Tổ trung vị dựa tần số tích lũy, không chọn tổ rộng nh
 Slide: 4:61, 4:62, 4:63
 
 
-## Câu 19 — G040 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 18 — R131 — NGUỒN
 
-Tổng chi phí kỳ gốc là 1750 triệu đồng. Kỳ báo cáo tổng chi phí bằng 114% kỳ gốc; sản lượng tăng 18%. Theo thay thế liên hoàn với giá thành kỳ gốc làm quyền số của sản lượng, sản lượng làm tổng chi phí thay đổi bao nhiêu? Làm tròn 2 chữ số thập phân.
-A. 324,45 triệu đồng tăng
-B. 333,90 triệu đồng tăng
-C. 343,35 triệu đồng tăng
-D. 315,00 triệu đồng tăng
+## CÂU HỎI 7
 
+Tính toán và chọn phương án đúng nhất:
 
-### 315,00 triệu đồng tăng
-
-Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
-
-$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
-
-1. Giữ giá thành gốc, C₀₁=C₀Iq=1750×1,18=2.065,00.
-
-2. ΔC(q)=C₀₁−C₀=2.065,00−1750=315,00 triệu đồng.
-
-3. Tổng chi phí mới =1.995,00; số này không dùng thay C₀₁ khi tính riêng sản lượng.
-
-- A: Sai: 324,45 triệu đồng tăng không khớp 315,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- B: Sai: 333,90 triệu đồng tăng không khớp 315,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- C: Sai: 343,35 triệu đồng tăng không khớp 315,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- D: Đúng: khớp kết quả 315,00 triệu đồng tăng.
+Có tài liệu thống kê về 1 doanh nghiệp (DN) sản xuất 2 loại sản phẩm như sau:
 
 
-Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.
+| Sản phẩm | Tổng giá thành sản phẩm kỳ nghiên cứu (tr. đồng) | Tốc độ tăng (giảm) giá thành đơn vị sản phẩm kỳ nghiên cứu so với kỳ gốc (%) |
 
-Slide: 8:71, 8:72, 8:73, 8:74, 8:51
+|---|---|---|
 
+| A | 256.520 | +12 |
 
-## Câu 20 — G047 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Lương tháng kế hoạch là 8,0 triệu đồng/người, thực tế 9,5 triệu đồng/người. Số công nhân kế hoạch 140, thực tế 155. Mức lương một người làm tổng quỹ lương tăng bao nhiêu theo thay thế liên hoàn? Làm tròn 2 chữ số thập phân.
-A. 239,48 triệu đồng
-B. 246,46 triệu đồng
-C. 232,50 triệu đồng
-D. 260,42 triệu đồng
+| B | 405.620 | -10 |
 
 
-### 232,50 triệu đồng
+Biết rằng: Tổng giá thành hai loại sản phẩm (SP) kỳ nghiên cứu so với kỳ gốc tăng 10%.
+
+*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)*
+
+Giá thành đơn vị sản phẩm toàn doanh nghiệp kỳ nghiên cứu so với kỳ gốc giảm:
+
+- A ○ 3,59%
+
+- B ○ 1,59%
+
+- C ○ 2,59%
+
+- D ○ 4,59%
+
+
+### giá thành chung giảm 2,59%
 
 Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
 
 $$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
 
-1. Giữ số công nhân thực tế 155: ΔM(x)=(x₁−x₀)T₁.
+1. IzA=1,12; IzB=0,90.
 
-2. ΔM(x)=(9,5−8,0)×155=232,50 triệu đồng.
+2. C₁=256.520+405.620=662.140 trđ.
 
-3. Số công nhân thay đổi có tác động riêng (T₁−T₀)x₀=120,00, không cộng vào đáp án riêng mức lương.
+3. C₀₁=256.520/1,12+405.620/0,90=229.035,714286+450.688,888889=679.724,603175.
 
-- A: Sai: 239,48 triệu đồng không khớp 232,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+4. Iz=C₁/C₀₁=0,974129812… →0,9741; giảm (1−Iz)×100≈2,59%.
 
-- B: Sai: 246,46 triệu đồng không khớp 232,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Không đúng: phương án ghi “3,59%”, trong khi phép tính theo dữ kiện cho giá thành chung giảm 2,59%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- C: Đúng: khớp kết quả 232,50 triệu đồng.
+- B: Không đúng: phương án ghi “1,59%”, trong khi phép tính theo dữ kiện cho giá thành chung giảm 2,59%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- D: Sai: 260,42 triệu đồng không khớp 232,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Đúng: giá thành chung giảm 2,59%; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- D: Không đúng: phương án ghi “4,59%”, trong khi phép tính theo dữ kiện cho giá thành chung giảm 2,59%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
 
-Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.
+Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Tổng giá thành tăng 10% không có nghĩa giá thành đơn vị tăng 10%; tổng còn phụ thuộc sản lượng.; Không lấy bình quân giản đơn +12% và −10%.
 
 Slide: 8:71, 8:72, 8:73, 8:74, 8:51
 
 
-# Đề 04
+## Câu 19 — R136 — NGUỒN
+
+## CÂU HỎI 18
+
+Dựa vào nguồn tài liệu sau, tính toán và chọn đáp số đúng?
+
+Có tài liệu của một hợp tác xã nông nghiệp như sau:
+
+
+| Tên sản phẩm | Tốc độ tăng (giảm) kỳ báo cáo so với kỳ gốc (%) – Diện tích | Tốc độ tăng (giảm) kỳ báo cáo so với kỳ gốc (%) – Tổng sản lượng | Tổng sản lượng kỳ gốc (tấn) |
+
+|---|---|---|---|
+
+| - Lúa | +10 | +8 | 8.000 |
+
+| - Màu (đã được quy ra lúa) | +15 | +20 | 20.000 |
+
+
+Chỉ số chung về tổng sản lượng lúa và màu kỳ báo cáo so với kỳ gốc là:
+
+*( Kết quả các phép tính được làm tròn đến 4 chữ số thập phân )*
+
+- A ○ 1,1675 lần
+
+- B ○ 1,1567 lần
+
+- C ○ 1,1765 lần
+
+- D ○ 1,1657 lần
+
+
+### 1,1657 lần
+
+Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
+
+$$I_Q=\frac{\sum i_{Qi}Q_{0i}}{\sum Q_{0i}}$$
+
+1. Tổng lượng gốc =8.000+20.000=28.000 tấn quy ra lúa.
+
+2. Tổng lượng mới =8.000×1,08+20.000×1,20=8.640+24.000=32.640.
+
+3. Chỉ số tổng sản lượng =32.640/28.000=1,165714… →1,1657.
+
+- A: Không đúng: phương án ghi “1,1675 lần”, trong khi phép tính theo dữ kiện cho 1,1657 lần. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- B: Không đúng: phương án ghi “1,1567 lần”, trong khi phép tính theo dữ kiện cho 1,1657 lần. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- C: Không đúng: phương án ghi “1,1765 lần”, trong khi phép tính theo dữ kiện cho 1,1657 lần. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- D: Đúng: 1,1657 lần; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+
+Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Màu đã quy ra lúa nên cộng được sản lượng.; Diện tích tăng 10%,15% không cần cho câu hỏi tổng sản lượng; dùng nếu phân tích năng suất thu hoạch.
+
+Slide: 4:37, 4:38, 4:39
+
+
+## Câu 20 — R141 — NGUỒN
+
+## Câu hỏi 12
+
+Chọn đáp án đúng?
+
+Có tài liệu về Năng suất lao động và số công nhân của một phân xưởng như sau:
+
+| NSLĐ (trđ/người) | Số CN (người) |
+|---|---|
+| 60 | 12 |
+| 70 | 15 |
+| 75 | 20 |
+| 80 | 20 |
+| 84 | 10 |
+
+Năng suất lao động bình quân một công nhân toàn phân xưởng là:
+
+*(Kết quả tính được làm tròn đến 3 chữ số thập phân)*
+
+A. ○ 74,615
+B. ○ 74,651
+C. ○ 74,156
+D. ○ 74,516
+
+
+### 74,156 trđ/người
+
+Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
+
+$$\bar x=\frac{\sum x_if_i}{\sum f_i}$$
+
+1. Σf=12+15+20+20+10=77 người.
+
+2. Σxf=60×12+70×15+75×20+80×20+84×10=5.710 trđ.
+
+3. W̄=5.710/77=74,155844… →74,156.
+
+- A: Không đúng: phương án ghi “74,615”, trong khi phép tính theo dữ kiện cho 74,156 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- B: Không đúng: phương án ghi “74,651”, trong khi phép tính theo dữ kiện cho 74,156 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+- C: Đúng: 74,156 trđ/người; khớp sau khi áp dụng quy tắc làm tròn của đề.
+
+- D: Không đúng: phương án ghi “74,516”, trong khi phép tính theo dữ kiện cho 74,156 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+
+
+Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Chú ý 74,156 khác 74,615; các lựa chọn đảo chữ số.
+
+Slide: 4:37, 4:38, 4:39
+
+
+# Đề 04 — CÓ CÂU BỔ SUNG
 
 
 ## Câu 1 — R065 — NGUỒN
@@ -2744,336 +3060,118 @@ Bẫy: Tương quan là xu hướng thống kê, không có nghĩa mọi đơn v
 Slide: 6:5, 6:7
 
 
-## Câu 8 — R015 — NGUỒN
+## Câu 8 — R142 — NGUỒN
 
-### **Phần 8 (Ảnh 5)** 
- 
-**Câu 17:** Có tài liệu về tiền lương của công nhân ở doanh nghiệp M vào tháng 6/2019 như sau: 
- 
-| Mức lương (nghìn đồng/người) | Số công nhân (người) | 
-| :--- | :---: | 
-| 3560 – 4000 | 60 | 
-| 4000 – 4580 | 75 | 
-| 4580 – 5500 | 152 | 
-| 5500 – 6000 | 63 | 
-| 6000 – 6800 | 45 | 
-| 6800 – 8000 | 22 | 
- 
-Số trung vị về mức lương của công nhân tháng 6/2019 tại doanh nghiệp M là: 
-*(Kết quả được làm tròn đến phần nguyên, theo quy ước làm tròn toán học)* 
- 
-**Các phương án:** 
-*   A. 5076 (ng.đồng/người) 
-*   B. 5132 (ng.đồng/người) 
-*   C. 5085 (ng.đồng/người) 
-*   D. 5025 (ng.đồng/người)
+## Câu hỏi 13
 
+Dựa vào nguồn tài liệu sau, tính toán và chọn đáp án đúng?
 
-### 5.025 nghìn đồng/người
+Có Tài liệu về tình hình sản xuất mặt hàng A trong tháng 10 như sau:
 
-Trung vị chia số đơn vị thành hai nửa. Với bảng khoảng, tìm tổ có tần số tích lũy lần đầu đạt/vượt N/2, sau đó nội suy đều trong tổ đó. L là cận dưới tổ trung vị, h là độ rộng, F là tần số tích lũy trước tổ, f là tần số của tổ. Đây là ước lượng từ bảng phân tổ, không phải mức chính xác của từng cá nhân.
+| Chỉ tiêu | Kế hoạch | Thực tế |
+|---|---|---|
+| 1. Số công nhân (người) | 1.000 | 950 |
+| 2. Mức lương tháng bình quân 1 công nhân (1000đ) | 8.000 | 10.000 |
 
-$$Me=L+h\frac{N/2-F}{f}$$
+Mức lương kỳ thực tế so với kế hoạch thay đổi? Làm cho tổng quỹ lương (TQL) thay đổi là:
 
-1. N=60+75+152+63+45+22=417; N/2=208,5.
+*(Kết quả tính được làm tròn theo nguyên tắc toán học thông thường)*
 
-2. Tần số tích lũy hai tổ đầu =135; sau tổ 4.580–5.500 là 287, nên trung vị nằm tổ này.
+A. ○ Mức lương tăng 20,75% làm TQL tăng 1.900.000 ngđ
+B. ○ Mức lương tăng 18,75% làm TQL tăng 1.500.000 ngđ
+C. ○ Mức lương tăng 25% làm TQL tăng với 1.900.000 ngđ
+D. ○ Mức lương giảm 5% làm TQL giảm 400.000 ngđ
 
-3. L=4.580; h=920; F=135; f=152.
 
-4. Me=4.580+920×(208,5−135)/152=5.024,868421… →5.025.
-
-- A: Không đúng: phương án ghi “5076 (ng.đồng/người)”, trong khi phép tính theo dữ kiện cho 5.025 nghìn đồng/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Không đúng: phương án ghi “5132 (ng.đồng/người)”, trong khi phép tính theo dữ kiện cho 5.025 nghìn đồng/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Không đúng: phương án ghi “5085 (ng.đồng/người)”, trong khi phép tính theo dữ kiện cho 5.025 nghìn đồng/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Đúng: 5.025 nghìn đồng/người; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-
-Bẫy: Tổ trung vị dựa tần số tích lũy, không chọn tổ rộng nhất hoặc tần số lớn nhất.; Dùng độ rộng của chính tổ trung vị, không dùng độ rộng của tổ khác.
-
-Slide: 4:61, 4:62, 4:63
-
-
-## Câu 9 — R045 — NGUỒN
-
-## Đề 6 – Tình hình sản xuất quý I/2022
-
-**Tình hình sản xuất của một doanh nghiệp trong 3 tháng đầu năm năm 2022 như sau:**
-
-| Chỉ tiêu | Tháng 1 | Tháng 2 | Tháng 3 |
-|:---|:---:|:---:|:---:|
-| Giá trị sản xuất thực tế (tỷ đồng) | 120 | 125 | 118 |
-| Tỷ lệ % hoàn thành kế hoạch giá trị sản xuất (%) | 105 | 108 | 110 |
-| Số công nhân đầu tháng (người) | 500 | 520 | 530 |
-
-**Biết rằng:** Số công nhân ngày 1 tháng 4 năm 2022 là 540 người.
-*(Kết quả tính toán làm tròn đến số thập phân thứ 2 đằng sau dấu phẩy)*
-
-**Tỷ lệ phần trăm hoàn thành kế hoạch giá trị sản xuất bình quân quý I của doanh nghiệp là:**
-
-- 137,62%
-- 127,62%
-- 117,62%
-- 107,62%
-
-
-### 107,62%
-
-Ba số tương đối kế hoạch liên hệ nhau: tđộngthái=tnhiệmvụ×thoànthành, khi tất cả theo lần. Nhiệm vụ kế hoạch so mức kế hoạch với thực tế kỳ gốc; hoàn thành kế hoạch so thực tế và kế hoạch cùng kỳ. Với toàn công ty phải tính tỷ số tổng trước, không bình quân giản đơn % doanh nghiệp.
-
-$$t_{NVKH}=\frac{y_K}{y_0},\quad t_{HTKH}=\frac{y_1}{y_K},\quad \frac{y_1}{y_0}=t_{NVKH}t_{HTKH}$$
-
-1. Kế hoạch từng tháng =thực tế/tỷ lệ hoàn thành theo lần.
-
-2. QK1=120/1,05=114,285714; QK2=125/1,08=115,740741; QK3=118/1,10=107,272727.
-
-3. Tổng thực tế =363; tổng kế hoạch =337,299182 tỷ.
-
-4. HTKH quý =363/337,299182×100=107,619591… →107,62%.
-
-- A: Không đúng: phương án ghi “137,62%”, trong khi phép tính theo dữ kiện cho 107,62%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Không đúng: phương án ghi “127,62%”, trong khi phép tính theo dữ kiện cho 107,62%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Không đúng: phương án ghi “117,62%”, trong khi phép tính theo dữ kiện cho 107,62%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Đúng: 107,62%; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-
-Bẫy: Giá thành hoàn thành vượt mức nghĩa giảm so kế hoạch.; Nếu dùng %, đổi về lần hoặc có hệ số 100 đúng chỗ.; Không lấy (105+108+110)/3=107,6667%.; Số công nhân là dữ kiện thừa cho câu hoàn thành kế hoạch GTSX.
-
-Slide: 4:21, 4:22, 4:23
-
-
-## Câu 10 — R060 — NGUỒN
-
-Câu 18 Giá bán vở ô li học sinh của Công ty VPP Hông Hà là 15000 đồng/quyên. Thực hiện chiên dịch khuyen mãi công ty giam giá bán 8% so với giá bán thông thường. Trường Tiếu học Thạch Bàn mua số lượng 10760 cuốn nên được chiết khấu 7,5% so với giá khuyến mại. Do không thanh toán đúng hạn theo hợp đồng nên bị phạt 2% giá khuyến mại. Vậy số tiên 1 quyền vớ Trường học phải thanh toán là bn?
-
-A. 12.509 Đồng
-
-B. 13.100 Đỗng
-
-c. 13.041 đồng
-
-D. 14.020 Đồng
-
-
-### 13.041 đồng/quyển
-
-Các tỷ lệ cần có đúng căn cứ tính. Giảm 8% áp dụng giá ban đầu; chiết khấu 7,5% và phạt 2% cùng áp dụng giá khuyến mại. Vì cùng căn cứ, hai tỷ lệ sau có thể gộp −7,5%+2%.
-
-$$p_{KM}=p_0(1-8\%),\quad p_{TT}=p_{KM}(1-7{,}5\%+2\%)$$
-
-1. Giá khuyến mại =15.000×(1−0,08)=13.800 đồng.
-
-2. Chiết khấu =13.800×0,075=1.035 đồng.
-
-3. Phạt =13.800×0,02=276 đồng, vì đề ghi 2% giá khuyến mại.
-
-4. Giá thanh toán =13.800−1.035+276=13.041 đồng.
-
-- A: Không đúng: phương án ghi “12.509 Đồng”, trong khi phép tính theo dữ kiện cho 13.041 đồng/quyển. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Không đúng: phương án ghi “13.100 Đỗng”, trong khi phép tính theo dữ kiện cho 13.041 đồng/quyển. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Đúng: 13.041 đồng/quyển; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- D: Không đúng: phương án ghi “14.020 Đồng”, trong khi phép tính theo dữ kiện cho 13.041 đồng/quyển. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Không nhân 0,925×1,02 vì như vậy phạt được tính trên giá đã chiết khấu, khác đề.; 10.760 quyển không cần để tính giá một quyển.
-
-Slide: 4:11, 4:15
-
-
-## Câu 11 — R101 — NGUỒN
-
-**Câu 15:**
-Từ nguồn tài liệu sau, tính toán và chọn đáp số đúng?
-Có tài liệu về Doanh thu của một doanh nghiệp như sau:
-
-| Năm | n-5 | n-4 | n-3 | n-2 | n-1 | n |
-|---|---|---|---|---|---|---|
-| Doanh thu (tỷ đồng) | 200 | 250 | 280 | 300 | 320 | 350 |
-
-Dự báo Doanh thu của doanh nghiệp năm (n+2) bằng lượng tăng (giảm) tuyệt đối bình quân là:
-(Chỉ chọn 1 đáp án)
-- A. 410 tỷ đồng
-- B. 430 tỷ đồng
-- C. 440 tỷ đồng
-- D. 420 tỷ đồng
-
-
-### 410 tỷ đồng
-
-Dự báo từ lượng tăng tuyệt đối bình quân giả định xu hướng cộng một lượng ổn định mỗi kỳ. y₁ và yₙ là mức đầu/cuối; n là số mức quá khứ; L là số kỳ dự báo sau kỳ cuối. Tính lượng tăng bình quân rồi cộng L lần vào mức cuối.
-
-$$\bar\delta=\frac{y_n-y_1}{n-1},\qquad \hat y_{n+L}=y_n+L\bar\delta$$
-
-1. 6 mức doanh thu từ n−5 đến n →5 khoảng.
-
-2. δ̄=(350−200)/5=30.
-
-3. n+2: 350+30×2=410.
-
-- A: Đúng: 410 tỷ đồng; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- B: Không đúng: phương án ghi “430 tỷ đồng”, trong khi phép tính theo dữ kiện cho 410 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Không đúng: phương án ghi “440 tỷ đồng”, trong khi phép tính theo dữ kiện cho 410 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Không đúng: phương án ghi “420 tỷ đồng”, trong khi phép tính theo dữ kiện cho 410 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Dự báo n+2 dùng L=2, không lấy căn hay bình quân phần trăm.; Mẫu số quá khứ n−1, không cộng thêm số kỳ tương lai.
-
-Slide: 7:21, 9:9, 9:10
-
-
-## Câu 12 — R129 — NGUỒN
-
-## CÂU HỎI 1
-
-Dựa vào nguồn tài liệu sau, tính toán và chọn đáp số đúng?
-
-Có Tài liệu về tình hình tiêu thụ sản phẩm của Doanh nghiệp thương mại X trong 2 quý như sau:
-
-
-| Tên hàng hóa | Mức tiêu thụ hàng hóa (tỷ đồng) – Quý I | Mức tiêu thụ hàng hóa (tỷ đồng) – Quý II | Tốc độ tăng (giảm) giá bán quý II so với quý I (%) |
-
-|---|---|---|---|
-
-| A | 360 | 400 | -5 |
-
-| B | 390 | 410 | -4 |
-
-
-Lượng hàng hóa tiêu thụ thay đổi khi so sánh quý II với quý I làm mức tiêu thụ hàng hóa thay đổi là:
-
-*( Kết quả các phép tính được làm tròn đến 4 chữ số thập phân )*
-
-- A ○ Tăng 98, 3159 tỷ đồng
-
-- B ○ Tăng 98,1359 tỷ đồng
-
-- C ○ Tăng 98,9513 tỷ đồng
-
-- D ○ Tăng 98,5931 tỷ đồng
-
-
-### tăng 98,1359 tỷ đồng theo quy tắc làm tròn từng phép tính
+### lương tăng 25%, quỹ lương tăng 1.900.000 ngđ do mức lương
 
 Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
 
 $$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
 
-1. Giá A giảm 5% →ipA=0,95; B giảm 4% →ipB=0,96.
+1. Ix=10.000/8.000=1,25 →lương tăng 25%.
 
-2. M₀=360+390=750 tỷ.
+2. Giữ số công nhân thực tế 950: ΔM(x)=(10.000−8.000)×950=1.900.000 ngđ.
 
-3. Quy đổi doanh thu mới về giá gốc: 400/0,95=421,052631… →421,0526; 410/0,96=427,083333… →427,0833.
+3. Tác động số công nhân =(950−1.000)×8.000=−400.000 ngđ; tổng tác động 1.500.000 ngđ để kiểm tra.
 
-4. M₀₁=421,0526+427,0833=848,1359; ΔM(q)=848,1359−750=98,1359.
+- A: 1.900.000 ngđ đúng phần tuyệt đối nhưng 20,75% sai; lương tăng 25%.
 
-5. Nếu giữ đầy đủ đến cuối, kết quả 98,1359649… →98,1360. Đề yêu cầu các phép tính đều làm tròn 4 chữ số nên chọn B và chỉ rõ khác biệt này.
+- B: 18,75% là tỷ lệ tăng tổng quỹ lương, 1.500.000 là tăng toàn bộ; không phải riêng mức lương.
 
-- A: Không đúng: phương án ghi “Tăng 98, 3159 tỷ đồng”, trong khi phép tính theo dữ kiện cho tăng 98,1359 tỷ đồng theo quy tắc làm tròn từng phép tính. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- C: Đúng: lương tăng 25%, quỹ lương tăng 1.900.000 ngđ do mức lương; khớp sau khi áp dụng quy tắc làm tròn của đề.
 
-- B: Đúng: tăng 98,1359 tỷ đồng theo quy tắc làm tròn từng phép tính; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- C: Không đúng: phương án ghi “Tăng 98,9513 tỷ đồng”, trong khi phép tính theo dữ kiện cho tăng 98,1359 tỷ đồng theo quy tắc làm tròn từng phép tính. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Không đúng: phương án ghi “Tăng 98,5931 tỷ đồng”, trong khi phép tính theo dữ kiện cho tăng 98,1359 tỷ đồng theo quy tắc làm tròn từng phép tính. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- D: −5% và −400.000 là tác động số công nhân, không phải mức lương.
 
 
-Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Không lấy doanh thu tăng 810−750=60 làm tác động sản lượng; 60 gồm cả giảm giá.; Các phương án khác đảo vị trí chữ số nên đọc kỹ 1359.
+Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Phải đúng cả tỷ lệ và tác động tuyệt đối trong một phương án.
 
 Slide: 8:71, 8:72, 8:73, 8:74, 8:51
 
 
-## Câu 13 — R141 — NGUỒN
+## Câu 9 — G001 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-## Câu hỏi 12
-
-Chọn đáp án đúng?
-
-Có tài liệu về Năng suất lao động và số công nhân của một phân xưởng như sau:
-
-| NSLĐ (trđ/người) | Số CN (người) |
-|---|---|
-| 60 | 12 |
-| 70 | 15 |
-| 75 | 20 |
-| 80 | 20 |
-| 84 | 10 |
-
-Năng suất lao động bình quân một công nhân toàn phân xưởng là:
-
-*(Kết quả tính được làm tròn đến 3 chữ số thập phân)*
-
-A. ○ 74,615
-B. ○ 74,651
-C. ○ 74,156
-D. ○ 74,516
+Một doanh nghiệp có ba tổ công nhân A, B, C. Năng suất lao động lần lượt là 42, 56, 68 sản phẩm/người; số công nhân tương ứng là 25, 40, 35 người. Năng suất lao động bình quân một công nhân là bao nhiêu? Làm tròn 3 chữ số thập phân.
+A. 56,700 sản phẩm/người
+B. 60,102 sản phẩm/người
+C. 61,803 sản phẩm/người
+D. 63,504 sản phẩm/người
 
 
-### 74,156 trđ/người
+### 56,700 sản phẩm/người
 
 Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
 
 $$\bar x=\frac{\sum x_if_i}{\sum f_i}$$
 
-1. Σf=12+15+20+20+10=77 người.
+1. Quyền số là số công nhân: f=(25;40;35).
 
-2. Σxf=60×12+70×15+75×20+80×20+84×10=5.710 trđ.
+2. Tổng sản phẩm = 42×25+56×40+68×35=5670.
 
-3. W̄=5.710/77=74,155844… →74,156.
+3. Tổng công nhân =100; bình quân =5670/100=56,700000 →56,700.
 
-- A: Không đúng: phương án ghi “74,615”, trong khi phép tính theo dữ kiện cho 74,156 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- A: Đúng: khớp kết quả 56,700 sản phẩm/người.
 
-- B: Không đúng: phương án ghi “74,651”, trong khi phép tính theo dữ kiện cho 74,156 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- B: Sai: 60,102 sản phẩm/người không khớp 56,700 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Đúng: 74,156 trđ/người; khớp sau khi áp dụng quy tắc làm tròn của đề.
+- C: Sai: 61,803 sản phẩm/người không khớp 56,700 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- D: Không đúng: phương án ghi “74,516”, trong khi phép tính theo dữ kiện cho 74,156 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- D: Sai: 63,504 sản phẩm/người không khớp 56,700 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
-Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Chú ý 74,156 khác 74,615; các lựa chọn đảo chữ số.
+Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.
 
 Slide: 4:37, 4:38, 4:39
 
 
-## Câu 14 — G006 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 10 — G005 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Hai phân xưởng có mức lương một công nhân là 6 và 9 triệu đồng/người; tổng quỹ lương tương ứng là 210 và 396 triệu đồng. Tính lương bình quân toàn doanh nghiệp, làm tròn 3 chữ số thập phân.
-A. 7,901 triệu đồng/người
-B. 7,671 triệu đồng/người
-C. 8,361 triệu đồng/người
-D. 8,591 triệu đồng/người
+Hai phân xưởng có mức lương một công nhân là 5 và 8 triệu đồng/người; tổng quỹ lương tương ứng là 150 và 320 triệu đồng. Tính lương bình quân toàn doanh nghiệp, làm tròn 3 chữ số thập phân.
+A. 6,714 triệu đồng/người
+B. 7,116 triệu đồng/người
+C. 7,317 triệu đồng/người
+D. 7,518 triệu đồng/người
 
 
-### 7,671 triệu đồng/người
+### 6,714 triệu đồng/người
 
 Khi biết tổng lượng biến Mᵢ và mức xᵢ, khôi phục số đơn vị fᵢ=Mᵢ/xᵢ. Do đó bình quân bằng tổng M chia tổng M/x; đây là bình quân điều hòa gia quyền. Nếu biết tỷ trọng M thì dùng dᵢ thay Mᵢ vì cùng một hệ số tổng sẽ triệt tiêu.
 
 $$\bar x=\frac{\sum M_i}{\sum(M_i/x_i)}=\frac{\sum d_i}{\sum(d_i/x_i)}$$
 
-1. Khôi phục số công nhân: 210/6=35; 396/9=44.
+1. Khôi phục số công nhân: 150/5=30; 320/8=40.
 
-2. Tổng quỹ lương =606; tổng công nhân =79.
+2. Tổng quỹ lương =470; tổng công nhân =70.
 
-3. Bình quân =606/79=7,670886 →7,671.
+3. Bình quân =470/70=6,714286 →6,714.
 
-- A: Sai: 7,901 triệu đồng/người không khớp 7,671 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Đúng: khớp kết quả 6,714 triệu đồng/người.
 
-- B: Đúng: khớp kết quả 7,671 triệu đồng/người.
+- B: Sai: 7,116 triệu đồng/người không khớp 6,714 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Sai: 8,361 triệu đồng/người không khớp 7,671 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Sai: 7,317 triệu đồng/người không khớp 6,714 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- D: Sai: 8,591 triệu đồng/người không khớp 7,671 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- D: Sai: 7,518 triệu đồng/người không khớp 6,714 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
 Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng.; Đổi đơn vị nhất quán trước khi suy ra số sản phẩm.
@@ -3081,7 +3179,42 @@ Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng
 Slide: 4:42, 4:45
 
 
-## Câu 15 — G013 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 11 — G009 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Số sản phẩm loại I của phân xưởng A là 960 chiếc, chiếm 80% tổng sản phẩm A; của B là 1620 chiếc, chiếm 90% tổng sản phẩm B. Hai phân xưởng cùng sản xuất một loại sản phẩm. Tổng sản lượng là bao nhiêu? Làm tròn phần nguyên.
+A. 3.000 chiếc
+B. 3.180 chiếc
+C. 3.270 chiếc
+D. 3.360 chiếc
+
+
+### 3.000 chiếc
+
+Khi biết tổng lượng biến Mᵢ và mức xᵢ, khôi phục số đơn vị fᵢ=Mᵢ/xᵢ. Do đó bình quân bằng tổng M chia tổng M/x; đây là bình quân điều hòa gia quyền. Nếu biết tỷ trọng M thì dùng dᵢ thay Mᵢ vì cùng một hệ số tổng sẽ triệt tiêu.
+
+$$q=q_{I,A}/d_{I,A}+q_{I,B}/d_{I,B}$$
+
+1. Tổng sản phẩm A =960/0,80=1200.
+
+2. Tổng sản phẩm B =1620/0,90=1800.
+
+3. Tổng =1200+1800=3000 chiếc.
+
+- A: Đúng: khớp kết quả 3.000 chiếc.
+
+- B: Sai: 3.180 chiếc không khớp 3.000 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- C: Sai: 3.270 chiếc không khớp 3.000 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- D: Sai: 3.360 chiếc không khớp 3.000 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+
+Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng.; Đổi đơn vị nhất quán trước khi suy ra số sản phẩm.; Không cộng riêng số loại I rồi coi đó là toàn bộ sản lượng.
+
+Slide: 4:26, 4:42
+
+
+## Câu 12 — G013 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
 Thực tế năm trước của hai doanh nghiệp cùng sản xuất một sản phẩm là 200 và 300 nghìn chiếc; kế hoạch năm nay là 230 và 340 nghìn chiếc. Số tương đối nhiệm vụ kế hoạch của toàn công ty là bao nhiêu? Làm tròn 2 chữ số thập phân.
 A. 114,00 %
@@ -3116,34 +3249,34 @@ Bẫy: Giá thành hoàn thành vượt mức nghĩa giảm so kế hoạch.; N�
 Slide: 4:21, 4:22, 4:23
 
 
-## Câu 16 — G020 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 13 — G017 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Doanh thu có ba tốc độ phát triển liên hoàn là 107%, 111%, 115%. Tốc độ tăng bình quân trong ba khoảng thời gian là bao nhiêu? Làm tròn 3 chữ số thập phân.
-A. 11,281 %
-B. 11,610 %
-C. 11,939 %
-D. 10,952 %
+Doanh thu có ba tốc độ phát triển liên hoàn là 104%, 108%, 112%. Tốc độ tăng bình quân trong ba khoảng thời gian là bao nhiêu? Làm tròn 3 chữ số thập phân.
+A. 7,951 %
+B. 8,429 %
+C. 8,668 %
+D. 8,907 %
 
 
-### 10,952%
+### 7,951%
 
 Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
 
 $$\bar t=\sqrt[k]{\prod_{i=1}^kt_i};\qquad \bar a=(\bar t-1)100\%$$
 
-1. Đổi về lần: 1,07; 1,11; 1,15.
+1. Đổi về lần: 1,04; 1,08; 1,12.
 
-2. Tích =1,36585500; căn bậc 3 =1,10951931.
+2. Tích =1,25798400; căn bậc 3 =1,07950595.
 
-3. Trừ 1 và nhân 100: tăng 10,951931% →10,952%.
+3. Trừ 1 và nhân 100: tăng 7,950595% →7,951%.
 
-- A: Sai: 11,281 % không khớp 10,952%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Đúng: khớp kết quả 7,951%.
 
-- B: Sai: 11,610 % không khớp 10,952%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Sai: 8,429 % không khớp 7,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Sai: 11,939 % không khớp 10,952%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Sai: 8,668 % không khớp 7,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- D: Đúng: khớp kết quả 10,952%.
+- D: Sai: 8,907 % không khớp 7,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
 Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.
@@ -3151,34 +3284,69 @@ Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặ
 Slide: 7:24, 7:27
 
 
-## Câu 17 — G027 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 14 — G021 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Giá trị sản xuất đầu giai đoạn là 280 tỷ đồng, cuối giai đoạn sau 4 năm là 409,9480 tỷ đồng. Dự báo sau kỳ cuối 2 năm bằng tốc độ phát triển bình quân. Giữ đủ độ chính xác khi tính và làm tròn cuối cùng 3 chữ số thập phân.
-A. 510,918 tỷ đồng
-B. 525,799 tỷ đồng
-C. 496,037 tỷ đồng
-D. 555,561 tỷ đồng
+Doanh thu của năm năm liên tiếp lần lượt là 100, 125, 145, 175, 200 tỷ đồng. Dự báo doanh thu sau năm cuối 1 năm bằng lượng tăng tuyệt đối bình quân. Làm tròn 2 chữ số thập phân.
+A. 225,00 tỷ đồng
+B. 238,50 tỷ đồng
+C. 245,25 tỷ đồng
+D. 252,00 tỷ đồng
 
 
-### 496,037 tỷ đồng
+### 225,00 tỷ đồng
+
+Dự báo từ lượng tăng tuyệt đối bình quân giả định xu hướng cộng một lượng ổn định mỗi kỳ. y₁ và yₙ là mức đầu/cuối; n là số mức quá khứ; L là số kỳ dự báo sau kỳ cuối. Tính lượng tăng bình quân rồi cộng L lần vào mức cuối.
+
+$$\bar\delta=\frac{y_n-y_1}{n-1},\qquad \hat y_{n+L}=y_n+L\bar\delta$$
+
+1. 5 mức quá khứ tạo 4 khoảng; δ̄=(200−100)/4=25,00 tỷ/năm.
+
+2. Chân trời dự báo L=1.
+
+3. Dự báo =200+1×25,00=225,00 tỷ đồng.
+
+- A: Đúng: khớp kết quả 225,00 tỷ đồng.
+
+- B: Sai: 238,50 tỷ đồng không khớp 225,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- C: Sai: 245,25 tỷ đồng không khớp 225,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- D: Sai: 252,00 tỷ đồng không khớp 225,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+
+Bẫy: Dự báo n+2 dùng L=2, không lấy căn hay bình quân phần trăm.; Mẫu số quá khứ n−1, không cộng thêm số kỳ tương lai.
+
+Slide: 7:21, 9:9, 9:10
+
+
+## Câu 15 — G025 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Giá trị sản xuất đầu giai đoạn là 200 tỷ đồng, cuối giai đoạn sau 4 năm là 292,8200 tỷ đồng. Dự báo sau kỳ cuối 2 năm bằng tốc độ phát triển bình quân. Giữ đủ độ chính xác khi tính và làm tròn cuối cùng 3 chữ số thập phân.
+A. 354,312 tỷ đồng
+B. 375,570 tỷ đồng
+C. 386,199 tỷ đồng
+D. 396,828 tỷ đồng
+
+
+### 354,312 tỷ đồng
 
 Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
 
 $$\bar t=(y_n/y_1)^{1/k},\quad \hat y_{n+L}=y_n\bar t^L$$
 
-1. Có 4 khoảng; t̄=(409,9480/280)^(1/4)=1,1.
+1. Có 4 khoảng; t̄=(292,8200/200)^(1/4)=1,1.
 
-2. Dự báo sau 2 năm =409,9480×1,1²=496,03708000.
+2. Dự báo sau 2 năm =292,8200×1,1²=354,31220000.
 
-3. Kết quả 496,037 tỷ đồng.
+3. Kết quả 354,312 tỷ đồng.
 
-- A: Sai: 510,918 tỷ đồng không khớp 496,037 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Đúng: khớp kết quả 354,312 tỷ đồng.
 
-- B: Sai: 525,799 tỷ đồng không khớp 496,037 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Sai: 375,570 tỷ đồng không khớp 354,312 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Đúng: khớp kết quả 496,037 tỷ đồng.
+- C: Sai: 386,199 tỷ đồng không khớp 354,312 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- D: Sai: 555,561 tỷ đồng không khớp 496,037 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- D: Sai: 396,828 tỷ đồng không khớp 354,312 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
 Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.
@@ -3186,16 +3354,51 @@ Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặ
 Slide: 7:24, 9:11, 9:12
 
 
-## Câu 18 — G034 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 16 — G029 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Phân tổ năng suất có ba khoảng [60;70), [70;90), [90;100), đơn vị sản phẩm/người. Số công nhân tương ứng 20, 50, 30. Ước lượng trung vị theo bảng phân tổ, làm tròn 3 chữ số thập phân.
-A. 84,460 sản phẩm/người
-B. 82,000 sản phẩm/người
-C. 89,380 sản phẩm/người
-D. 91,840 sản phẩm/người
+Tháng có 30 ngày. Số công nhân giữ nguyên: ngày 1–10 là 400 người, ngày 11–22 là 430 người, ngày 23–30 là 420 người. Số công nhân bình quân một ngày là bao nhiêu? Làm tròn 3 chữ số thập phân.
+A. 417,333 người
+B. 442,373 người
+C. 454,893 người
+D. 467,413 người
 
 
-### 82,000 sản phẩm/người
+### 417,333 người
+
+Số công nhân/tồn kho tại một ngày là mức thời điểm. Nếu biết mức giữ nguyên trong từng đoạn, bình quân theo số ngày tồn tại: yᵢ là mức của đoạn, tᵢ là số ngày. Nếu chỉ biết đầu/cuối tháng, giả định biến động đều đặn, lấy nửa tổng hai đầu tháng rồi gia quyền độ dài tháng.
+
+$$\bar y=\frac{\sum y_it_i}{\sum t_i};\qquad \bar y_{\text{tháng}}=\frac{y_{\text{đầu}}+y_{\text{cuối}}}{2}$$
+
+1. Số ngày tương ứng 10,12,8; tổng 30 ngày.
+
+2. Tổng người×ngày =400×10+430×12+420×8=12520.
+
+3. Chia 30 được 417,333333 →417,333 người.
+
+- A: Đúng: khớp kết quả 417,333 người.
+
+- B: Sai: 442,373 người không khớp 417,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- C: Sai: 454,893 người không khớp 417,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- D: Sai: 467,413 người không khớp 417,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+
+Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trước ngày biến động.; Dãy thời điểm không cộng trực tiếp để lấy quy mô quý.
+
+Slide: 7:13, 7:15, 7:16
+
+
+## Câu 17 — G033 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Phân tổ năng suất có ba khoảng [50;60), [60;80), [80;90), đơn vị sản phẩm/người. Số công nhân tương ứng 20, 50, 30. Ước lượng trung vị theo bảng phân tổ, làm tròn 3 chữ số thập phân.
+A. 72,000 sản phẩm/người
+B. 76,320 sản phẩm/người
+C. 78,480 sản phẩm/người
+D. 80,640 sản phẩm/người
+
+
+### 72,000 sản phẩm/người
 
 Trung vị chia số đơn vị thành hai nửa. Với bảng khoảng, tìm tổ có tần số tích lũy lần đầu đạt/vượt N/2, sau đó nội suy đều trong tổ đó. L là cận dưới tổ trung vị, h là độ rộng, F là tần số tích lũy trước tổ, f là tần số của tổ. Đây là ước lượng từ bảng phân tổ, không phải mức chính xác của từng cá nhân.
 
@@ -3203,22 +3406,57 @@ $$Me=L+h\frac{N/2-F}{f}$$
 
 1. N=100; N/2=50; tích lũy 20 rồi 70 nên tổ thứ hai chứa trung vị.
 
-2. L=70; h=20; F=20; f=50.
+2. L=60; h=20; F=20; f=50.
 
-3. Me=70+20×(50−20)/50=82,000.
+3. Me=60+20×(50−20)/50=72,000.
 
-- A: Sai: 84,460 sản phẩm/người không khớp 82,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Đúng: khớp kết quả 72,000 sản phẩm/người.
 
-- B: Đúng: khớp kết quả 82,000 sản phẩm/người.
+- B: Sai: 76,320 sản phẩm/người không khớp 72,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Sai: 89,380 sản phẩm/người không khớp 82,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Sai: 78,480 sản phẩm/người không khớp 72,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- D: Sai: 91,840 sản phẩm/người không khớp 82,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- D: Sai: 80,640 sản phẩm/người không khớp 72,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
 Bẫy: Tổ trung vị dựa tần số tích lũy, không chọn tổ rộng nhất hoặc tần số lớn nhất.; Dùng độ rộng của chính tổ trung vị, không dùng độ rộng của tổ khác.
 
 Slide: 4:61, 4:62, 4:63
+
+
+## Câu 18 — G037 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Tổng chi phí kỳ gốc là 1000 triệu đồng. Kỳ báo cáo tổng chi phí bằng 108% kỳ gốc; sản lượng tăng 15%. Theo thay thế liên hoàn với giá thành kỳ gốc làm quyền số của sản lượng, sản lượng làm tổng chi phí thay đổi bao nhiêu? Làm tròn 2 chữ số thập phân.
+A. 150,00 triệu đồng tăng
+B. 159,00 triệu đồng tăng
+C. 163,50 triệu đồng tăng
+D. 168,00 triệu đồng tăng
+
+
+### 150,00 triệu đồng tăng
+
+Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
+
+$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
+
+1. Giữ giá thành gốc, C₀₁=C₀Iq=1000×1,15=1.150,00.
+
+2. ΔC(q)=C₀₁−C₀=1.150,00−1000=150,00 triệu đồng.
+
+3. Tổng chi phí mới =1.080,00; số này không dùng thay C₀₁ khi tính riêng sản lượng.
+
+- A: Đúng: khớp kết quả 150,00 triệu đồng tăng.
+
+- B: Sai: 159,00 triệu đồng tăng không khớp 150,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- C: Sai: 163,50 triệu đồng tăng không khớp 150,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- D: Sai: 168,00 triệu đồng tăng không khớp 150,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+
+Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.
+
+Slide: 8:71, 8:72, 8:73, 8:74, 8:51
 
 
 ## Câu 19 — G041 — TỰ SINH ĐỂ ĐỦ ĐỀ
@@ -3256,34 +3494,34 @@ Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% 
 Slide: 8:71, 8:72, 8:73, 8:74, 8:51
 
 
-## Câu 20 — G048 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 20 — G045 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Lương tháng kế hoạch là 9,0 triệu đồng/người, thực tế 10,5 triệu đồng/người. Số công nhân kế hoạch 160, thực tế 175. Mức lương một người làm tổng quỹ lương tăng bao nhiêu theo thay thế liên hoàn? Làm tròn 2 chữ số thập phân.
-A. 270,38 triệu đồng
-B. 278,26 triệu đồng
-C. 286,14 triệu đồng
-D. 262,50 triệu đồng
+Lương tháng kế hoạch là 6,0 triệu đồng/người, thực tế 7,5 triệu đồng/người. Số công nhân kế hoạch 100, thực tế 115. Mức lương một người làm tổng quỹ lương tăng bao nhiêu theo thay thế liên hoàn? Làm tròn 2 chữ số thập phân.
+A. 172,50 triệu đồng
+B. 182,86 triệu đồng
+C. 188,04 triệu đồng
+D. 193,22 triệu đồng
 
 
-### 262,50 triệu đồng
+### 172,50 triệu đồng
 
 Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
 
 $$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
 
-1. Giữ số công nhân thực tế 175: ΔM(x)=(x₁−x₀)T₁.
+1. Giữ số công nhân thực tế 115: ΔM(x)=(x₁−x₀)T₁.
 
-2. ΔM(x)=(10,5−9,0)×175=262,50 triệu đồng.
+2. ΔM(x)=(7,5−6,0)×115=172,50 triệu đồng.
 
-3. Số công nhân thay đổi có tác động riêng (T₁−T₀)x₀=135,00, không cộng vào đáp án riêng mức lương.
+3. Số công nhân thay đổi có tác động riêng (T₁−T₀)x₀=90,00, không cộng vào đáp án riêng mức lương.
 
-- A: Sai: 270,38 triệu đồng không khớp 262,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Đúng: khớp kết quả 172,50 triệu đồng.
 
-- B: Sai: 278,26 triệu đồng không khớp 262,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Sai: 182,86 triệu đồng không khớp 172,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Sai: 286,14 triệu đồng không khớp 262,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Sai: 188,04 triệu đồng không khớp 172,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- D: Đúng: khớp kết quả 262,50 triệu đồng.
+- D: Sai: 193,22 triệu đồng không khớp 172,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
 Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.
@@ -3291,7 +3529,7 @@ Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% 
 Slide: 8:71, 8:72, 8:73, 8:74, 8:51
 
 
-# Đề 05
+# Đề 05 — CÓ CÂU BỔ SUNG
 
 
 ## Câu 1 — R079 — NGUỒN
@@ -3517,339 +3755,120 @@ Bẫy: Câu ngắn nên mục đích mô tả chưa thật chặt: đáp án C d
 Slide: 2:17, 2:18
 
 
-## Câu 8 — R017 — NGUỒN
+## Câu 8 — R143 — NGUỒN
 
-### Hình 2 (Câu hỏi về số công nhân bình quân)
+### **Câu hỏi 3** (Hình 1)
 
-**Đề bài:**
-Tình hình sản xuất của một doanh nghiệp trong 3 tháng đầu năm năm 2022 như sau:
+**Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:**
 
-**Bảng số liệu:**
+Có tài liệu về FDI của một quốc gia như sau:
 
-| Chỉ tiêu | Tháng 1 | Tháng 2 | Tháng 3 |
-| :--- | :--- | :--- | :--- |
-| Giá trị sản xuất thực tế (tỷ đồng) | 120 | 125 | 118 |
-| Tỷ lệ % hoàn thành kế hoạch giá trị sản xuất (%) | 105 | 108 | 110 |
-| Số công nhân đầu tháng (người) | 500 | 520 | 530 |
+| Năm | n-5 | n-4 | n-3 | n-2 | n-1 | n |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **FDI (tỷ USD)** | 32 | 39 | 45 | 52 | 59 | 65 |
 
-**Biết rằng:** Số công nhân ngày 1 tháng 4 năm 2022 là 540 người.
-(Kết quả tính toán làm tròn đến số thập phân thứ 2 đằng sau dấu phẩy)
+FDI của quốc gia này vào năm n+2 khi dự báo bằng phương pháp mô hình hồi quy theo thời gian với điều kiện với tổng t bằng 0 ($\sum t = 0$) là:
+*(Kết quả được làm tròn đến phần nguyên theo quy tắc toán học thông thường)*
 
-**Câu hỏi:**
-Số công nhân bình quân 1 ngày trong quý I của doanh nghiệp là:
+*   A 91 tỷ USD
+*   B 85 tỷ USD
+*   C 74 tỷ USD
+*   D 78 tỷ USD
 
-**Các phương án:**
-*   543 người
-*   533 người
-*   523 người
-*   513 người
 
+### 78 tỷ USD
 
-### 523 người
+Hàm xu thế tuyến tính ŷ=a+bt dùng thời gian t. Khi Σt=0, a=Σy/n và b=Σty/Σt². Với số năm chẵn, thường mã hóa t=−(n−1),…,−1,1,…,(n−1), bước 2 mỗi năm; t tương lai phải tiếp tục bước 2.
 
-Số công nhân/tồn kho tại một ngày là mức thời điểm. Nếu biết mức giữ nguyên trong từng đoạn, bình quân theo số ngày tồn tại: yᵢ là mức của đoạn, tᵢ là số ngày. Nếu chỉ biết đầu/cuối tháng, giả định biến động đều đặn, lấy nửa tổng hai đầu tháng rồi gia quyền độ dài tháng.
+$$\sum t=0:\quad a=\frac{\sum y}{n},\quad b=\frac{\sum ty}{\sum t^2},\quad \hat y=a+bt$$
 
-$$\bar y=\frac{\sum y_it_i}{\sum t_i};\qquad \bar y_{\text{tháng}}=\frac{y_{\text{đầu}}+y_{\text{cuối}}}{2}$$
+1. 6 năm nên chọn t=−5,−3,−1,1,3,5 (bước 2); tổng t=0.
 
-1. Tháng 1,2,3 năm 2022 lần lượt có 31,28,31 ngày.
+2. Σy=292; a=292/6=48,666667.
 
-2. Bình quân công nhân từng tháng: (500+520)/2=510; (520+530)/2=525; (530+540)/2=535.
+3. Σty=232; Σt²=70; b=232/70=3,314286.
 
-3. Bình quân quý theo ngày =(510×31+525×28+535×31)/90=47.095/90=523,277778 người.
+4. Năm n có t=5, n+2 có t=9.
 
-4. Làm tròn số người theo các lựa chọn: 523 người.
+5. Dự báo =48,666667+3,314286×9=78,495238…; làm tròn phần nguyên 78.
 
-- A: Không đúng: phương án ghi “543 người”, trong khi phép tính theo dữ kiện cho 523 người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- A: Không đúng: phương án ghi “91 tỷ USD”, trong khi phép tính theo dữ kiện cho 78 tỷ USD. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- B: Không đúng: phương án ghi “533 người”, trong khi phép tính theo dữ kiện cho 523 người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- B: Không đúng: phương án ghi “85 tỷ USD”, trong khi phép tính theo dữ kiện cho 78 tỷ USD. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- C: Đúng: 523 người; khớp sau khi áp dụng quy tắc làm tròn của đề.
+- C: Không đúng: phương án ghi “74 tỷ USD”, trong khi phép tính theo dữ kiện cho 78 tỷ USD. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- D: Không đúng: phương án ghi “513 người”, trong khi phép tính theo dữ kiện cho 523 người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- D: Đúng: 78 tỷ USD; khớp sau khi áp dụng quy tắc làm tròn của đề.
 
 
-Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trước ngày biến động.; Dãy thời điểm không cộng trực tiếp để lấy quy mô quý.; Công thức cách đều coi ba tháng bằng nhau cho 523,333…; tháng thực tế không đều cho 523,278. Hai cách cùng chọn 523 khi làm tròn phần nguyên; lời giải dùng số ngày thực tế.
+Bẫy: Không dùng mã t có bước 2 nhưng lại tăng t tương lai bước 1.; Không đồng nhất b với mức tăng mỗi năm nếu t bước 2: mỗi năm tăng 2b.; 78,495 chưa đạt 78,5 nên làm tròn nguyên 78; không làm tròn trung gian 78,50 rồi lên 79.
 
-Slide: 7:13, 7:15, 7:16
+Slide: 9:13, 9:16, 9:17, 9:18
 
 
-## Câu 9 — R048 — NGUỒN
+## Câu 9 — G002 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-## **Câu 10:** Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:
+Một doanh nghiệp có ba tổ công nhân A, B, C. Năng suất lao động lần lượt là 44, 59, 69 sản phẩm/người; số công nhân tương ứng là 30, 43, 39 người. Năng suất lao động bình quân một công nhân là bao nhiêu? Làm tròn 3 chữ số thập phân.
+A. 60,218 sản phẩm/người
+B. 58,464 sản phẩm/người
+C. 63,726 sản phẩm/người
+D. 65,480 sản phẩm/người
 
-Có tài liệu về Giá thành đơn vị sản phẩm và Tổng giá thành của Doanh nghiệp X (sản xuất 1 loại sản phẩm S) như sau:
 
-| Tên phân xưởng | Quý 1/2020 - Tổng giá thành (trđ) | Quý 1/2020 - Giá thành đvsp (ngđ/chiếc) | Quý 2/2020 - Tỷ trọng tổng giá thành (%) | Quý 2/2020 - Giá thành đvsp (ngđ/chiếc) |
-|---|---|---|---|---|
-| A | 2970 | 1100 | 27,8 | 1120 |
-| B | 4725 | 1050 | 40,4 | 1080 |
-| C | 3952 | 1040 | 31,8 | 1060 |
-
-Giá thành đơn vị sản phẩm bình quân của toàn doanh nghiệp trong quý 1/2020 và quý 2/2020 là:
-*(Kết quả được làm tròn đến phần nguyên, theo quy ước làm tròn số toán học)*
-
-A. 1058 (ngđ/c); 1092 (ngđ/c)
-B. 1075 (ngđ/c); 1094 (ngđ/c)
-C. 1059 (ngđ/c); 1084 (ngđ/c)
-D. 1061 (ngđ/c); 1075 (ngđ/c)
-
-
-### 1.059 ngđ/chiếc; 1.084 ngđ/chiếc
-
-Khi biết tổng lượng biến Mᵢ và mức xᵢ, khôi phục số đơn vị fᵢ=Mᵢ/xᵢ. Do đó bình quân bằng tổng M chia tổng M/x; đây là bình quân điều hòa gia quyền. Nếu biết tỷ trọng M thì dùng dᵢ thay Mᵢ vì cùng một hệ số tổng sẽ triệt tiêu.
-
-$$\bar x=\frac{\sum M_i}{\sum(M_i/x_i)}=\frac{\sum d_i}{\sum(d_i/x_i)}$$
-
-1. Quý I: tổng giá thành =2.970+4.725+3.952=11.647 trđ.
-
-2. Đổi trđ→ngđ khi suy sản lượng: qA=2.970.000/1.100=2.700; qB=4.725.000/1.050=4.500; qC=3.952.000/1.040=3.800; tổng 11.000 chiếc.
-
-3. z̄I=11.647.000/11.000=1.058,818182 →1.059 ngđ/chiếc.
-
-4. Quý II dùng tỷ trọng tổng giá thành: z̄II=100/(27,8/1.120+40,4/1.080+31,8/1.060)=1.084,259591 →1.084.
-
-- A: Không đúng: phương án ghi “1058 (ngđ/c); 1092 (ngđ/c)”, trong khi phép tính theo dữ kiện cho 1.059 ngđ/chiếc; 1.084 ngđ/chiếc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Không đúng: phương án ghi “1075 (ngđ/c); 1094 (ngđ/c)”, trong khi phép tính theo dữ kiện cho 1.059 ngđ/chiếc; 1.084 ngđ/chiếc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Đúng: 1.059 ngđ/chiếc; 1.084 ngđ/chiếc; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- D: Không đúng: phương án ghi “1061 (ngđ/c); 1075 (ngđ/c)”, trong khi phép tính theo dữ kiện cho 1.059 ngđ/chiếc; 1.084 ngđ/chiếc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng.; Đổi đơn vị nhất quán trước khi suy ra số sản phẩm.
-
-Slide: 4:42, 4:45
-
-
-## Câu 10 — R078 — NGUỒN
-
-**Câu 1:**
-\<Q>Có tài liệu thực tế so với kế hoạch tại một doanh nghiệp như sau:
-Thời gian hao phí để sản xuất ra một đơn vị sản phẩm hoàn thành vượt mức kế hoạch đề ra 12%, (quyền số được cố định kỳ thực hiện) làm doanh nghiệp tiết kiệm được 420 giờ
-Số lượng sản phẩm sản xuất vượt kế hoạch 20% (quyền số được cố định kỳ kế hoạch)
-Tổng thời gian sản xuất sản phẩm của toàn doanh nghiệp thực tế so với kế hoạch thay đổi bao nhiêu khi số lượng sản phẩm của doanh nghiệp thay đổi?
-*(Kết quả tính toán làm tròn đến số thập phân thứ hai sau dấu phẩy)*
-(Chỉ chọn 1 đáp án)
-- A. Tăng 20 %
-- B. tăng 12%
-- C. Tăng 14%
-- D. giảm 20%
-
-
-### tổng thời gian tăng 20% do sản lượng
-
-Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
-
-$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
-
-1. Câu hỏi là thay đổi tổng thời gian do số lượng sản phẩm, không hỏi biến động chung hai nhân tố.
-
-2. I_q=1,20 đã cho; với quyền số hao phí kỳ kế hoạch, tác động tương đối của sản lượng là tăng 20%.
-
-3. Nếu cần kiểm tra tuyệt đối: giảm 12% tiết kiệm 420 →T₀₁=420/0,12=3.500; T₀=3.500/1,20=2.916,6667; ΔT(q)=583,3333 giờ.
-
-- A: Đúng: tổng thời gian tăng 20% do sản lượng; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- B: 12% là mức giảm hao phí một sản phẩm, không phải ảnh hưởng số lượng.
-
-- C: 14% không được suy ra từ chỉ số sản lượng 1,20.
-
-- D: Sản lượng vượt 20% nên tác động làm tăng, không giảm tổng thời gian.
-
-
-Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Tổng thời gian thực tế so kế hoạch chung là 0,88×1,20=1,056, tức tăng 5,6%; đó không phải đại lượng câu hỏi.
-
-Slide: 8:71, 8:72, 8:73, 8:74, 8:51
-
-
-## Câu 11 — R102 — NGUỒN
-
-**Câu 17:**
-Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:
-Có tài liệu về bậc thợ và tuổi nghề của công nhân trong doanh nghiệp X như sau:
-
-| Tuổi nghề (năm) | Phân tổ công nhân theo bậc thợ 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-|---|---|---|---|---|---|---|---|
-| Dưới 5 | 7 | 12 | 30 | 50 | 45 | 20 | 8 |
-| 5 - 10 | 10 | 20 | 80 | 110 | 85 | 60 | 25 |
-| 10 - 25 | 8 | 6 | 85 | 95 | 70 | 65 | 15 |
-
-(Kết quả tính làm tròn đến số thập phân thứ 1 theo nguyên tắc toán học thông thường)
-Bậc thợ trung bình của tất cả công nhân toàn doanh nghiệp là bao nhiêu?
-(Chỉ chọn 1 đáp án)
-- A. 4,3
-- B. 5,4
-- C. 3,8
-- D. 4,9
-
-
-### 4,3 bậc
+### 58,464 sản phẩm/người
 
 Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
 
 $$\bar x=\frac{\sum x_if_i}{\sum f_i}$$
 
-1. Cộng theo cột bậc thợ 1→7: f=(25;38;195;255;200;145;48).
+1. Quyền số là số công nhân: f=(30;43;39).
 
-2. Σf=906 công nhân.
+2. Tổng sản phẩm = 44×30+59×43+69×39=6548.
 
-3. Σbf=1×25+2×38+3×195+4×255+5×200+6×145+7×48=3.912.
+3. Tổng công nhân =112; bình quân =6548/112=58,464286 →58,464.
 
-4. Bậc bình quân =3.912/906=4,317881… →4,3.
+- A: Sai: 60,218 sản phẩm/người không khớp 58,464 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- A: Đúng: 4,3 bậc; khớp sau khi áp dụng quy tắc làm tròn của đề.
+- B: Đúng: khớp kết quả 58,464 sản phẩm/người.
 
-- B: Không đúng: phương án ghi “5,4”, trong khi phép tính theo dữ kiện cho 4,3 bậc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- C: Sai: 63,726 sản phẩm/người không khớp 58,464 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Không đúng: phương án ghi “3,8”, trong khi phép tính theo dữ kiện cho 4,3 bậc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Không đúng: phương án ghi “4,9”, trong khi phép tính theo dữ kiện cho 4,3 bậc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- D: Sai: 65,480 sản phẩm/người không khớp 58,464 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
-Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Cộng theo cột bậc thợ, không bình quân tuổi nghề.; Bậc thợ bình quân có thể là số thập phân; không cần là một bậc nguyên.
+Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.
 
 Slide: 4:37, 4:38, 4:39
 
 
-## Câu 12 — R131 — NGUỒN
+## Câu 10 — G006 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-## CÂU HỎI 7
-
-Tính toán và chọn phương án đúng nhất:
-
-Có tài liệu thống kê về 1 doanh nghiệp (DN) sản xuất 2 loại sản phẩm như sau:
-
-
-| Sản phẩm | Tổng giá thành sản phẩm kỳ nghiên cứu (tr. đồng) | Tốc độ tăng (giảm) giá thành đơn vị sản phẩm kỳ nghiên cứu so với kỳ gốc (%) |
-
-|---|---|---|
-
-| A | 256.520 | +12 |
-
-| B | 405.620 | -10 |
+Hai phân xưởng có mức lương một công nhân là 6 và 9 triệu đồng/người; tổng quỹ lương tương ứng là 210 và 396 triệu đồng. Tính lương bình quân toàn doanh nghiệp, làm tròn 3 chữ số thập phân.
+A. 7,901 triệu đồng/người
+B. 7,671 triệu đồng/người
+C. 8,361 triệu đồng/người
+D. 8,591 triệu đồng/người
 
 
-Biết rằng: Tổng giá thành hai loại sản phẩm (SP) kỳ nghiên cứu so với kỳ gốc tăng 10%.
-
-*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)*
-
-Giá thành đơn vị sản phẩm toàn doanh nghiệp kỳ nghiên cứu so với kỳ gốc giảm:
-
-- A ○ 3,59%
-
-- B ○ 1,59%
-
-- C ○ 2,59%
-
-- D ○ 4,59%
-
-
-### giá thành chung giảm 2,59%
-
-Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
-
-$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
-
-1. IzA=1,12; IzB=0,90.
-
-2. C₁=256.520+405.620=662.140 trđ.
-
-3. C₀₁=256.520/1,12+405.620/0,90=229.035,714286+450.688,888889=679.724,603175.
-
-4. Iz=C₁/C₀₁=0,974129812… →0,9741; giảm (1−Iz)×100≈2,59%.
-
-- A: Không đúng: phương án ghi “3,59%”, trong khi phép tính theo dữ kiện cho giá thành chung giảm 2,59%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Không đúng: phương án ghi “1,59%”, trong khi phép tính theo dữ kiện cho giá thành chung giảm 2,59%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Đúng: giá thành chung giảm 2,59%; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- D: Không đúng: phương án ghi “4,59%”, trong khi phép tính theo dữ kiện cho giá thành chung giảm 2,59%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Tổng giá thành tăng 10% không có nghĩa giá thành đơn vị tăng 10%; tổng còn phụ thuộc sản lượng.; Không lấy bình quân giản đơn +12% và −10%.
-
-Slide: 8:71, 8:72, 8:73, 8:74, 8:51
-
-
-## Câu 13 — R142 — NGUỒN
-
-## Câu hỏi 13
-
-Dựa vào nguồn tài liệu sau, tính toán và chọn đáp án đúng?
-
-Có Tài liệu về tình hình sản xuất mặt hàng A trong tháng 10 như sau:
-
-| Chỉ tiêu | Kế hoạch | Thực tế |
-|---|---|---|
-| 1. Số công nhân (người) | 1.000 | 950 |
-| 2. Mức lương tháng bình quân 1 công nhân (1000đ) | 8.000 | 10.000 |
-
-Mức lương kỳ thực tế so với kế hoạch thay đổi? Làm cho tổng quỹ lương (TQL) thay đổi là:
-
-*(Kết quả tính được làm tròn theo nguyên tắc toán học thông thường)*
-
-A. ○ Mức lương tăng 20,75% làm TQL tăng 1.900.000 ngđ
-B. ○ Mức lương tăng 18,75% làm TQL tăng 1.500.000 ngđ
-C. ○ Mức lương tăng 25% làm TQL tăng với 1.900.000 ngđ
-D. ○ Mức lương giảm 5% làm TQL giảm 400.000 ngđ
-
-
-### lương tăng 25%, quỹ lương tăng 1.900.000 ngđ do mức lương
-
-Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
-
-$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
-
-1. Ix=10.000/8.000=1,25 →lương tăng 25%.
-
-2. Giữ số công nhân thực tế 950: ΔM(x)=(10.000−8.000)×950=1.900.000 ngđ.
-
-3. Tác động số công nhân =(950−1.000)×8.000=−400.000 ngđ; tổng tác động 1.500.000 ngđ để kiểm tra.
-
-- A: 1.900.000 ngđ đúng phần tuyệt đối nhưng 20,75% sai; lương tăng 25%.
-
-- B: 18,75% là tỷ lệ tăng tổng quỹ lương, 1.500.000 là tăng toàn bộ; không phải riêng mức lương.
-
-- C: Đúng: lương tăng 25%, quỹ lương tăng 1.900.000 ngđ do mức lương; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- D: −5% và −400.000 là tác động số công nhân, không phải mức lương.
-
-
-Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Phải đúng cả tỷ lệ và tác động tuyệt đối trong một phương án.
-
-Slide: 8:71, 8:72, 8:73, 8:74, 8:51
-
-
-## Câu 14 — G007 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Hai phân xưởng có mức lương một công nhân là 7 và 10 triệu đồng/người; tổng quỹ lương tương ứng là 280 và 480 triệu đồng. Tính lương bình quân toàn doanh nghiệp, làm tròn 3 chữ số thập phân.
-A. 8,895 triệu đồng/người
-B. 9,154 triệu đồng/người
-C. 8,636 triệu đồng/người
-D. 9,672 triệu đồng/người
-
-
-### 8,636 triệu đồng/người
+### 7,671 triệu đồng/người
 
 Khi biết tổng lượng biến Mᵢ và mức xᵢ, khôi phục số đơn vị fᵢ=Mᵢ/xᵢ. Do đó bình quân bằng tổng M chia tổng M/x; đây là bình quân điều hòa gia quyền. Nếu biết tỷ trọng M thì dùng dᵢ thay Mᵢ vì cùng một hệ số tổng sẽ triệt tiêu.
 
 $$\bar x=\frac{\sum M_i}{\sum(M_i/x_i)}=\frac{\sum d_i}{\sum(d_i/x_i)}$$
 
-1. Khôi phục số công nhân: 280/7=40; 480/10=48.
+1. Khôi phục số công nhân: 210/6=35; 396/9=44.
 
-2. Tổng quỹ lương =760; tổng công nhân =88.
+2. Tổng quỹ lương =606; tổng công nhân =79.
 
-3. Bình quân =760/88=8,636364 →8,636.
+3. Bình quân =606/79=7,670886 →7,671.
 
-- A: Sai: 8,895 triệu đồng/người không khớp 8,636 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Sai: 7,901 triệu đồng/người không khớp 7,671 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- B: Sai: 9,154 triệu đồng/người không khớp 8,636 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Đúng: khớp kết quả 7,671 triệu đồng/người.
 
-- C: Đúng: khớp kết quả 8,636 triệu đồng/người.
+- C: Sai: 8,361 triệu đồng/người không khớp 7,671 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- D: Sai: 9,672 triệu đồng/người không khớp 8,636 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- D: Sai: 8,591 triệu đồng/người không khớp 7,671 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
 Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng.; Đổi đơn vị nhất quán trước khi suy ra số sản phẩm.
@@ -3857,7 +3876,42 @@ Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng
 Slide: 4:42, 4:45
 
 
-## Câu 15 — G014 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 11 — G010 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Số sản phẩm loại I của phân xưởng A là 1040 chiếc, chiếm 80% tổng sản phẩm A; của B là 1800 chiếc, chiếm 90% tổng sản phẩm B. Hai phân xưởng cùng sản xuất một loại sản phẩm. Tổng sản lượng là bao nhiêu? Làm tròn phần nguyên.
+A. 3.399 chiếc
+B. 3.300 chiếc
+C. 3.597 chiếc
+D. 3.696 chiếc
+
+
+### 3.300 chiếc
+
+Khi biết tổng lượng biến Mᵢ và mức xᵢ, khôi phục số đơn vị fᵢ=Mᵢ/xᵢ. Do đó bình quân bằng tổng M chia tổng M/x; đây là bình quân điều hòa gia quyền. Nếu biết tỷ trọng M thì dùng dᵢ thay Mᵢ vì cùng một hệ số tổng sẽ triệt tiêu.
+
+$$q=q_{I,A}/d_{I,A}+q_{I,B}/d_{I,B}$$
+
+1. Tổng sản phẩm A =1040/0,80=1300.
+
+2. Tổng sản phẩm B =1800/0,90=2000.
+
+3. Tổng =1300+2000=3300 chiếc.
+
+- A: Sai: 3.399 chiếc không khớp 3.300 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- B: Đúng: khớp kết quả 3.300 chiếc.
+
+- C: Sai: 3.597 chiếc không khớp 3.300 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- D: Sai: 3.696 chiếc không khớp 3.300 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+
+Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng.; Đổi đơn vị nhất quán trước khi suy ra số sản phẩm.; Không cộng riêng số loại I rồi coi đó là toàn bộ sản lượng.
+
+Slide: 4:26, 4:42
+
+
+## Câu 12 — G014 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
 Thực tế năm trước của hai doanh nghiệp cùng sản xuất một sản phẩm là 220 và 330 nghìn chiếc; kế hoạch năm nay là 250 và 370 nghìn chiếc. Số tương đối nhiệm vụ kế hoạch của toàn công ty là bao nhiêu? Làm tròn 2 chữ số thập phân.
 A. 116,11 %
@@ -3892,34 +3946,69 @@ Bẫy: Giá thành hoàn thành vượt mức nghĩa giảm so kế hoạch.; N�
 Slide: 4:21, 4:22, 4:23
 
 
-## Câu 16 — G021 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 13 — G018 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Doanh thu của năm năm liên tiếp lần lượt là 100, 125, 145, 175, 200 tỷ đồng. Dự báo doanh thu sau năm cuối 1 năm bằng lượng tăng tuyệt đối bình quân. Làm tròn 2 chữ số thập phân.
-A. 225,00 tỷ đồng
-B. 238,50 tỷ đồng
-C. 245,25 tỷ đồng
-D. 252,00 tỷ đồng
+Doanh thu có ba tốc độ phát triển liên hoàn là 105%, 109%, 113%. Tốc độ tăng bình quân trong ba khoảng thời gian là bao nhiêu? Làm tròn 3 chữ số thập phân.
+A. 9,220 %
+B. 8,951 %
+C. 9,758 %
+D. 10,027 %
 
 
-### 225,00 tỷ đồng
+### 8,951%
+
+Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
+
+$$\bar t=\sqrt[k]{\prod_{i=1}^kt_i};\qquad \bar a=(\bar t-1)100\%$$
+
+1. Đổi về lần: 1,05; 1,09; 1,13.
+
+2. Tích =1,29328500; căn bậc 3 =1,08951048.
+
+3. Trừ 1 và nhân 100: tăng 8,951048% →8,951%.
+
+- A: Sai: 9,220 % không khớp 8,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- B: Đúng: khớp kết quả 8,951%.
+
+- C: Sai: 9,758 % không khớp 8,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- D: Sai: 10,027 % không khớp 8,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+
+Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.
+
+Slide: 7:24, 7:27
+
+
+## Câu 14 — G022 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Doanh thu của năm năm liên tiếp lần lượt là 110, 135, 155, 185, 210 tỷ đồng. Dự báo doanh thu sau năm cuối 2 năm bằng lượng tăng tuyệt đối bình quân. Làm tròn 2 chữ số thập phân.
+A. 267,80 tỷ đồng
+B. 260,00 tỷ đồng
+C. 283,40 tỷ đồng
+D. 291,20 tỷ đồng
+
+
+### 260,00 tỷ đồng
 
 Dự báo từ lượng tăng tuyệt đối bình quân giả định xu hướng cộng một lượng ổn định mỗi kỳ. y₁ và yₙ là mức đầu/cuối; n là số mức quá khứ; L là số kỳ dự báo sau kỳ cuối. Tính lượng tăng bình quân rồi cộng L lần vào mức cuối.
 
 $$\bar\delta=\frac{y_n-y_1}{n-1},\qquad \hat y_{n+L}=y_n+L\bar\delta$$
 
-1. 5 mức quá khứ tạo 4 khoảng; δ̄=(200−100)/4=25,00 tỷ/năm.
+1. 5 mức quá khứ tạo 4 khoảng; δ̄=(210−110)/4=25,00 tỷ/năm.
 
-2. Chân trời dự báo L=1.
+2. Chân trời dự báo L=2.
 
-3. Dự báo =200+1×25,00=225,00 tỷ đồng.
+3. Dự báo =210+2×25,00=260,00 tỷ đồng.
 
-- A: Đúng: khớp kết quả 225,00 tỷ đồng.
+- A: Sai: 267,80 tỷ đồng không khớp 260,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- B: Sai: 238,50 tỷ đồng không khớp 225,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Đúng: khớp kết quả 260,00 tỷ đồng.
 
-- C: Sai: 245,25 tỷ đồng không khớp 225,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Sai: 283,40 tỷ đồng không khớp 260,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- D: Sai: 252,00 tỷ đồng không khớp 225,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- D: Sai: 291,20 tỷ đồng không khớp 260,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
 Bẫy: Dự báo n+2 dùng L=2, không lấy căn hay bình quân phần trăm.; Mẫu số quá khứ n−1, không cộng thêm số kỳ tương lai.
@@ -3927,34 +4016,34 @@ Bẫy: Dự báo n+2 dùng L=2, không lấy căn hay bình quân phần trăm.;
 Slide: 7:21, 9:9, 9:10
 
 
-## Câu 17 — G028 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 15 — G026 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Giá trị sản xuất đầu giai đoạn là 320 tỷ đồng, cuối giai đoạn sau 4 năm là 468,5120 tỷ đồng. Dự báo sau kỳ cuối 2 năm bằng tốc độ phát triển bình quân. Giữ đủ độ chính xác khi tính và làm tròn cuối cùng 3 chữ số thập phân.
-A. 583,907 tỷ đồng
-B. 600,914 tỷ đồng
-C. 617,921 tỷ đồng
-D. 566,900 tỷ đồng
+Giá trị sản xuất đầu giai đoạn là 240 tỷ đồng, cuối giai đoạn sau 4 năm là 351,3840 tỷ đồng. Dự báo sau kỳ cuối 2 năm bằng tốc độ phát triển bình quân. Giữ đủ độ chính xác khi tính và làm tròn cuối cùng 3 chữ số thập phân.
+A. 437,930 tỷ đồng
+B. 425,175 tỷ đồng
+C. 463,440 tỷ đồng
+D. 476,195 tỷ đồng
 
 
-### 566,900 tỷ đồng
+### 425,175 tỷ đồng
 
 Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
 
 $$\bar t=(y_n/y_1)^{1/k},\quad \hat y_{n+L}=y_n\bar t^L$$
 
-1. Có 4 khoảng; t̄=(468,5120/320)^(1/4)=1,1.
+1. Có 4 khoảng; t̄=(351,3840/240)^(1/4)=1,1.
 
-2. Dự báo sau 2 năm =468,5120×1,1²=566,89952000.
+2. Dự báo sau 2 năm =351,3840×1,1²=425,17464000.
 
-3. Kết quả 566,900 tỷ đồng.
+3. Kết quả 425,175 tỷ đồng.
 
-- A: Sai: 583,907 tỷ đồng không khớp 566,900 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Sai: 437,930 tỷ đồng không khớp 425,175 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- B: Sai: 600,914 tỷ đồng không khớp 566,900 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Đúng: khớp kết quả 425,175 tỷ đồng.
 
-- C: Sai: 617,921 tỷ đồng không khớp 566,900 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Sai: 463,440 tỷ đồng không khớp 425,175 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- D: Đúng: khớp kết quả 566,900 tỷ đồng.
+- D: Sai: 476,195 tỷ đồng không khớp 425,175 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
 Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.
@@ -3962,16 +4051,51 @@ Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặ
 Slide: 7:24, 9:11, 9:12
 
 
-## Câu 18 — G035 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 16 — G030 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Phân tổ năng suất có ba khoảng [70;80), [80;100), [100;110), đơn vị sản phẩm/người. Số công nhân tương ứng 20, 50, 30. Ước lượng trung vị theo bảng phân tổ, làm tròn 3 chữ số thập phân.
-A. 94,760 sản phẩm/người
-B. 97,520 sản phẩm/người
-C. 92,000 sản phẩm/người
-D. 103,040 sản phẩm/người
+Tháng có 30 ngày. Số công nhân giữ nguyên: ngày 1–10 là 420 người, ngày 11–22 là 450 người, ngày 23–30 là 440 người. Số công nhân bình quân một ngày là bao nhiêu? Làm tròn 3 chữ số thập phân.
+A. 450,453 người
+B. 437,333 người
+C. 476,693 người
+D. 489,813 người
 
 
-### 92,000 sản phẩm/người
+### 437,333 người
+
+Số công nhân/tồn kho tại một ngày là mức thời điểm. Nếu biết mức giữ nguyên trong từng đoạn, bình quân theo số ngày tồn tại: yᵢ là mức của đoạn, tᵢ là số ngày. Nếu chỉ biết đầu/cuối tháng, giả định biến động đều đặn, lấy nửa tổng hai đầu tháng rồi gia quyền độ dài tháng.
+
+$$\bar y=\frac{\sum y_it_i}{\sum t_i};\qquad \bar y_{\text{tháng}}=\frac{y_{\text{đầu}}+y_{\text{cuối}}}{2}$$
+
+1. Số ngày tương ứng 10,12,8; tổng 30 ngày.
+
+2. Tổng người×ngày =420×10+450×12+440×8=13120.
+
+3. Chia 30 được 437,333333 →437,333 người.
+
+- A: Sai: 450,453 người không khớp 437,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- B: Đúng: khớp kết quả 437,333 người.
+
+- C: Sai: 476,693 người không khớp 437,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- D: Sai: 489,813 người không khớp 437,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+
+Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trước ngày biến động.; Dãy thời điểm không cộng trực tiếp để lấy quy mô quý.
+
+Slide: 7:13, 7:15, 7:16
+
+
+## Câu 17 — G034 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Phân tổ năng suất có ba khoảng [60;70), [70;90), [90;100), đơn vị sản phẩm/người. Số công nhân tương ứng 20, 50, 30. Ước lượng trung vị theo bảng phân tổ, làm tròn 3 chữ số thập phân.
+A. 84,460 sản phẩm/người
+B. 82,000 sản phẩm/người
+C. 89,380 sản phẩm/người
+D. 91,840 sản phẩm/người
+
+
+### 82,000 sản phẩm/người
 
 Trung vị chia số đơn vị thành hai nửa. Với bảng khoảng, tìm tổ có tần số tích lũy lần đầu đạt/vượt N/2, sau đó nội suy đều trong tổ đó. L là cận dưới tổ trung vị, h là độ rộng, F là tần số tích lũy trước tổ, f là tần số của tổ. Đây là ước lượng từ bảng phân tổ, không phải mức chính xác của từng cá nhân.
 
@@ -3979,22 +4103,57 @@ $$Me=L+h\frac{N/2-F}{f}$$
 
 1. N=100; N/2=50; tích lũy 20 rồi 70 nên tổ thứ hai chứa trung vị.
 
-2. L=80; h=20; F=20; f=50.
+2. L=70; h=20; F=20; f=50.
 
-3. Me=80+20×(50−20)/50=92,000.
+3. Me=70+20×(50−20)/50=82,000.
 
-- A: Sai: 94,760 sản phẩm/người không khớp 92,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Sai: 84,460 sản phẩm/người không khớp 82,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- B: Sai: 97,520 sản phẩm/người không khớp 92,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Đúng: khớp kết quả 82,000 sản phẩm/người.
 
-- C: Đúng: khớp kết quả 92,000 sản phẩm/người.
+- C: Sai: 89,380 sản phẩm/người không khớp 82,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- D: Sai: 103,040 sản phẩm/người không khớp 92,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- D: Sai: 91,840 sản phẩm/người không khớp 82,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
 Bẫy: Tổ trung vị dựa tần số tích lũy, không chọn tổ rộng nhất hoặc tần số lớn nhất.; Dùng độ rộng của chính tổ trung vị, không dùng độ rộng của tổ khác.
 
 Slide: 4:61, 4:62, 4:63
+
+
+## Câu 18 — G038 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Tổng chi phí kỳ gốc là 1250 triệu đồng. Kỳ báo cáo tổng chi phí bằng 110% kỳ gốc; sản lượng tăng 16%. Theo thay thế liên hoàn với giá thành kỳ gốc làm quyền số của sản lượng, sản lượng làm tổng chi phí thay đổi bao nhiêu? Làm tròn 2 chữ số thập phân.
+A. 206,00 triệu đồng tăng
+B. 200,00 triệu đồng tăng
+C. 218,00 triệu đồng tăng
+D. 224,00 triệu đồng tăng
+
+
+### 200,00 triệu đồng tăng
+
+Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
+
+$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
+
+1. Giữ giá thành gốc, C₀₁=C₀Iq=1250×1,16=1.450,00.
+
+2. ΔC(q)=C₀₁−C₀=1.450,00−1250=200,00 triệu đồng.
+
+3. Tổng chi phí mới =1.375,00; số này không dùng thay C₀₁ khi tính riêng sản lượng.
+
+- A: Sai: 206,00 triệu đồng tăng không khớp 200,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- B: Đúng: khớp kết quả 200,00 triệu đồng tăng.
+
+- C: Sai: 218,00 triệu đồng tăng không khớp 200,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- D: Sai: 224,00 triệu đồng tăng không khớp 200,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+
+Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.
+
+Slide: 8:71, 8:72, 8:73, 8:74, 8:51
 
 
 ## Câu 19 — G042 — TỰ SINH ĐỂ ĐỦ ĐỀ
@@ -4032,42 +4191,42 @@ Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% 
 Slide: 8:71, 8:72, 8:73, 8:74, 8:51
 
 
-## Câu 20 — G049 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 20 — G046 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Tuổi nghề x (năm) của 5 công nhân là 1,2,3,4,5; năng suất y tương ứng 12,0, 14,0, 16,0, 18,0, 20,0 sản phẩm/ngày. Theo hồi quy tuyến tính đơn, tuổi nghề tăng một năm thì năng suất dự đoán tăng bao nhiêu? Làm tròn 3 chữ số thập phân.
-A. 2,000 sản phẩm/ngày
-B. 2,120 sản phẩm/ngày
-C. 2,180 sản phẩm/ngày
-D. 2,240 sản phẩm/ngày
-
-
-### 2,000 sản phẩm/ngày
-
-Hồi quy tuyến tính đơn ŷ=a+bx theo bình phương bé nhất: x là nguyên nhân, y là kết quả. b đo mức thay đổi y trung bình khi x tăng một đơn vị; a là mức nền dự đoán tại x=0. Tính tổng x,y,x²,xy để có b rồi a; dấu b cho chiều hướng liên hệ.
-
-$$b=\frac{n\sum xy-\sum x\sum y}{n\sum x^2-(\sum x)^2},\quad a=\bar y-b\bar x,\quad \hat y=a+bx$$
-
-1. n=5; Σx=15; Σx²=55; Σy=80,0; Σxy=260,0.
-
-2. b=(5×260,0−15×80,0)/(5×55−15²)=2,000.
-
-3. a=10,0; ŷ=10,0+2,0x; tăng một năm thì y tăng 2,000 sản phẩm/ngày.
-
-- A: Đúng: khớp kết quả 2,000 sản phẩm/ngày.
-
-- B: Sai: 2,120 sản phẩm/ngày không khớp 2,000 sản phẩm/ngày. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- C: Sai: 2,180 sản phẩm/ngày không khớp 2,000 sản phẩm/ngày. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- D: Sai: 2,240 sản phẩm/ngày không khớp 2,000 sản phẩm/ngày. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+Lương tháng kế hoạch là 7,0 triệu đồng/người, thực tế 8,5 triệu đồng/người. Số công nhân kế hoạch 120, thực tế 135. Mức lương một người làm tổng quỹ lương tăng bao nhiêu theo thay thế liên hoàn? Làm tròn 2 chữ số thập phân.
+A. 208,58 triệu đồng
+B. 202,50 triệu đồng
+C. 220,74 triệu đồng
+D. 226,82 triệu đồng
 
 
-Bẫy: Kiểm tra đơn vị một đơn vị x: 1 trong cột “1000 sản phẩm” nghĩa là 1000 sản phẩm.; Hệ số âm cho giảm; khi hỏi giảm bao nhiêu, báo độ lớn dương và nêu dấu hệ số.
+### 202,50 triệu đồng
 
-Slide: 6:14, 6:15, 6:18
+Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
+
+$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
+
+1. Giữ số công nhân thực tế 135: ΔM(x)=(x₁−x₀)T₁.
+
+2. ΔM(x)=(8,5−7,0)×135=202,50 triệu đồng.
+
+3. Số công nhân thay đổi có tác động riêng (T₁−T₀)x₀=105,00, không cộng vào đáp án riêng mức lương.
+
+- A: Sai: 208,58 triệu đồng không khớp 202,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- B: Đúng: khớp kết quả 202,50 triệu đồng.
+
+- C: Sai: 220,74 triệu đồng không khớp 202,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- D: Sai: 226,82 triệu đồng không khớp 202,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
-# Đề 06
+Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.
+
+Slide: 8:71, 8:72, 8:73, 8:74, 8:51
+
+
+# Đề 06 — CÓ CÂU BỔ SUNG
 
 
 ## Câu 1 — R107 — NGUỒN
@@ -4273,331 +4432,81 @@ Bẫy: Phân biệt từ “toàn huyện/toàn thành phố” với “tại v
 Slide: 2:17, 2:18
 
 
-## Câu 7 — R022 — NGUỒN
+## Câu 7 — R145 — NGUỒN
 
-## Ảnh 2 – Câu 6
+### **Câu hỏi 15** (Hình 2)
 
-**Câu 6: Dựa vào nguồn tài liệu sau, tính toán và chọn đáp số đúng?**
+**Tính toán và chọn đáp án đúng:**
 
-Có tài liệu về tình hình tiền lương của công nhân một doanh nghiệp qua 2 tháng như sau:
+| Tuổi nghề (năm) | 1 | 2 | 3 | 4 | 5 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Năng suất lao động (sản phẩm)** | 10 | 12 | 15 | 18 | 24 |
 
-| Phân xưởng | Mức lương 1 công nhân (trđ) | | Kết cấu công nhân (%) | |
-|---|---|---|---|---|
-| | Tháng 9 | Tháng 10 | Tháng 9 | Tháng 10 |
-| A | 6 | 7 | 30 | 40 |
-| B | 8 | 8,5 | 50 | 36 |
-| C | 10 | 12 | 20 | 24 |
+Tuổi nghề là một trong những nhân tố làm ảnh hưởng đến năng suất lao động của công nhân. Bằng số liệu về tuổi nghề và năng suất lao động của công nhân trong một phân xưởng như bảng trên, phương trình hồi qui tuyến tính khi nghiên cứu mối liên hệ giữa tuổi nghề và năng suất lao động là :
+*(Kết quả tính được làm tròn theo quy tắc toán học thông thường)*
 
-Tiền lương bình quân một công nhân toàn doanh nghiệp tháng 9, tháng 10 lần lượt là:
-
-*(Kết quả các phép tính được làm tròn đến 4 chữ số thập phân)*
-
-- A. 7,8 trđ/ng; 8,74 trđ/ng
-- B. 8,7 trđ/ng; 8,47 trđ/ng
-- C. 8,7 trđ/ng; 8,74 trđ/ng
-- D. 7,8 trđ/ng; 8,47 trđ/ng
+*   A y = 5,6 + 4,3x
+*   B y = 5,6 + 3,4x
+*   C y = 6,5 + 3,4x
+*   D y = 6,5 + 4,3x
 
 
-### 7,8 trđ/người; 8,74 trđ/người
+### ŷ=5,6+3,4x
 
-Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
+Hồi quy tuyến tính đơn ŷ=a+bx theo bình phương bé nhất: x là nguyên nhân, y là kết quả. b đo mức thay đổi y trung bình khi x tăng một đơn vị; a là mức nền dự đoán tại x=0. Tính tổng x,y,x²,xy để có b rồi a; dấu b cho chiều hướng liên hệ.
 
-$$\bar x=\frac{\sum x_if_i}{\sum f_i}$$
+$$b=\frac{n\sum xy-\sum x\sum y}{n\sum x^2-(\sum x)^2},\quad a=\bar y-b\bar x,\quad \hat y=a+bx$$
 
-1. Tháng 9 dùng kết cấu tháng 9: (6×30+8×50+10×20)/100=7,8.
+1. n=5; Σx=15; Σy=79; Σx²=55; Σxy=271.
 
-2. Tháng 10 dùng kết cấu tháng 10: (7×40+8,5×36+12×24)/100=8,74.
+2. b=(5×271−15×79)/(5×55−15²)=170/50=3,4.
 
-3. Viết theo 4 chữ số: 7,8000 và 8,7400.
+3. x̄=3; ȳ=15,8; a=15,8−3,4×3=5,6.
 
-- A: Đúng: 7,8 trđ/người; 8,74 trđ/người; khớp sau khi áp dụng quy tắc làm tròn của đề.
+4. Phương trình ŷ=5,6+3,4x: tuổi nghề tăng 1 năm, NSLĐ dự đoán tăng 3,4 sản phẩm.
 
-- B: Không đúng: phương án ghi “8,7 trđ/ng; 8,47 trđ/ng”, trong khi phép tính theo dữ kiện cho 7,8 trđ/người; 8,74 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- A: Không đúng: phương án ghi “y = 5,6 + 4,3x”, trong khi phép tính theo dữ kiện cho ŷ=5,6+3,4x. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-- C: Không đúng: phương án ghi “8,7 trđ/ng; 8,74 trđ/ng”, trong khi phép tính theo dữ kiện cho 7,8 trđ/người; 8,74 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- B: Đúng: ŷ=5,6+3,4x; khớp sau khi áp dụng quy tắc làm tròn của đề.
 
-- D: Không đúng: phương án ghi “7,8 trđ/ng; 8,47 trđ/ng”, trong khi phép tính theo dữ kiện cho 7,8 trđ/người; 8,74 trđ/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- C: Không đúng: phương án ghi “y = 6,5 + 3,4x”, trong khi phép tính theo dữ kiện cho ŷ=5,6+3,4x. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
-
-Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Các tỷ trọng cộng bằng 100; phải chia 100 khi chưa đổi sang tỷ phần.; Không giữ kết cấu tháng 9 để tính bình quân thực tế tháng 10.
-
-Slide: 4:37, 4:38, 4:39
+- D: Không đúng: phương án ghi “y = 6,5 + 4,3x”, trong khi phép tính theo dữ kiện cho ŷ=5,6+3,4x. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
 
 
-## Câu 8 — R049 — NGUỒN
+Bẫy: Kiểm tra đơn vị một đơn vị x: 1 trong cột “1000 sản phẩm” nghĩa là 1000 sản phẩm.; Hệ số âm cho giảm; khi hỏi giảm bao nhiêu, báo độ lớn dương và nêu dấu hệ số.; Không đảo a và b; phương án A giữ đúng a nhưng sai b=4,3.
 
-## **Câu 8:** Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:
-
-Có tài liệu về tình hình sản xuất (1 loại sản phẩm) của tập đoàn X kỳ báo cáo như sau:
-
-| Doanh nghiệp | Số công nhân (người) | Năng suất lao động (sp/người) | Giá thành đơn vị sản phẩm (ngđ/sp) | Mức lương tháng (ngđ/ng) |
-|---|---|---|---|---|
-| A | 150 | 250 | 285 | 5600 |
-| B | 200 | 300 | 275 | 5680 |
-| C | 350 | 280 | 280 | 5650 |
-
-Giá thành đơn vị sản phẩm bình quân của tập đoàn X là:
-*(Kết quả được làm tròn đến chữ số thập phân thứ nhất, theo quy ước làm tròn số toán học)*
-
-A. 279,4 (ngđ/sp)
-B. 276,2 (ngđ/sp)
-C. 277,3 (ngđ/sp)
-D. 280,5 (ngđ/sp)
+Slide: 6:14, 6:15, 6:18
 
 
-### 279,4 ngđ/sản phẩm
+## Câu 8 — G003 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Một doanh nghiệp có ba tổ công nhân A, B, C. Năng suất lao động lần lượt là 46, 62, 70 sản phẩm/người; số công nhân tương ứng là 35, 46, 43 người. Năng suất lao động bình quân một công nhân là bao nhiêu? Làm tròn 3 chữ số thập phân.
+A. 62,066 sản phẩm/người
+B. 63,874 sản phẩm/người
+C. 60,258 sản phẩm/người
+D. 67,490 sản phẩm/người
+
+
+### 60,258 sản phẩm/người
 
 Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
 
 $$\bar x=\frac{\sum x_if_i}{\sum f_i}$$
 
-1. Sản lượng: qA=150×250=37.500; qB=200×300=60.000; qC=350×280=98.000.
+1. Quyền số là số công nhân: f=(35;46;43).
 
-2. Tổng q=195.500 sản phẩm.
+2. Tổng sản phẩm = 46×35+62×46+70×43=7472.
 
-3. Tổng giá thành =285×37.500+275×60.000+280×98.000=54.628.500 ngđ.
+3. Tổng công nhân =124; bình quân =7472/124=60,258065 →60,258.
 
-4. z̄=54.628.500/195.500=279,424552… →279,4.
+- A: Sai: 62,066 sản phẩm/người không khớp 60,258 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- A: Đúng: 279,4 ngđ/sản phẩm; khớp sau khi áp dụng quy tắc làm tròn của đề.
+- B: Sai: 63,874 sản phẩm/người không khớp 60,258 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- B: Không đúng: phương án ghi “276,2 (ngđ/sp)”, trong khi phép tính theo dữ kiện cho 279,4 ngđ/sản phẩm. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
+- C: Đúng: khớp kết quả 60,258 sản phẩm/người.
 
-- C: Không đúng: phương án ghi “277,3 (ngđ/sp)”, trong khi phép tính theo dữ kiện cho 279,4 ngđ/sản phẩm. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Không đúng: phương án ghi “280,5 (ngđ/sp)”, trong khi phép tính theo dữ kiện cho 279,4 ngđ/sản phẩm. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Giá thành bình quân cần quyền số sản lượng; số công nhân chỉ dùng để suy sản lượng.; Mức lương không tham gia câu này.
-
-Slide: 4:37, 4:38, 4:39
-
-
-## Câu 9 — R083 — NGUỒN
-
-**Câu 13:** *(phần đầu trang bị cắt, tiếp nối từ cuối trang trước: "Chọn phương án trả lời đúng nhất.")*
-\<Q>Tình hình sản xuất của một doanh nghiệp trong 3 tháng cuối năm N như sau:
-
-| Chỉ tiêu | Tháng 10 | Tháng 11 | Tháng 12 |
-|---|---|---|---|
-| Giá trị sản xuất thực tế (tỷ đồng) | 120 | 125 | 128 |
-| Tỷ lệ % hoàn thành kế hoạch giá trị sản xuất | 105 | 107 | 110 |
-| Số công nhân đầu tháng | 300 | 310 | 296 |
-
-Biết rằng: *Số công nhân cuối quý IV năm N là 304 người.*
-Tính năng suất lao động bình quân 1 công nhân tháng 10 năm N của doanh nghiệp?
-*(Kết quả tính làm tròn đến số thập phân thứ 2 theo nguyên tắc toán học thông thường)*
-(Chỉ chọn 1 đáp án)
-- A. 1,27 tỉ đồng
-- B. 3,23 tỉ đồng
-- C. 2,42 tỉ đồng
-- D. 0,39 tỉ đồng
-
-
-### 0,39 tỷ đồng/người/tháng
-
-Số công nhân/tồn kho tại một ngày là mức thời điểm. Nếu biết mức giữ nguyên trong từng đoạn, bình quân theo số ngày tồn tại: yᵢ là mức của đoạn, tᵢ là số ngày. Nếu chỉ biết đầu/cuối tháng, giả định biến động đều đặn, lấy nửa tổng hai đầu tháng rồi gia quyền độ dài tháng.
-
-$$\bar T_{10}=\frac{T_{1/10}+T_{1/11}}2,\quad \bar W_{10}=\frac{Q_{10}}{\bar T_{10}}$$
-
-1. Công nhân bình quân tháng 10 =(300+310)/2=305 người, theo giả định đều đặn giữa hai đầu tháng.
-
-2. GTSX tháng 10 =120 tỷ đồng.
-
-3. W̄10=120/305=0,393443… →0,39 tỷ đồng/người.
-
-- A: Không đúng: phương án ghi “1,27 tỉ đồng”, trong khi phép tính theo dữ kiện cho 0,39 tỷ đồng/người/tháng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Không đúng: phương án ghi “3,23 tỉ đồng”, trong khi phép tính theo dữ kiện cho 0,39 tỷ đồng/người/tháng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Không đúng: phương án ghi “2,42 tỉ đồng”, trong khi phép tính theo dữ kiện cho 0,39 tỷ đồng/người/tháng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Đúng: 0,39 tỷ đồng/người/tháng; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-
-Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trước ngày biến động.; Dãy thời điểm không cộng trực tiếp để lấy quy mô quý.; Không dùng tổng GTSX quý vì đề hỏi riêng tháng 10.; Tỷ lệ HTKH không dùng vì cần năng suất thực tế.
-
-Slide: 7:13, 7:15, 7:16
-
-
-## Câu 10 — R106 — NGUỒN
-
-**Câu 6:**
-"Từ nguồn tài liệu sau, tính toán và chọn đáp số đúng?
-Có tài liệu về Doanh thu của một doanh nghiệp như sau:
-
-| Năm | n-5 | n-4 | n-3 | n-2 | n-1 | n |
-|---|---|---|---|---|---|---|
-| Doanh thu (tỷ đồng) | 200 | 250 | 280 | 300 | 320 | 350 |
-
-Dự báo Doanh thu của doanh nghiệp năm (n+3) bằng lượng tăng (giảm) tuyệt đối bình quân là:
-(Chỉ chọn 1 đáp án)
-- A. 470 tỷ đồng
-- B. 450 tỷ đồng
-- C. 440 tỷ đồng
-- D. 410 tỷ đồng"
-
-
-### 440 tỷ đồng
-
-Dự báo từ lượng tăng tuyệt đối bình quân giả định xu hướng cộng một lượng ổn định mỗi kỳ. y₁ và yₙ là mức đầu/cuối; n là số mức quá khứ; L là số kỳ dự báo sau kỳ cuối. Tính lượng tăng bình quân rồi cộng L lần vào mức cuối.
-
-$$\bar\delta=\frac{y_n-y_1}{n-1},\qquad \hat y_{n+L}=y_n+L\bar\delta$$
-
-1. δ̄=(350−200)/(6−1)=30 tỷ/năm.
-
-2. n+3 cách kỳ cuối 3 năm: 350+3×30=440.
-
-- A: Không đúng: phương án ghi “470 tỷ đồng”, trong khi phép tính theo dữ kiện cho 440 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Không đúng: phương án ghi “450 tỷ đồng”, trong khi phép tính theo dữ kiện cho 440 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Đúng: 440 tỷ đồng; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- D: Không đúng: phương án ghi “410 tỷ đồng”, trong khi phép tính theo dữ kiện cho 440 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Dự báo n+2 dùng L=2, không lấy căn hay bình quân phần trăm.; Mẫu số quá khứ n−1, không cộng thêm số kỳ tương lai.
-
-Slide: 7:21, 9:9, 9:10
-
-
-## Câu 11 — R132 — NGUỒN
-
-## CÂU HỎI 8
-
-Dựa vào tài liệu sau, tính toán và chọn đáp án đúng:
-
-Có tài liệu về kết quả sản xuất sản phẩm X của Doanh nghiệp M trong năm báo cáo như sau:
-
-
-| Phân xưởng | Số sản phẩm loại I (chiếc) | Tỷ lệ sản phẩm loại I trong tổng sản phẩm (%) |
-
-|---|---|---|
-
-| A | 125.488 | 88 |
-
-| B | 200.260 | 95 |
-
-| C | 156.793 | 91 |
-
-
-Tổng số sản phẩm X được sản xuất của doanh nghiệp M là:
-
-- A ○ 525.700 (chiếc)
-
-- B ○ 530.860 (chiếc)
-
-- C ○ 515.300 (chiếc)
-
-- D ○ 519.700 (chiếc)
-
-
-### 525.700 chiếc
-
-Tỷ lệ loại I là phần loại I chia tổng số sản phẩm. Khi biết tử số và tỷ lệ, tổng số sản phẩm bằng số loại I chia tỷ lệ theo lần. Tính từng phân xưởng rồi cộng vì cùng sản phẩm X.
-
-$$q_i=\frac{q_{I,i}}{d_{I,i}},\qquad q=\sum_iq_i$$
-
-1. Mỗi phân xưởng: sản phẩm loại I =tỷ lệ loại I×tổng sản phẩm.
-
-2. qA=125.488/0,88=142.600; qB=200.260/0,95=210.800; qC=156.793/0,91=172.300.
-
-3. Tổng q=142.600+210.800+172.300=525.700 chiếc.
-
-- A: Đúng: 525.700 chiếc; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- B: Không đúng: phương án ghi “530.860 (chiếc)”, trong khi phép tính theo dữ kiện cho 525.700 chiếc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Không đúng: phương án ghi “515.300 (chiếc)”, trong khi phép tính theo dữ kiện cho 525.700 chiếc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Không đúng: phương án ghi “519.700 (chiếc)”, trong khi phép tính theo dữ kiện cho 525.700 chiếc. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng.; Đổi đơn vị nhất quán trước khi suy ra số sản phẩm.; Không cộng 125.488+200.260+156.793 rồi gọi là tổng sản phẩm: đó chỉ là tổng loại I.; Không nhân số loại I với tỷ lệ vì cần tìm mẫu số.
-
-Slide: 4:26, 4:42
-
-
-## Câu 12 — R143 — NGUỒN
-
-### **Câu hỏi 3** (Hình 1)
-
-**Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:**
-
-Có tài liệu về FDI của một quốc gia như sau:
-
-| Năm | n-5 | n-4 | n-3 | n-2 | n-1 | n |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **FDI (tỷ USD)** | 32 | 39 | 45 | 52 | 59 | 65 |
-
-FDI của quốc gia này vào năm n+2 khi dự báo bằng phương pháp mô hình hồi quy theo thời gian với điều kiện với tổng t bằng 0 ($\sum t = 0$) là:
-*(Kết quả được làm tròn đến phần nguyên theo quy tắc toán học thông thường)*
-
-*   A 91 tỷ USD
-*   B 85 tỷ USD
-*   C 74 tỷ USD
-*   D 78 tỷ USD
-
-
-### 78 tỷ USD
-
-Hàm xu thế tuyến tính ŷ=a+bt dùng thời gian t. Khi Σt=0, a=Σy/n và b=Σty/Σt². Với số năm chẵn, thường mã hóa t=−(n−1),…,−1,1,…,(n−1), bước 2 mỗi năm; t tương lai phải tiếp tục bước 2.
-
-$$\sum t=0:\quad a=\frac{\sum y}{n},\quad b=\frac{\sum ty}{\sum t^2},\quad \hat y=a+bt$$
-
-1. 6 năm nên chọn t=−5,−3,−1,1,3,5 (bước 2); tổng t=0.
-
-2. Σy=292; a=292/6=48,666667.
-
-3. Σty=232; Σt²=70; b=232/70=3,314286.
-
-4. Năm n có t=5, n+2 có t=9.
-
-5. Dự báo =48,666667+3,314286×9=78,495238…; làm tròn phần nguyên 78.
-
-- A: Không đúng: phương án ghi “91 tỷ USD”, trong khi phép tính theo dữ kiện cho 78 tỷ USD. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Không đúng: phương án ghi “85 tỷ USD”, trong khi phép tính theo dữ kiện cho 78 tỷ USD. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Không đúng: phương án ghi “74 tỷ USD”, trong khi phép tính theo dữ kiện cho 78 tỷ USD. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Đúng: 78 tỷ USD; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-
-Bẫy: Không dùng mã t có bước 2 nhưng lại tăng t tương lai bước 1.; Không đồng nhất b với mức tăng mỗi năm nếu t bước 2: mỗi năm tăng 2b.; 78,495 chưa đạt 78,5 nên làm tròn nguyên 78; không làm tròn trung gian 78,50 rồi lên 79.
-
-Slide: 9:13, 9:16, 9:17, 9:18
-
-
-## Câu 13 — G001 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Một doanh nghiệp có ba tổ công nhân A, B, C. Năng suất lao động lần lượt là 42, 56, 68 sản phẩm/người; số công nhân tương ứng là 25, 40, 35 người. Năng suất lao động bình quân một công nhân là bao nhiêu? Làm tròn 3 chữ số thập phân.
-A. 56,700 sản phẩm/người
-B. 60,102 sản phẩm/người
-C. 61,803 sản phẩm/người
-D. 63,504 sản phẩm/người
-
-
-### 56,700 sản phẩm/người
-
-Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
-
-$$\bar x=\frac{\sum x_if_i}{\sum f_i}$$
-
-1. Quyền số là số công nhân: f=(25;40;35).
-
-2. Tổng sản phẩm = 42×25+56×40+68×35=5670.
-
-3. Tổng công nhân =100; bình quân =5670/100=56,700000 →56,700.
-
-- A: Đúng: khớp kết quả 56,700 sản phẩm/người.
-
-- B: Sai: 60,102 sản phẩm/người không khớp 56,700 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- C: Sai: 61,803 sản phẩm/người không khớp 56,700 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
-
-- D: Sai: 63,504 sản phẩm/người không khớp 56,700 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- D: Sai: 67,490 sản phẩm/người không khớp 60,258 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
 Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.
@@ -4605,34 +4514,34 @@ Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác
 Slide: 4:37, 4:38, 4:39
 
 
-## Câu 14 — G008 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 9 — G007 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Hai phân xưởng có mức lương một công nhân là 8 và 11 triệu đồng/người; tổng quỹ lương tương ứng là 360 và 572 triệu đồng. Tính lương bình quân toàn doanh nghiệp, làm tròn 3 chữ số thập phân.
-A. 9,896 triệu đồng/người
-B. 10,184 triệu đồng/người
-C. 10,472 triệu đồng/người
-D. 9,608 triệu đồng/người
+Hai phân xưởng có mức lương một công nhân là 7 và 10 triệu đồng/người; tổng quỹ lương tương ứng là 280 và 480 triệu đồng. Tính lương bình quân toàn doanh nghiệp, làm tròn 3 chữ số thập phân.
+A. 8,895 triệu đồng/người
+B. 9,154 triệu đồng/người
+C. 8,636 triệu đồng/người
+D. 9,672 triệu đồng/người
 
 
-### 9,608 triệu đồng/người
+### 8,636 triệu đồng/người
 
 Khi biết tổng lượng biến Mᵢ và mức xᵢ, khôi phục số đơn vị fᵢ=Mᵢ/xᵢ. Do đó bình quân bằng tổng M chia tổng M/x; đây là bình quân điều hòa gia quyền. Nếu biết tỷ trọng M thì dùng dᵢ thay Mᵢ vì cùng một hệ số tổng sẽ triệt tiêu.
 
 $$\bar x=\frac{\sum M_i}{\sum(M_i/x_i)}=\frac{\sum d_i}{\sum(d_i/x_i)}$$
 
-1. Khôi phục số công nhân: 360/8=45; 572/11=52.
+1. Khôi phục số công nhân: 280/7=40; 480/10=48.
 
-2. Tổng quỹ lương =932; tổng công nhân =97.
+2. Tổng quỹ lương =760; tổng công nhân =88.
 
-3. Bình quân =932/97=9,608247 →9,608.
+3. Bình quân =760/88=8,636364 →8,636.
 
-- A: Sai: 9,896 triệu đồng/người không khớp 9,608 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Sai: 8,895 triệu đồng/người không khớp 8,636 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- B: Sai: 10,184 triệu đồng/người không khớp 9,608 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Sai: 9,154 triệu đồng/người không khớp 8,636 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Sai: 10,472 triệu đồng/người không khớp 9,608 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Đúng: khớp kết quả 8,636 triệu đồng/người.
 
-- D: Đúng: khớp kết quả 9,608 triệu đồng/người.
+- D: Sai: 9,672 triệu đồng/người không khớp 8,636 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
 Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng.; Đổi đơn vị nhất quán trước khi suy ra số sản phẩm.
@@ -4640,7 +4549,42 @@ Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng
 Slide: 4:42, 4:45
 
 
-## Câu 15 — G015 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 10 — G011 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Số sản phẩm loại I của phân xưởng A là 1120 chiếc, chiếm 80% tổng sản phẩm A; của B là 1980 chiếc, chiếm 90% tổng sản phẩm B. Hai phân xưởng cùng sản xuất một loại sản phẩm. Tổng sản lượng là bao nhiêu? Làm tròn phần nguyên.
+A. 3.708 chiếc
+B. 3.816 chiếc
+C. 3.600 chiếc
+D. 4.032 chiếc
+
+
+### 3.600 chiếc
+
+Khi biết tổng lượng biến Mᵢ và mức xᵢ, khôi phục số đơn vị fᵢ=Mᵢ/xᵢ. Do đó bình quân bằng tổng M chia tổng M/x; đây là bình quân điều hòa gia quyền. Nếu biết tỷ trọng M thì dùng dᵢ thay Mᵢ vì cùng một hệ số tổng sẽ triệt tiêu.
+
+$$q=q_{I,A}/d_{I,A}+q_{I,B}/d_{I,B}$$
+
+1. Tổng sản phẩm A =1120/0,80=1400.
+
+2. Tổng sản phẩm B =1980/0,90=2200.
+
+3. Tổng =1400+2200=3600 chiếc.
+
+- A: Sai: 3.708 chiếc không khớp 3.600 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- B: Sai: 3.816 chiếc không khớp 3.600 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- C: Đúng: khớp kết quả 3.600 chiếc.
+
+- D: Sai: 4.032 chiếc không khớp 3.600 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+
+Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng.; Đổi đơn vị nhất quán trước khi suy ra số sản phẩm.; Không cộng riêng số loại I rồi coi đó là toàn bộ sản lượng.
+
+Slide: 4:26, 4:42
+
+
+## Câu 11 — G015 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
 Thực tế năm trước của hai doanh nghiệp cùng sản xuất một sản phẩm là 240 và 360 nghìn chiếc; kế hoạch năm nay là 270 và 400 nghìn chiếc. Số tương đối nhiệm vụ kế hoạch của toàn công ty là bao nhiêu? Làm tròn 2 chữ số thập phân.
 A. 115,02 %
@@ -4675,34 +4619,69 @@ Bẫy: Giá thành hoàn thành vượt mức nghĩa giảm so kế hoạch.; N�
 Slide: 4:21, 4:22, 4:23
 
 
-## Câu 16 — G022 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 12 — G019 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Doanh thu của năm năm liên tiếp lần lượt là 110, 135, 155, 185, 210 tỷ đồng. Dự báo doanh thu sau năm cuối 2 năm bằng lượng tăng tuyệt đối bình quân. Làm tròn 2 chữ số thập phân.
-A. 267,80 tỷ đồng
-B. 260,00 tỷ đồng
-C. 283,40 tỷ đồng
-D. 291,20 tỷ đồng
+Doanh thu có ba tốc độ phát triển liên hoàn là 106%, 110%, 114%. Tốc độ tăng bình quân trong ba khoảng thời gian là bao nhiêu? Làm tròn 3 chữ số thập phân.
+A. 10,250 %
+B. 10,549 %
+C. 9,951 %
+D. 11,147 %
 
 
-### 260,00 tỷ đồng
+### 9,951%
+
+Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
+
+$$\bar t=\sqrt[k]{\prod_{i=1}^kt_i};\qquad \bar a=(\bar t-1)100\%$$
+
+1. Đổi về lần: 1,06; 1,10; 1,14.
+
+2. Tích =1,32924000; căn bậc 3 =1,09951494.
+
+3. Trừ 1 và nhân 100: tăng 9,951494% →9,951%.
+
+- A: Sai: 10,250 % không khớp 9,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- B: Sai: 10,549 % không khớp 9,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- C: Đúng: khớp kết quả 9,951%.
+
+- D: Sai: 11,147 % không khớp 9,951%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+
+Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.
+
+Slide: 7:24, 7:27
+
+
+## Câu 13 — G023 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Doanh thu của năm năm liên tiếp lần lượt là 120, 145, 165, 195, 220 tỷ đồng. Dự báo doanh thu sau năm cuối 3 năm bằng lượng tăng tuyệt đối bình quân. Làm tròn 2 chữ số thập phân.
+A. 303,85 tỷ đồng
+B. 312,70 tỷ đồng
+C. 295,00 tỷ đồng
+D. 330,40 tỷ đồng
+
+
+### 295,00 tỷ đồng
 
 Dự báo từ lượng tăng tuyệt đối bình quân giả định xu hướng cộng một lượng ổn định mỗi kỳ. y₁ và yₙ là mức đầu/cuối; n là số mức quá khứ; L là số kỳ dự báo sau kỳ cuối. Tính lượng tăng bình quân rồi cộng L lần vào mức cuối.
 
 $$\bar\delta=\frac{y_n-y_1}{n-1},\qquad \hat y_{n+L}=y_n+L\bar\delta$$
 
-1. 5 mức quá khứ tạo 4 khoảng; δ̄=(210−110)/4=25,00 tỷ/năm.
+1. 5 mức quá khứ tạo 4 khoảng; δ̄=(220−120)/4=25,00 tỷ/năm.
 
-2. Chân trời dự báo L=2.
+2. Chân trời dự báo L=3.
 
-3. Dự báo =210+2×25,00=260,00 tỷ đồng.
+3. Dự báo =220+3×25,00=295,00 tỷ đồng.
 
-- A: Sai: 267,80 tỷ đồng không khớp 260,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Sai: 303,85 tỷ đồng không khớp 295,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- B: Đúng: khớp kết quả 260,00 tỷ đồng.
+- B: Sai: 312,70 tỷ đồng không khớp 295,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Sai: 283,40 tỷ đồng không khớp 260,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Đúng: khớp kết quả 295,00 tỷ đồng.
 
-- D: Sai: 291,20 tỷ đồng không khớp 260,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- D: Sai: 330,40 tỷ đồng không khớp 295,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
 Bẫy: Dự báo n+2 dùng L=2, không lấy căn hay bình quân phần trăm.; Mẫu số quá khứ n−1, không cộng thêm số kỳ tương lai.
@@ -4710,16 +4689,51 @@ Bẫy: Dự báo n+2 dùng L=2, không lấy căn hay bình quân phần trăm.;
 Slide: 7:21, 9:9, 9:10
 
 
-## Câu 17 — G029 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 14 — G027 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Tháng có 30 ngày. Số công nhân giữ nguyên: ngày 1–10 là 400 người, ngày 11–22 là 430 người, ngày 23–30 là 420 người. Số công nhân bình quân một ngày là bao nhiêu? Làm tròn 3 chữ số thập phân.
-A. 417,333 người
-B. 442,373 người
-C. 454,893 người
-D. 467,413 người
+Giá trị sản xuất đầu giai đoạn là 280 tỷ đồng, cuối giai đoạn sau 4 năm là 409,9480 tỷ đồng. Dự báo sau kỳ cuối 2 năm bằng tốc độ phát triển bình quân. Giữ đủ độ chính xác khi tính và làm tròn cuối cùng 3 chữ số thập phân.
+A. 510,918 tỷ đồng
+B. 525,799 tỷ đồng
+C. 496,037 tỷ đồng
+D. 555,561 tỷ đồng
 
 
-### 417,333 người
+### 496,037 tỷ đồng
+
+Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
+
+$$\bar t=(y_n/y_1)^{1/k},\quad \hat y_{n+L}=y_n\bar t^L$$
+
+1. Có 4 khoảng; t̄=(409,9480/280)^(1/4)=1,1.
+
+2. Dự báo sau 2 năm =409,9480×1,1²=496,03708000.
+
+3. Kết quả 496,037 tỷ đồng.
+
+- A: Sai: 510,918 tỷ đồng không khớp 496,037 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- B: Sai: 525,799 tỷ đồng không khớp 496,037 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- C: Đúng: khớp kết quả 496,037 tỷ đồng.
+
+- D: Sai: 555,561 tỷ đồng không khớp 496,037 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+
+Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.
+
+Slide: 7:24, 9:11, 9:12
+
+
+## Câu 15 — G031 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Tháng có 30 ngày. Số công nhân giữ nguyên: ngày 1–10 là 440 người, ngày 11–22 là 470 người, ngày 23–30 là 460 người. Số công nhân bình quân một ngày là bao nhiêu? Làm tròn 3 chữ số thập phân.
+A. 471,053 người
+B. 484,773 người
+C. 457,333 người
+D. 512,213 người
+
+
+### 457,333 người
 
 Số công nhân/tồn kho tại một ngày là mức thời điểm. Nếu biết mức giữ nguyên trong từng đoạn, bình quân theo số ngày tồn tại: yᵢ là mức của đoạn, tᵢ là số ngày. Nếu chỉ biết đầu/cuối tháng, giả định biến động đều đặn, lấy nửa tổng hai đầu tháng rồi gia quyền độ dài tháng.
 
@@ -4727,17 +4741,17 @@ $$\bar y=\frac{\sum y_it_i}{\sum t_i};\qquad \bar y_{\text{tháng}}=\frac{y_{\te
 
 1. Số ngày tương ứng 10,12,8; tổng 30 ngày.
 
-2. Tổng người×ngày =400×10+430×12+420×8=12520.
+2. Tổng người×ngày =440×10+470×12+460×8=13720.
 
-3. Chia 30 được 417,333333 →417,333 người.
+3. Chia 30 được 457,333333 →457,333 người.
 
-- A: Đúng: khớp kết quả 417,333 người.
+- A: Sai: 471,053 người không khớp 457,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- B: Sai: 442,373 người không khớp 417,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Sai: 484,773 người không khớp 457,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Sai: 454,893 người không khớp 417,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Đúng: khớp kết quả 457,333 người.
 
-- D: Sai: 467,413 người không khớp 417,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- D: Sai: 512,213 người không khớp 457,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
 Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trước ngày biến động.; Dãy thời điểm không cộng trực tiếp để lấy quy mô quý.
@@ -4745,16 +4759,16 @@ Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trư�
 Slide: 7:13, 7:15, 7:16
 
 
-## Câu 18 — G036 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 16 — G035 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Phân tổ năng suất có ba khoảng [80;90), [90;110), [110;120), đơn vị sản phẩm/người. Số công nhân tương ứng 20, 50, 30. Ước lượng trung vị theo bảng phân tổ, làm tròn 3 chữ số thập phân.
-A. 105,060 sản phẩm/người
-B. 108,120 sản phẩm/người
-C. 111,180 sản phẩm/người
-D. 102,000 sản phẩm/người
+Phân tổ năng suất có ba khoảng [70;80), [80;100), [100;110), đơn vị sản phẩm/người. Số công nhân tương ứng 20, 50, 30. Ước lượng trung vị theo bảng phân tổ, làm tròn 3 chữ số thập phân.
+A. 94,760 sản phẩm/người
+B. 97,520 sản phẩm/người
+C. 92,000 sản phẩm/người
+D. 103,040 sản phẩm/người
 
 
-### 102,000 sản phẩm/người
+### 92,000 sản phẩm/người
 
 Trung vị chia số đơn vị thành hai nửa. Với bảng khoảng, tìm tổ có tần số tích lũy lần đầu đạt/vượt N/2, sau đó nội suy đều trong tổ đó. L là cận dưới tổ trung vị, h là độ rộng, F là tần số tích lũy trước tổ, f là tần số của tổ. Đây là ước lượng từ bảng phân tổ, không phải mức chính xác của từng cá nhân.
 
@@ -4762,17 +4776,17 @@ $$Me=L+h\frac{N/2-F}{f}$$
 
 1. N=100; N/2=50; tích lũy 20 rồi 70 nên tổ thứ hai chứa trung vị.
 
-2. L=90; h=20; F=20; f=50.
+2. L=80; h=20; F=20; f=50.
 
-3. Me=90+20×(50−20)/50=102,000.
+3. Me=80+20×(50−20)/50=92,000.
 
-- A: Sai: 105,060 sản phẩm/người không khớp 102,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Sai: 94,760 sản phẩm/người không khớp 92,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- B: Sai: 108,120 sản phẩm/người không khớp 102,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Sai: 97,520 sản phẩm/người không khớp 92,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Sai: 111,180 sản phẩm/người không khớp 102,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Đúng: khớp kết quả 92,000 sản phẩm/người.
 
-- D: Đúng: khớp kết quả 102,000 sản phẩm/người.
+- D: Sai: 103,040 sản phẩm/người không khớp 92,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
 Bẫy: Tổ trung vị dựa tần số tích lũy, không chọn tổ rộng nhất hoặc tần số lớn nhất.; Dùng độ rộng của chính tổ trung vị, không dùng độ rộng của tổ khác.
@@ -4780,7 +4794,42 @@ Bẫy: Tổ trung vị dựa tần số tích lũy, không chọn tổ rộng nh
 Slide: 4:61, 4:62, 4:63
 
 
-## Câu 19 — G043 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 17 — G039 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Tổng chi phí kỳ gốc là 1500 triệu đồng. Kỳ báo cáo tổng chi phí bằng 112% kỳ gốc; sản lượng tăng 17%. Theo thay thế liên hoàn với giá thành kỳ gốc làm quyền số của sản lượng, sản lượng làm tổng chi phí thay đổi bao nhiêu? Làm tròn 2 chữ số thập phân.
+A. 262,65 triệu đồng tăng
+B. 270,30 triệu đồng tăng
+C. 255,00 triệu đồng tăng
+D. 285,60 triệu đồng tăng
+
+
+### 255,00 triệu đồng tăng
+
+Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
+
+$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
+
+1. Giữ giá thành gốc, C₀₁=C₀Iq=1500×1,17=1.755,00.
+
+2. ΔC(q)=C₀₁−C₀=1.755,00−1500=255,00 triệu đồng.
+
+3. Tổng chi phí mới =1.680,00; số này không dùng thay C₀₁ khi tính riêng sản lượng.
+
+- A: Sai: 262,65 triệu đồng tăng không khớp 255,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- B: Sai: 270,30 triệu đồng tăng không khớp 255,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- C: Đúng: khớp kết quả 255,00 triệu đồng tăng.
+
+- D: Sai: 285,60 triệu đồng tăng không khớp 255,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+
+Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.
+
+Slide: 8:71, 8:72, 8:73, 8:74, 8:51
+
+
+## Câu 18 — G043 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
 Tổng giá thành kỳ báo cáo của sản phẩm A, B lần lượt là 600 và 840 triệu đồng. Giá thành đơn vị A tăng 10%, B giảm 10% so kỳ gốc. Với sản lượng kỳ báo cáo làm quyền số, giá thành chung giảm bao nhiêu phần trăm? Làm tròn cuối cùng 3 chữ số thập phân.
 A. 2,702 %
@@ -4815,34 +4864,69 @@ Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% 
 Slide: 8:71, 8:72, 8:73, 8:74, 8:51
 
 
-## Câu 20 — G050 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 19 — G047 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Tuổi nghề x (năm) của 5 công nhân là 1,2,3,4,5; năng suất y tương ứng 14,5, 17,0, 19,5, 22,0, 24,5 sản phẩm/ngày. Theo hồi quy tuyến tính đơn, tuổi nghề tăng một năm thì năng suất dự đoán tăng bao nhiêu? Làm tròn 3 chữ số thập phân.
-A. 2,575 sản phẩm/ngày
-B. 2,500 sản phẩm/ngày
-C. 2,725 sản phẩm/ngày
-D. 2,800 sản phẩm/ngày
+Lương tháng kế hoạch là 8,0 triệu đồng/người, thực tế 9,5 triệu đồng/người. Số công nhân kế hoạch 140, thực tế 155. Mức lương một người làm tổng quỹ lương tăng bao nhiêu theo thay thế liên hoàn? Làm tròn 2 chữ số thập phân.
+A. 239,48 triệu đồng
+B. 246,46 triệu đồng
+C. 232,50 triệu đồng
+D. 260,42 triệu đồng
 
 
-### 2,500 sản phẩm/ngày
+### 232,50 triệu đồng
+
+Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
+
+$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
+
+1. Giữ số công nhân thực tế 155: ΔM(x)=(x₁−x₀)T₁.
+
+2. ΔM(x)=(9,5−8,0)×155=232,50 triệu đồng.
+
+3. Số công nhân thay đổi có tác động riêng (T₁−T₀)x₀=120,00, không cộng vào đáp án riêng mức lương.
+
+- A: Sai: 239,48 triệu đồng không khớp 232,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- B: Sai: 246,46 triệu đồng không khớp 232,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- C: Đúng: khớp kết quả 232,50 triệu đồng.
+
+- D: Sai: 260,42 triệu đồng không khớp 232,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+
+Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.
+
+Slide: 8:71, 8:72, 8:73, 8:74, 8:51
+
+
+## Câu 20 — G049 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Tuổi nghề x (năm) của 5 công nhân là 1,2,3,4,5; năng suất y tương ứng 12,0, 14,0, 16,0, 18,0, 20,0 sản phẩm/ngày. Theo hồi quy tuyến tính đơn, tuổi nghề tăng một năm thì năng suất dự đoán tăng bao nhiêu? Làm tròn 3 chữ số thập phân.
+A. 2,000 sản phẩm/ngày
+B. 2,120 sản phẩm/ngày
+C. 2,180 sản phẩm/ngày
+D. 2,240 sản phẩm/ngày
+
+
+### 2,000 sản phẩm/ngày
 
 Hồi quy tuyến tính đơn ŷ=a+bx theo bình phương bé nhất: x là nguyên nhân, y là kết quả. b đo mức thay đổi y trung bình khi x tăng một đơn vị; a là mức nền dự đoán tại x=0. Tính tổng x,y,x²,xy để có b rồi a; dấu b cho chiều hướng liên hệ.
 
 $$b=\frac{n\sum xy-\sum x\sum y}{n\sum x^2-(\sum x)^2},\quad a=\bar y-b\bar x,\quad \hat y=a+bx$$
 
-1. n=5; Σx=15; Σx²=55; Σy=97,5; Σxy=317,5.
+1. n=5; Σx=15; Σx²=55; Σy=80,0; Σxy=260,0.
 
-2. b=(5×317,5−15×97,5)/(5×55−15²)=2,500.
+2. b=(5×260,0−15×80,0)/(5×55−15²)=2,000.
 
-3. a=12,0; ŷ=12,0+2,5x; tăng một năm thì y tăng 2,500 sản phẩm/ngày.
+3. a=10,0; ŷ=10,0+2,0x; tăng một năm thì y tăng 2,000 sản phẩm/ngày.
 
-- A: Sai: 2,575 sản phẩm/ngày không khớp 2,500 sản phẩm/ngày. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Đúng: khớp kết quả 2,000 sản phẩm/ngày.
 
-- B: Đúng: khớp kết quả 2,500 sản phẩm/ngày.
+- B: Sai: 2,120 sản phẩm/ngày không khớp 2,000 sản phẩm/ngày. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Sai: 2,725 sản phẩm/ngày không khớp 2,500 sản phẩm/ngày. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Sai: 2,180 sản phẩm/ngày không khớp 2,000 sản phẩm/ngày. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- D: Sai: 2,800 sản phẩm/ngày không khớp 2,500 sản phẩm/ngày. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- D: Sai: 2,240 sản phẩm/ngày không khớp 2,000 sản phẩm/ngày. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
 
 Bẫy: Kiểm tra đơn vị một đơn vị x: 1 trong cột “1000 sản phẩm” nghĩa là 1000 sản phẩm.; Hệ số âm cho giảm; khi hỏi giảm bao nhiêu, báo độ lớn dương và nêu dấu hệ số.
@@ -4850,7 +4934,7 @@ Bẫy: Kiểm tra đơn vị một đơn vị x: 1 trong cột “1000 sản ph�
 Slide: 6:14, 6:15, 6:18
 
 
-# Đề 07
+# Đề 07 — CÓ CÂU BỔ SUNG
 
 
 ## Câu 1 — R124 — NGUỒN
@@ -5091,328 +5175,34 @@ Bẫy: Câu hỏi là không áp dụng, cần chọn trường hợp thiếu t�
 Slide: 8:102, 8:103, 8:104
 
 
-## Câu 7 — R023 — NGUỒN
+## Câu 7 — G004 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-## Ảnh 3
+Một doanh nghiệp có ba tổ công nhân A, B, C. Năng suất lao động lần lượt là 48, 65, 71 sản phẩm/người; số công nhân tương ứng là 40, 49, 47 người. Năng suất lao động bình quân một công nhân là bao nhiêu? Làm tròn 3 chữ số thập phân.
+A. 63,936 sản phẩm/người
+B. 65,798 sản phẩm/người
+C. 67,660 sản phẩm/người
+D. 62,074 sản phẩm/người
 
-Có tài liệu về lao động và kết quả sản xuất ở 1 DN công nghiệp có tài liệu như sau.
 
-Về kết quả sản xuất:
-- Giá trị sản xuất (GTSX) năm 2015 là 250 (tỷ đồng)
-- Tốc độ tăng GTSX bình quân hàng năm kể từ năm 2015 – 2021 là 8%
-
-Biết rằng số công nhân viên trong danh sách bình quân năm 21 là 990 công nhân và tăng 10% so với năm 2015
-
-*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)*
-
-**Giá trị sản xuất toàn doanh nghiệp năm 2021 là:**
-
-- <a>386,72 tỷ đồng</a>
-- <b>396,72 tỷ đồng</b>
-- 406,72 tỷ đồng
-- 416,72 tỷ đồng
-
-
-### 396,72 tỷ đồng
-
-Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
-
-$$Q_{2021}=Q_{2015}(1+\bar a)^6$$
-
-1. 2015 đến 2021 có 2021−2015=6 khoảng tăng.
-
-2. Tốc độ phát triển bình quân =1+8%=1,08.
-
-3. Q₂₀₂₁=250×1,08⁶=396,718580736 →396,72 tỷ đồng.
-
-- A: Không đúng: phương án ghi “386,72 tỷ đồng”, trong khi phép tính theo dữ kiện cho 396,72 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Đúng: 396,72 tỷ đồng; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- C: Không đúng: phương án ghi “406,72 tỷ đồng”, trong khi phép tính theo dữ kiện cho 396,72 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Không đúng: phương án ghi “416,72 tỷ đồng”, trong khi phép tính theo dữ kiện cho 396,72 tỷ đồng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.; Số công nhân 990 và tăng 10% không cần dùng để tính trực tiếp GTSX này.
-
-Slide: 7:24, 7:27
-
-
-## Câu 8 — R050 — NGUỒN
-
-## **Câu (không rõ số):** (từ ảnh cuối)
-
-Bảng dữ liệu:
-
-| Tên sản phẩm | Tổng thời gian dùng vào SX kỳ nghiên cứu (giờ) | Chỉ số sản lượng (Iq) (lần) | Chỉ số NSLĐ (Iw) (lần) |
-|---|---|---|---|
-| A | 1.000 | 1,1 | 1,3 |
-| B | 1.200 | 1,2 | 1,05 |
-
-*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)*
-
-Năng suất lao động theo giờ toàn doanh nghiệp kỳ nghiên cứu so với kỳ gốc tăng:
-
-- a) 16,36%
-- b) 26,36%
-- 36,36%
-- 46,36%
-
-
-### tăng 16,36%
-
-NSLĐ theo giờ là sản lượng trên giờ; hao phí một sản phẩm là nghịch đảo NSLĐ. Với sản phẩm khác loại, chỉ số chung dùng tổng thời gian làm quyền số để đồng nhất hóa, không lấy trung bình giản đơn các chỉ số NSLĐ.
-
-$$I_w=\frac{\sum t_0q_1}{\sum t_1q_1}=\frac{\sum T_{1i}i_{wi}}{\sum T_{1i}}$$
-
-1. NSLĐ w=q/T; hao phí t=1/w, nên iₜ=1/iw.
-
-2. Tổng thời gian mới T₁=1.000+1.200=2.200.
-
-3. Thời gian giả định theo NSLĐ gốc và sản lượng mới T₀₁=ΣT₁ᵢiwᵢ=1.000×1,3+1.200×1,05=2.560.
-
-4. Chỉ số NSLĐ chung Iw=T₀₁/T₁=2.560/2.200=1,163636… →1,1636; tăng 16,36%.
-
-- A: Đúng: tăng 16,36%; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- B: Không đúng: phương án ghi “26,36%”, trong khi phép tính theo dữ kiện cho tăng 16,36%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Không đúng: phương án ghi “36,36%”, trong khi phép tính theo dữ kiện cho tăng 16,36%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Không đúng: phương án ghi “46,36%”, trong khi phép tính theo dữ kiện cho tăng 16,36%. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Chỉ số sản lượng 1,1 và 1,2 không cần để tính Iw với quyền số sản lượng kỳ nghiên cứu.
-
-Slide: 8:71, 8:72, 8:73, 8:74, 8:51
-
-
-## Câu 9 — R085 — NGUỒN
-
-**Câu 14:**
-Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:
-Có tài liệu thu thập được tại một doanh nghiệp như sau:
-
-| Năng suất lao động (kg/người) | Số công nhân (người) |
-|---|---|
-| Dưới 50 | 40 |
-| 50 - 75 | 100 |
-| 75 - 100 | 250 |
-| 100 - 110 | 550 |
-| 110 - 130 | 350 |
-| 130 - 140 | 150 |
-| Trên 140 | 60 |
-
-Trị số khoảng cách tổ của tổ cuối cùng được tính theo quy ước là:
-(Chỉ chọn 1 đáp án)
-- A. 25 (kg/người)
-- B. 20 (kg/người)
-- C. 10 (kg/người)
-- D. 15 (kg/người)
-
-
-### 10 kg/người
-
-Tổ mở đầu hoặc cuối không đủ hai giới hạn. Khi tính các đại lượng cần độ rộng hoặc trị số giữa tổ, quy ước lấy độ rộng của tổ mở bằng tổ đứng liền kề. Đây là quy ước tính toán, không khẳng định mọi người thực tế thuộc khoảng giả định.
-
-$$h=x_{\max}-x_{\min},\qquad h_{\text{cuối}}=140-130=10$$
-
-1. Tổ cuối mở “Trên 140” thiếu cận trên.
-
-2. Theo quy ước tổ mở, lấy khoảng cách bằng tổ liền kề: tổ 130–140 có h=140−130=10.
-
-3. Nếu cần đại diện tổ cuối sẽ giả định 140–150, trung điểm 145; câu chỉ hỏi h=10.
-
-- A: Không đúng: phương án ghi “25 (kg/người)”, trong khi phép tính theo dữ kiện cho 10 kg/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Không đúng: phương án ghi “20 (kg/người)”, trong khi phép tính theo dữ kiện cho 10 kg/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Đúng: 10 kg/người; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- D: Không đúng: phương án ghi “15 (kg/người)”, trong khi phép tính theo dữ kiện cho 10 kg/người. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.; Không lấy 20 từ tổ 110–130 vì đó không phải tổ liền kề cuối.; Số công nhân không quyết định độ rộng tổ mở.
-
-Slide: 3:25, 3:30
-
-
-## Câu 10 — R114 — NGUỒN
-
-## Câu 7:
-**Từ nguồn tài liệu sau, tính toán và chọn đáp số đúng?**
-Có tài liệu dưới đây về doanh nghiệp M như sau:
-
-| Chỉ tiêu | Tháng 1 | Tháng 2 | Tháng 3 | Tháng 4 |
-|---|---|---|---|---|
-| Giá trị sản xuất thực tế (tỷđồng) | 40 | 42 | 42,8 | - |
-| Số công nhân có ở ngày đầu tháng (người) | 300 | 304 | 304 | 308 |
-| Tỷ lệ hoàn thành kế hoạch về giá trị sản xuất (%) | 102 | 105 | 108 | - |
-
-Năng suất lao động bình quân trong quý I (NSBQ quí) là:
-*(Kết quả tính được làm tròn đến 4 chữ số thập phân; các công thức chỉ số được viết theo cách chọn quyền số thông thường)*
-*(Chỉ chọn 1 đáp án)*
-- A. 0,4102 tỷ đồng
-- B. 0,4105 tỷ đồng
-- C. 0,4106 tỷ đồng
-- D. 0,4150 tỷ đồng
-
-
-### 0,4105 tỷ đồng/người/quý
-
-Số công nhân/tồn kho tại một ngày là mức thời điểm. Nếu biết mức giữ nguyên trong từng đoạn, bình quân theo số ngày tồn tại: yᵢ là mức của đoạn, tᵢ là số ngày. Nếu chỉ biết đầu/cuối tháng, giả định biến động đều đặn, lấy nửa tổng hai đầu tháng rồi gia quyền độ dài tháng.
-
-$$\bar W_{\text{quý}}=\frac{Q_1+Q_2+Q_3}{\bar T_{\text{quý}}}$$
-
-1. Bình quân công nhân từng tháng: (300+304)/2=302; (304+304)/2=304; (304+308)/2=306.
-
-2. Bình quân quý =(302×31+304×28+306×31)/90=304; tháng 2 có 29 ngày cũng cho 304 do hai tháng biên đối xứng.
-
-3. Tổng GTSX quý =40+42+42,8=124,8 tỷ.
-
-4. W̄quý=124,8/304=0,4105263158… →0,4105.
-
-- A: Không đúng: phương án ghi “0,4102 tỷ đồng”, trong khi phép tính theo dữ kiện cho 0,4105 tỷ đồng/người/quý. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Đúng: 0,4105 tỷ đồng/người/quý; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- C: Không đúng: phương án ghi “0,4106 tỷ đồng”, trong khi phép tính theo dữ kiện cho 0,4105 tỷ đồng/người/quý. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Không đúng: phương án ghi “0,4150 tỷ đồng”, trong khi phép tính theo dữ kiện cho 0,4105 tỷ đồng/người/quý. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trước ngày biến động.; Dãy thời điểm không cộng trực tiếp để lấy quy mô quý.; Không làm tròn quá sớm thành 0,4106.; Tỷ lệ kế hoạch không dùng cho năng suất thực tế.
-
-Slide: 7:13, 7:15, 7:16
-
-
-## Câu 11 — R135 — NGUỒN
-
-## CÂU HỎI 17
-
-Tính toán và chọn đáp án đúng:
-
-Tại doanh nghiệp X, thực tế so với kế hoạch, tổng mức tiêu hao nguyên vật liệu M sản xuất cho sản phẩm A tăng 5% tương ứng tăng 1200 kg, mức tiêu hao nguyên vật liệu M cho 1 đơn phẩm A toàn doanh nghiệp không hoàn thành kế hoạch 10% (với khối lượng sản phẩm thực tế làm quyền số)
-
-*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)*
-
-Khối lượng sản phẩm A toàn doanh nghiệp thay đổi làm cho tổng mức tiêu hao nguyên vật liệu cho sản phẩm A kỳ thực hiện so với kỳ kế hoạch giảm:
-
-- A ○ 1.290,91kg
-
-- B ○ 1.390,91kg
-
-- C ○ 1.190,91kg
-
-- D ○ 1.090,91kg
-
-
-### tổng hao phí giảm 1.090,91 kg do sản lượng
-
-Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
-
-$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
-
-1. Tăng 5% tương ứng 1.200 →M₀=1.200/0,05=24.000 kg.
-
-2. M₁=24.000+1.200=25.200 kg.
-
-3. Không hoàn thành hao phí đơn vị 10% →Ix=1,10.
-
-4. M₀₁=M₁/Ix=25.200/1,10=22.909,090909 kg.
-
-5. ΔM(q)=22.909,090909−24.000=−1.090,909091 →giảm 1.090,91 kg.
-
-- A: Không đúng: phương án ghi “1.290,91kg”, trong khi phép tính theo dữ kiện cho tổng hao phí giảm 1.090,91 kg do sản lượng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Không đúng: phương án ghi “1.390,91kg”, trong khi phép tính theo dữ kiện cho tổng hao phí giảm 1.090,91 kg do sản lượng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- C: Không đúng: phương án ghi “1.190,91kg”, trong khi phép tính theo dữ kiện cho tổng hao phí giảm 1.090,91 kg do sản lượng. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Đúng: tổng hao phí giảm 1.090,91 kg do sản lượng; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-
-Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.; Hao phí đơn vị tăng gây lãng phí nhưng sản lượng giảm làm giảm tổng hao phí; hai tác động có thể trái chiều.
-
-Slide: 8:71, 8:72, 8:73, 8:74, 8:51
-
-
-## Câu 12 — R145 — NGUỒN
-
-### **Câu hỏi 15** (Hình 2)
-
-**Tính toán và chọn đáp án đúng:**
-
-| Tuổi nghề (năm) | 1 | 2 | 3 | 4 | 5 |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **Năng suất lao động (sản phẩm)** | 10 | 12 | 15 | 18 | 24 |
-
-Tuổi nghề là một trong những nhân tố làm ảnh hưởng đến năng suất lao động của công nhân. Bằng số liệu về tuổi nghề và năng suất lao động của công nhân trong một phân xưởng như bảng trên, phương trình hồi qui tuyến tính khi nghiên cứu mối liên hệ giữa tuổi nghề và năng suất lao động là :
-*(Kết quả tính được làm tròn theo quy tắc toán học thông thường)*
-
-*   A y = 5,6 + 4,3x
-*   B y = 5,6 + 3,4x
-*   C y = 6,5 + 3,4x
-*   D y = 6,5 + 4,3x
-
-
-### ŷ=5,6+3,4x
-
-Hồi quy tuyến tính đơn ŷ=a+bx theo bình phương bé nhất: x là nguyên nhân, y là kết quả. b đo mức thay đổi y trung bình khi x tăng một đơn vị; a là mức nền dự đoán tại x=0. Tính tổng x,y,x²,xy để có b rồi a; dấu b cho chiều hướng liên hệ.
-
-$$b=\frac{n\sum xy-\sum x\sum y}{n\sum x^2-(\sum x)^2},\quad a=\bar y-b\bar x,\quad \hat y=a+bx$$
-
-1. n=5; Σx=15; Σy=79; Σx²=55; Σxy=271.
-
-2. b=(5×271−15×79)/(5×55−15²)=170/50=3,4.
-
-3. x̄=3; ȳ=15,8; a=15,8−3,4×3=5,6.
-
-4. Phương trình ŷ=5,6+3,4x: tuổi nghề tăng 1 năm, NSLĐ dự đoán tăng 3,4 sản phẩm.
-
-- A: Không đúng: phương án ghi “y = 5,6 + 4,3x”, trong khi phép tính theo dữ kiện cho ŷ=5,6+3,4x. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- B: Đúng: ŷ=5,6+3,4x; khớp sau khi áp dụng quy tắc làm tròn của đề.
-
-- C: Không đúng: phương án ghi “y = 6,5 + 3,4x”, trong khi phép tính theo dữ kiện cho ŷ=5,6+3,4x. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-- D: Không đúng: phương án ghi “y = 6,5 + 4,3x”, trong khi phép tính theo dữ kiện cho ŷ=5,6+3,4x. Đối chiếu tử số, mẫu số, đơn vị và mức làm tròn ở các bước trên; không chọn chỉ vì số gần kết quả.
-
-
-Bẫy: Kiểm tra đơn vị một đơn vị x: 1 trong cột “1000 sản phẩm” nghĩa là 1000 sản phẩm.; Hệ số âm cho giảm; khi hỏi giảm bao nhiêu, báo độ lớn dương và nêu dấu hệ số.; Không đảo a và b; phương án A giữ đúng a nhưng sai b=4,3.
-
-Slide: 6:14, 6:15, 6:18
-
-
-## Câu 13 — G002 — TỰ SINH ĐỂ ĐỦ ĐỀ
-
-Một doanh nghiệp có ba tổ công nhân A, B, C. Năng suất lao động lần lượt là 44, 59, 69 sản phẩm/người; số công nhân tương ứng là 30, 43, 39 người. Năng suất lao động bình quân một công nhân là bao nhiêu? Làm tròn 3 chữ số thập phân.
-A. 60,218 sản phẩm/người
-B. 58,464 sản phẩm/người
-C. 63,726 sản phẩm/người
-D. 65,480 sản phẩm/người
-
-
-### 58,464 sản phẩm/người
+### 62,074 sản phẩm/người
 
 Bình quân cộng gia quyền: mỗi mức xᵢ xuất hiện fᵢ lần; tổng lượng biến là Σxᵢfᵢ. Chia tổng này cho số đơn vị Σfᵢ để có mức đại diện một đơn vị. fᵢ là số đơn vị làm mẫu số của chỉ tiêu xᵢ, không tùy chọn một cột số làm quyền số.
 
 $$\bar x=\frac{\sum x_if_i}{\sum f_i}$$
 
-1. Quyền số là số công nhân: f=(30;43;39).
+1. Quyền số là số công nhân: f=(40;49;47).
 
-2. Tổng sản phẩm = 44×30+59×43+69×39=6548.
+2. Tổng sản phẩm = 48×40+65×49+71×47=8442.
 
-3. Tổng công nhân =112; bình quân =6548/112=58,464286 →58,464.
+3. Tổng công nhân =136; bình quân =8442/136=62,073529 →62,074.
 
-- A: Sai: 60,218 sản phẩm/người không khớp 58,464 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Sai: 63,936 sản phẩm/người không khớp 62,074 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- B: Đúng: khớp kết quả 58,464 sản phẩm/người.
+- B: Sai: 65,798 sản phẩm/người không khớp 62,074 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Sai: 63,726 sản phẩm/người không khớp 58,464 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Sai: 67,660 sản phẩm/người không khớp 62,074 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- D: Sai: 65,480 sản phẩm/người không khớp 58,464 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- D: Đúng: khớp kết quả 62,074 sản phẩm/người.
 
 
 Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác nhau.; Chọn quyền số theo mẫu số chỉ tiêu: giá thành/chiếc → sản lượng; lương/người → công nhân.
@@ -5420,34 +5210,69 @@ Bẫy: Không lấy trung bình giản đơn khi số đơn vị các tổ khác
 Slide: 4:37, 4:38, 4:39
 
 
-## Câu 14 — G009 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 8 — G008 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Số sản phẩm loại I của phân xưởng A là 960 chiếc, chiếm 80% tổng sản phẩm A; của B là 1620 chiếc, chiếm 90% tổng sản phẩm B. Hai phân xưởng cùng sản xuất một loại sản phẩm. Tổng sản lượng là bao nhiêu? Làm tròn phần nguyên.
-A. 3.000 chiếc
-B. 3.180 chiếc
-C. 3.270 chiếc
-D. 3.360 chiếc
+Hai phân xưởng có mức lương một công nhân là 8 và 11 triệu đồng/người; tổng quỹ lương tương ứng là 360 và 572 triệu đồng. Tính lương bình quân toàn doanh nghiệp, làm tròn 3 chữ số thập phân.
+A. 9,896 triệu đồng/người
+B. 10,184 triệu đồng/người
+C. 10,472 triệu đồng/người
+D. 9,608 triệu đồng/người
 
 
-### 3.000 chiếc
+### 9,608 triệu đồng/người
+
+Khi biết tổng lượng biến Mᵢ và mức xᵢ, khôi phục số đơn vị fᵢ=Mᵢ/xᵢ. Do đó bình quân bằng tổng M chia tổng M/x; đây là bình quân điều hòa gia quyền. Nếu biết tỷ trọng M thì dùng dᵢ thay Mᵢ vì cùng một hệ số tổng sẽ triệt tiêu.
+
+$$\bar x=\frac{\sum M_i}{\sum(M_i/x_i)}=\frac{\sum d_i}{\sum(d_i/x_i)}$$
+
+1. Khôi phục số công nhân: 360/8=45; 572/11=52.
+
+2. Tổng quỹ lương =932; tổng công nhân =97.
+
+3. Bình quân =932/97=9,608247 →9,608.
+
+- A: Sai: 9,896 triệu đồng/người không khớp 9,608 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- B: Sai: 10,184 triệu đồng/người không khớp 9,608 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- C: Sai: 10,472 triệu đồng/người không khớp 9,608 triệu đồng/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- D: Đúng: khớp kết quả 9,608 triệu đồng/người.
+
+
+Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng.; Đổi đơn vị nhất quán trước khi suy ra số sản phẩm.
+
+Slide: 4:42, 4:45
+
+
+## Câu 9 — G012 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Số sản phẩm loại I của phân xưởng A là 1200 chiếc, chiếm 80% tổng sản phẩm A; của B là 2160 chiếc, chiếm 90% tổng sản phẩm B. Hai phân xưởng cùng sản xuất một loại sản phẩm. Tổng sản lượng là bao nhiêu? Làm tròn phần nguyên.
+A. 4.017 chiếc
+B. 4.134 chiếc
+C. 4.251 chiếc
+D. 3.900 chiếc
+
+
+### 3.900 chiếc
 
 Khi biết tổng lượng biến Mᵢ và mức xᵢ, khôi phục số đơn vị fᵢ=Mᵢ/xᵢ. Do đó bình quân bằng tổng M chia tổng M/x; đây là bình quân điều hòa gia quyền. Nếu biết tỷ trọng M thì dùng dᵢ thay Mᵢ vì cùng một hệ số tổng sẽ triệt tiêu.
 
 $$q=q_{I,A}/d_{I,A}+q_{I,B}/d_{I,B}$$
 
-1. Tổng sản phẩm A =960/0,80=1200.
+1. Tổng sản phẩm A =1200/0,80=1500.
 
-2. Tổng sản phẩm B =1620/0,90=1800.
+2. Tổng sản phẩm B =2160/0,90=2400.
 
-3. Tổng =1200+1800=3000 chiếc.
+3. Tổng =1500+2400=3900 chiếc.
 
-- A: Đúng: khớp kết quả 3.000 chiếc.
+- A: Sai: 4.017 chiếc không khớp 3.900 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- B: Sai: 3.180 chiếc không khớp 3.000 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Sai: 4.134 chiếc không khớp 3.900 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Sai: 3.270 chiếc không khớp 3.000 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Sai: 4.251 chiếc không khớp 3.900 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- D: Sai: 3.360 chiếc không khớp 3.000 chiếc. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- D: Đúng: khớp kết quả 3.900 chiếc.
 
 
 Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng.; Đổi đơn vị nhất quán trước khi suy ra số sản phẩm.; Không cộng riêng số loại I rồi coi đó là toàn bộ sản lượng.
@@ -5455,7 +5280,7 @@ Bẫy: Tỷ trọng tổng giá thành không phải tỷ trọng sản lượng
 Slide: 4:26, 4:42
 
 
-## Câu 15 — G016 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 10 — G016 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
 Thực tế năm trước của hai doanh nghiệp cùng sản xuất một sản phẩm là 260 và 390 nghìn chiếc; kế hoạch năm nay là 290 và 430 nghìn chiếc. Số tương đối nhiệm vụ kế hoạch của toàn công ty là bao nhiêu? Làm tròn 2 chữ số thập phân.
 A. 114,09 %
@@ -5490,34 +5315,69 @@ Bẫy: Giá thành hoàn thành vượt mức nghĩa giảm so kế hoạch.; N�
 Slide: 4:21, 4:22, 4:23
 
 
-## Câu 16 — G023 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 11 — G020 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Doanh thu của năm năm liên tiếp lần lượt là 120, 145, 165, 195, 220 tỷ đồng. Dự báo doanh thu sau năm cuối 3 năm bằng lượng tăng tuyệt đối bình quân. Làm tròn 2 chữ số thập phân.
-A. 303,85 tỷ đồng
-B. 312,70 tỷ đồng
-C. 295,00 tỷ đồng
-D. 330,40 tỷ đồng
+Doanh thu có ba tốc độ phát triển liên hoàn là 107%, 111%, 115%. Tốc độ tăng bình quân trong ba khoảng thời gian là bao nhiêu? Làm tròn 3 chữ số thập phân.
+A. 11,281 %
+B. 11,610 %
+C. 11,939 %
+D. 10,952 %
 
 
-### 295,00 tỷ đồng
+### 10,952%
+
+Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
+
+$$\bar t=\sqrt[k]{\prod_{i=1}^kt_i};\qquad \bar a=(\bar t-1)100\%$$
+
+1. Đổi về lần: 1,07; 1,11; 1,15.
+
+2. Tích =1,36585500; căn bậc 3 =1,10951931.
+
+3. Trừ 1 và nhân 100: tăng 10,951931% →10,952%.
+
+- A: Sai: 11,281 % không khớp 10,952%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- B: Sai: 11,610 % không khớp 10,952%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- C: Sai: 11,939 % không khớp 10,952%. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- D: Đúng: khớp kết quả 10,952%.
+
+
+Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.
+
+Slide: 7:24, 7:27
+
+
+## Câu 12 — G024 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Doanh thu của năm năm liên tiếp lần lượt là 130, 155, 175, 205, 230 tỷ đồng. Dự báo doanh thu sau năm cuối 4 năm bằng lượng tăng tuyệt đối bình quân. Làm tròn 2 chữ số thập phân.
+A. 339,90 tỷ đồng
+B. 349,80 tỷ đồng
+C. 359,70 tỷ đồng
+D. 330,00 tỷ đồng
+
+
+### 330,00 tỷ đồng
 
 Dự báo từ lượng tăng tuyệt đối bình quân giả định xu hướng cộng một lượng ổn định mỗi kỳ. y₁ và yₙ là mức đầu/cuối; n là số mức quá khứ; L là số kỳ dự báo sau kỳ cuối. Tính lượng tăng bình quân rồi cộng L lần vào mức cuối.
 
 $$\bar\delta=\frac{y_n-y_1}{n-1},\qquad \hat y_{n+L}=y_n+L\bar\delta$$
 
-1. 5 mức quá khứ tạo 4 khoảng; δ̄=(220−120)/4=25,00 tỷ/năm.
+1. 5 mức quá khứ tạo 4 khoảng; δ̄=(230−130)/4=25,00 tỷ/năm.
 
-2. Chân trời dự báo L=3.
+2. Chân trời dự báo L=4.
 
-3. Dự báo =220+3×25,00=295,00 tỷ đồng.
+3. Dự báo =230+4×25,00=330,00 tỷ đồng.
 
-- A: Sai: 303,85 tỷ đồng không khớp 295,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Sai: 339,90 tỷ đồng không khớp 330,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- B: Sai: 312,70 tỷ đồng không khớp 295,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Sai: 349,80 tỷ đồng không khớp 330,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Đúng: khớp kết quả 295,00 tỷ đồng.
+- C: Sai: 359,70 tỷ đồng không khớp 330,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- D: Sai: 330,40 tỷ đồng không khớp 295,00 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- D: Đúng: khớp kết quả 330,00 tỷ đồng.
 
 
 Bẫy: Dự báo n+2 dùng L=2, không lấy căn hay bình quân phần trăm.; Mẫu số quá khứ n−1, không cộng thêm số kỳ tương lai.
@@ -5525,16 +5385,51 @@ Bẫy: Dự báo n+2 dùng L=2, không lấy căn hay bình quân phần trăm.;
 Slide: 7:21, 9:9, 9:10
 
 
-## Câu 17 — G030 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 13 — G028 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Tháng có 30 ngày. Số công nhân giữ nguyên: ngày 1–10 là 420 người, ngày 11–22 là 450 người, ngày 23–30 là 440 người. Số công nhân bình quân một ngày là bao nhiêu? Làm tròn 3 chữ số thập phân.
-A. 450,453 người
-B. 437,333 người
-C. 476,693 người
-D. 489,813 người
+Giá trị sản xuất đầu giai đoạn là 320 tỷ đồng, cuối giai đoạn sau 4 năm là 468,5120 tỷ đồng. Dự báo sau kỳ cuối 2 năm bằng tốc độ phát triển bình quân. Giữ đủ độ chính xác khi tính và làm tròn cuối cùng 3 chữ số thập phân.
+A. 583,907 tỷ đồng
+B. 600,914 tỷ đồng
+C. 617,921 tỷ đồng
+D. 566,900 tỷ đồng
 
 
-### 437,333 người
+### 566,900 tỷ đồng
+
+Tốc độ phát triển liên hoàn nối nhau bằng phép nhân, vì vậy tốc độ đại diện phải là bình quân nhân. n mức độ tạo n−1 khoảng; nếu đề đã cho k tốc độ hằng năm thì lấy căn bậc k. Tốc độ tăng bằng tốc độ phát triển trừ 1 theo lần.
+
+$$\bar t=(y_n/y_1)^{1/k},\quad \hat y_{n+L}=y_n\bar t^L$$
+
+1. Có 4 khoảng; t̄=(468,5120/320)^(1/4)=1,1.
+
+2. Dự báo sau 2 năm =468,5120×1,1²=566,89952000.
+
+3. Kết quả 566,900 tỷ đồng.
+
+- A: Sai: 583,907 tỷ đồng không khớp 566,900 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- B: Sai: 600,914 tỷ đồng không khớp 566,900 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- C: Sai: 617,921 tỷ đồng không khớp 566,900 tỷ đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- D: Đúng: khớp kết quả 566,900 tỷ đồng.
+
+
+Bẫy: Không lấy trung bình cộng các % tăng.; Đếm số khoảng hoặc số tốc độ, không đếm máy móc số nhãn năm.
+
+Slide: 7:24, 9:11, 9:12
+
+
+## Câu 14 — G032 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Tháng có 30 ngày. Số công nhân giữ nguyên: ngày 1–10 là 460 người, ngày 11–22 là 490 người, ngày 23–30 là 480 người. Số công nhân bình quân một ngày là bao nhiêu? Làm tròn 3 chữ số thập phân.
+A. 491,653 người
+B. 505,973 người
+C. 520,293 người
+D. 477,333 người
+
+
+### 477,333 người
 
 Số công nhân/tồn kho tại một ngày là mức thời điểm. Nếu biết mức giữ nguyên trong từng đoạn, bình quân theo số ngày tồn tại: yᵢ là mức của đoạn, tᵢ là số ngày. Nếu chỉ biết đầu/cuối tháng, giả định biến động đều đặn, lấy nửa tổng hai đầu tháng rồi gia quyền độ dài tháng.
 
@@ -5542,17 +5437,17 @@ $$\bar y=\frac{\sum y_it_i}{\sum t_i};\qquad \bar y_{\text{tháng}}=\frac{y_{\te
 
 1. Số ngày tương ứng 10,12,8; tổng 30 ngày.
 
-2. Tổng người×ngày =420×10+450×12+440×8=13120.
+2. Tổng người×ngày =460×10+490×12+480×8=14320.
 
-3. Chia 30 được 437,333333 →437,333 người.
+3. Chia 30 được 477,333333 →477,333 người.
 
-- A: Sai: 450,453 người không khớp 437,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- A: Sai: 491,653 người không khớp 477,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- B: Đúng: khớp kết quả 437,333 người.
+- B: Sai: 505,973 người không khớp 477,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Sai: 476,693 người không khớp 437,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Sai: 520,293 người không khớp 477,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- D: Sai: 489,813 người không khớp 437,333 người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- D: Đúng: khớp kết quả 477,333 người.
 
 
 Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trước ngày biến động.; Dãy thời điểm không cộng trực tiếp để lấy quy mô quý.
@@ -5560,34 +5455,69 @@ Bẫy: Tính cả ngày bắt đầu mức mới; đoạn cũ kết thúc trư�
 Slide: 7:13, 7:15, 7:16
 
 
-## Câu 18 — G037 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 15 — G036 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
-Tổng chi phí kỳ gốc là 1000 triệu đồng. Kỳ báo cáo tổng chi phí bằng 108% kỳ gốc; sản lượng tăng 15%. Theo thay thế liên hoàn với giá thành kỳ gốc làm quyền số của sản lượng, sản lượng làm tổng chi phí thay đổi bao nhiêu? Làm tròn 2 chữ số thập phân.
-A. 150,00 triệu đồng tăng
-B. 159,00 triệu đồng tăng
-C. 163,50 triệu đồng tăng
-D. 168,00 triệu đồng tăng
+Phân tổ năng suất có ba khoảng [80;90), [90;110), [110;120), đơn vị sản phẩm/người. Số công nhân tương ứng 20, 50, 30. Ước lượng trung vị theo bảng phân tổ, làm tròn 3 chữ số thập phân.
+A. 105,060 sản phẩm/người
+B. 108,120 sản phẩm/người
+C. 111,180 sản phẩm/người
+D. 102,000 sản phẩm/người
 
 
-### 150,00 triệu đồng tăng
+### 102,000 sản phẩm/người
+
+Trung vị chia số đơn vị thành hai nửa. Với bảng khoảng, tìm tổ có tần số tích lũy lần đầu đạt/vượt N/2, sau đó nội suy đều trong tổ đó. L là cận dưới tổ trung vị, h là độ rộng, F là tần số tích lũy trước tổ, f là tần số của tổ. Đây là ước lượng từ bảng phân tổ, không phải mức chính xác của từng cá nhân.
+
+$$Me=L+h\frac{N/2-F}{f}$$
+
+1. N=100; N/2=50; tích lũy 20 rồi 70 nên tổ thứ hai chứa trung vị.
+
+2. L=90; h=20; F=20; f=50.
+
+3. Me=90+20×(50−20)/50=102,000.
+
+- A: Sai: 105,060 sản phẩm/người không khớp 102,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- B: Sai: 108,120 sản phẩm/người không khớp 102,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- C: Sai: 111,180 sản phẩm/người không khớp 102,000 sản phẩm/người. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- D: Đúng: khớp kết quả 102,000 sản phẩm/người.
+
+
+Bẫy: Tổ trung vị dựa tần số tích lũy, không chọn tổ rộng nhất hoặc tần số lớn nhất.; Dùng độ rộng của chính tổ trung vị, không dùng độ rộng của tổ khác.
+
+Slide: 4:61, 4:62, 4:63
+
+
+## Câu 16 — G040 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Tổng chi phí kỳ gốc là 1750 triệu đồng. Kỳ báo cáo tổng chi phí bằng 114% kỳ gốc; sản lượng tăng 18%. Theo thay thế liên hoàn với giá thành kỳ gốc làm quyền số của sản lượng, sản lượng làm tổng chi phí thay đổi bao nhiêu? Làm tròn 2 chữ số thập phân.
+A. 324,45 triệu đồng tăng
+B. 333,90 triệu đồng tăng
+C. 343,35 triệu đồng tăng
+D. 315,00 triệu đồng tăng
+
+
+### 315,00 triệu đồng tăng
 
 Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
 
 $$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
 
-1. Giữ giá thành gốc, C₀₁=C₀Iq=1000×1,15=1.150,00.
+1. Giữ giá thành gốc, C₀₁=C₀Iq=1750×1,18=2.065,00.
 
-2. ΔC(q)=C₀₁−C₀=1.150,00−1000=150,00 triệu đồng.
+2. ΔC(q)=C₀₁−C₀=2.065,00−1750=315,00 triệu đồng.
 
-3. Tổng chi phí mới =1.080,00; số này không dùng thay C₀₁ khi tính riêng sản lượng.
+3. Tổng chi phí mới =1.995,00; số này không dùng thay C₀₁ khi tính riêng sản lượng.
 
-- A: Đúng: khớp kết quả 150,00 triệu đồng tăng.
+- A: Sai: 324,45 triệu đồng tăng không khớp 315,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- B: Sai: 159,00 triệu đồng tăng không khớp 150,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- B: Sai: 333,90 triệu đồng tăng không khớp 315,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- C: Sai: 163,50 triệu đồng tăng không khớp 150,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- C: Sai: 343,35 triệu đồng tăng không khớp 315,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
 
-- D: Sai: 168,00 triệu đồng tăng không khớp 150,00 triệu đồng tăng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+- D: Đúng: khớp kết quả 315,00 triệu đồng tăng.
 
 
 Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.
@@ -5595,7 +5525,7 @@ Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% 
 Slide: 8:71, 8:72, 8:73, 8:74, 8:51
 
 
-## Câu 19 — G044 — TỰ SINH ĐỂ ĐỦ ĐỀ
+## Câu 17 — G044 — TỰ SINH ĐỂ ĐỦ ĐỀ
 
 Tổng giá thành kỳ báo cáo của sản phẩm A, B lần lượt là 650 và 910 triệu đồng. Giá thành đơn vị A tăng 10%, B giảm 10% so kỳ gốc. Với sản lượng kỳ báo cáo làm quyền số, giá thành chung giảm bao nhiêu phần trăm? Làm tròn cuối cùng 3 chữ số thập phân.
 A. 2,702 %
@@ -5628,6 +5558,76 @@ $$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0
 Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.
 
 Slide: 8:71, 8:72, 8:73, 8:74, 8:51
+
+
+## Câu 18 — G048 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Lương tháng kế hoạch là 9,0 triệu đồng/người, thực tế 10,5 triệu đồng/người. Số công nhân kế hoạch 160, thực tế 175. Mức lương một người làm tổng quỹ lương tăng bao nhiêu theo thay thế liên hoàn? Làm tròn 2 chữ số thập phân.
+A. 270,38 triệu đồng
+B. 278,26 triệu đồng
+C. 286,14 triệu đồng
+D. 262,50 triệu đồng
+
+
+### 262,50 triệu đồng
+
+Phân tích thay thế liên hoàn với M=Σxq: x là chỉ tiêu chất lượng (giá, giá thành, hao phí một sản phẩm), q là số lượng. M₀₁=Σx₀q₁ là tổng giả định giữ chất lượng gốc với lượng mới. Iₓ=M₁/M₀₁, Iq=M₀₁/M₀; ảnh hưởng tuyệt đối lượng là M₀₁−M₀, chất lượng là M₁−M₀₁. Khi biết iₓ từng mặt hàng, M₀₁=Σ(M₁ᵢ/iₓᵢ).
+
+$$I_M=I_xI_q,\quad M_{01}=\sum\frac{M_{1i}}{i_{xi}},\quad \Delta M(q)=M_{01}-M_0$$
+
+1. Giữ số công nhân thực tế 175: ΔM(x)=(x₁−x₀)T₁.
+
+2. ΔM(x)=(10,5−9,0)×175=262,50 triệu đồng.
+
+3. Số công nhân thay đổi có tác động riêng (T₁−T₀)x₀=135,00, không cộng vào đáp án riêng mức lương.
+
+- A: Sai: 270,38 triệu đồng không khớp 262,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- B: Sai: 278,26 triệu đồng không khớp 262,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- C: Sai: 286,14 triệu đồng không khớp 262,50 triệu đồng. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- D: Đúng: khớp kết quả 262,50 triệu đồng.
+
+
+Bẫy: Chỉ tiêu chi phí/hao phí tốt khi giảm: vượt kế hoạch 10% → iₓ=0,90; không hoàn thành 5% → 1,05.; Không chia trực tiếp hai tổng sản lượng khác loại khi cần chỉ số lượng tổng hợp.
+
+Slide: 8:71, 8:72, 8:73, 8:74, 8:51
+
+
+## Câu 19 — G050 — TỰ SINH ĐỂ ĐỦ ĐỀ
+
+Tuổi nghề x (năm) của 5 công nhân là 1,2,3,4,5; năng suất y tương ứng 14,5, 17,0, 19,5, 22,0, 24,5 sản phẩm/ngày. Theo hồi quy tuyến tính đơn, tuổi nghề tăng một năm thì năng suất dự đoán tăng bao nhiêu? Làm tròn 3 chữ số thập phân.
+A. 2,575 sản phẩm/ngày
+B. 2,500 sản phẩm/ngày
+C. 2,725 sản phẩm/ngày
+D. 2,800 sản phẩm/ngày
+
+
+### 2,500 sản phẩm/ngày
+
+Hồi quy tuyến tính đơn ŷ=a+bx theo bình phương bé nhất: x là nguyên nhân, y là kết quả. b đo mức thay đổi y trung bình khi x tăng một đơn vị; a là mức nền dự đoán tại x=0. Tính tổng x,y,x²,xy để có b rồi a; dấu b cho chiều hướng liên hệ.
+
+$$b=\frac{n\sum xy-\sum x\sum y}{n\sum x^2-(\sum x)^2},\quad a=\bar y-b\bar x,\quad \hat y=a+bx$$
+
+1. n=5; Σx=15; Σx²=55; Σy=97,5; Σxy=317,5.
+
+2. b=(5×317,5−15×97,5)/(5×55−15²)=2,500.
+
+3. a=12,0; ŷ=12,0+2,5x; tăng một năm thì y tăng 2,500 sản phẩm/ngày.
+
+- A: Sai: 2,575 sản phẩm/ngày không khớp 2,500 sản phẩm/ngày. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- B: Đúng: khớp kết quả 2,500 sản phẩm/ngày.
+
+- C: Sai: 2,725 sản phẩm/ngày không khớp 2,500 sản phẩm/ngày. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+- D: Sai: 2,800 sản phẩm/ngày không khớp 2,500 sản phẩm/ngày. Phép tính đúng được trình bày ở trên; các mức nhiễu không phải kết quả theo dữ kiện. Kiểm tra quyền số, số khoảng và đơn vị trước khi làm tròn.
+
+
+Bẫy: Kiểm tra đơn vị một đơn vị x: 1 trong cột “1000 sản phẩm” nghĩa là 1000 sản phẩm.; Hệ số âm cho giảm; khi hỏi giảm bao nhiêu, báo độ lớn dương và nêu dấu hệ số.
+
+Slide: 6:14, 6:15, 6:18
 
 
 ## Câu 20 — G051 — TỰ SINH ĐỂ ĐỦ ĐỀ
