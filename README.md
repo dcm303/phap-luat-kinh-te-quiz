@@ -64,3 +64,14 @@ Với Auto Deploy đang bật, commit mới trên `main` sẽ tự triển khai.
 - Ba vị trí thiếu trong PDF: chương 4 câu 27–28, chương 5 câu 6. Câu có dữ kiện/lựa chọn không khớp được ghi chú và không chấm đoán.
 - Tiến độ lưu riêng trên từng trình duyệt, có xuất/nhập JSON. Khi chuyển từ tệp ngoại tuyến hoặc địa chỉ LAN, xuất tiến độ ở trang cũ rồi nhập ở trang mới.
 - Ảnh nguồn dùng chung và tải khi cần; toàn bộ phần thống kê khoảng 67 MB. Không cần cài thư viện hoặc thêm dịch vụ. Giữ cấu hình Render hiện có: nhánh `main`, publish directory `.`.
+
+
+## Nguyên lý thống kê — 7 đề luyện thi từ leak/review
+
+- [7 đề](nguyen-ly-thong-ke/review-exams.html): mỗi đề 20 câu, 6–7 lý thuyết và 13–14 tính toán; tùy chọn 45 phút hoặc không giới hạn. Không lặp câu giữa các đề.
+- 89 câu nguồn hợp lệ (47 lý thuyết, 42 tính toán), 51 bài tính toán tự sinh và gắn nhãn trên từng câu. Đây là số bổ sung tối thiểu để dùng hết lý thuyết với giới hạn 7 câu/đề.
+- Nộp cả đề mới hiển thị đáp án, cách nhận diện bài, công thức/ký hiệu, thay số/làm tròn, phân tích từng lựa chọn, bẫy và nút mở đúng trang slide gốc.
+- 161 câu/mảnh nguồn được kiểm kê: 89 đưa vào đề, 57 câu/mảnh thống kê giữ riêng (thiếu/lỗi/giả thiết/bản lặp), 15 mục Kế toán/Sinh học giữ nguyên văn và chưa giải. Ghép R118 từ các đoạn có dữ kiện và lựa chọn trùng khớp.
+- [Đối chiếu](nguyen-ly-thong-ke/review-doi-chieu.md), [tin nhắn nguồn nguyên trạng](nguyen-ly-thong-ke/review-nguon-nguyen-van.txt), [bản hiển thị](nguyen-ly-thong-ke/review-nguon-hien-thi.md). Giữ theo bản chép người dùng gửi; không có ảnh gốc để xác nhận OCR. Bản đảo lựa chọn của cùng câu không tạo thêm lượt thi.
+- Tiến độ, dấu đánh dấu, đồng hồ và kết quả lưu bằng khóa riêng; xuất/nhập JSON để chuyển thiết bị. Đồng hồ tiếp tục khi tải lại; tự nộp hết giờ nếu chọn chế độ 45 phút.
+- KaTeX và font được lưu tại `nguyen-ly-thong-ke/vendor/katex/`, kèm giấy phép MIT; không dùng CDN. Giữ dịch vụ/cấu hình hiện có, chỉ đẩy GitHub.

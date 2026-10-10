@@ -1,0 +1,2337 @@
+Đây là toàn bộ những đề leak/review từ những người đi thi. Vì đây là cắt từ ảnh chụp nên có thể các câu có thể trùng, bị cắt giữa chừng rồi đến câu khác, ... Vì vậy, tôi cần bạn đọc các đề/câu hỏi thi này và soạn lại bộ đề hoàn chỉnh cho tôi mỗi đề 20 câu: lý thuyết chiếm 6/7 câu còn lại là bài tập. Các câu cần giữ nguyên văn 100% từ đề leak/review, có thể chắp vá câu hỏi từ các ảnh nếu câu hỏi bị cắt và có phần khớp, những câu nào trùng 100% thì hãy loại ra chỉ giữ 1 câu thôi, đừng để trùng, nếu câu nào lỗi do bạn suy luận để hoàn chỉnh thì sẽ là mục riêng, không trộng lẫn vào đề. Tôi cũng cần bạn suy luận và đưa ra đáp án đúng nhất cho từng câu hỏi. Sau khi bấm nộp bài thì mỗi câu sẽ có đáp án, phân tích các đáp án, giải thích, nêu rõ công thức nếu có tương tự như các câu ôn tập vừa rồi
+
+
+
+
+
+\### \*\*Câu 9\*\*\
+\*\*Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\*\*\
+Có tài liệu thu thập được tại một doanh nghiệp sản xuất 1 loại sản phẩm như sau:\
+\
+\| Phân xưởng | Giá thành 1 đơn vị sản phẩm (triệu đồng/cái) | | Số lượng sản phẩm sản xuất (cái) | |\
+\| :--- | :---: | :---: | :---: | :---: |\
+\| | \*\*Kỳ gốc\*\* | \*\*Kỳ báo cáo\*\* | \*\*Kỳ gốc\*\* | \*\*Kỳ báo cáo\*\* |\
+\| \*\*A\*\* | 30 | 28 | 60 | 90 |\
+\| \*\*B\*\* | 29 | 27 | 80 | 70 |\
+\
+Giá thành bình quân 1 đơn vị sản phẩm kỳ gốc của doanh nghiệp là:\
+\*(Kết quả các phép tính được làm tròn đến 3 chữ số thập phân)\*\
+A. 29,429 triệu đồng/cái\
+B. 29,823 triệu đồng/cái\
+C. 29,012 triệu đồng/cái\
+D. 29,536 triệu đồng/cái\
+\
+\---\
+\
+\### \*\*Câu 4\*\*\
+\*\*Chọn phương án trả lời đúng về số tương đối trong các câu sau:\*\*\
+Số tương đối biểu hiện quan hệ so sánh:\
+(1) Giữa các hiện tượng tự nhiên – kỹ thuật\
+(2) Giữa 2 mức độ cùng loại\
+(3) Giữa 2 mức độ khác nhau nhưng có liên quan\
+(4) Giữa 2 hiện tượng kinh tế - xã hội\
+\
+A. Chỉ 1, 2 và 3 đúng\
+B. Chỉ 1, 2 và 4 đúng\
+C. Chỉ 1, 3 và 4 đúng\
+D. Chỉ 2, 3 và 4 đúng\
+\
+\---\
+\
+\### \*\*Câu 11\*\*\
+\*\*Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\*\*\
+Có tài liệu thu thập được tại 1 doanh nghiệp sản xuất 1 loại sản phẩm như sau:\
+\
+\| Phân xưởng | Thời gian hao phí sản xuất 1 đơn vị sản phẩm (giờ/cái) | | Số lượng sản phẩm sản xuất (cái) | |\
+\| :--- | :---: | :---: | :---: | :---: |\
+\| | \*\*Kỳ gốc\*\* | \*\*Kỳ báo cáo\*\* | \*\*Kỳ gốc\*\* | \*\*Kỳ báo cáo\*\* |\
+\| \*\*A\*\* | 10 | 8 | 100 | 150 |\
+\| \*\*B\*\* | 11 | 9 | 120 | 110 |\
+\
+Thời gian hao phí bình quân sản xuất 1 đơn vị sản phẩm kỳ gốc là:\
+\*(Kết quả các phép tính được làm tròn đến 3 chữ số thập phân)\*\
+A. 10,856 giờ/cái\
+B. 10,545 giờ/cái\
+C. 10,455 giờ/cái\
+D. 11.545 giờ/cái\
+\
+\---\
+\
+\### \*\*Các câu hỏi trong hình 4\*\*\
+\
+\*\*1. Chọn câu trả lời đúng?\*\*\
+Tốc độ tăng (giảm) bình quân là chỉ tiêu:\
+A. Biểu hiện quan hệ so sánh giữa lượng tăng (giảm) tuyệt đối định gốc với mức độ kỳ gốc cố định.\
+B. Biểu hiện quan hệ so sánh giữa lượng tăng (giảm) tuyệt đối bình quân với mức độ bình quân.\
+C. Biểu hiện quan hệ so sánh giữa lượng tăng (giảm) tuyệt đối liên hoàn với mức độ kỳ gốc liên hoàn.\
+D. Là chỉ tiêu tương đối nói lên nhịp điệu tăng (giảm) đại diện trong một thời kỳ nhất định.\
+\
+\*\*2. Sử dụng hệ thống chỉ số $((I_M = I_x \cdot I_d \cdot I\_{\Sigma f}))$, để phân tích Tổng lượng biến tiêu thức trong trường hợp:\*\*\
+A. Tổng thể đồng chất và tài liệu phân tổ\
+B. Tổng thể đồng chất\
+C. Tổng thể không đồng chất và tài liệu phân tổ\
+D. Tổng thể không đồng chất\
+\
+\*\*3. Sử dụng hệ thống chỉ số hai nhân tố: $(I_M = I\_{\bar{x}} \cdot I\_{\Sigma f})$ để phân tích Tổng lượng biến tiêu thức trong trường hợp:\*\*\
+A. Tổng thể không đồng chất\
+B. Tổng thể đồng chất và tài liệu không phân tổ\
+C. Tổng thể đồng chất\
+D. Tổng thể không đồng chất và tài liệu phân tổ\
+\
+\---\
+\
+\### \*\*Câu hỏi trong hình 5 (Màn hình máy tính)\*\*\
+\
+Có tài liệu thống kê về 1 doanh nghiệp (DN) sản xuất 2 loại sản phẩm như sau:\
+\
+\| Sản phẩm | Tổng giá thành sản phẩm kỳ thực hiện (tỷ đồng) | Tỷ lệ %HTKH về giá thành đơn vị sản phẩm |\
+\| :--- | :---: | :--- |\
+\| \*\*A\*\* | 900 | Hoàn thành vượt mức kế hoạch là 10% |\
+\| \*\*B\*\* | 1.050 | Không hoàn thành kế hoạch là 5% |\
+\
+Biết rằng: Tổng giá thành hai loại sản phẩm (SP) kỳ thực hiện so với kỳ kế hoạch tăng 10%.\
+\*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)\*\
+\
+\*\*Tính toán và chọn phương án đúng:\*\*\
+Khối lượng sản phẩm toàn doanh nghiệp biến động làm cho tổng giá thành toàn doanh nghiệp tăng kỳ thực hiện so với kỳ kế hoạch là:\
+\*   227,27 tỷ đồng\
+\*   227,27 tỷ đồng\
+\*   247,27 tỷ đồng\
+\*   257,27 tỷ đồng
+
+\
+&#x20;\
+\### \*\*Phần 1 (Ảnh 1 - Trên)\*\* \
+&#x20;\
+\*\*Bảng dữ liệu:\*\* \
+Có tài liệu về thời gian hao phí lao động để sản xuất một loại sản phẩm của một doanh nghiệp... \
+&#x20;\
+\| Phân xưởng | Kỳ kế hoạch | | Kỳ thực hiện | | \
+\| :--- | :---: | :---: | :---: | :---: | \
+\| | \*\*Tổng thời gian sản xuất (giờ)\*\* | \*\*Thời gian hao phí để sản xuất 1 sản phẩm (sản phẩm/giờ)\*\* | \*\*Lượng sản phẩm\*\* | \*\*Thời gian hao phí để sản xuất 1 sản phẩm (sản phẩm/giờ)\*\* | \
+\| \*\*A\*\* | 10.000 | 4 | 3.500 | 3,8 | \
+\| \*\*B\*\* | 12.000 | 4,8 | 3.400 | 4,5 | \
+\| \*\*C\*\* | 15.000 | 5 | 4.000 | 4,8 | \
+&#x20;\
+\*\*Câu hỏi:\*\* \
+...Tổng khối lượng sản phẩm kỳ thực hiện so với kế hoạch thay đổi (lần)? làm Tổng thời gian sản xuất... \
+\*(Kết quả các phép tính được làm tròn đến 3 chữ số thập phân)\* \
+&#x20;\
+\*\*Các phương án:\*\* \
+\*   O TGHPSX 1 SP tăng 0,229 lần làm tổng TGSX tăng 10.200 giờ \
+\*   O TGHPSX 1 SP tăng 0,292 lần làm tổng TGSX tăng 10.800 giờ \
+\*   O TGHPSX 1 SP giảm 0,05 lần làm tổng TGSX giảm 2528,8 giờ \
+\*   O TGHPSX 1 SP tăng 0,363 lần làm tổng TGSX tăng 13.412,5 giờ \
+&#x20;\
+\--- \
+&#x20;\
+\### \*\*Phần 2 (Ảnh 1 - Dưới)\*\* \
+&#x20;\
+\*\*Câu hỏi:\*\* \
+Chọn phương án đúng nhất về Nhiệm vụ của phân tổ thống kê \
+(1) Phân tổ thống kê giúp hệ thống hóa một cách khoa học các tài liệu thu thập được trong điều tra, từ đó phục vụ nghiên cứu. \
+(2) Phân tổ thống kê biểu hiện kết cấu của hiện tượng nghiên cứu và biểu hiện mối liên hệ giữa các tiêu thức. \
+(3) Các đơn vị tổng thể được tập hợp lại thành một số tổ, giữa các tổ có sự khác nhau rõ về tính chất. \
+(4) Phân tổ thống kê phân chia các loại hình kinh tế - xã hội của hiện tượng nghiên cứu. \
+&#x20;\
+\*\*Các phương án:\*\* \
+\*   O Chỉ có 1 và 3 đúng \
+\*   O Chỉ có 1 và 2 đúng \
+\*   O Chỉ có 2 và 4 đúng \
+\*   O Chỉ có 3 và 4 đúng \
+&#x20;\
+\--- \
+&#x20;\
+\### \*\*Phần 3 (Ảnh 2 - Trên)\*\* \
+&#x20;\
+\*\*Câu hỏi:\*\* \
+Hệ thống chỉ số sau được áp dụng thích hợp nhất trong trường hợp nào sau đây: \
+$$ \frac{C_1}{C_0} = \frac{\sum Z_1 q_1}{\sum Z_0 q_1} : \frac{\sum Z_0 q_1}{\sum Z_0 q_0} $$ \
+&#x20;\
+(1) Tổng thể nghiên cứu đồng chất nhưng không tính được chỉ tiêu bình quân, tài liệu có phân tổ. \
+(2) Tổng thể nghiên cứu đồng chất, tính được chỉ tiêu bình quân, tài liệu có phân tổ. \
+(3) Tổng thể nghiên cứu không đồng chất, tài liệu có phân tổ. \
+(4) Tổng thể nghiên cứu không đồng chất, tài liệu không phân tổ. \
+&#x20;\
+\*\*Các phương án:\*\* \
+\*   A. O Trường hợp 2 và 4 \
+\*   B. O Trường hợp 1 và 3 \
+\*   C. O Trường hợp 3 và 4 \
+\*   D. O Trường hợp 1 và 4 \
+&#x20;\
+\--- \
+&#x20;\
+\### \*\*Phần 4 (Ảnh 2 - Dưới)\*\* \
+&#x20;\
+\*\*Câu hỏi:\*\* \
+Thống kê học nghiên cứu: \
+1> Các hiện tượng KT- XH \
+2> Các hiện tượng tự nhiên \
+3> Các hiện tượng kỹ thuật \
+4> Nghiên cứu ảnh hưởng của các hiện tượng tự nhiên, kỹ thuật đến các hiện tượng KT- XH. \
+&#x20;\
+\*\*Các phương án:\*\* \
+\*   A. O Chỉ 1, 4 đúng \
+\*   B. O Chỉ 2, 3 đúng \
+\*   C. O Chỉ 1, 2, 3 đúng \
+\*   D. O Chỉ 1, 2 đúng \
+\
+&#x20;\
+\--- \
+&#x20;\
+\### \*\*Phần 5 (Ảnh 3 - Trên)\*\* \
+&#x20;\
+\*\*Câu hỏi:\*\* \
+Đặc điểm của “phương pháp thay thế liên hoàn” khi xây dựng hệ thống chỉ số là: \
+1\) Chỉ số nhân tố của chỉ tiêu chất lượng có quyền số thường được cố định giống nhau ở kỳ gốc. \
+2\) Chỉ số nhân tố của chỉ tiêu số lượng có quyền số thường được cố định giống nhau ở kỳ báo cáo. \
+3\) Chỉ số nhân tố của chỉ tiêu chất lượng có quyền số thường được cố định giống nhau ở kỳ báo cáo. \
+4\) Chỉ số nhân tố của chỉ tiêu số lượng có quyền số thường được cố định giống nhau ở kỳ gốc. \
+&#x20;\
+\*\*Các phương án:\*\* \
+\*   A. O Chỉ có 1 và 2 đúng \
+\*   B. O Chỉ có 3 và 4 đúng \
+\*   C. O Chỉ 1 và 4 đúng \
+\*   D. O Chỉ có 2 và 3 đúng \
+&#x20;\
+&#x20;\
+\--- \
+&#x20;\
+\### \*\*Phần 6 (Ảnh 3 - Dưới)\*\* \
+&#x20;\
+\*\*Câu hỏi:\*\* \
+Dựa vào nguồn tài liệu sau, chọn phương án trả lời đúng nhất? \
+Có Tài liệu về tình hình năng suất lao động của công nhân một doanh nghiệp qua 2 tháng như sau: \
+&#x20;\
+\| Phân xưởng | Năng suất lao động 1 công nhân (trđ) | | Kết cấu công nhân (%) | | \
+\| :--- | :---: | :---: | :---: | :---: | \
+\| | \*\*Tháng 9\*\* | \*\*Tháng 10\*\* | \*\*Tháng 9\*\* | \*\*Tháng 10\*\* | \
+\| \*\*A\*\* | a | d | g | k | \
+\| \*\*B\*\* | b | e | h | l | \
+\| \*\*C\*\* | c | f | i | m | \
+&#x20;\
+Biết thêm rằng: Tổng số công nhân toàn doanh nghiệp của tháng 9 là X người và tháng 10 là Y người. \
+Tổng Giá trị sản xuất tháng 10 so với tháng 9 có sự thay đổi là do ảnh hưởng bởi các nhân tố: \
+(1) Bản thân các mức năng suất lao động \
+(2) Sự thay đổi của kết cấu công nhân \
+(3) Tổng số công nhân \
+(4) Năng suất bình quân chung của toàn doanh nghiệp \
+&#x20;\
+&#x20;\
+\--- \
+&#x20;\
+\### \*\*Phần 7 (Ảnh 4)\*\* \
+&#x20;\
+\*\*Bảng dữ liệu:\*\* \
+Tình hình sản xuất của một doanh nghiệp trong 3 tháng đầu năm năm 2022 như sau: \
+&#x20;\
+\| Chỉ tiêu | Tháng 1 | Tháng 2 | Tháng 3 | \
+\| :--- | :---: | :---: | :---: | \
+\| Giá trị sản xuất thực tế (tỷ đồng) | 120 | 125 | 118 | \
+\| Tỷ lệ % hoàn thành kế hoạch giá trị sản xuất (%) | 105 | 108 | 110 | \
+\| Số công nhân đầu tháng (người) | 500 | 520 | 530 | \
+&#x20;\
+\*\*Biết rằng:\*\* Số công nhân ngày 1 tháng 4 năm 2022 là 540 người. \
+\*(Kết quả tính toán làm tròn đến số thập phân thứ 2 đằng sau dấu phẩy)\* \
+&#x20;\
+\*\*Câu hỏi:\*\* \
+Năng suất lao động bình quân cả quý I của doanh nghiệp là: \
+&#x20;\
+\*\*Các phương án:\*\* \
+\*   0,48 tỷ đồng \
+\*   0,69 tỷ đồng \
+\*   0,66 tỷ đồng \
+\*   0,79 tỷ đồng \
+\
+\--- \
+&#x20;\
+\### \*\*Phần 8 (Ảnh 5)\*\* \
+&#x20;\
+\*\*Câu 17:\*\* Có tài liệu về tiền lương của công nhân ở doanh nghiệp M vào tháng 6/2019 như sau: \
+&#x20;\
+\| Mức lương (nghìn đồng/người) | Số công nhân (người) | \
+\| :--- | :---: | \
+\| 3560 – 4000 | 60 | \
+\| 4000 – 4580 | 75 | \
+\| 4580 – 5500 | 152 | \
+\| 5500 – 6000 | 63 | \
+\| 6000 – 6800 | 45 | \
+\| 6800 – 8000 | 22 | \
+&#x20;\
+Số trung vị về mức lương của công nhân tháng 6/2019 tại doanh nghiệp M là: \
+\*(Kết quả được làm tròn đến phần nguyên, theo quy ước làm tròn toán học)\* \
+&#x20;\
+\*\*Các phương án:\*\* \
+\*   A. 5076 (ng.đồng/người) \
+\*   B. 5132 (ng.đồng/người) \
+\*   C. 5085 (ng.đồng/người) \
+\*   D. 5025 (ng.đồng/người)
+
+\
+\### Hình 1 & Hình 3 (Câu hỏi về doanh thu tiêu thụ)\
+\
+\*\*Bảng số liệu:\*\*\
+\
+\| Chỉ tiêu | Đvt | Năm n-6 | Năm n-5 | Năm n-4 | Năm n-3 | Năm n-2 | Năm n-1 | Năm n |\
+\| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\
+\| Doanh thu tiêu thụ sản phẩm | Tỷđ | 200 | | | | | | |\
+\| Tốc độ phát triển liên hoàn | % | | | 125 | | | | |\
+\| Số tuyệt đối tăng liên hoàn | Tỷđ | | 35 | | | 20 | | |\
+\| Tốc độ phát triển định gốc | % | | | | | | | 215 |\
+\| Mức doanh thu của 1% tăng liên hoàn | Tỷđ | | | | | 3,2 | | |\
+\| Số tuyệt đối tăng định gốc | Tỷđ | | | | | | 200 | |\
+\
+\*\*Câu hỏi:\*\*\
+Có số liệu tình hình tiêu thụ sản phẩm của doanh nghiệp X như trên:\
+(Kết quả tính toán làm tròn đến số thập phân thứ 2 đằng sau dấu phẩy)\
+Doanh thu tiêu thụ bình quân 1 năm của doanh nghiệp trong dãy số thời gian là:\
+\
+\*\*Các phương án (trong ảnh):\*\*\
+\*   323,25 tỷ đồng\
+\*   315,24 tỷ đồng\
+\*   323,25 tỷ đồng\
+\
+\---\
+\
+\### Hình 2 (Câu hỏi về số công nhân bình quân)\
+\
+\*\*Đề bài:\*\*\
+Tình hình sản xuất của một doanh nghiệp trong 3 tháng đầu năm năm 2022 như sau:\
+\
+\*\*Bảng số liệu:\*\*\
+\
+\| Chỉ tiêu | Tháng 1 | Tháng 2 | Tháng 3 |\
+\| :--- | :--- | :--- | :--- |\
+\| Giá trị sản xuất thực tế (tỷ đồng) | 120 | 125 | 118 |\
+\| Tỷ lệ % hoàn thành kế hoạch giá trị sản xuất (%) | 105 | 108 | 110 |\
+\| Số công nhân đầu tháng (người) | 500 | 520 | 530 |\
+\
+\*\*Biết rằng:\*\* Số công nhân ngày 1 tháng 4 năm 2022 là 540 người.\
+(Kết quả tính toán làm tròn đến số thập phân thứ 2 đằng sau dấu phẩy)\
+\
+\*\*Câu hỏi:\*\*\
+Số công nhân bình quân 1 ngày trong quý I của doanh nghiệp là:\
+\
+\*\*Các phương án:\*\*\
+\*   543 người\
+\*   533 người\
+\*   523 người\
+\*   513 người\
+\
+\---\
+\
+\### Hình 4 (Câu hỏi lý thuyết về dãy số)\
+\
+\*\*Câu hỏi 1:\*\*\
+Để tính mức độ bình quân đối với dãy số tuyệt đối thời điểm có khoảng cách đều nhau cần phải:\
+\*   Biết các mức độ ở một số thời điểm cho trước với khoảng cách thời gian đều nhau\
+\*   Các mức độ ở các thời điểm bắt buộc phải biến thiên bằng nhau\
+\*   Các mức độ ở các thời điểm phải biến động tương đối đều đặn\
+\*   Cần có giả định về sự biến động đều đặn của các mức độ ở các thời điểm chưa biết\
+\
+\*\*Phương án:\*\*\
+\*   A. Chỉ có 1 và 2 đúng\
+\*   B. Chỉ có 1 và 3 đúng\
+\*   C. Chỉ có 2 và 3 đúng\
+\*   D. Chỉ có 1, 3, 4 đúng\
+\
+\*\*Câu hỏi 2:\*\*\
+Tác dụng của dãy số biến động theo thời gian là:\
+1> Phân tích đặc điểm biến động của hiện tượng.\
+2> Nêu lên xu hướng biến động của hiện tượng.\
+3> Dự đoán mức độ trong tương lai của hiện tượng.\
+4> Dùng để điều chỉnh dãy số biến động.\
+\
+\*\*Phương án:\*\*\
+\*   A. Chỉ có 1, 2, 3 đúng\
+\*   B. Chỉ có 2, 3, 4 đúng\
+\*   C. Chỉ có 1, 2, 4 đúng\
+\*   D. Chỉ có 1, 3, 4 đúng\
+\
+\---\
+\
+\### Hình 5 (Câu 15)\
+\
+\*\*Câu 15: Chọn phương án đúng nhất về số tuyệt đối thời kỳ:\*\*\
+(1) Phản ánh trạng thái của hiện tượng kinh tế - xã hội\
+(2) Phản ánh sự tích lũy về lượng của hiện tượng trong một độ dài thời gian nhất định\
+(3) Các số tuyệt đối của cùng một chỉ tiêu cộng lại với nhau không có ý nghĩa kinh tế\
+(4) Các số tuyệt đối của cùng một chỉ tiêu có thể cộng được với nhau để có trị số của thời kỳ dài hơn\
+\
+\*\*Phương án:\*\*\
+\*   A. Chỉ có 2 và 4 đúng\
+\*   B. Chỉ có 2 và 3 đúng\
+\*   C. Chỉ có 1 và 4 đúng\
+\*   D. Chỉ có 1 và 3 đúng\
+\
+\## Ảnh 1\
+\
+\*\*Bảng dữ liệu:\*\*\
+\
+\| Sản phẩm | Tổng thời gian dùng vào SX kỳ nghiên cứu (giờ) | Chỉ số sản lượng ($i_q$) (lần) | Chỉ số NSLĐ (theo giờ) ($i_w$) (lần) |\
+\|---|---|---|---|\
+\| A | 1.000 | 1,1 | 1,3 |\
+\| B | 1.200 | 1,2 | 1,05 |\
+\
+\*(Đối với kết quả tính cuối cùng, của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)\*\
+\
+\*\*4. Kết quả tính toán lại, làm tròn đến số thập phân thứ 2)\*\*\
+\
+Thời gian hao phí toàn doanh nghiệp thay đổi làm cho tổng thời gian hao phí toàn doanh nghiệp kỳ nghiên cứu so với kỳ gốc giảm:\
+\
+\- \<a>350,15 giờ\</a>\
+\- \<b>360,15 giờ\</b>\
+\- 370,16 giờ\
+\- 380,15 giờ\
+\
+\---\
+\
+\## Ảnh 2 – Câu 6\
+\
+\*\*Câu 6: Dựa vào nguồn tài liệu sau, tính toán và chọn đáp số đúng?\*\*\
+\
+Có tài liệu về tình hình tiền lương của công nhân một doanh nghiệp qua 2 tháng như sau:\
+\
+\| Phân xưởng | Mức lương 1 công nhân (trđ) | | Kết cấu công nhân (%) | |\
+\|---|---|---|---|---|\
+\| | Tháng 9 | Tháng 10 | Tháng 9 | Tháng 10 |\
+\| A | 6 | 7 | 30 | 40 |\
+\| B | 8 | 8,5 | 50 | 36 |\
+\| C | 10 | 12 | 20 | 24 |\
+\
+Tiền lương bình quân một công nhân toàn doanh nghiệp tháng 9, tháng 10 lần lượt là:\
+\
+\*(Kết quả các phép tính được làm tròn đến 4 chữ số thập phân)\*\
+\
+\- A. 7,8 trđ/ng; 8,74 trđ/ng\
+\- B. 8,7 trđ/ng; 8,47 trđ/ng\
+\- C. 8,7 trđ/ng; 8,74 trđ/ng\
+\- D. 7,8 trđ/ng; 8,47 trđ/ng\
+\
+\---\
+\
+\## Ảnh 3\
+\
+Có tài liệu về lao động và kết quả sản xuất ở 1 DN công nghiệp có tài liệu như sau.\
+\
+Về kết quả sản xuất:\
+\- Giá trị sản xuất (GTSX) năm 2015 là 250 (tỷ đồng)\
+\- Tốc độ tăng GTSX bình quân hàng năm kể từ năm 2015 – 2021 là 8%\
+\
+Biết rằng số công nhân viên trong danh sách bình quân năm 21 là 990 công nhân và tăng 10% so với năm 2015\
+\
+\*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)\*\
+\
+\*\*Giá trị sản xuất toàn doanh nghiệp năm 2021 là:\*\*\
+\
+\- \<a>386,72 tỷ đồng\</a>\
+\- \<b>396,72 tỷ đồng\</b>\
+\- 406,72 tỷ đồng\
+\- 416,72 tỷ đồng\
+\
+\---\
+\
+\## Ảnh 4 – Câu 3\
+\
+\*\*Câu 3: Dựa vào nguồn tài liệu sau tính toán và chọn đáp số đúng.\*\*\
+\
+Có tài liệu tại doanh nghiệp công nghiệp M như bảng dưới đây:\
+\
+\| Phân xưởng | Kỳ gốc | | Kỳ báo cáo | |\
+\|---|---|---|---|---|\
+\| | Năng suất lao động một công nhân (trđ) | Số lượng công nhân (người) | Năng suất lao động một công nhân (trđ) | Số lượng công nhân (người) |\
+\| A | 120 | 400 | 140 | 450 |\
+\| B | 100 | 200 | 120 | 250 |\
+\
+Năng suất bình quân (NSBQ) toàn doanh nghiệp kỳ gốc và kỳ báo cáo lần lượt là:\
+\
+\*(Kết quả các phép tính được làm tròn đến 4 chữ số thập phân)\*\
+\
+\- A. 113,3333 trđ; 132,8571 trđ\
+\- B. 117,3333 trđ; 132,5718 trđ\
+\- C. 115,3333 trđ; 123,8571 trđ\
+\- D. 111,3333 trđ; 132,8571 trđ\
+\
+\---\
+\
+\## Ảnh 5\
+\
+\*\*Công thức:\*\*\
+\
+$$\bar{y} = \frac{\frac{y_1}{2} + y_2 + \cdots + y\_{n-1} + \frac{y_n}{2}}{n - 1}$$\
+\
+Tên gọi đầy đủ nhất của công thức trên là công thức tính mức độ bình quân theo thời gian từ:\
+\
+\- A. Dãy số thời điểm có khoảng cách thời gian bằng nhau.\
+\- B. Dãy số thời điểm có khoảng cách thời gian không bằng nhau.\
+\- C. Dãy số thời kỳ.\
+\- D. Dãy số thời điểm.\
+\
+\---\
+\
+Thực chất của công thức tính mức độ bình quân theo thời gian từ dãy số thời điểm là:\
+\
+\- A. Phương pháp bình quân cộng gia quyền\
+\- B. Phương pháp bình quân cộng giản đơn\
+\- C. Phương pháp bình quân nhân giản đơn\
+\- D. Phương pháp bình quân điều hòa gia quyền\
+\
+\---\
+\
+Trong công thức số bình quân điều hòa dưới đây thì ($d_i$) trong công thức là:\
+\
+$$\bar{x} = \frac{\sum d_i}{\sum \frac{d_i}{x_i}}$$\
+\
+(1) Là số tương đối\
+(2) Là tổng lượng biến tiêu thức\
+(3) Biểu hiện kết cấu của tổng lượng biến tiêu thức nghiên cứu\
+(4) Biểu hiện tỷ trọng số đơn vị tổng thể của từng tổ chiếm trong tổng thể\
+\
+\- A. Chỉ 1 và 4 đúng\
+\- B. Chỉ 1 và 3 đúng\
+\
+\---\
+\
+1\. Theo \*\*phương pháp tính toán\*\*, chỉ số được chia thành?\
+&#x20;  \- Chỉ số liên hợp, chỉ số bình quân\
+\
+2\. Theo \*\*yếu tố cấu thành hệ thống chỉ số\*\*, chỉ số được chia thành?\
+\
+3\. Trong phạm vi của \*\*đối tượng điều tra\*\* có thể chia thành: điều tra toàn bộ và điều tra không toàn bộ
+
+\
+\### Hình 1\
+\*\*Câu 18: Từ nguồn tài liệu sau, tính toán và chọn đáp số đúng?\*\*\
+Có tài liệu về doanh thu của một doanh nghiệp như sau:\
+\
+\| Năm | n-5 | n-4 | n-3 | n-2 | n-1 | n |\
+\| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\
+\| Tốc độ phát triển về Doanh thu (%) | - | 110 | 115 | 110 | 120 | 125 |\
+\
+Tốc độ phát triển bình quân về doanh thu là:\
+\*(Kết quả các phép tính được làm tròn đến 3 chữ số thập phân)\*\
+A. 1,185 lần\
+B. 1,122 lần\
+C. 1,158 lần\
+D. 1,118 lần\
+\
+\---\
+\
+\### Hình 2\
+\*\*Câu 5: Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\*\*\
+Có tài liệu về sản lượng ở Tổng công ty M (gồm 3 doanh nghiệp cùng sản xuất 1 loại sp (Đvt: 1000 sản phẩm)\
+\
+\| Tên doanh nghiệp | Năm 2019 (Thực tế) | Năm 2020 (Kế hoạch) | Năm 2020 (Thực tế) |\
+\| :--- | :---: | :---: | :---: |\
+\| A | 50500 | 53500 | 54800 |\
+\| B | 68000 | 70800 | 75000 |\
+\| C | 72600 | 74500 | 76000 |\
+\
+Số tương đối nhiệm vụ kế hoạch về sản lượng của tổng công ty năm 2020:\
+\*(Kết quả được làm tròn đến chữ số thập phân thứ nhất, theo quy tắc làm tròn số toán học)\*\
+A. 104,0 %\
+B. 106,4 %\
+C. 103,5%\
+D. 105,9%\
+\
+\---\
+\
+\### Hình 3\
+\*\*Trong các số liệu sau số hiệu nào là số tương đối hoàn thành kế hoạch:\*\*\
+A. Năng suất lao động ở doanh nghiệp A tháng 5/ 2021 hoàn thành vượt mức kế hoạch 19%.\
+B. Giá gạo tại địa phương A tháng 5/2021 bằng 125% so với tháng 4/2021.\
+C. Năng suất lao động ở doanh nghiệp A theo kế hoạch tháng 5/2021 phải tăng 5% so với tháng 4/2021.\
+D. Giá gạo tháng 5/ 2021 ở địa phương A cao hơn địa phương B 4%\
+\
+\
+\*\*Chọn phương án trả lời đúng ?\*\*\
+Trong công thức số bình quân điều hòa dưới đây thì (di) trong công thức là:\
+$$ \bar{x} = \frac{\sum d_i}{\sum \frac{d_i}{x_i}} $$\
+(1) Là số tương đối\
+(2) Là tổng lượng biến tiêu thức\
+(3) Biểu hiện kết cấu của tổng lượng biến tiêu thức nghiên cứu\
+(4) Biến hiện tỷ trọng số đơn vị tổng thể của từng tổ chiếm trong tổng thể\
+\
+A. Chỉ 1 và 3 đúng\
+B. Chỉ 1 và 2 đúng\
+C. Chỉ 1 và 4 đúng\
+D. Chỉ 3 và 4 đúng\
+\
+\
+\*\*Khi phân tích sự biến động của chỉ tiêu bình quân, công thức $(\bar{x}\_1 - \bar{x}\_{01})$ cho biết :\*\*\
+A. Chênh lệch tuyệt đối của chỉ tiêu bình quân giữa 2 kỳ.\
+B. Chênh lệch tuyệt đối của chỉ tiêu bình quân giữa 2 kỳ khi kết cấu biến động ( tăng hoặc giảm)\
+C. Chênh lệch tuyệt đối của chỉ tiêu bình quân giữa 2 kỳ khi bản thân lượng biến biến động.\
+D. Chênh lệch tuyệt đối của chỉ tiêu bình quân giữa 2 kỳ khi kết cấu thay đổi.\
+\
+\---\
+\
+\### Hình 4\
+\*\*Câu 21: Có tài liệu về tình hình nhập và xuất hàng hóa tại kho của một công ty thương mại X trong tháng 10 năm 2021 như sau:\*\*\
+\*   Tồn kho đầu tháng: 30 tỷ\
+\*   Ngày 3/10: xuất kho 3,5 tỷ\
+\*   Ngày 7/10: nhập kho 3,2 tỷ\
+\*   Ngày 12/10: xuất kho 5,3 tỷ\
+\*   Ngày 18/10: nhập kho 9,2 tỷ\
+\*   Ngày 26/10: xuất kho 6,25 tỷ\
+\*   Từ đó đến cuối tháng, hàng hóa tồn kho không thay đổi\
+\
+Giá trị hàng hóa tồn kho bình quân một ngày trong tháng 10/2021 của công ty thương mại X là:\
+A. 28,8323\
+B. 28,7223\
+C. 28,9323\
+D. 28,6323\
+\
+\---\
+\
+\### Hình 5\
+tra không toàn bộ\
+\
+\*\*Chọn phương án trả lời đúng nhất trong các phát biểu sau đây về chỉ số bình quân điều hòa:\*\*\
+1\) Chỉ số cá thể của chỉ tiêu nghiên cứu đóng vai trò làm lượng biến\
+2\) Chỉ số cá thể của chỉ tiêu có liên quan đóng vai trò làm lượng biến\
+3\) Quyền số được rút ra từ tử số của chỉ số liên hợp tương ứng\
+4\) Quyền số được rút ra từ mẫu số của chỉ số liên hợp tương ứng\
+\
+\
+\*\*Dựa vào nguồn tài liệu sau, lựa chọn phương án trả lời đúng:\*\*\
+Có Tài liệu về tình hình tiêu thụ sản phẩm của Doanh nghiệp thương mại X trong 2 quý như sau:\
+\
+\| Tên hàng hóa | Mức tiêu thụ hàng hóa (tỷ đồng) - Quý I | Mức tiêu thụ hàng hóa (tỷ đồng) - Quý II | Tốc độ tăng (giảm) giá bán quý II so với quý I (%) |\
+\| :--- | :---: | :---: | :---: |\
+\| A | a | d | +g |\
+\| B | b | e | -h |\
+\| C | c | f | +k |\
+\
+Tổng mức tiêu thụ hàng hóa quý II với quý I thay đổi do ảnh hưởng bởi:\
+(1) Do giá bán nói chung của các mặt hàng quý II so với quý I thay đổi\
+(2) Do lượng hàng hóa tiêu thụ nói chung của các mặt hàng quý II so với quý I thay đổi.\
+(3) Do giá bán bình quân của các mặt hàng quý II so với quý I thay đổi\
+(4) Do tổng lượng hàng hóa tiêu thụ quý II so với quý I thay đổi\
+\
+\
+\*\*Hệ thống chỉ số sau được áp dụng thích hợp nhất trong trường hợp nào sau đây:\*\*\
+$$ \frac{C_1}{C_0} = \frac{\sum Z_1 q_1}{\sum Z_0 q_1} \frac{\sum Z_0 q_1}{\sum Z_0 q_0} $$\
+(1) Tổng thể nghiên cứu đồng chất nhưng không tính được chỉ tiêu bình quân, tài liệu có phân tổ\
+(2) Tổng thể nghiên cứu đồng chất, tính được chỉ tiêu bình quân, tài liệu có phân tổ.\
+(3) Tổng thể nghiên cứu không đồng chất... (bị cắt)
+
+\
+\## Đề 1 – Câu 7\
+\
+\*\*Câu 7: Chọn câu trả lời đúng\*\*\
+\
+Trong công thức số bình quân cộng dưới đây thì (di) trong công thức:\
+\
+$$\bar{x} = x_i \cdot d_i$$\
+\
+\- \*\*A.\*\* Là số tuyệt đối\
+\- \*\*B.\*\* Biểu hiện tỷ trọng số đơn vị tổng thể của từng tổ chiếm trong tổng thể\
+\- \*\*C.\*\* Biểu hiện kết cấu của tổng lượng biến tiêu thức\
+\- \*\*D.\*\* Là tổng lượng biến tiêu thức\
+\
+\---\
+\
+\## Đề 2 – Tác dụng của chỉ số\
+\
+\*\*Chọn phương án trả lời đúng về tác dụng của chỉ số:\*\*\
+\
+1\) Chỉ số biểu hiện được sự biến động của một hiện tượng kinh tế-xã hội qua hai thời gian hoặc hai không gian khác nhau\
+2\) Chỉ số biểu hiện kết cấu của một hiện tượng kinh tế-xã hội\
+3\) Chỉ số biểu hiện được sự biến động của một hiện tượng kinh tế-xã hội qua quá trình lập và kiểm tra tình hình thực hiện kế hoạch\
+4\) Chỉ số phân tích được sự biến động của một hiện tượng kinh tế-xã hội do các nhân tố tác động\
+\
+\- \*\*A.\*\* Cả 1, 2, 3, 4 đúng\
+\- \*\*B.\*\* Chỉ có 2 và 3 đúng\
+\- \*\*C.\*\* Chỉ 1, 3, 4 đúng\
+\- \*\*D.\*\* Chỉ có 1 và 2 đúng\
+\
+\
+\---\
+\
+\## Đề 3 – Doanh nghiệp công nghiệp M\
+\
+\*\*Có tài liệu tại doanh nghiệp công nghiệp M như bảng dưới đây:\*\*\
+\
+\| Phân xưởng | Kỳ gốc – Năng suất LĐ một công nhân (trđ) | Kỳ gốc – Số lượng công nhân (người) | Kỳ báo cáo – Năng suất LĐ một công nhân (trđ) | Kỳ báo cáo – Số lượng công nhân (người) |\
+\|:---:|:---:|:---:|:---:|:---:|\
+\| A | a | c | e | g |\
+\| B | b | d | f | h |\
+\
+\*\*Giá trị sản xuất kỳ báo cáo so với kỳ gốc thay đổi do ảnh hưởng bởi các nhân tố:\*\*\
+\
+(1) Bản thân năng suất lao động của từng phân xưởng thay đổi\
+(2) Năng suất lao động và số công nhân nói chung thay đổi\
+(3) Sự thay đổi kết cấu công nhân giữa 2 kỳ\
+(4) Tổng số công nhân kỳ báo cáo so với kỳ gốc có sự thay đổi\
+\
+\
+\---\
+\
+\## Đề 4 – DN công nghiệp (GTSX 2015–2021)\
+\
+\*\*Có tài liệu về lao động và kết quả sản xuất ở 1 DN công nghiệp có tài liệu như sau.\*\*\
+\
+\*\*Về kết quả sản xuất\*\*\
+\- Giá trị sản xuất (GTSX) năm 2015 là 250 (tỷ đồng)\
+\- Tốc độ tăng GTSX bình quân hàng năm kể từ năm 2015 – 2021 là 8%\
+\
+Biết rằng số công nhân viên trong danh sách bình quân năm 2021 là 990 công nhân và tăng 10% so với năm 2015.\
+\
+\*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)\*\
+\
+\*\*Năng suất lao động bình quân 1 công nhân toàn doanh nghiệp thay đổi làm cho GTSX toàn doanh nghiệp năm 2021 tăng so với năm 2015 là:\*\*\
+\
+\- 116,7 tỷ đồng\
+\- 126,7 tỷ đồng\
+\- 136,7 tỷ đồng\
+\- 146,7 tỷ đồng\
+\
+\
+\---\
+\
+\## Đề 5 – Doanh nghiệp X (doanh thu tiêu thụ bình quân)\
+\
+\*\*Có số liệu tình hình tiêu thụ sản phẩm của doanh nghiệp X như trên:\*\*\
+\*(Kết quả tính toán làm tròn đến số thập phân thứ 2 đằng sau dấu phẩy)\*\
+\
+\*\*Doanh thu tiêu thụ bình quân 1 năm của doanh nghiệp trong dãy số thời gian là:\*\*\
+\
+\- 323,25 tỷ đồng\
+\- 323,25 tỷ đồng\
+\- 323,25 tỷ đồng\
+\- 323,25 tỷ đồng\
+\
+\---\
+\
+\## Đề 6 – Tình hình sản xuất quý I/2022\
+\
+\*\*Tình hình sản xuất của một doanh nghiệp trong 3 tháng đầu năm năm 2022 như sau:\*\*\
+\
+\| Chỉ tiêu | Tháng 1 | Tháng 2 | Tháng 3 |\
+\|:---|:---:|:---:|:---:|\
+\| Giá trị sản xuất thực tế (tỷ đồng) | 120 | 125 | 118 |\
+\| Tỷ lệ % hoàn thành kế hoạch giá trị sản xuất (%) | 105 | 108 | 110 |\
+\| Số công nhân đầu tháng (người) | 500 | 520 | 530 |\
+\
+\*\*Biết rằng:\*\* Số công nhân ngày 1 tháng 4 năm 2022 là 540 người.\
+\*(Kết quả tính toán làm tròn đến số thập phân thứ 2 đằng sau dấu phẩy)\*\
+\
+\*\*Tỷ lệ phần trăm hoàn thành kế hoạch giá trị sản xuất bình quân quý I của doanh nghiệp là:\*\*\
+\
+\- 137,62%\
+\- 127,62%\
+\- 117,62%\
+\- 107,62%\
+\
+\
+\## \*\*Câu 19:\*\* Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\
+\
+Có tài liệu thu thập được về tình hình lao động tại một doanh nghiệp trong quý I/2021 như sau:\
+\
+\- Ngày 1/1, doanh nghiệp có: \*\*800 người\*\*\
+\- Ngày 21/1, doanh nghiệp tuyển thêm: \*\*65 người\*\*\
+\- Ngày 8/2, xin nghỉ việc: \*\*30 người\*\*\
+\- Ngày 23/2, doanh nghiệp tuyển thêm: \*\*110 người\*\*\
+\- Ngày 6/3, cho thôi việc: \*\*15 người\*\*\
+\- Nghỉ hưu: \*\*5 người\*\*\
+\- Ngày 27/3, doanh nghiệp tuyển thêm: \*\*87 người\*\*\
+\- Từ đó đến hết quý, tình hình lao động của doanh nghiệp không thay đổi.\
+\
+Số lượng lao động bình quân 1 ngày của doanh nghiệp trong quý I/2021 là:\
+\*(Kết quả được làm tròn đến phần nguyên theo quy tắc toán học thông thường)\*\
+\
+A. 858 người\
+B. 825 người\
+C. 845 người\
+D. 878 người\
+\
+\---\
+\
+\## \*\*Câu (không rõ số):\*\* Tính toán và lựa chọn đáp án đúng:\
+\
+Tại doanh nghiệp X, thực tế so với kế hoạch, tổng thời gian sản xuất tăng 10% tương ứng tăng 1.000 giờ, thời gian hao phí để sản xuất 1 đơn vị sản phẩm toàn doanh nghiệp (DN) không hoàn thành kế hoạch là 5% (với quyền số kỳ thực hiện)\
+\
+\*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)\*\
+\
+Tổng thời gian sản xuất toàn DN thực tế và kế hoạch lần lượt là:\
+\
+\- a) 10.000 giờ; 11.000 giờ\
+\- b) 9.000 giờ; 10.000 giờ\
+\- 8.000 giờ; 9.000 giờ\
+\- 7.000 giờ; 8.000 giờ\
+\
+\---\
+\
+\## \*\*Câu 10:\*\* Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\
+\
+Có tài liệu về Giá thành đơn vị sản phẩm và Tổng giá thành của Doanh nghiệp X (sản xuất 1 loại sản phẩm S) như sau:\
+\
+\| Tên phân xưởng | Quý 1/2020 - Tổng giá thành (trđ) | Quý 1/2020 - Giá thành đvsp (ngđ/chiếc) | Quý 2/2020 - Tỷ trọng tổng giá thành (%) | Quý 2/2020 - Giá thành đvsp (ngđ/chiếc) |\
+\|---|---|---|---|---|\
+\| A | 2970 | 1100 | 27,8 | 1120 |\
+\| B | 4725 | 1050 | 40,4 | 1080 |\
+\| C | 3952 | 1040 | 31,8 | 1060 |\
+\
+Giá thành đơn vị sản phẩm bình quân của toàn doanh nghiệp trong quý 1/2020 và quý 2/2020 là:\
+\*(Kết quả được làm tròn đến phần nguyên, theo quy ước làm tròn số toán học)\*\
+\
+A. 1058 (ngđ/c); 1092 (ngđ/c)\
+B. 1075 (ngđ/c); 1094 (ngđ/c)\
+C. 1059 (ngđ/c); 1084 (ngđ/c)\
+D. 1061 (ngđ/c); 1075 (ngđ/c)\
+\
+\---\
+\
+\## \*\*Câu 8:\*\* Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\
+\
+Có tài liệu về tình hình sản xuất (1 loại sản phẩm) của tập đoàn X kỳ báo cáo như sau:\
+\
+\| Doanh nghiệp | Số công nhân (người) | Năng suất lao động (sp/người) | Giá thành đơn vị sản phẩm (ngđ/sp) | Mức lương tháng (ngđ/ng) |\
+\|---|---|---|---|---|\
+\| A | 150 | 250 | 285 | 5600 |\
+\| B | 200 | 300 | 275 | 5680 |\
+\| C | 350 | 280 | 280 | 5650 |\
+\
+Giá thành đơn vị sản phẩm bình quân của tập đoàn X là:\
+\*(Kết quả được làm tròn đến chữ số thập phân thứ nhất, theo quy ước làm tròn số toán học)\*\
+\
+A. 279,4 (ngđ/sp)\
+B. 276,2 (ngđ/sp)\
+C. 277,3 (ngđ/sp)\
+D. 280,5 (ngđ/sp)\
+\
+\---\
+\
+\## \*\*Câu (không rõ số):\*\* (từ ảnh cuối)\
+\
+Bảng dữ liệu:\
+\
+\| Tên sản phẩm | Tổng thời gian dùng vào SX kỳ nghiên cứu (giờ) | Chỉ số sản lượng (Iq) (lần) | Chỉ số NSLĐ (Iw) (lần) |\
+\|---|---|---|---|\
+\| A | 1.000 | 1,1 | 1,3 |\
+\| B | 1.200 | 1,2 | 1,05 |\
+\
+\*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)\*\
+\
+Năng suất lao động theo giờ toàn doanh nghiệp kỳ nghiên cứu so với kỳ gốc tăng:\
+\
+\- a) 16,36%\
+\- b) 26,36%\
+\- 36,36%\
+\- 46,36%
+
+\
+\### Hình 1\
+\*\*Câu 16: Chọn câu nói sai ở các câu sau?\*\*\
+A. Tháng 5/2021 DN A không hoàn thành kế hoạch 11,25% về giá trị sản xuất\
+B. Năng suất ld ở DN A theo kế hoạch tháng 5/2021 phải giảm 4% so với tháng 4/2021\
+C. Giá gạo tại địa phương A tháng 5/2021 bằng 108% so với tháng 4/2021\
+D. Tháng 2/2022 lượng gạo tiêu thụ ở địa phương A tăng 10% so với địa phương B\
+\
+\---\
+\
+\### Hình 2\
+\*\*Câu 13: Chọn phương án đúng nhất\*\*\
+Những số bình quân (SBQ) san bằng, bù trừ chênh lệch giữa các lượng biến , bao gồm:\
+(1) SBQ cộng giản đơn, SBQ cộng gia quyền\
+(2) Mốt\
+(3) Số trung vị\
+(4) SBQ điều hòa, SBQ nhân\
+\
+A. Chỉ có 1 và 2 đúng\
+B. Chỉ có 3 và 4 đúng\
+C. Chỉ có 2 và 3 đúng\
+D. Chỉ có 1 và 4 đúng\
+\
+\---\
+\
+\### Hình 3\
+\*\*Câu 1: Chọn phương án trả lời đúng nhất?\*\*\
+Trong các chỉ tiêu sau chỉ tiêu nào không phải là số tuyệt đối (STĐ) trong thống kê:\
+(1) Doanh thu của doanh nghiệp X năm 2021 đạt 428 tỷ đồng\
+(2) Số công nhân của doanh nghiệp X ngày 31/12/2020 là 600 người\
+(3) Giá trị sản xuất của doanh nghiệp X quý IV/2021 so với quý III/2021 bằng 120%\
+(4) Tiền lương bình quân một công nhân của doanh nghiệp X năm 2021 là 12 triệu đồng\
+\
+A. Chỉ có 2 và 3 không phải STĐ\
+B. Chỉ có 3 và 4 không phải STĐ\
+C. Chỉ có 1 và 4 không phải STĐ\
+D. Chỉ có 1 và 2 không phải STĐ\
+\
+\---\
+\
+\### Hình 4\
+\*\*Tính toán và lựa chọn đáp án đúng:\*\*\
+Có tài liệu về tình hình nhập và xuất hàng hóa tại kho của một công ty thương mại X trong tháng 2 năm 2022 như sau:\
+-Tồn kho đầu tháng: 250 tỷ đồng\
+-Ngày 04: xuất kho 40 tỷ đồng\
+-Ngày 08: nhập kho 50 tỷ đồng\
+-Ngày 15: xuất kho 35 tỷ đồng\
+-Ngày 18: nhập kho 20 tỷ đồng\
+-Ngày 26: xuất kho 30 tỷ đồng\
+Từ đó đến cuối tháng, tình hình nhập và xuất tại kho không có gì thay đổi.\
+( Kết quả tính toán làm tròn đến số thập phân thứ 2 đằng sau dấu phẩy)\
+Giá trị hàng hóa tồn kho bình quân một ngày trong tháng 02/2022 của công ty thương mại X là:\
+\
+\*   228,93 tỷ đồng\
+\*   238,93 tỷ đồng\
+\*   248,93 tỷ đồng\
+\*   258,93 tỷ đồng\
+\
+\
+\### Hình 5\
+\*\*Tính toán và lựa chọn đáp án đúng\*\*\
+Kế hoạch của một doanh nghiệp năm 2017-2021 phải tăng doanh thu lên 5,5 lần so với năm 2016.\
+( Kết quả tính toán làm tròn đến số thập phân thứ 2 đằng sau dấu phẩy)\
+Tốc độ tăng bình quân về giá trị sản xuất của doanh nghiệp cho các năm từ 2017-2021 là:\
+\
+\*   \<a> 43,41%\</a>\
+\*   \<b>44,41%\</b>\
+\*   45,41%\
+\*   46,41%\
+
+
+Theo số liệu công bố của Tổng cục Thống kê về tốc độ tăng trưởng GDP hàng năm so với nâm liên trước của Việt Nam trong giai đoạn 2020-2024 như sau:
+
+Tốc độ tăng trưởng GDP năm 2020 là 2,91%
+
+Tốc độ tăng trưởng GDP năm 2021 là 2,58%
+
+Tốc độ tăng trưởng GDP năm 2022 là 8,02%
+
+Tốc độ tăng trưởng GDP năm 2023 là 5,05%
+
+Tốc độ tăng trưởng GDP năm 2024 là 7,09%
+
+Tốc độ tăng GDP bình quân giai đoạn 2020-2024 là:
+
+
+
+5,53%
+
+6,42%
+
+5,11%
+
+6,45%
+
+
+
+Câu 20:
+
+Theo tinh chất của chi tiêu nghiên cứa, chi số được chia thành 
+
+A. Chi số phát triển. Chi số không gian, Chi số ké hoạch
+
+B. Chi số của chi tiêu số lượng, chỉ số của chi tiêu chất lượng
+
+C. Chi số tổng hợp, chi số bình quân
+
+D. Chi số cá thể, chi số chung
+
+
+
+Cau 13
+
+Dựa vao ngưon tai liệu sau, tinh toán và chọn đáp sô đưng?
+
+Tại doanh nghiệp X sản xuất 4 mặt hàng A, B, C. D tỏng chi phí sản xuát quý II so sới quý 1 giảm 10% tương ứng với giảm 500 triệud: gì thành đơn vị sản phảm của các loại sản phâm nói chungl tăng 20%\*
+
+Khôi lượng sản phâm (KLSP) quý II so vơi quý 1 có sự thay đoi la:
+
+
+
+A. KLSP giảm 25%
+
+ B. KLSP giám 26%
+
+C. KLSP giảm 27%
+
+d KLSP giảm 28% 
+
+
+
+19\. Trong Hệ thống chỉ số theo phương pháp thay thế liên hoàn thì: mẫu số của chỉ số nhãn tố đứng sau luôn giống với tứ số của chỉ số nhân tố đứng trước?
+
+A. Sai
+
+B. Đúng
+
+
+
+Câu 18 Giá bán vở ô li học sinh của Công ty VPP Hông Hà là 15000 đồng/quyên. Thực hiện chiên dịch khuyen mãi công ty giam giá bán 8% so với giá bán thông thường. Trường Tiếu học Thạch Bàn mua số lượng 10760 cuốn nên được chiết khấu 7,5% so với giá khuyến mại. Do không thanh toán đúng hạn theo hợp đồng nên bị phạt 2% giá khuyến mại. Vậy số tiên 1 quyền vớ Trường học phải thanh toán là bn?
+
+A. 12.509 Đồng
+
+B. 13.100 Đỗng
+
+c. 13.041 đồng
+
+D. 14.020 Đồng
+
+
+
+
+
+Phần này là review từ người thi:
+
+
+
+1. Mqh giữa sổ cái và các sổ kế toán chi tiết tương ứng?
+
+1) Số lượng SC luôn bằng số lượng sổ chi tiết tương ứng
+2) Phù hợp với nhau về số liệu
+3) Việc ghi chép diễn ra đồng thời
+
+2\. Trích trước chi phí bảo hành sản phẩm là tuân thủ ngtac kế toán nào? (Thận trọng & Phù hợp)
+
+3\. Kỳ ktoan năm có nhất thiết trùng năm dương lịch ko
+
+4\. Việc sử dụng thước đo của ktoan có gif khác biệt so với các loại hạch toán khác
+
+5\. Ktoan hình thành khi nào
+
+6\. Đối tượng chung của ktoan (6 đtg)
+
+7\. Cty Mai Linh (KTDT, kỳ ktoan tháng), xác định kết quả kinh doạnh (400)
+
+8\. “Ứng trước tiền mua hàng cho người bán =™ 100tr” định khoản
+
+9\. Cty Y (kỳ ktoan tháng, KTT), tháng 12/N phát sinh các nghiệp vụ:
+
+ 1/ Mua hh nhập kho trị giá 900, đax thanh toán cho ng bán 600, số còn lại chưa thanh toán
+
+ 2/ Xkho ⅓ số hh trên với giá bán 450, KH đã thanh toán 70%, số còn lại KH cam kết thanh toán kỳ sau
+
+ 3/ Trích trước Cphi bảo hành sp kỳ này 40
+
+ 4/ Tính lương phải trả cho ng lao động T12/N 50
+
+ 5/ Đối tác nộp phạt nợ kỳ này bằng ™ 10
+
+ 6/ Nhận được thông báo về khoản lãi tiền vay đơn vị phải trả kỳ này 5
+
+Xác định TN, CP, KQHD trong kỳ của cty
+
+1. 450; 395; Lãi 55
+2. 325; 600; Lỗ 275
+3. 460; 395; Lãi 65
+
+7\. Cty A (KTDT, kỳ ktoan tháng), tháng 11/N:
+
+ 1/ Cty A đã cung cấp dịch vụ tư vấn ktoans cho cty B: 500 tiếng (tương ứng 40% khối lượng giờ đã ký kết, tổng dthu của hợp đồng: 1250), cty B đã chấp nhận và thanh toán ngay = TGNH 
+
+ 2/ Chuyển TGNH trả tiền thuê vphong cho 2 tháng cuối năm 30
+
+ 3/ Trích KHTSCD ở bộ phận QLDN 25
+
+ 4/ Tính lương phải trả ng lao động 80
+
+ 5/ Khấu trừ vào lương thu hồi tiền tạm ứng của nhân viên kế toán 15
+
+Chệnh lệch Npt đầu kỳ và cuối kỳ là bao nhiêu (đenta NPT)
+
+1. 80
+2. 65
+3. 50 &#x20;
+
+
+
+Câu 1
+
+Doanh nghiệp có tình hình sản xuất như sau: giá thành sản phẩm so với kỳ kế hoạch tăng 5%, sản lượng sản phẩm sản xuất tăng 20%. Tổng chi phí sản xuất kỳ báo cáo là 114 tỷ đồng. Hỏi tổng chi phí sản xuất kỳ kế hoạch là bao nhiêu?
+
+A. 2.250, 2.911 triệu đồng B. 2.500, 2.994 triệu đồng C. 2.290, 2.487 triệu đồng D. 2.280, triệu đồng
+
+Câu 2
+
+Từ nguồn tài liệu sau, tính toán và chọn đáp số đúng.
+
+Có tài liệu về GTSX như sau:
+
+Năm n-4 n-3 n-2 n-1 n
+
+GTSX (tỷ đồng) 100 150 180 200 200
+
+Dự báo GTSX của doanh nghiệp năm (n+3) bằng tốc độ pt bình quân là bnhieu (Kết quả tính được làm tròn đến 3 chữ số thập phân.)
+
+D:336,183 tỷ đ
+
+Câu 3
+
+Có tài liệu thực tế so với kế hoạch tại một doanh nghiệp như sau:
+
+Giá thành để sản xuất ra một đơn vị sản phẩm hoàn thành vượt mức kế hoạch đề ra 15% (quyền số được cố định ở kỳ báo cáo) làm doanh nghiệp tiết kiệm được 660 triệu đồng.
+
+Số lượng sản phẩm sản xuất vượt kế hoạch 21% (quyền số được cố định ở kỳ kế hoạch).
+
+Hãy cho biết tổng giá thành của toàn doanh nghiệp thay đổi như thế nào khi số lượng sản phẩm sản xuất vượt so với kế hoạch? (Kết quả tính toán làm tròn đến số thập phân thứ hai sau dấu phẩy.)
+
+A. 763,64 triệu B. 743,37 triệu
+
+4.Trong những chỉ tiêu sau đây, chỉ tiêu nào phản ánh lượng tăng (giảm):
+
+A. Năm 2025 giá trị sản xuất của công ty tăng 22% so với năm 2024. B. Năm 2025 giá trị sản xuất của công ty tăng 250 tỷ đồng so với năm 2024. C. Năm 2025 giá trị sản xuất của công ty bằng 110% so với năm 2024. D. Bình quân mỗi năm, giá trị sản xuất của công ty tăng 15%.
+
+5.Câu 5
+
+Tổng của các lượng tăng, giảm tuyệt đối định gốc bằng lượng tăng giảm tuyệt đối liên hoàn.
+
+A. Sai B. Đúng
+
+Câu 6
+
+Chọn phương án trả lời đúng nhất.
+
+Theo quan điểm lịch sử thì các mối liên hệ được chia thành:
+
+1\. Liên hệ tương quan thuận
+
+2\. Liên hệ tương quan nghịch
+
+3\. Liên hệ không gian
+
+4\. Liên hệ thời gian
+
+A. Chỉ 2 và 3 B. Chỉ 1 và 4 C. Chỉ 3 và 4 D. Chỉ 1 và 2
+
+Câu 7
+
+Chọn câu trả lời đúng?
+
+Giá trị sản xuất của một doanh nghiệp tăng lên là cơ hội giúp cho doanh nghiệp thu hút thêm vốn đầu tư. Từ phương trình hồi quy biểu diễn mối liên hệ giữa Giá trị sản xuất và Vốn đầu tư:
+
+y=58,7+0,61x
+
+Ý nghĩa của tham số 
+
+alà 
+
+:A. a=58,7 nói lên ảnh hưởng của các tiêu thức nguyên nhân khác đến Vốn đầu tư.
+
+
+
+B. a=58,7 nói lên ảnh hưởng của tiêu thức Giá trị sản xuất đến Vốn đầu tư. C. a=58,7nói lên ảnh hưởng của các tiêu thức nguyên nhân khác đến Giá trị sản xuất. D. a=58,7nói lên ảnh hưởng của tiêu thức Vốn đầu tư đến Giá trị sản xuất.
+
+Câu 8
+
+Từ nguồn tài liệu sau, tính toán và chọn đáp số đúng?
+
+Có tài liệu về lao động ở một doanh nghiệp công nghiệp trong năm 2025 như sau:
+
+\* Ngày 1/1 có 1200 công nhân.
+
+\* Ngày 15/2 tuyển thêm 100 công nhân.
+
+\* Ngày 2/4 tuyển thêm 50 công nhân.
+
+\* Ngày 30/6 chuyển đi làm việc ở doanh nghiệp khác 30 công nhân.
+
+\* Ngày 20/8 tuyển thêm 40 công nhân.
+
+\* Ngày 1/11 có 1400 công nhân.
+
+\* Ngày 20/12 đến cuối năm, số công nhân trong danh sách của doanh nghiệp là 1500 người.
+
+Số công nhân bình quân trong danh sách của doanh nghiệp năm 2025 là bao nhiêu?
+
+(Kết quả tính được làm tròn theo nguyên tắc toán học thông thường.)
+
+A. 1333 người B. 1336 người C. 1533 người D. 1353 người
+
+Câu 9
+
+Anh A có một số tiền dự định đầu tư vàng miếng SJC tháng 3 năm 2024, nhưng anh lại gửi tiết kiệm 1 năm với lãi suất 6,8%. Đến thời điểm đáo hạn, anh quyết định chuyển hướng đầu tư. Lúc này giá vàng miếng SJC tháng 3 năm 2025 tăng 14% so với cùng kỳ năm trước.
+
+Nếu anh A rút tiền tiết kiệm để mua vàng thì số lượng vàng anh A mua sẽ bị giảm bao nhiêu?
+
+(Kết quả tính toán làm tròn đến số thập phân thứ hai sau dấu phẩy.)
+
+11.Dựa vào tài liệu dưới đây, tính toán và chọn phương án trả lời đúng nhất:
+
+Có tài liệu về tình hình sản xuất của Doanh nghiệp Hồng Phát (sản xuất 1 loại sản phẩm) như sau:
+
+
+
+Phân xưởng Thời gian hao phí để sản xuất 1 sản phẩm (phút/cái) Khối lượng sản phẩm (cái)
+
+ Kỳ gốc Kỳ báo cáo
+
+A 120 115
+
+B 124 121
+
+C 110 122
+
+Thời gian hao phí để sản xuất 1 sản phẩm bình quân toàn doanh nghiệp kỳ gốc là:
+
+(Kết quả được làm tròn đến chữ số thập phân thứ hai, theo quy tắc làm tròn toán học thông thường).
+
+(Chỉ chọn 1 đáp án)
+
+\* A. 121,65 (phút/cái)
+
+\* B. 120,35 (phút/cái)
+
+\* C. 122,35 (phút/cái)
+
+\* D. 123,35 (phút/cái)
+
+\
+\
+\## Ảnh 1\
+\
+1.Hãng A bán spham vở với giá 15k/q, do áp dụng chương trình giảm giá nên giá bán đc giảm 8%, 1 cty mua 10760 quyển nên đc chiết khấu 7.5%. Nhưng do trễ hợp đồng nên bị phạt 2% giá giảm, hỏi cty tiết kiệm được bao nhiêu tiền ( Kết quả làm tròn đến phần nguyên)\
+A. 46tr\
+B. 24tr\
+D. 21tr\
+\
+\---\
+\
+\## Ảnh 2\
+\
+\*(Header: Số câu hỏi: 20 – Thời gian làm bài: 45 phút)\*\
+\
+\*\*Câu 11:\*\*\
+Chọn câu trả lời đúng?\
+Theo phương pháp tính toán chỉ số được chia thành\
+(Chỉ chọn 1 đáp án)\
+\- A. Chỉ số liên hợp, chỉ số bình quân\
+\- B. Chỉ số phát triển, Chỉ số không gian, Chỉ số kế hoạch\
+\- C. Chỉ số cá thể, chỉ số chung\
+\- D. Chỉ số của chỉ tiêu số lượng, chỉ số của chỉ tiêu chất lượng\
+\
+\*\*Câu 12:\*\*\
+Chọn phương án trả lời đúng nhất.\
+Hệ thống chỉ số sau không áp dụng được trong trường hợp nào sau đây:\
+Q₁/Q₀ = W̄₁/W̄₀ × Σp₁/Σp₀ \*(công thức trong ảnh bị mờ, chép gần đúng theo hình)\*\
+(1) Tổng thể nghiên cứu đồng chất nhưng không tính được chỉ tiêu bình quân.\
+(2) Tổng thể nghiên cứu đồng chất, tính được chỉ tiêu bình quân, tài liệu có phân tổ.\
+(3) Tổng thể nghiên cứu không đồng chất.\
+(4) Tổng thể nghiên cứu đồng chất, tính được chỉ tiêu bình quân, tài liệu không phân tổ.\
+(Chỉ chọn 1 đáp án)\
+\- A. Trường hợp 2, 3, 4\
+\- B. Trường hợp 1, 2, 3\
+\- C. Trường hợp 1, 3, 4\
+\- D. Trường hợp 1, 2, 4\
+\
+\*\*Câu 15:\*\*\
+Chọn câu trả lời đúng?\
+Khi so sánh giá bán của các mặt hàng giữa 2 khu vực: chợ A và chợ B, kết quả tính chỉ số về giá bán I_P(g) = 0,97 thì có thể kết luận:\
+(Chỉ chọn 1 đáp án)\
+\- A. Giá bán các mặt hàng ở chợ A thấp hơn chợ B 3%\
+\- B. Giá bán các mặt hàng ở chợ A giảm 3% so với chợ B\
+\- C. Giá bán các mặt hàng ở chợ A giảm 97% so với chợ B\
+\- D. Giá bán các mặt hàng ở chợ A cao hơn chợ B 3%\
+\
+\*\*Câu 16:\*\*\
+Chọn phương án trả lời đúng nhất.\
+Theo chiều hướng của mối liên hệ thì các mối liên hệ được chia thành:\
+1/ Liên hệ tương quan thuận\
+2/Liên hệ tương quan nghịch\
+3/Liên hệ không gian\
+4/Liên hệ thời gian\
+(Chỉ chọn 1 đáp án)\
+\- A. Chỉ 2 và 3\
+\- B. Chỉ 1 và 2\
+\- C. Chỉ 3 và 4\
+\- D. Chỉ 1 và 4\
+\
+\*\*Câu 31:\*\* Khi nói về quá trình phát sinh giao tử ở động vật, phát biểu nào sau đây đúng?\
+A. Ở tất cả các loài động vật, mỗi tế bào sinh tinh qua giảm phân tạo ra 4 tinh trùng.\
+B. Ở tất cả các loài động vật, mỗi tế bào sinh trứng qua giảm phân tạo ra 1 trứng và 3 thể cực.\
+C. Ở tất cả các loài động vật, các tinh trùng được tạo ra đều có khả năng thụ tinh cho trứng.\
+D. Ở tất cả các loài động vật, quá trình phát sinh giao tử đều trải qua các giai đoạn: nguyên phân, giảm phân và biến đổi hình thái.\
+\
+\*\*Câu 32:\*\* Một gen ở vi khuẩn \*E. coli\* có 2300 nucleôtit và số nucleôtit loại A chiếm 22% tổng số nucleôtit của gen. Số nucleôtit loại G của gen là:\
+A. 480.\
+B. 690.\
+C. 506.\
+D. 1150.\
+\
+\*\*Câu 33:\*\* Một quần thể thực vật giao phấn ngẫu nhiên có bộ nhiễm sắc thể lưỡng bội 2n = 10. Xét 5 cặp gen A, a; B, b; D, d; E, e; G, g; mỗi gen quy định một tính trạng, các alen trội là trội hoàn toàn. Biết rằng trên mỗi cặp nhiễm sắc thể chỉ xét một cặp gen. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\
+I. Quần thể này có tối đa 243 kiểu gen.\
+II. Quần thể này có tối đa 32 kiểu hình.\
+III. Nếu quần thể ở trạng thái cân bằng di truyền thì số cá thể có kiểu gen dị hợp tử về tất cả các cặp gen chiếm tỉ lệ $\frac{1}{32}$.\
+IV. Nếu quần thể ở trạng thái cân bằng di truyền thì số cá thể có kiểu hình mang ít nhất một tính trạng trội chiếm tỉ lệ $\frac{31}{32}$.\
+A. 1.\
+B. 2.\
+C. 3.\
+D. 4.\
+\
+\*\*Câu 34:\*\* Ở một loài thực vật, xét 2 cặp gen A, a và B, b cùng nằm trên một cặp nhiễm sắc thể thường. Cho cơ thể có kiểu gen $\frac{AB}{ab}$ tự thụ phấn, thu được đời con có 16% số cây có kiểu gen đồng hợp lặn về cả 2 cặp gen. Theo lí thuyết, phát biểu nào sau đây đúng?\
+A. Hoán vị gen xảy ra ở cả quá trình phát sinh giao tử đực và cái với tần số 20%.\
+B. Hoán vị gen xảy ra ở cả quá trình phát sinh giao tử đực và cái với tần số 40%.\
+C. Đời con có kiểu gen dị hợp tử về cả 2 cặp gen chiếm tỉ lệ lớn nhất.\
+D. Đời con có 4 loại kiểu gen.\
+\
+\*\*Câu 35:\*\* Một quần thể ngẫu phối có cấu trúc di truyền ở thế hệ xuất phát là: 0,49 AA : 0,42 Aa : 0,09 aa. Biết rằng mỗi gen quy định một tính trạng, alen A trội hoàn toàn so với alen a. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng?\
+I. Nếu không có tác động của các nhân tố tiến hóa thì ở thế hệ F1, số cá thể có kiểu gen AA chiếm tỉ lệ 0,49.\
+II. Nếu chịu tác động của chọn lọc tự nhiên thì tần số alen A có thể bị giảm dần.\
+III. Nếu xuất hiện gen đột biến mới thì quần thể này sẽ làm phong phú thêm vốn gen của quần thể.\
+IV. Nếu có tác động của các yếu tố ngẫu nhiên thì alen a có thể bị loại bỏ hoàn toàn khỏi quần thể.\
+A. 1.\
+B. 2.\
+C. 3.\
+D. 4.\
+\
+\*\*Câu 1:\*\*\
+\\\<Q>Có tài liệu thực tế so với kế hoạch tại một doanh nghiệp như sau:\
+Thời gian hao phí để sản xuất ra một đơn vị sản phẩm hoàn thành vượt mức kế hoạch đề ra 12%, (quyền số được cố định kỳ thực hiện) làm doanh nghiệp tiết kiệm được 420 giờ\
+Số lượng sản phẩm sản xuất vượt kế hoạch 20% (quyền số được cố định kỳ kế hoạch)\
+Tổng thời gian sản xuất sản phẩm của toàn doanh nghiệp thực tế so với kế hoạch thay đổi bao nhiêu khi số lượng sản phẩm của doanh nghiệp thay đổi?\
+\*(Kết quả tính toán làm tròn đến số thập phân thứ hai sau dấu phẩy)\*\
+(Chỉ chọn 1 đáp án)\
+\- A. Tăng 20 %\
+\- B. tăng 12%\
+\- C. Tăng 14%\
+\- D. giảm 20%\
+\
+\*\*Câu 2:\*\*\
+Chọn câu trả lời Đúng hoặc Sai?\
+Số tương đối trong Thống kê là chỉ tiêu chí đi biểu hiện quan hệ so sánh giữa hai mức độ của cùng một hiện tượng?\
+(Chỉ chọn 1 đáp án)\
+\- A. Sai\
+\- B. Đúng\
+\
+\*\*Câu 3:\*\*\
+\\\<Q>Một doanh nghiệp gồm 3 phân xưởng cùng sản xuất 1 loại sản phẩm trong phẩm trong tháng 5/2024 (thời gian làm việc là 26 ngày và số giờ làm việc bình quân 1 ngày là 8,5 giờ), số liệu về thời gian lao động thu được như sau:\
+Phân xưởng 1 có 25 công nhân để sản xuất 1 đơn vị sản phẩm trung bình mất 15 phút\
+Phân xưởng 2 có 27 công nhân để sản xuất 1 đơn vị sản phẩm trung bình mất 14 phút\
+Phân xưởng 3 có 28 công nhân để sản xuất 1 đơn vị sản phẩm trung bình mất 16 phút\
+Để tính được thời gian hao phí bình quân để sản xuất sản phẩm của toàn công ty, từ dữ liệu trong bài tập trên có thể áp dụng công thức tính số bình quân nào sau đây?\
+(Chỉ chọn 1 đáp án)\
+\*(Các phương án trả lời của câu này bị cắt, không hiển thị trong ảnh)\*\
+\
+\*\*Câu 11:\*\*\
+Chọn phương án trả lời đúng nhất.\
+Hệ thống chỉ số sau không áp dụng được trong những trường hợp nào sau đây:\
+[Công thức trong ảnh: O₁/O₀ = Z₁/Z₀ × Σq₁/Σq₀ \*(ảnh độ phân giải thấp, ký hiệu công thức đọc gần đúng)\*]\
+(1)Tổng thể nghiên cứu đồng chất nhưng không tính được chỉ tiêu bình quân.\
+(2)Tổng thể nghiên cứu không đồng chất và nguồn tài liệu có phân tổ.\
+(3)Tổng thể nghiên cứu không đồng chất và nguồn tài liệu không phân tổ.\
+(4)Tổng thể nghiên cứu đồng chất, tính được chỉ tiêu bình quân và nguồn tài liệu không phân tổ.\
+(Chỉ chọn 1 đáp án)\
+\- A. Trường hợp 1, 2, 3\
+\- B. Trường hợp 1, 2, 3, 4\
+\- C. Trường hợp 2, 3, 4\
+\- D. Trường hợp 1, 3, 4\
+\
+\*\*Câu 12:\*\*\
+Chọn câu trả lời đúng nhất?\
+Công thức: ∑ i_q·t₀q₀ − ∑ t₀·q₀ phản ánh chênh lệch tuyệt đối về\
+(Chỉ chọn 1 đáp án)\
+\- A. Tổng thời gian sản xuất do ảnh hưởng bởi cả 2 nhân tố: thời gian hao phí sản xuất một sản phẩm và khối lượng sản phẩm sản xuất\
+\- B. Tổng thời gian sản xuất do ảnh hưởng bởi khối lượng sản phẩm sản xuất\
+\- C. Tổng thời gian sản xuất do ảnh hưởng bởi thời gian hao phí sản xuất một sản phẩm\
+\- D. Khối lượng sản phẩm sản xuất\
+\
+\*\*Câu 13:\*\* \*(phần đầu trang bị cắt, tiếp nối từ cuối trang trước: "Chọn phương án trả lời đúng nhất.")\*\
+\\\<Q>Tình hình sản xuất của một doanh nghiệp trong 3 tháng cuối năm N như sau:\
+\
+\| Chỉ tiêu | Tháng 10 | Tháng 11 | Tháng 12 |\
+\|---|---|---|---|\
+\| Giá trị sản xuất thực tế (tỷ đồng) | 120 | 125 | 128 |\
+\| Tỷ lệ % hoàn thành kế hoạch giá trị sản xuất | 105 | 107 | 110 |\
+\| Số công nhân đầu tháng | 300 | 310 | 296 |\
+\
+Biết rằng: \*Số công nhân cuối quý IV năm N là 304 người.\*\
+Tính năng suất lao động bình quân 1 công nhân tháng 10 năm N của doanh nghiệp?\
+\*(Kết quả tính làm tròn đến số thập phân thứ 2 theo nguyên tắc toán học thông thường)\*\
+(Chỉ chọn 1 đáp án)\
+\- A. 1,27 tỉ đồng\
+\- B. 3,23 tỉ đồng\
+\- C. 2,42 tỉ đồng\
+\- D. 0,39 tỉ đồng\
+\
+\*\*Câu 13:\*\* \*(xuất hiện lần thứ hai trong ảnh, có thể do lỗi đánh số/thứ tự trang của bài thi)\*\
+Tích của các tốc độ phát triển liên hoàn bằng tốc độ phát triển định gốc\
+(Chỉ chọn 1 đáp án)\
+\- A. Sai\
+\- B. Đúng\
+\
+\*\*Câu 14:\*\*\
+Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\
+Có tài liệu thu thập được tại một doanh nghiệp như sau:\
+\
+\| Năng suất lao động (kg/người) | Số công nhân (người) |\
+\|---|---|\
+\| Dưới 50 | 40 |\
+\| 50 - 75 | 100 |\
+\| 75 - 100 | 250 |\
+\| 100 - 110 | 550 |\
+\| 110 - 130 | 350 |\
+\| 130 - 140 | 150 |\
+\| Trên 140 | 60 |\
+\
+Trị số khoảng cách tổ của tổ cuối cùng được tính theo quy ước là:\
+(Chỉ chọn 1 đáp án)\
+\- A. 25 (kg/người)\
+\- B. 20 (kg/người)\
+\- C. 10 (kg/người)\
+\- D. 15 (kg/người)\
+\
+\---\
+\
+\*\*Ghi chú:\*\*\
+\- Thông tin đầu bài thi: "Số câu hỏi: 20", "Thời gian làm bài: 45 phút" (hệ thống VNPT Elearning).\
+\- Các câu 4–10 và đáp án của Câu 3 không xuất hiện trong các ảnh bạn cung cấp nên không thể trích.\
+\- Công thức ở Câu 11 và Câu 12 bị mờ trong ảnh chụp màn hình, tôi đã ghi lại gần đúng nhất có thể; nếu bạn cần chính xác từng ký hiệu, hãy cung cấp ảnh rõ hơn.
+
+&#x20;\
+&#x20;\
+\## ẢNH 1  \
+&#x20;\
+Lạm phát là yếu tố ảnh hưởng đến sự tăng trưởng của nền kinh tế. Dựa vào nguồn tài liệu thu thập được tại 1 doanh nghiệp dưới đây, xác định tham số a và b trong phương trình hồi qui tuyến tính khi đánh giá trình độ chặt chẽ của mối liên hệ giữa lạm phát và tăng trưởng kinh tế \
+&#x20;\
+\| Tăng trưởng kinh tế (%) | 2,55 | 2,87 | 5,05 | 6,42 | 6,69 | 6,94 | 6,99 | 7,09 | 7,36 | 7,47 | \
+\|---|---|---|---|---|---|---|---|---|---|---| \
+\| \*\*Lạm phát (%)\*\* | 0,63 | 1,84 | 2,63 | 2,66 | 2,79 | 3,15 | 3,23 | 3,25 | 3,53 | 3,54 | \
+&#x20;\
+\*(Kết quả làm tròn 3 chữ số sau dấu phẩy theo quy tắc toán học thông thường)\* \
+&#x20;\
+\--- \
+&#x20;\
+\## ẢNH 2 \
+&#x20;\
+\*\*Câu 16:\*\* \
+Chọn từ thích hợp điền vào dấu (…..) \
+Chỉ tiêu Thống kê là phạm trù biểu hiện đặc điểm về …..của tổng thể nghiên cứu trong điều kiện thời gian, không gian cụ thể. \
+\*(Chỉ chọn 1 đáp án)\* \
+\- A. Mặt lượng \
+\- B. Các đơn vị cấu thành \
+\- C. Mặt chất \
+\- D. Mặt lượng trong mối quan hệ với mặt chất \
+&#x20;\
+\*\*Câu 17:\*\* \
+Năm nay doanh nghiệp A hoàn thành vượt mức kế hoạch về chỉ tiêu giá thành là 10% và so với năm trước giá thành của doanh nghiệp hạ 10%. Số tương đối nhiệm vụ kế hoạch về giá thành của doanh nghiệp là: \
+\*( kết quả tính được làm tròn đến 2 chữ số thập phân khi tính theo % )\* \
+\*(Chỉ chọn 1 đáp án)\* \
+\- A. 115,22% \
+\- B. 100% \
+\- C. 81,82% \
+\- D. 122,22% \
+&#x20;\
+\*\*Câu 18:\*\* \
+Có tài liệu về Giá trị sản xuất (GTSX) của một doanh nghiệp như sau: \
+&#x20;\
+\| Năm | n-5 | n-4 | n-3 | n-2 | n-1 | N | \
+\|---|---|---|---|---|---|---| \
+\| GTSX (tỷ đồng) | 200 | 250 | 280 | 300 | 320 | 350 | \
+&#x20;\
+Dự báo GTSX của doanh nghiệp năm (n+2) bằng lượng tăng (giảm) tuyệt đối bình quân là: \
+\*(Chỉ chọn 1 đáp án)\* \
+\- A. 410 tỷ đồng \
+\- B. 440 tỷ đồng \
+\- C. 420 tỷ đồng \
+\- D. 430 tỷ đồng \
+&#x20;\
+\--- \
+&#x20;\
+\## ẢNH 3 \
+&#x20;\
+\*\*[Câu hỏi không thấy số câu]:\*\* \
+Chọn phương án trả lời đúng nhất. \
+Quyền số trong công thức chỉ số sau có chức năng là: \
+I_q = Σz₀q₁ / Σz₀q₀  \*[công thức trong ảnh mờ, đọc theo chữ in]\* \
+(1) Duy trì tầm quan trọng của lượng hàng hóa có giá thành khác nhau. \
+(2) Chuyển giá thành các mặt hàng khác nhau thành dạng đồng nhất là tổng giá thành để cộng được. \
+(3) Duy trì tầm quan trọng của giá thành các mặt hàng có sản lượng khác nhau. \
+(4) Chuyển lượng hàng hóa của các mặt hàng khác nhau thành dạng đồng nhất là tổng giá thành để cộng được. \
+\*(Chỉ chọn 1 đáp án)\* \
+\- A. Chỉ có 1, 2 đúng \
+\- B. Chỉ có 1, 4 đúng \
+\- C. Chỉ có 3, 4 đúng \
+\- D. Chỉ có 2, 3 đúng \
+&#x20;\
+\*\*Câu 5:\*\* \
+Chọn câu trả lời Đúng hoặc Sai? \
+Số bình quân cộng gia quyền là số bình quân được đi tính từ nghịch đảo của các lượng biến \
+\*(Chỉ chọn 1 đáp án)\* \
+\- A. Sai \
+\- B. Đúng \
+&#x20;\
+\*\*Câu 6:\*\* \
+Khi điều tra về tình trạng ô nhiễm không khí tại Hà Nội để tìm hiểu nguyên nhân, từ đó đề xuất các biện pháp khắc phục thì loại điều tra đó gọi là điều tra gì? \
+\*(Chỉ chọn 1 đáp án)\* \
+\- A. Điều tra chuyên đề \
+\- B. Cả 3 loại điều tra trên đều đúng \
+\- C. Điều tra trọng điểm \
+\- D. Điều tra chọn mẫu \
+&#x20;\
+&#x20;\
+\## ẢNH 4 & 5 (hai ảnh trùng nội dung) \
+&#x20;\
+\*[Bảng phía trên bị cắt, chỉ còn thấy một phần:]\* \
+&#x20;\
+\| n-2 |  |  |  |  |  | \
+\|---|---|---|---|---|---| \
+\| \*\*n-1\*\* |  | 90 |  |  | 8,2 | \
+\| \*\*n\*\* |  |  |  | 12 |  | \
+&#x20;\
+Giá trị tuyệt đối 1% tăng (giảm) năm (n+1) là: \
+\*( Kết quả các phép tính được làm tròn đến 3 chữ số thập phân )\* \
+\*(Chỉ chọn 1 đáp án)\* \
+\- A. 10,921 tỷ đồng \
+\- B. 10,291 tỷ đồng \
+\- C. 10, 912 tỷ đồng \
+\- D. 10,192 tỷ đồng \
+&#x20;\
+\*\*Câu 19:\*\* \
+Khi điều tra về chất lượng chè uống, người ta chọn chè Thái Nguyên để điều tra thì loại điều tra đó gọi là điều tra gì? \
+\*(Chỉ chọn 1 đáp án)\* \
+\- A. Điều tra chọn mẫu \
+\- B. Cả 3 loại điều tra trên đều đúng \
+\- C. Điều tra trọng điểm \
+\- D. Điều tra chuyên đề \
+&#x20;\
+\*\*Câu 20:\*\* \
+Từ nguồn tài liệu sau, tính toán và chọn đáp số đúng? \
+Tài liệu thống kê về giá trị sản xuất (GTSX) tại 1 doanh nghiệp qua các năm như sau: \
+\- Năm n - 6 GTSX kế hoạch là 500 tỷ đồng, thực hiện vượt mức kế hoạch 10%; \
+\- Năm n - 5: tốc độ phát triển về GTSX đạt 120% so với năm n- 6; \
+\- Năm n - 4: tốc độ tăng về GTSX so với năm n- 5 là 25%; \
+\- Năm n - 3: GTSX tăng liên hoàn là 100 tỷ đồng; \
+\- Năm n - 2: GTSX tăng định gốc là 430 tỷ đồng; \
+\- Năm n: Tốc độ phát triển liên hoàn về GTSX là 130% và giá trị sản xuất của 1% tăng là 11,5. \
+GTSX của doanh nghiệp năm (n - 3)là: \
+\*( Kết quả tính được làm tròn theo nguyên tắc toán học thông thường)\* \
+\*(Chỉ chọn 1 đáp án)\* \
+\*[Các đáp án bị cắt, không thấy trong ảnh]\*&#x20;
+
+\
+\
+\*\*Câu 1:\*\*\
+Chọn phương án trả lời đúng\
+Hệ thống chỉ số sau có thể được áp dụng trong trường hợp nào sau đây:\
+F₁/F₀ = (Σ X₁q₁ / Σ X₀q₁) · (Σ X₀q₁ / Σ X₀q₀) \*[dấu phép toán giữa hai phân số trong ảnh hiển thị mờ, dạng gạch ngang/chấm]\*\
+(1) Tổng thể nghiên cứu đồng chất nhưng không tính được chỉ tiêu bình quân và nguồn tài liệu có phân tổ\
+(2) Tổng thể nghiên cứu đồng chất và tính được chỉ tiêu bình quân.\
+(3) Tổng thể nghiên cứu không đồng chất và không tính được chỉ tiêu bình quân.\
+(4) Tổng thể nghiên cứu đồng chất nhưng không tính được chỉ tiêu bình quân và nguồn tài liệu không phân tổ.\
+(Chỉ chọn 1 đáp án)\
+\- A. Trường hợp 2 và 4\
+\- B. Trường hợp 1 và 3\
+\- C. Trường hợp 3 và 4\
+\- D. Trường hợp 1 và 2\
+\
+\---\
+\
+\*\*Câu 2:\*\*\
+Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\
+Có tài liệu về Doanh thu của một tập đoàn kinh tế như sau:\
+\
+\| Năm | n-7 | n-6 | n-5 | n-4 | n-3 | n-2 | n-1 | n |\
+\|---|---|---|---|---|---|---|---|---|\
+\| Doanh thu (tỷ đồng) | 590 | 600 | 620 | 650 | 680 | 700 | 745 | 800 |\
+\
+\*[Phần câu hỏi tiếp theo và các đáp án của Câu 2 không hiển thị trong ảnh]\*\
+\
+\---\
+\
+\*\*Câu 5:\*\*\
+Dựa vào nguồn tài liệu sau, tính toán và chọn đáp án đúng?\
+Tại doanh nghiệp X kỳ báo cáo so với kỳ gốc tổng chi phí sản xuất tăng 5%\
+tương ứng tăng mức chi phí sản xuất là 114 triệu đồng, khối lượng sản phẩm sản xuất tăng 20%.\
+Khối lượng sản phẩm khi so sánh kỳ báo cáo với kỳ gốc có sự thay đổi làm tổng chi phí sản xuất thay đổi là:\
+(Các công thức chỉ số được viết theo cách chọn quyền số thông thường)\
+(Chỉ chọn 1 đáp án)\
+\- A. Tăng 465 triệu đồng\
+\- B. Tăng 456 triệu đồng\
+\- C. Tăng 432 triệu đồng\
+\- D. Tăng 451 triệu đồng\
+\
+\---\
+\
+\*\*Câu 6:\*\*\
+Chọn câu trả lời đúng?\
+Theo tính chất của chỉ tiêu nghiên cứu, chỉ số được chia thành\
+(Chỉ chọn 1 đáp án)\
+\- A. Chỉ số tổng hợp, chỉ số bình quân\
+\- B. […chỉ tiêu số lượng, chỉ số của chỉ tiêu chất lượng] \*[chỉ thấy một phần ở mép dưới ảnh]\*\
+\*[Các đáp án C, D không hiển thị]\*\
+\
+\---\
+\
+\*\*Câu 14:\*\*\
+Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\
+Có tài liệu về Doanh thu của một tập đoàn kinh tế như sau:\
+\
+\| Năm | n-7 | n-6 | n-5 | n-4 | n-3 | n-2 | n-1 | n |\
+\|---|---|---|---|---|---|---|---|---|\
+\| Doanh thu (tỷ đồng) | 590 | 600 | 620 | 650 | 680 | 700 | 745 | 800 |\
+\
+[Giá trị biến] tự thời gian (t) vào năm n+3 khi dự báo doanh thu của tập đoàn này bằng phương pháp mô hình hồi [quy] theo thời gian với tổng t bằng 0 là:\
+(Kết quả được làm tròn đến 4 chữ số phần thập phân theo quy tắc toán học thông thường)\
+(Chỉ chọn 1 đáp án)\
+\- A. 13\
+\- B. 9\
+\- C. 10\
+\- D. 11\
+\*[Chữ cái đáp án bị cắt ở mép trái; các con số theo thứ tự từ trên xuống: 13, 9, 10, 11]\*\
+\
+\---\
+\
+\*\*Câu 15:\*\*\
+Từ nguồn tài liệu sau, tính toán và chọn đáp số đúng?\
+Có tài liệu về Doanh thu của một doanh nghiệp như sau:\
+\
+\| Năm | n-5 | n-4 | n-3 | n-2 | n-1 | n |\
+\|---|---|---|---|---|---|---|\
+\| Doanh thu (tỷ đồng) | 200 | 250 | 280 | 300 | 320 | 350 |\
+\
+Dự báo Doanh thu của doanh nghiệp năm (n+2) bằng lượng tăng (giảm) tuyệt đối bình quân là:\
+(Chỉ chọn 1 đáp án)\
+\- A. 410 tỷ đồng\
+\- B. 430 tỷ đồng\
+\- C. 440 tỷ đồng\
+\- D. 420 tỷ đồng\
+\
+\---\
+\
+\*\*Câu 17:\*\*\
+Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\
+Có tài liệu về bậc thợ và tuổi nghề của công nhân trong doanh nghiệp X như sau:\
+\
+\| Tuổi nghề (năm) | Phân tổ công nhân theo bậc thợ 1 | 2 | 3 | 4 | 5 | 6 | 7 |\
+\|---|---|---|---|---|---|---|---|\
+\| Dưới 5 | 7 | 12 | 30 | 50 | 45 | 20 | 8 |\
+\| 5 - 10 | 10 | 20 | 80 | 110 | 85 | 60 | 25 |\
+\| 10 - 25 | 8 | 6 | 85 | 95 | 70 | 65 | 15 |\
+\
+(Kết quả tính làm tròn đến số thập phân thứ 1 theo nguyên tắc toán học thông thường)\
+Bậc thợ trung bình của tất cả công nhân toàn doanh nghiệp là bao nhiêu?\
+(Chỉ chọn 1 đáp án)\
+\- A. 4,3\
+\- B. 5,4\
+\- C. 3,8\
+\- D. 4,9\
+\
+\---\
+\
+\*\*Mảnh vỡ còn thấy ở đầu ảnh 2 (đáp án của câu đứng trước Câu 14, nhiều khả năng là Câu 13):\*\*\
+\- B. Tăng 0,467%\
+\- C. Giảm 13,595%\
+\- D. Giảm 13,06 %\
+\
+\---\
+\
+\## ẢNH 1\
+\
+\*[Phần cuối của một câu hỏi chưa rõ số, kèm bảng số liệu]\*\
+\
+\| [...] cao (%) [...] | [...] với kỳ gốc |\
+\|---|---|\
+\| A | 36 | 4 |\
+\| B | 40 | 2 |\
+\| C | 24 | 5 |\
+\
+"(Biết thêm rằng, doanh thu của doanh nghiệp ở kỳ báo cáo là 180 tỷ đồng và tăng 25% so với kỳ gốc)\
+Lượng hàng hóa tiêu thụ kỳ báo cáo so với kỳ gốc có sự thay đổi là:\
+\*(Kết quả các phép tính được làm tròn đến 3 chữ số thập phân; các công thức chỉ số được viết theo cách chọn quyền số thông thường)\*\
+(Chỉ chọn 1 đáp án)\
+\- A. Tăng 29,5%\
+\- B. Tăng 25,9%\
+\- C. Giảm 3,5%\
+\- D. Giảm 4,4%"\
+\
+\*\*Câu 20:\*\*\
+"Dựa vào tài liệu sau, tính toán và chọn đáp án đúng:\
+Kế hoạch của một doanh nghiệp giai đoạn (2022-2028) phải tăng giá trị sản xuất 2,5 lần so với năm 2021.\
+Tốc độ tăng bình quân hàng năm về giá trị sản xuất của doanh nghiệp là:\
+\*(Kết quả được làm tròn đến 3 chữ số thập phân theo quy tắc toán học thông thường)\*\
+(Chỉ chọn 1 đáp án)\
+\- A. 12,7 %\
+\- B. 17,8 %\
+\- C. 19,6 %\
+\- D. 15,9 %"\
+\
+\---\
+\
+\## ẢNH 2\
+\
+\*\*Câu 6:\*\*\
+"Từ nguồn tài liệu sau, tính toán và chọn đáp số đúng?\
+Có tài liệu về Doanh thu của một doanh nghiệp như sau:\
+\
+\| Năm | n-5 | n-4 | n-3 | n-2 | n-1 | n |\
+\|---|---|---|---|---|---|---|\
+\| Doanh thu (tỷ đồng) | 200 | 250 | 280 | 300 | 320 | 350 |\
+\
+Dự báo Doanh thu của doanh nghiệp năm (n+3) bằng lượng tăng (giảm) tuyệt đối bình quân là:\
+(Chỉ chọn 1 đáp án)\
+\- A. 470 tỷ đồng\
+\- B. 450 tỷ đồng\
+\- C. 440 tỷ đồng\
+\- D. 410 tỷ đồng"\
+\
+\*\*Câu 7:\*\*\
+"Khi muốn so sánh tiền lương của công nhân 2 doanh nghiệp khác nhau nhưng cùng sản xuất một mặt hàng như nhau, người ta thường dùng chỉ tiêu nào?\
+(Chỉ chọn 1 đáp án)\
+\- A. Chỉ tiêu tương đối\
+\- B. Cả 3 chỉ tiêu trên\
+\- C. Chỉ tiêu bình quân\
+\- D. Chỉ tiêu tuyệt đối"\
+\
+\*\*Câu 8:\*\*\
+"Khi điều tra về thu nhập hộ gia đình của một thành phố, để ước tính thu nhập bình quân và phân hóa thu nhập, người ta thường chọn loại điều tra nào?\
+[... phần đáp án bị cắt khuất trong ảnh]"\
+\
+\---\
+\
+\## ẢNH 3\
+\
+\*[Các phương án của câu trước bị cắt, chỉ còn:]\*\
+\- B. 5,4\
+\- C. 3,8\
+\- D. 4,9\
+\
+\*\*Câu 18:\*\*\
+"Trong công thức:\
+∂̄ = (yₙ − y₁)/(n − 1)\
+Thì n-1 ở dưới mẫu số là gì?\
+(Chỉ chọn 1 đáp án)\
+\- A. Số các lượng tăng (giảm) tuyệt đối định gốc tham gia bình quân\
+\- B. Số tốc độ phát triển liên hoàn tham gia bình quân\
+\- C. Số các lượng tăng (giảm) tuyệt đối liên hoàn tham gia bình quân\
+\- D. Số tốc độ tăng (giảm) liên hoàn tham gia bình quân"\
+\
+\*\*Câu 19:\*\*\
+"Chọn phương án trả lời đúng nhất.\
+Theo chiều hướng của mối liên hệ thì các mối liên hệ được chia thành:\
+1/ Liên hệ tương quan thuận\
+2/Liên hệ tương quan nghịch\
+3/Liên hệ không gian\
+4/Liên hệ thời gian\
+[... phần phương án lựa chọn bị cắt khuất trong ảnh]"\
+\
+\---\
+\
+\## ẢNH 4\
+\
+\*[Phương án của câu trước bị cắt, chỉ còn:]\* "D. 0,4150 tỷ đồng"\
+\
+\*\*Câu 8:\*\*\
+"Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\
+Có tài liệu của một doanh nghiệp như sau:\
+-Tỉ trọng tài sản cố định (TSCĐ) dùng vào sản xuất trong tổng TSCĐ năm gốc đạt 75%.\
+-Năm báo cáo so với năm gốc: TSCĐ dùng trong sản xuất tăng 9,2 %; TSCĐ không dùng trong sản xuất tăng 12% và toàn bộ tài sản cố định tăng 10%.\
+Tính tỉ lệ kết cấu tài sản cố định dùng vào sản xuất năm báo cáo?\
+\*(Kết quả tính làm tròn đến số thập phân thứ 2 theo nguyên tắc toán học thông thường)\*\
+(Chỉ chọn 1 đáp án)\
+\- A. 70,31%\
+\- B. 68,23%\
+\- C. 72,27%\
+\- D. 74,45%"\
+\
+\*\*Câu 9:\*\*\
+"\<Q>Tháng 5 năm 2025 Công ty cổ phần Ruco ra mắt sản phẩm mới Salami xông khói. Doanh thu tháng [5 đạt] 2 tỷ đồng; tháng 6 doanh thu công ty giảm 15% so với tháng 5. Tháng 7 công ty quyết định chi tiền [q]uảng cáo nên doanh thu đã tăng 65% so với tháng trước. Hỏi Cứ 1% tăng doanh thu bán Salami của [c]ông ty sau quảng cáo tương ứng với bao nhiêu tiền.\
+(Chỉ chọn 1 đáp án)\
+[... phương án xem tiếp ở ảnh 5]"\
+\
+\---\
+\
+\## ẢNH 5\
+\
+\*[Các phương án của Câu 9:]\*\
+\- A. 19 triệu đồng\
+\- B. 17 triệu đồng\
+\- C. 23 triệu đồng\
+\- D. 21 triệu đồng\
+\
+\*\*Câu 10:\*\*\
+"Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\
+Có tài liệu tại doanh nghiệp X sản xuất 1 loại sản phẩm như sau:\
+\
+\| [Phân] xưởng | Kết cấu sản lượng năm N (%) | Số tương đối hoàn thành kế hoạch về sản lượng năm N (%) |\
+\|---|---|---|\
+\| A | 52 | 104 |\
+\| B | 36 | 112 |\
+\| C | 12 | 120 |\
+\
+[Bi]ết rằng: sản lượng năm N-1 của doanh nghiệp X là 600 nghìn sản phẩm và năm N là 700 nghìn sản phẩm.\
+([K]ết quả làm tròn 3 chữ số phần thập phân theo quy tắc toán học thông thường)\
+[Sả]n lượng của doanh nghiệp X năm N so với năm N-1 thay đổi là:\
+(Chỉ chọn 1 đáp án)\
+\- A. Tăng 10,6%\
+\- B. Tăng 19,3%\
+\- C. Tăng 16,7%\
+\- D. Tăng 12,4%"\
+\
+\
+\## Câu 7:\
+\*\*Từ nguồn tài liệu sau, tính toán và chọn đáp số đúng?\*\*\
+Có tài liệu dưới đây về doanh nghiệp M như sau:\
+\
+\| Chỉ tiêu | Tháng 1 | Tháng 2 | Tháng 3 | Tháng 4 |\
+\|---|---|---|---|---|\
+\| Giá trị sản xuất thực tế (tỷđồng) | 40 | 42 | 42,8 | - |\
+\| Số công nhân có ở ngày đầu tháng (người) | 300 | 304 | 304 | 308 |\
+\| Tỷ lệ hoàn thành kế hoạch về giá trị sản xuất (%) | 102 | 105 | 108 | - |\
+\
+Năng suất lao động bình quân trong quý I (NSBQ quí) là:\
+\*(Kết quả tính được làm tròn đến 4 chữ số thập phân; các công thức chỉ số được viết theo cách chọn quyền số thông thường)\*\
+\*(Chỉ chọn 1 đáp án)\*\
+\- A. 0,4102 tỷ đồng\
+\- B. 0,4105 tỷ đồng\
+\- C. 0,4106 tỷ đồng\
+\- D. 0,4150 tỷ đồng\
+\
+\---\
+\
+\## Câu 13:\
+\*\*Dựa vào nguồn tài liệu sau, tính toán và chọn đáp số đúng?\*\*\
+Tại doanh nghiệp X kỳ báo cáo so với kỳ gốc tổng chi phí sản xuất tăng 8%, lượng [chữ mờ] tăng thêm chi phí sản xuất là 1.200 triệu đồng; khối lượng sản phẩm tăng 10%.\
+Tổng chi phí sản xuất của doanh nghiệp kỳ gốc, kỳ báo cáo lần lượt là: \*(Các công thức chỉ số được viết theo cách chọn quyền số thông thường)\*\
+\*(Chỉ chọn 1 đáp án)\*\
+\- A. 18.000 trđ; 19.200 trđ\
+\- B. 12.000 trđ; 13.200 trđ\
+\- C. 20.000 trđ; 21.200 trđ\
+\- D. 15.000 trđ; 16.200 trđ\
+\
+\---\
+\
+\## Câu 14:\
+\*\*Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\*\*\
+\<Q>Có số liệu của một doanh nghiệp phản ánh số lượng sản phẩm sản xuất tác động đến giá thành đơn vị sản phẩm X tháng 10 năm 2025 như sau:\
+\
+\| Số lượng sản phẩm sản xuất (1000 sản phẩm) | Giá thành đơn vị sản phẩm X (nghìn đồng) |\
+\|---|---|\
+\| 50 | 60 |\
+\| 53 | 58 |\
+\| 60 | 55 |\
+\| 68 | 51 |\
+\| 73 | 48 |\
+\| 78 | 44 |\
+\| 84 | 40 |\
+\| 90 | 38 |\
+\
+\*(Phần câu hỏi tiếp theo bị cắt khuất trong ảnh)\*\
+\
+\---\
+\
+\## Câu 18:\
+\*\*Chọn câu trả lời đúng nhất?\*\*\
+Công thức: ∑X₀T₁ − ∑X₀T₀ phản ánh chênh lệch tuyệt đối về:\
+\*(Với X là tiền lương 1 công nhân, T là số công nhân)\*\
+\*(Chỉ chọn 1 đáp án)\*\
+\- A. Tổng quỹ lương do ảnh hưởng bởi số công nhân\
+\- B. Tổng quỹ lương do ảnh hưởng bởi Tiền lương một công nhân\
+\- C. Số công nhân\
+\- D. Tổng quỹ lương do ảnh hưởng bởi cả 2 nhân tố: Tiền lương một công nhân và số công nhân\
+\
+\---\
+\
+\## Câu 19:\
+\*\*Dựa vào nguồn tài liệu sau, tính toán và chọn đáp số đúng?\*\*\
+Tài liệu về kết quả kinh doanh của một doanh nghiệp X thu thập được như sau:\
+\
+\| Sản phẩm | Tỷ trọng về doanh thu kỳ báo cáo (%) d₁ | Tỷ lệ % giảm giá bán kỳ báo cáo so với kỳ gốc |\
+\|---|---|---|\
+\| A | 36 | 4 |\
+\| B | 40 | 2 |\
+\| C | 24 | 5 |\
+\
+\*(Biết thêm rằng, doanh thu của doanh nghiệp ở kỳ báo cáo là 180 tỷ đồng và tăng 25% so với kỳ gốc)\*\
+Lượng hàng hóa tiêu thụ kỳ báo cáo so với kỳ gốc có sự thay đổi là:\
+\*(Kết quả các phép tính được làm tròn đến 3 chữ số thập phân; các công thức chỉ số được viết theo cách chọn quyền số thông thường)\*\
+\*(Chỉ chọn 1 đáp án)\*\
+\- A. Tăng 29,5%\
+\- B. Tăng 25,9%\
+\- \*(Các đáp án C, D bị cắt khuất trong ảnh)\*\
+\
+\---\
+\
+\## Câu 20:\
+\*\*Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\*\*\
+Có tài liệu thu thập được tại một doanh nghiệp như sau:\
+\
+\| Năng suất lao động (kg/người) | Số công nhân (người) |\
+\|---|---|\
+\| Dưới 50 | 40 |\
+\| 50 - 75 | 80 |\
+\| 75 - 100 | 200 |\
+\| 100 - 110 | 350 |\
+\| 110 - 130 | 120 |\
+\| 130 - 140 | 150 |\
+\| Trên 140 | 60 |\
+\
+Số trung vị về năng suất lao động của công nhân tại doanh nghiệp trên là:\
+\*(Kết quả các phép tính làm tròn 3 chữ số phần thập phân theo quy tắc toán học thông thường)\*\
+\*(Chỉ chọn 1 đáp án)\*\
+\- A. 105,943 (kg/người)\
+\- B. 108,413 (kg/người)\
+\- C. 105,143 (kg/người)\
+\- D. 108,103 (kg/người)\
+\
+\---\
+\
+\*\*Câu 1:\*\*\
+Chọn câu trả lời đúng nhất?\
+Thống kê học chỉ nghiên cứu:\
+(Chỉ chọn 1 đáp án)\
+\- A. Các hiện tượng tự nhiên\
+\- B. Cả 3 phương án trên đều đúng\
+\- C. Các hiện tượng kỹ thuật\
+\- D. Các hiện tượng KT– XH\
+\
+\
+\*\*Câu 2:\*\*\
+Khi điều tra về năng suất thu hoạch lúa của một huyện để ước tính năng suất bình quân toàn huyện, người ta thường chọn loại điều tra nào?\
+(Chỉ chọn 1 đáp án)\
+\- A. Điều tra trọng điểm\
+\- B. Điều tra chọn mẫu\
+\- C. Điều tra chuyên đề\
+\- D. Cả 3 loại điều tra trên đều đúng\
+\
+\*\*Câu 3:\*\*\
+Khái niệm dãy số thời gian được hiểu là:\
+(Chỉ chọn 1 đáp án)\
+\- A. Dãy các trị số thống kê thu thập ngẫu nhiên không có thứ tự\
+\- B. Bảng tổng hợp nhiều chỉ tiêu thống kê khác nhau\
+\- C. Dãy các trị số phản ánh sự biến động của hiện tượng theo thời gian\
+\- D. Dãy số dùng để so sánh giữa các khu vực khác nhau\
+\
+\
+\*\*Câu 8:\*\*\
+Khi điều tra về thu nhập hộ gia đình của một thành phố, để ước tính thu nhập bình quân và phân hóa thu nhập, người ta thường chọn loại điều tra nào?\
+(Chỉ chọn 1 đáp án)\
+\- A. Điều tra chọn mẫu\
+\- B. Điều tra chuyên đề\
+\- C. Điều tra trọng điểm\
+\- D. Cả 3 loại điều tra trên đều đúng\
+\
+\
+\*\*Câu 9:\*\*\
+Điều tra về năng suất lúa tại các xã sản xuất trọng điểm, nhằm đánh giá năng suất lúa tại các vùng trọng điểm, người ta thường chọn loại điều tra nào?\
+(Chỉ chọn 1 đáp án)\
+\- A. Điều tra trọng điểm\
+\- B. Cả 3 loại điều tra trên đều đúng\
+\- C. Điều tra chọn mẫu\
+\- D. Điều tra chuyên đề\
+\
+\
+\*\*Câu 10:\*\*\
+Dựa vào nguồn tài liệu sau tính toán và lựa chọn đáp số đúng.\
+Có tài liệu về tình hình sử dụng một loại nguyên vật liệu cho sản xuất của doanh nghiệp A như sau:\
+\
+\| Tên sản phẩm | Hao phí nguyên vật liệu bình quân cho một đơn vị sản phẩm (tấn/ sản phẩm) – Kỳ gốc | Hao phí nguyên vật liệu bình quân cho một đơn vị sản phẩm (tấn/ sản phẩm) – Kỳ báo cáo | Tổng hao phí nguyên vật liệu sử dụng cho sản xuất kỳ báo cáo (tấn) |\
+\|---|---|---|---|\
+\| X | 10 | 8 | 6.000 |\
+\
+\*(Phần còn lại của bảng và các đáp án bị khuất/cắt trong ảnh)\*\
+\
+\*\*Câu 14:\*\*\
+Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\
+Có số liệu của một doanh nghiệp phản ánh số lượng sản phẩm sản xuất tác động đến giá thành đơn vị sản phẩm X tháng 10 năm 2025 như sau:\
+\
+\| Số lượng sản phẩm sản xuất (1000 sản phẩm) | Giá thành đơn vị sản phẩm X (nghìn đồng) |\
+\|---|---|\
+\| 50 | 60 |\
+\| 53 | 58 |\
+\| 60 | 55 |\
+\| 68 | 51 |\
+\| 73 | 48 |\
+\| 78 | 44 |\
+\| 84 | 40 |\
+\| 90 | 38 |\
+\
+Theo mô hình hồi quy tương quan tuyến tính đơn phản ánh mối liên hệ giữa hai tiêu thức trên, khi số lượng sản phẩm tăng lên 1000 sản phẩm thì giá thành đơn vị sản phẩm X giảm đi trung bình bao nhiêu?\
+\*(Kết quả tính làm tròn đến số thập phân thứ 3 theo nguyên tắc toán học thông thường)\*\
+(Chỉ chọn 1 đáp án)\
+\- A. 0,989 nghìn đồng\
+\- B. 1,252 nghìn đồng\
+\- C. 0,565 nghìn đồng\
+\- D. 0,232 nghìn đồng\
+\
+\*\*Câu 18:\*\*\
+Trong công thức:\
+δ̄ = (yₙ − y₁)/(n − 1)\
+Thì n-1 ở dưới mẫu số là gì?\
+(Chỉ chọn 1 đáp án)\
+\- A. Số các lượng tăng (giảm) tuyệt đối định gốc tham gia bình quân\
+\- B. Số tốc độ phát triển liên hoàn tham gia bình quân\
+\- C. Số các lượng tăng (giảm) tuyệt đối liên hoàn tham gia bình quân\
+\- D. Số tốc độ tăng (giảm) liên hoàn tham gia bình quân\
+\
+\*\*Câu 19:\*\*\
+Chọn phương án trả lời đúng nhất.\
+Theo chiều hướng của mối liên hệ thì các mối liên hệ được chia thành:\
+1/ Liên hệ tương quan thuận\
+2/ Liên hệ tương quan nghịch\
+3/ Liên hệ không gian\
+4/ Liên hệ thời gian\
+(Chỉ chọn 1 đáp án)\
+\- A. Chỉ 1 và 2\
+\- B. Chỉ 3 và 4\
+\- C. Chỉ 1 và 4\
+\- D. Chỉ 2 và 3\
+\
+\
+\## CÂU HỎI 1\
+Dựa vào nguồn tài liệu sau, tính toán và chọn đáp số đúng?\
+Có Tài liệu về tình hình tiêu thụ sản phẩm của Doanh nghiệp thương mại X trong 2 quý như sau:\
+\
+\| Tên hàng hóa | Mức tiêu thụ hàng hóa (tỷ đồng) – Quý I | Mức tiêu thụ hàng hóa (tỷ đồng) – Quý II | Tốc độ tăng (giảm) giá bán quý II so với quý I (%) |\
+\|---|---|---|---|\
+\| A | 360 | 400 | -5 |\
+\| B | 390 | 410 | -4 |\
+\
+Lượng hàng hóa tiêu thụ thay đổi khi so sánh quý II với quý I làm mức tiêu thụ hàng hóa thay đổi là:\
+\*( Kết quả các phép tính được làm tròn đến 4 chữ số thập phân )\*\
+\- A ○ Tăng 98, 3159 tỷ đồng\
+\- B ○ Tăng 98,1359 tỷ đồng\
+\- C ○ Tăng 98,9513 tỷ đồng\
+\- D ○ Tăng 98,5931 tỷ đồng\
+\
+\---\
+\
+\## CÂU HỎI 4\
+Tính toán và lựa chọn đáp án đúng\
+Có tài liệu thống kê của 2 sản phẩm của 1 doanh nghiệp như sau:\
+\
+\| Sản phẩm | Tổng giá thành sản phẩm kỳ thực hiện (nghìn đồng) | Giá thành đơn vị sản phẩm kỳ thực hiện so với kỳ kế hoạch |\
+\|---|---|---|\
+\| A | 386.420 | Hoàn thành vượt mức 10% |\
+\| B | 502.375 | Không hoàn thành kế hoạch là 5% |\
+\
+Biết rằng: Tổng giá thành thực hiện so với kế hoạch tăng 10 %.\
+\*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)\*\
+Khối lượng sản phẩm toàn doanh nghiệp biến động làm cho tổng giá thành toàn doanh nghiệp kỳ thực hiện so với kỳ kế hoạch tăng:\
+\- A ○ 99.812,49 triệu đồng\
+\- B ○ 99.912,49 triệu đồng\
+\- C ○ 99.612,49 triệu đồng\
+\- D ○ 99.712,49 triệu đồng\
+\
+\---\
+\
+\## CÂU HỎI 7\
+Tính toán và chọn phương án đúng nhất:\
+Có tài liệu thống kê về 1 doanh nghiệp (DN) sản xuất 2 loại sản phẩm như sau:\
+\
+\| Sản phẩm | Tổng giá thành sản phẩm kỳ nghiên cứu (tr. đồng) | Tốc độ tăng (giảm) giá thành đơn vị sản phẩm kỳ nghiên cứu so với kỳ gốc (%) |\
+\|---|---|---|\
+\| A | 256.520 | +12 |\
+\| B | 405.620 | -10 |\
+\
+Biết rằng: Tổng giá thành hai loại sản phẩm (SP) kỳ nghiên cứu so với kỳ gốc tăng 10%.\
+\*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)\*\
+Giá thành đơn vị sản phẩm toàn doanh nghiệp kỳ nghiên cứu so với kỳ gốc giảm:\
+\- A ○ 3,59%\
+\- B ○ 1,59%\
+\- C ○ 2,59%\
+\- D ○ 4,59%\
+\
+\---\
+\
+\## CÂU HỎI 8\
+Dựa vào tài liệu sau, tính toán và chọn đáp án đúng:\
+Có tài liệu về kết quả sản xuất sản phẩm X của Doanh nghiệp M trong năm báo cáo như sau:\
+\
+\| Phân xưởng | Số sản phẩm loại I (chiếc) | Tỷ lệ sản phẩm loại I trong tổng sản phẩm (%) |\
+\|---|---|---|\
+\| A | 125.488 | 88 |\
+\| B | 200.260 | 95 |\
+\| C | 156.793 | 91 |\
+\
+Tổng số sản phẩm X được sản xuất của doanh nghiệp M là:\
+\- A ○ 525.700 (chiếc)\
+\- B ○ 530.860 (chiếc)\
+\- C ○ 515.300 (chiếc)\
+\- D ○ 519.700 (chiếc)\
+\
+\---\
+\
+\## CÂU HỎI 11\
+Chọn câu trả lời đúng?\
+Số công nhân của một công ty ngày 1/08/2022 là 600 người. Do yêu cầu công việc, ngày 1/09/2022 tuyển thêm 30 công nhân. Tổng số công nhân của công ty trong 2 tháng là:\
+\- A ○ Không tính được\
+\- B ○ 630\
+\- C ○ 615\
+\- D ○ 600\
+\
+\---\
+\
+\## CÂU HỎI 14\
+Dựa vào nguồn tài liệu sau, tính toán và chọn đáp số đúng?\
+Có Tài liệu về tình hình tiêu thụ sản phẩm của Doanh nghiệp thương mại X trong 2 quý như sau:\
+\
+\| Tên hàng hóa | Mức tiêu thụ hàng hóa (tỷ đồng) – Quý I | Mức tiêu thụ hàng hóa (tỷ đồng) – Quý II | Tốc độ tăng (giảm) giá bán quý II so với quý I (%) |\
+\|---|---|---|---|\
+\| A | 360 | 400 | -5 |\
+\| B | 390 | 410 | -4 |\
+\
+Lượng hàng hóa tiêu thụ thay đổi khi so sánh quý II với quý I là:\
+\*( Kết quả các phép tính được làm tròn đến 4 chữ số thập phân )\*\
+\- A ○ Tăng 13,09%\
+\- B ○ Tăng 13,9%\
+\- C ○ Tăng 7%\
+\- D ○ Tăng 8%\
+\
+\---\
+\
+\## CÂU HỎI 17\
+Tính toán và chọn đáp án đúng:\
+Tại doanh nghiệp X, thực tế so với kế hoạch, tổng mức tiêu hao nguyên vật liệu M sản xuất cho sản phẩm A tăng 5% tương ứng tăng 1200 kg, mức tiêu hao nguyên vật liệu M cho 1 đơn phẩm A toàn doanh nghiệp không hoàn thành kế hoạch 10% (với khối lượng sản phẩm thực tế làm quyền số)\
+\*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)\*\
+Khối lượng sản phẩm A toàn doanh nghiệp thay đổi làm cho tổng mức tiêu hao nguyên vật liệu cho sản phẩm A kỳ thực hiện so với kỳ kế hoạch giảm:\
+\- A ○ 1.290,91kg\
+\- B ○ 1.390,91kg\
+\- C ○ 1.190,91kg\
+\- D ○ 1.090,91kg\
+\
+\---\
+\
+\## CÂU HỎI 18\
+Dựa vào nguồn tài liệu sau, tính toán và chọn đáp số đúng?\
+Có tài liệu của một hợp tác xã nông nghiệp như sau:\
+\
+\| Tên sản phẩm | Tốc độ tăng (giảm) kỳ báo cáo so với kỳ gốc (%) – Diện tích | Tốc độ tăng (giảm) kỳ báo cáo so với kỳ gốc (%) – Tổng sản lượng | Tổng sản lượng kỳ gốc (tấn) |\
+\|---|---|---|---|\
+\| - Lúa | +10 | +8 | 8.000 |\
+\| - Màu (đã được quy ra lúa) | +15 | +20 | 20.000 |\
+\
+Chỉ số chung về tổng sản lượng lúa và màu kỳ báo cáo so với kỳ gốc là:\
+\*( Kết quả các phép tính được làm tròn đến 4 chữ số thập phân )\*\
+\- A ○ 1,1675 lần\
+\- B ○ 1,1567 lần\
+\- C ○ 1,1765 lần\
+\- D ○ 1,1657 lần\
+\
+\---\
+\
+\## CÂU HỎI 20\
+Chọn câu nói đúng trong các câu sau?\
+\- A ○ Năng suất lao động của doanh nghiệp A theo kế hoạch tháng 5/2021 phải tăng 8% so với tháng 5/2021.\
+\- B ○ Giá gạo tháng 5/ 2021 ở địa phương A tăng 8% so với địa phương B.\
+\- C ○ Năng suất lao động tháng 5/ 2021 ở doanh nghiệp A hoàn thành vượt mức kế hoạch 11,25% so với tháng 4/2021\
+\- D ○ Năng suất lao động của doanh nghiệp A tháng 5/2021 bằng 108% so với tháng 4/2021.\
+\
+\---\
+\
+\## CÂU HỎI (không rõ số – phần tiêu đề bị cắt trong ảnh)\
+Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\
+Có tài liệu về tiền lương và lao động tại 1 doanh nghiệp như sau:\
+\
+\| Phân Xưởng | Mức lương 1 công nhân (triệu đồng/người) – Kỳ gốc | Mức lương 1 công nhân (triệu đồng/người) – Kỳ báo cáo | Số công nhân (người) – Kỳ gốc | Số công nhân (người) – Kỳ báo cáo |\
+\|---|---|---|---|---|\
+\| A | 10 | 11 | 40 | 80 |\
+\| B | 11,5 | 13 | 60 | 50 |\
+\
+Kết cấu công nhân có sự thay đổi giữa 2 kỳ làm cho tổng quỹ lương của doanh nghiệp thay đổi là:\
+\*(Kết quả được làm tròn 3 chữ số phần thập phân theo quy tắc toán học thông thường)\*\
+\- A ○ giảm 2,7%\
+\- B ○ giảm 3,9%\
+\- C ○ giảm 2,1%\
+\- D ○ giảm 3,4%\
+\
+\## Câu hỏi 5\
+\
+Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\
+\
+Có tài liệu thu thập được tại 1 doanh nghiệp sản xuất 1 loại sản phẩm như sau:\
+\
+\| Phân Xưởng | Thời gian hao phí sản xuất 1 đơn vị sản phẩm (giờ/cái) – Kỳ gốc | Thời gian hao phí sản xuất 1 đơn vị sản phẩm (giờ/cái) – Kỳ báo cáo | Số lượng sản phẩm sản xuất (cái) – Kỳ gốc | Số lượng sản phẩm sản xuất (cái) – Kỳ báo cáo |\
+\|---|---|---|---|---|\
+\| A | 10 | 8 | 100 | 150 |\
+\| B | 11 | 9 | 120 | 110 |\
+\
+Bản thân thời gian hao phí sản xuất 1 đơn vị sản phẩm có sự thay đổi khi so sánh kỳ báo cáo với kỳ gốc làm cho thời gian hao phí bình quân sản xuất 1 đơn vị sản phẩm thay đổi là:\
+\
+\*(Kết quả được làm tròn 3 chữ số phần thập phân theo quy tắc toán học thông thường)\*\
+\
+A. ○ giảm 5 giờ/cái\
+B. ○ giảm 4 giờ/cái\
+C. ○ giảm 2 giờ/cái\
+D. ○ giảm 3 giờ/cái\
+\
+\---\
+\
+\## Câu hỏi 6\
+\
+Chọn câu trả lời chính xác nhất?\
+\
+Khi so sánh giữa 2 mức độ của một hiện tượng kinh tế xã hội, có thể sử dụng các số tương đối nào sau đây:\
+\
+A. ○ Số tương đối động thái, cường độ, kế hoạch\
+B. ○ Số tương đối động thái, kết cấu và không gian\
+C. ○ Số tương đối động thái, không gian và kế hoạch\
+D. ○ Số tương đối kế hoạch, cường độ và kết cấu\
+\
+\---\
+\
+\## Câu hỏi 12\
+\
+Chọn đáp án đúng?\
+\
+Có tài liệu về Năng suất lao động và số công nhân của một phân xưởng như sau:\
+\
+\| NSLĐ (trđ/người) | Số CN (người) |\
+\|---|---|\
+\| 60 | 12 |\
+\| 70 | 15 |\
+\| 75 | 20 |\
+\| 80 | 20 |\
+\| 84 | 10 |\
+\
+Năng suất lao động bình quân một công nhân toàn phân xưởng là:\
+\
+\*(Kết quả tính được làm tròn đến 3 chữ số thập phân)\*\
+\
+A. ○ 74,615\
+B. ○ 74,651\
+C. ○ 74,156\
+D. ○ 74,516\
+\
+\---\
+\
+\## Câu hỏi 13\
+\
+Dựa vào nguồn tài liệu sau, tính toán và chọn đáp án đúng?\
+\
+Có Tài liệu về tình hình sản xuất mặt hàng A trong tháng 10 như sau:\
+\
+\| Chỉ tiêu | Kế hoạch | Thực tế |\
+\|---|---|---|\
+\| 1. Số công nhân (người) | 1.000 | 950 |\
+\| 2. Mức lương tháng bình quân 1 công nhân (1000đ) | 8.000 | 10.000 |\
+\
+Mức lương kỳ thực tế so với kế hoạch thay đổi? Làm cho tổng quỹ lương (TQL) thay đổi là:\
+\
+\*(Kết quả tính được làm tròn theo nguyên tắc toán học thông thường)\*\
+\
+A. ○ Mức lương tăng 20,75% làm TQL tăng 1.900.000 ngđ\
+B. ○ Mức lương tăng 18,75% làm TQL tăng 1.500.000 ngđ\
+C. ○ Mức lương tăng 25% làm TQL tăng với 1.900.000 ngđ\
+D. ○ Mức lương giảm 5% làm TQL giảm 400.000 ngđ\
+\
+
+
+\
+\---\
+\
+\### \*\*Câu hỏi 3\*\* (Hình 1)\
+\
+\*\*Dựa vào tài liệu dưới đây, tính toán và chọn đáp án đúng:\*\*\
+\
+Có tài liệu về FDI của một quốc gia như sau:\
+\
+\| Năm | n-5 | n-4 | n-3 | n-2 | n-1 | n |\
+\| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\
+\| \*\*FDI (tỷ USD)\*\* | 32 | 39 | 45 | 52 | 59 | 65 |\
+\
+FDI của quốc gia này vào năm n+2 khi dự báo bằng phương pháp mô hình hồi quy theo thời gian với điều kiện với tổng t bằng 0 ($\sum t = 0$) là:\
+\*(Kết quả được làm tròn đến phần nguyên theo quy tắc toán học thông thường)\*\
+\
+\*   A 91 tỷ USD\
+\*   B 85 tỷ USD\
+\*   C 74 tỷ USD\
+\*   D 78 tỷ USD\
+\
+\---\
+\
+\### \*\*Câu hỏi 2\*\* (Hình 1)\
+\
+\*\*Chọn phương án trả lời đúng nhất?\*\*\
+\
+Hệ thống chỉ số sau không áp dụng được trong những trường hợp nào sau đây:\
+$$ \frac{c_1}{c_0} = \frac{\sum Z_1 q_1}{\sum Z_0 q_1} \cdot \frac{\sum Z_0 q_1}{\sum Z_0 q_0} $$\
+\
+(1) Tổng thể nghiên cứu đồng chất nhưng không tính được chỉ tiêu bình quân, tài liệu có phân tổ.\
+(2) Tổng thể nghiên cứu đồng chất, tài liệu không phân tổ.\
+(3) Tổng thể nghiên cứu không đồng chất, không tính được chỉ tiêu bình quân, tài liệu có phân tổ\
+(4) Tổng thể nghiên cứu không đồng chất, tài liệu không phân tổ.\
+\
+\*   A Trường hợp 1 và 3\
+\*   B Trường hợp 2 và 3\
+\*   C Trường hợp 2 và 4\
+\*   D Trường hợp 1 và 4\
+\
+\---\
+\
+\### \*\*Câu hỏi 15\*\* (Hình 2)\
+\
+\*\*Tính toán và chọn đáp án đúng:\*\*\
+\
+\| Tuổi nghề (năm) | 1 | 2 | 3 | 4 | 5 |\
+\| :--- | :---: | :---: | :---: | :---: | :---: |\
+\| \*\*Năng suất lao động (sản phẩm)\*\* | 10 | 12 | 15 | 18 | 24 |\
+\
+Tuổi nghề là một trong những nhân tố làm ảnh hưởng đến năng suất lao động của công nhân. Bằng số liệu về tuổi nghề và năng suất lao động của công nhân trong một phân xưởng như bảng trên, phương trình hồi qui tuyến tính khi nghiên cứu mối liên hệ giữa tuổi nghề và năng suất lao động là :\
+\*(Kết quả tính được làm tròn theo quy tắc toán học thông thường)\*\
+\
+\*   A y = 5,6 + 4,3x\
+\*   B y = 5,6 + 3,4x\
+\*   C y = 6,5 + 3,4x\
+\*   D y = 6,5 + 4,3x\
+\
+\---\
+\
+\### \*\*Câu hỏi 19\*\* (Hình 3)\
+\
+\*\*Dựa vào nguồn tài liệu sau tính toán và chọn đáp số đúng.\*\*\
+\
+Có tài liệu tại doanh nghiệp công nghiệp M như bảng dưới đây:\
+\
+\| Phân xưởng | Kỳ gốc | | Kỳ báo cáo | |\
+\| :---: | :---: | :---: | :---: | :---: |\
+\| | \*\*Năng suất lao động một công nhân (trđ)\*\* | \*\*Số lượng công nhân (người)\*\* | \*\*Năng suất lao động một công nhân (trđ)\*\* | \*\*Số lượng công nhân (người)\*\* |\
+\| \*\*A\*\* | 120 | 400 | 140 | 450 |\
+\| \*\*B\*\* | 100 | 200 | 120 | 250 |\
+\
+Năng suất bình quân (NSBQ) toàn doanh nghiệp kỳ gốc, kỳ báo cáo lần lượt là:\
+\*(Kết quả các phép tính được làm tròn đến 4 chữ số thập phân)\*\
+\
+\*   A 115,3333 trđ; 123,8571 trđ\
+\*   B 117,3333 trđ; 132,5718 trđ\
+\*   C 111,3333 trđ; 132,8571 trđ\
+\*   D 113,3333 trđ; 132,8571 trđ\
+\
+\---\
+\
+\### \*\*Câu hỏi 9\*\* (Hình 4)\
+\
+\*\*Từ nguồn tài liệu sau, tính toán và chọn đáp số đúng?\*\*\
+\
+Có tài liệu dưới đây về doanh nghiệp Y như sau:\
+\
+\| Năm | Giá trị sản xuất (tỷ đồng) | Lượng tăng (giảm) TD liên hoàn (trđ) | Tốc độ phát triển liên hoàn (%) | Tốc độ tăng (giảm) liên hoàn (%) | GTTD của 1% tăng (giảm) (trđ) |\
+\| :---: | :---: | :---: | :---: | :---: | :---: |\
+\| \*\*n-4\*\* | | | | | |\
+\| \*\*n-3\*\* | | | 110 | | 7 |\
+\| \*\*n-2\*\* | | | | | |\
+\| \*\*n-1\*\* | | 90 | | | 8,2 |\
+\| \*\*n\*\* | | | | 12 | |\
+\
+Giá trị sản xuất bình quân là:\
+\*(Kết quả các phép tính được làm tròn đến 3 chữ số thập phân)\*\
+\
+\*   A 834,84 tỷ đồng\
+\*   B 834,48 tỷ đồng\
+\*   C 843,84 tỷ đồng\
+\*   D 843,48 tỷ đồng\
+\
+\---\
+\
+\### \*\*Câu hỏi 16\*\* (Hình 5)\
+\
+\*\*Tính toán và chọn đáp án đúng:\*\*\
+\
+Có tài liệu thống kê về 1 doanh nghiệp (DN) sản xuất 2 loại sản phẩm như sau:\
+\
+\| Sản phẩm | Tỷ trọng về tổng thời gian sản xuất từng sản phẩm kỳ nghiên cứu (%) | Tốc độ tăng (giảm) thời gian hao phí để sản xuất 1 đơn vị sản phẩm kỳ nghiên cứu so với kỳ gốc (%) |\
+\| :---: | :---: | :---: |\
+\| \*\*A\*\* | 45,57 | +10 |\
+\| \*\*B\*\* | 54,43 | -5 |\
+\
+\*(Đối với kết quả tính cuối cùng của chỉ số cá thể và chỉ số chung, làm tròn đến số thập phân thứ 4. Kết quả tính toán còn lại, làm tròn đến số thập phân thứ 2)\*\
+\
+Biết rằng: Tổng thời gian sản xuất 2 loại sản phẩm toàn DN kỳ nghiên cứu so với kỳ gốc tăng 8 %. Kết quả chỉ số chung về khối lượng sản phẩm toàn doanh nghiệp kỳ nghiên cứu so...\
+\
+\*   A 1,0662 lần\
+\*   B 1,0805 lần\
+\*   C 1,0505 lần\
+\*   D 1,0329 lần\
+ 
+
